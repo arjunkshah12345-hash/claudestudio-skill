@@ -1,0 +1,451 @@
+{
+ "url": "https://boss-halo-store.dogstudio.co/",
+ "slug": "boss-halo-store-dogstudio-co",
+ "analyzedAt": "2026-10-07T09:59:00.402Z",
+ "scrollHeight": 900,
+ "pageLengthInViewports": 1,
+ "title": "BOSS Dubai Immersive Experience",
+ "metaDescription": "To celebrate the reopening of our BOSS Dubai Store, we invite all BOSS fans to join our exciting digital portal experience. Get ready to dive into a captivating 360-degree panorama of the stunning AURA Skypool, and discover our must-have hero pieces from the exclusive Dubai capsule collection.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "AvertaPE 400 normal",
+   "AvertaPE 700 normal",
+   "AvertaPE 800 normal"
+  ],
+  "families": [
+   [
+    "AvertaPE",
+    7
+   ]
+  ],
+  "sizes": [
+   [
+    "11px",
+    4
+   ],
+   [
+    "50px",
+    2
+   ],
+   [
+    "13px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "700",
+    4
+   ],
+   [
+    "800",
+    2
+   ],
+   [
+    "400",
+    1
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "0.160em@11",
+    4
+   ],
+   [
+    "-0.030em@50",
+    2
+   ],
+   [
+    "normal",
+    1
+   ]
+  ],
+  "uppercaseShare": 0.86,
+  "largest": [
+   {
+    "tag": "p",
+    "text": "AURA SKYPOOL DUBAI",
+    "family": "AvertaPE",
+    "size": "50px",
+    "weight": "800",
+    "lh": "45px",
+    "ls": "-1.5px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "p",
+    "text": "CAPSULE COLLECTION",
+    "family": "AvertaPE",
+    "size": "50px",
+    "weight": "800",
+    "lh": "45px",
+    "ls": "-1.5px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "p",
+    "text": "Are you living in Dubai?",
+    "family": "AvertaPE",
+    "size": "13px",
+    "weight": "400",
+    "lh": "21px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "CLICK TO ENTER",
+    "family": "AvertaPE",
+    "size": "11px",
+    "weight": "700",
+    "lh": "11px",
+    "ls": "1.76px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "YES",
+    "family": "AvertaPE",
+    "size": "11px",
+    "weight": "700",
+    "lh": "11px",
+    "ls": "1.76px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "NO",
+    "family": "AvertaPE",
+    "size": "11px",
+    "weight": "700",
+    "lh": "11px",
+    "ls": "1.76px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgba(0, 0, 0, 0)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(255, 255, 255)",
+    7
+   ]
+  ],
+  "backgrounds": [],
+  "gradients": [
+   [
+    "linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, rgb(255, 255, 255) 115%)",
+    5
+   ],
+   [
+    "linear-gradient(-90deg, rgba(255, 255, 255, 0) 0%, rgb(255, 255, 255) 115%)",
+    5
+   ],
+   [
+    "linear-gradient(207deg, rgb(209, 189, 161) 0%, rgb(255, 251, 244) 119.09%)",
+    1
+   ],
+   [
+    "radial-gradient(circle, rgb(255, 238, 214) 0%, rgb(217, 195, 174) 100%)",
+    1
+   ],
+   [
+    "linear-gradient(90deg, rgba(133, 112, 94, 0) 0%, rgb(133, 112, 94) 115%)",
+    1
+   ],
+   [
+    "linear-gradient(-90deg, rgba(133, 112, 94, 0) 0%, rgb(133, 112, 94) 115%)",
+    1
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.25,0.46,0.45,0.94)",
+    48
+   ],
+   [
+    "cubic-bezier(0.165,0.84,0.44,1)",
+    18
+   ],
+   [
+    "cubic-bezier(0.77,0,0.175,1)",
+    5
+   ],
+   [
+    "cubic-bezier(0.19,1,0.22,1)",
+    1
+   ],
+   [
+    "cubic-bezier(0.455,0.03,0.515,0.955)",
+    1
+   ]
+  ],
+  "durations": [
+   [
+    "0.3s",
+    39
+   ],
+   [
+    "0.6s",
+    16
+   ],
+   [
+    "0.4s",
+    12
+   ],
+   [
+    "1s",
+    5
+   ],
+   [
+    "1.6s",
+    1
+   ],
+   [
+    "0.8s",
+    1
+   ],
+   [
+    "0.9s",
+    1
+   ]
+  ],
+  "keyframes": [
+   "u3xaxa1",
+   "u3xax9x",
+   "u3xaxau"
+  ]
+ },
+ "cssVarSample": {
+  "--real-height": "100vh",
+  "--header-height": "78px"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 1,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 5,
+  "video": 0,
+  "svg": 12,
+  "picture": 0,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 0,
+  "clipPath": 0,
+  "sticky": 0,
+  "fixed": [
+   "site-canvas"
+  ],
+  "customCursor": false,
+  "boxShadows": [],
+  "filters": [],
+  "transforms3d": 0,
+  "noiseOrGrain": true,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [],
+ "borders": [],
+ "grids": [],
+ "containers": [
+  [
+   "1440px",
+   1
+  ]
+ ],
+ "sideMargins": [
+  [
+   "169px",
+   1
+  ],
+  [
+   "910px",
+   1
+  ],
+  [
+   "629px",
+   1
+  ]
+ ],
+ "sections": [],
+ "nav": {
+  "tag": "HEADER",
+  "position": "absolute",
+  "height": 0,
+  "links": 2,
+  "linkTexts": [
+   "Back",
+   "Menu",
+   "Halo Portal",
+   "Capsule Collection",
+   "Aura Skypool Dubai",
+   "Hugo Boss",
+   "Legal & Privacy",
+   "Contact Us"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [],
+ "headings": [
+  "Main navigation",
+  "Legal navigation"
+ ],
+ "paras": [
+  "HUGO BOSS 2023. All rights reserved.",
+  "A seamless blend of lightweight comfort with a rugged durability to conquer the desert terrain.",
+  "Authentically styled and elegantly cut to a straight fit with a buckled belt and signature lining.",
+  "Luxury linen wide-leg utility trousers for stylish versatility.",
+  "Cut to a relaxed fit from a breathable cotton linen blend - perfect for both comfort and sophistication.",
+  "A relaxed fit, luxury single jersey with soft-touch short sleeves for an elevated look.",
+  "The world’s highest 360-degree infinity pool offering incredible views of the iconic Dubai skyline.",
+  "Win exclusive access to a BOSS event",
+  "Unfortunately the raffle period has now ended. Join our HUGO BOSS Experience program to ensure you don't miss out on future events and exclusive benefits.",
+  "Enter your details to join the raffle. If you use your registered HUGO BOSS Experience Program email address, your chance to win will be tripled."
+ ],
+ "footer": {
+  "h": 0,
+  "text": "Terms & Conditions apply."
+ },
+ "jsMotion": {
+  "scriptsFetched": 3,
+  "gsapEases": [
+   [
+    "power3.inOut",
+    18
+   ],
+   [
+    "power2.inOut",
+    7
+   ],
+   [
+    "power4.inOut",
+    2
+   ],
+   [
+    "power3.out",
+    2
+   ],
+   [
+    "power2.out",
+    2
+   ],
+   [
+    "none",
+    1
+   ],
+   [
+    "power3.in",
+    1
+   ],
+   [
+    "linear",
+    1
+   ],
+   [
+    "expo.out",
+    1
+   ]
+  ],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "1.5",
+    13
+   ],
+   [
+    "1",
+    6
+   ],
+   [
+    "2",
+    5
+   ],
+   [
+    ".5",
+    5
+   ],
+   [
+    ".6",
+    2
+   ],
+   [
+    "3.2",
+    2
+   ],
+   [
+    "0",
+    1
+   ],
+   [
+    ".75",
+    1
+   ],
+   [
+    "1.1",
+    1
+   ],
+   [
+    "1.9",
+    1
+   ]
+  ],
+  "staggers": [
+   [
+    "0",
+    2
+   ],
+   [
+    ".03",
+    1
+   ]
+  ],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

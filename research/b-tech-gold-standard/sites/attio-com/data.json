@@ -1,0 +1,1180 @@
+{
+ "url": "https://attio.com",
+ "slug": "attio-com",
+ "analyzedAt": "2026-10-07T05:14:23.516Z",
+ "scrollHeight": 17599,
+ "pageLengthInViewports": 19.6,
+ "title": "Attio: The CRM for agentic revenue",
+ "metaDescription": "The system for revenue teams to build pipeline, accelerate deals, and grow accounts around the clock.\t",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "JetBrains Mono 100 800 normal",
+   "JetBrains Mono Fallback normal normal",
+   "inter 400 normal",
+   "inter 500 normal",
+   "inter 600 normal",
+   "inter Fallback normal normal",
+   "interDisplay 500 normal",
+   "interDisplay 600 normal",
+   "tiemposText 400 normal"
+  ],
+  "families": [
+   [
+    "inter",
+    457
+   ],
+   [
+    "interDisplay",
+    40
+   ],
+   [
+    "JetBrains Mono",
+    16
+   ],
+   [
+    "tiemposText",
+    15
+   ]
+  ],
+  "sizes": [
+   [
+    "14px",
+    241
+   ],
+   [
+    "12px",
+    88
+   ],
+   [
+    "10px",
+    32
+   ],
+   [
+    "15px",
+    29
+   ],
+   [
+    "16px",
+    24
+   ],
+   [
+    "18px",
+    19
+   ],
+   [
+    "13px",
+    17
+   ],
+   [
+    "11px",
+    15
+   ],
+   [
+    "40px",
+    15
+   ],
+   [
+    "48px",
+    15
+   ],
+   [
+    "24px",
+    12
+   ],
+   [
+    "9px",
+    11
+   ],
+   [
+    "32px",
+    6
+   ],
+   [
+    "8px",
+    1
+   ],
+   [
+    "6px",
+    1
+   ],
+   [
+    "96px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "500",
+    440
+   ],
+   [
+    "400",
+    57
+   ],
+   [
+    "600",
+    24
+   ],
+   [
+    "300",
+    7
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "-0.010em@14",
+    150
+   ],
+   [
+    "-0.013em@12",
+    56
+   ],
+   [
+    "-0.005em@14",
+    54
+   ],
+   [
+    "-0.020em@14",
+    34
+   ],
+   [
+    "normal",
+    33
+   ],
+   [
+    "-0.016em@10",
+    29
+   ],
+   [
+    "-0.010em@16",
+    24
+   ],
+   [
+    "-0.010em@15",
+    21
+   ],
+   [
+    "-0.015em@11",
+    15
+   ],
+   [
+    "-0.010em@40",
+    15
+   ],
+   [
+    "-0.015em@48",
+    15
+   ],
+   [
+    "-0.010em@18",
+    13
+   ],
+   [
+    "-0.010em@24",
+    12
+   ],
+   [
+    "-0.010em@13",
+    12
+   ],
+   [
+    "-0.018em@9",
+    11
+   ]
+  ],
+  "uppercaseShare": 0,
+  "largest": [
+   {
+    "tag": "h2",
+    "text": "Universal Context™",
+    "family": "interDisplay",
+    "size": "96px",
+    "weight": "600",
+    "lh": "96px",
+    "ls": "-2.304px",
+    "tt": "none",
+    "style": "normal",
+    "color": "lab(98.2947 0.128329 -0.513124)"
+   },
+   {
+    "tag": "h2",
+    "text": "Agentic revenue runs on Attio.",
+    "family": "interDisplay",
+    "size": "56px",
+    "weight": "500",
+    "lh": "56px",
+    "ls": "-0.84px",
+    "tt": "none",
+    "style": "normal",
+    "color": "lab(99.9987 0.0337958 0.000309944)"
+   },
+   {
+    "tag": "span",
+    "text": "“When",
+    "family": "tiemposText",
+    "size": "48px",
+    "weight": "400",
+    "lh": "52px",
+    "ls": "-0.72px",
+    "tt": "none",
+    "style": "normal",
+    "color": "lab(10.7201 -0.0959039 -1.54182)"
+   },
+   {
+    "tag": "span",
+    "text": "first",
+    "family": "tiemposText",
+    "size": "48px",
+    "weight": "400",
+    "lh": "52px",
+    "ls": "-0.72px",
+    "tt": "none",
+    "style": "normal",
+    "color": "lab(10.7201 -0.0959039 -1.54182)"
+   },
+   {
+    "tag": "span",
+    "text": "opened",
+    "family": "tiemposText",
+    "size": "48px",
+    "weight": "400",
+    "lh": "52px",
+    "ls": "-0.72px",
+    "tt": "none",
+    "style": "normal",
+    "color": "lab(10.7201 -0.0959039 -1.54182)"
+   },
+   {
+    "tag": "span",
+    "text": "Attio,",
+    "family": "tiemposText",
+    "size": "48px",
+    "weight": "400",
+    "lh": "52px",
+    "ls": "-0.72px",
+    "tt": "none",
+    "style": "normal",
+    "color": "lab(10.7201 -0.0959039 -1.54182)"
+   },
+   {
+    "tag": "span",
+    "text": "instantly",
+    "family": "tiemposText",
+    "size": "48px",
+    "weight": "400",
+    "lh": "52px",
+    "ls": "-0.72px",
+    "tt": "none",
+    "style": "normal",
+    "color": "lab(10.7201 -0.0959039 -1.54182)"
+   },
+   {
+    "tag": "span",
+    "text": "got",
+    "family": "tiemposText",
+    "size": "48px",
+    "weight": "400",
+    "lh": "52px",
+    "ls": "-0.72px",
+    "tt": "none",
+    "style": "normal",
+    "color": "lab(10.7201 -0.0959039 -1.54182)"
+   },
+   {
+    "tag": "span",
+    "text": "the",
+    "family": "tiemposText",
+    "size": "48px",
+    "weight": "400",
+    "lh": "52px",
+    "ls": "-0.72px",
+    "tt": "none",
+    "style": "normal",
+    "color": "lab(10.7201 -0.0959039 -1.54182)"
+   },
+   {
+    "tag": "span",
+    "text": "feeling",
+    "family": "tiemposText",
+    "size": "48px",
+    "weight": "400",
+    "lh": "52px",
+    "ls": "-0.72px",
+    "tt": "none",
+    "style": "normal",
+    "color": "lab(10.7201 -0.0959039 -1.54182)"
+   },
+   {
+    "tag": "span",
+    "text": "this",
+    "family": "tiemposText",
+    "size": "48px",
+    "weight": "400",
+    "lh": "52px",
+    "ls": "-0.72px",
+    "tt": "none",
+    "style": "normal",
+    "color": "lab(10.7201 -0.0959039 -1.54182)"
+   },
+   {
+    "tag": "span",
+    "text": "was",
+    "family": "tiemposText",
+    "size": "48px",
+    "weight": "400",
+    "lh": "52px",
+    "ls": "-0.72px",
+    "tt": "none",
+    "style": "normal",
+    "color": "lab(10.7201 -0.0959039 -1.54182)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "lab(99.9987 0.0337958 0.000309944)",
+  "htmlBg": "lab(4.67701 0 0)",
+  "text": [
+   [
+    "lab(10.7201 -0.0959039 -1.54182)",
+    97
+   ],
+   [
+    "rgb(36, 38, 41)",
+    77
+   ],
+   [
+    "lab(76.2541 -1.09726 -7.09252)",
+    37
+   ],
+   [
+    "rgb(16, 17, 18)",
+    36
+   ],
+   [
+    "lab(37.426 -1.09151 -9.33263)",
+    35
+   ],
+   [
+    "lab(50.3787 -1.31875 -9.56043)",
+    31
+   ],
+   [
+    "rgba(0, 0, 0, 0.55)",
+    28
+   ],
+   [
+    "rgb(117, 119, 124)",
+    27
+   ],
+   [
+    "lab(62.775 -1.33127 -9.18812)",
+    25
+   ],
+   [
+    "rgb(0, 125, 83)",
+    16
+   ]
+  ],
+  "backgrounds": [
+   [
+    "lab(99.9987 0.0337958 0.000309944)",
+    100
+   ],
+   [
+    "rgb(38, 109, 240)",
+    21
+   ],
+   [
+    "lab(98.2947 0.128329 -0.513124)",
+    19
+   ],
+   [
+    "lab(4.67701 0 0)",
+    18
+   ],
+   [
+    "rgb(224, 252, 237)",
+    17
+   ],
+   [
+    "lab(14.599 -0.159428 -2.99254)",
+    14
+   ],
+   [
+    "lab(96.1596 -0.0828803 -1.13571)",
+    13
+   ],
+   [
+    "lab(61.966 63.1275 36.9452)",
+    8
+   ],
+   [
+    "rgb(155, 105, 255)",
+    8
+   ],
+   [
+    "lab(69.4503 -54.6161 23.889)",
+    6
+   ],
+   [
+    "lab(94.5144 -0.645697 -8.23606)",
+    6
+   ],
+   [
+    "rgb(236, 236, 237)",
+    6
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(lab(76.2541 -1.09726 -7.09252), lab(76.2541 -1.09726 -7.09252))",
+    35
+   ],
+   [
+    "linear-gradient(-30.12deg, rgb(28, 29, 31) 25.6%, rgb(46, 50, 56) 163%)",
+    30
+   ],
+   [
+    "linear-gradient(rgba(0, 0, 0, 0), lab(70.311 -1.30147 -7.86561) 50%, rgba(0, 0, 0, 0))",
+    29
+   ],
+   [
+    "radial-gradient(at 50% -10%, lab(12.7212 0.103362 -2.22102) 0%, lab(12.7212 0.103362 -2.22102) 100%)",
+    6
+   ],
+   [
+    "linear-gradient(rgba(0, 0, 0, 0), rgba(255, 255, 255, 0.5) 50%, rgba(0, 0, 0, 0))",
+    6
+   ],
+   [
+    "linear-gradient(rgba(0, 0, 0, 0), rgb(138, 147, 161) 50%, rgba(0, 0, 0, 0))",
+    6
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0,0,0,1)",
+    10
+   ],
+   [
+    "cubic-bezier(.65,0,.35,1)",
+    10
+   ],
+   [
+    "cubic-bezier(0.37,0,0.63,1)",
+    6
+   ],
+   [
+    "cubic-bezier(0.22,1,0.36,1)",
+    5
+   ],
+   [
+    "cubic-bezier(.2,0,0,1)",
+    4
+   ],
+   [
+    "cubic-bezier(0.32,0.72,0,1)",
+    4
+   ],
+   [
+    "cubic-bezier(.4,0,.6,1)",
+    2
+   ],
+   [
+    "cubic-bezier(.4,0,.2,1)",
+    2
+   ],
+   [
+    "cubic-bezier(.42,0,.58,1)",
+    2
+   ],
+   [
+    "cubic-bezier(.3,0,1,1)",
+    2
+   ],
+   [
+    "cubic-bezier(0,0,.58,1)",
+    2
+   ],
+   [
+    "cubic-bezier(.32,0,.67,0)",
+    2
+   ]
+  ],
+  "durations": [
+   [
+    "0s",
+    48
+   ],
+   [
+    "0.3s",
+    24
+   ],
+   [
+    ".15s",
+    21
+   ],
+   [
+    "0.5s",
+    16
+   ],
+   [
+    "0.15s",
+    16
+   ],
+   [
+    "50ms",
+    14
+   ],
+   [
+    "0.2s",
+    10
+   ],
+   [
+    "0.1s",
+    9
+   ],
+   [
+    "0.4s",
+    8
+   ],
+   [
+    "0.25s",
+    8
+   ]
+  ],
+  "keyframes": [
+   "ai-hero-box-gradient-spin",
+   "pricing-cards-grid-line-appear",
+   "custom-agents-border-draw",
+   "custom-agents-port-complete",
+   "custom-agents-status-start",
+   "custom-agents-status-finish",
+   "custom-agents-completed-exit",
+   "card-module__xLmF0q__skeleton-shimmer",
+   "shelf-hero-for-mcp-module__lRYFwa__logo-in",
+   "rotate",
+   "connection",
+   "running",
+   "completed",
+   "reporting-radar-arm",
+   "reporting-radar-fade-in",
+   "reporting-radar-ring-pulse",
+   "reporting-radar-dot",
+   "reporting-dot-variation",
+   "reporting-radar-enter",
+   "reporting-radar-open"
+  ]
+ },
+ "cssVarSample": {
+  "--button-outline-bg": "var(--color-white-100)",
+  "--button-outline-border": "var(--color-white-800)",
+  "--button-outline-text": "var(--color-black-400)",
+  "--button-outline-bg-hover": "var(--color-white-100)",
+  "--button-outline-border-hover": "var(--color-black-700)",
+  "--button-outline-text-hover": "var(--color-black-400)",
+  "--button-outline-bg-focus": "var(--color-white-100)",
+  "--button-outline-border-focus": "var(--color-black-700)",
+  "--button-outline-text-focus": "var(--color-black-400)",
+  "--button-outline-bg-active": "var(--color-white-300)",
+  "--button-outline-border-active": "var(--color-black-500)",
+  "--button-outline-text-active": "var(--color-black-300)",
+  "--button-outline-bg-disabled": "var(--color-white-100)",
+  "--button-outline-border-disabled": "var(--color-white-500)",
+  "--button-outline-text-disabled-foreground": "var(--color-white-800)",
+  "--button-ghost-bg": "transparent",
+  "--button-ghost-text": "var(--color-black-400)",
+  "--button-ghost-bg-hover": "var(--color-white-300)",
+  "--button-ghost-text-hover": "var(--color-black-300)",
+  "--button-ghost-bg-focus": "var(--color-white-300)",
+  "--button-ghost-text-focus": "var(--color-black-300)",
+  "--button-ghost-bg-active": "var(--color-white-400)",
+  "--button-ghost-text-active": "var(--color-black-200)",
+  "--button-ghost-bg-disabled": "transparent",
+  "--button-ghost-text-disabled-foreground": "var(--color-white-900)",
+  "--mobile-nav-drawer-overlay-z-index": "90",
+  "--mobile-nav-drawer-content-z-index": "91",
+  "--site-header-z-index": "92",
+  "--navigation-menu-z-index": "93",
+  "--dialog-overlay-z-index": "100",
+  "--dialog-content-z-index": "101",
+  "--context-menu-portal-z-index": "200",
+  "--context-menu-positioner-z-index": "201",
+  "--context-menu-popup-z-index": "202",
+  "--style-overlay-z-index": "999",
+  "--site-header-height": "calc(var(--site-header-polaris-toolbar-height) + var(--site-header-nav-height) +",
+  "--site-header-nav-height": "52px",
+  "--site-header-banner-hidden-height": "0px",
+  "--site-header-banner-visible-height": "48px",
+  "--site-header-banner-height": "var(--site-header-banner-hidden-height)",
+  "--site-header-polaris-toolbar-hidden-height": "0px",
+  "--site-header-polaris-toolbar-visible-height": "36px",
+  "--site-header-polaris-toolbar-height": "var(--site-header-polaris-toolbar-hidden-height)",
+  "--site-header-subheader-desktop-height": "0px",
+  "--site-header-subheader-mobile-hidden-height": "0px",
+  "--site-header-subheader-mobile-visible-height": "63px",
+  "--site-header-subheader-mobile-height": "var(--site-header-subheader-mobile-hidden-height)",
+  "--site-header-subheader-height": "var(--site-header-subheader-desktop-height)",
+  "--color-page-background": "var(--color-primary-background)",
+  "--color-banner-background": "var(--color-black-0)",
+  "--color-overscroll-top": "var(--color-page-background)",
+  "--color-overscroll-bottom": "var(--color-black-50)"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 2,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": true,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 70,
+  "video": 0,
+  "svg": 424,
+  "picture": 0,
+  "iframes": 4
+ },
+ "effects": {
+  "mixBlend": [
+   [
+    "screen",
+    39
+   ],
+   [
+    "multiply",
+    1
+   ]
+  ],
+  "backdropFilter": 9,
+  "clipPath": 11,
+  "sticky": 6,
+  "fixed": [
+   "pointer-events-none fixed right-4 bottom-4 left-4 z-(--dialo",
+   "intercom-lightweight-app-launcher intercom-launcher"
+  ],
+  "customCursor": true,
+  "boxShadows": [
+   [
+    "rgba(255, 255, 255, 0.1) 0.2px 0.2px 2px 0px inset, rgba(0, 0, 0, 0.25) 0px 1.5px 1.5px 0px",
+    30
+   ],
+   [
+    "rgba(0, 0, 0, 0.04) 0px 1px 3px 0px, rgba(28, 40, 64, 0.18) 0px 0px 2px 0px",
+    13
+   ],
+   [
+    "rgba(0, 22, 62, 0.01) 0px 0px 1px 1px, rgba(0, 22, 62, 0.04) 0px 4px 12px -1px, rgba(0, 22, 62, 0.18) 0px 1px 3px -1px",
+    13
+   ],
+   [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, lab(99.9987 0.0337958 0.000309944) 0px 0px 0px 0.5px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+    7
+   ],
+   [
+    "rgb(224, 224, 224) 0px 0px 2px 0px, rgba(24, 39, 75, 0.02) 0px 2px 4px -2px, rgba(24, 39, 75, 0.06) 0px 4px 4px -2px",
+    5
+   ]
+  ],
+  "filters": [
+   [
+    "blur(0px)",
+    69
+   ],
+   [
+    "blur(0px) drop-shadow(rgba(38, 109, 240, 0) 0px 0px 0px)",
+    27
+   ],
+   [
+    "blur(2px)",
+    2
+   ],
+   [
+    "blur(2.5px)",
+    1
+   ],
+   [
+    "drop-shadow(rgba(28, 40, 64, 0.12) 0px 8px 20px)",
+    1
+   ]
+  ],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 39,
+  "backgroundClipText": 1
+ },
+ "radii": [
+  [
+   "3.35544e+07px",
+   92
+  ],
+  [
+   "8px",
+   65
+  ],
+  [
+   "12px",
+   39
+  ],
+  [
+   "10px",
+   24
+  ],
+  [
+   "7px",
+   19
+  ],
+  [
+   "5px",
+   15
+  ],
+  [
+   "6px",
+   9
+  ],
+  [
+   "15px",
+   6
+  ]
+ ],
+ "borders": [
+  [
+   "bottom:1px solid rgb(238, 239, 241)",
+   40
+  ],
+  [
+   "1px solid rgba(0, 0, 0, 0.05)",
+   31
+  ],
+  [
+   "1px solid rgba(0, 0, 0, 0.06)",
+   20
+  ],
+  [
+   "1px solid rgb(230, 231, 234)",
+   17
+  ],
+  [
+   "1px solid rgb(203, 247, 225)",
+   17
+  ],
+  [
+   "1px solid rgb(238, 239, 241)",
+   16
+  ]
+ ],
+ "grids": [
+  [
+   "1cols gap normal",
+   34
+  ],
+  [
+   "2cols gap normal",
+   11
+  ],
+  [
+   "24cols gap normal",
+   10
+  ],
+  [
+   "12cols gap normal",
+   6
+  ],
+  [
+   "5cols gap 1px",
+   1
+  ],
+  [
+   "3cols gap 1px",
+   1
+  ],
+  [
+   "8cols gap normal",
+   1
+  ],
+  [
+   "2cols gap 1px",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "1440px",
+   22
+  ],
+  [
+   "100%",
+   2
+  ],
+  [
+   "896px",
+   1
+  ],
+  [
+   "926px",
+   1
+  ],
+  [
+   "864px",
+   1
+  ],
+  [
+   "880px",
+   1
+  ]
+ ],
+ "sideMargins": [
+  [
+   "83px",
+   12
+  ],
+  [
+   "1166px",
+   7
+  ],
+  [
+   "85px",
+   7
+  ],
+  [
+   "82px",
+   6
+  ],
+  [
+   "430px",
+   5
+  ],
+  [
+   "86px",
+   4
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "border-subtle-stroke border-b bg-primary-backgroun",
+   "h": 1207,
+   "padTop": "0px",
+   "bg": "lab(99.9987 0.0337958 0.000309944)"
+  },
+  {
+   "cls": "bg-(--customer-logos-background) border-subtle-str",
+   "h": 194,
+   "padTop": "0px",
+   "bg": "lab(98.2947 0.128329 -0.513124)"
+  },
+  {
+   "cls": "bg-secondary-background",
+   "h": 6479,
+   "padTop": "0px",
+   "bg": "lab(98.2947 0.128329 -0.513124)"
+  },
+  {
+   "cls": "relative isolate bg-secondary-background",
+   "h": 1097,
+   "padTop": "0px",
+   "bg": "lab(98.2947 0.128329 -0.513124)"
+  },
+  {
+   "cls": "relative isolate",
+   "h": 4517,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "dark bg-primary-background text-primary-foreground",
+   "h": 2573,
+   "padTop": "0px",
+   "bg": "lab(4.67701 0 0)"
+  },
+  {
+   "cls": "relative z-10 overflow-hidden px-6 pb-18 text-cent",
+   "h": 668,
+   "padTop": "152px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "dark bg-primary-background text-primary-foreground",
+   "h": 593,
+   "padTop": "0px",
+   "bg": "lab(4.67701 0 0)"
+  },
+  {
+   "cls": "relative z-0 -mt-[100svh] flex flex-col bg-primary",
+   "h": 2250,
+   "padTop": "0px",
+   "bg": "lab(99.9987 0.0337958 0.000309944)"
+  },
+  {
+   "cls": "relative overflow-hidden bg-primary-background",
+   "h": 760,
+   "padTop": "0px",
+   "bg": "lab(99.9987 0.0337958 0.000309944)"
+  },
+  {
+   "cls": "border-subtle-stroke border-t bg-primary-backgroun",
+   "h": 937,
+   "padTop": "0px",
+   "bg": "lab(99.9987 0.0337958 0.000309944)"
+  },
+  {
+   "cls": "bg-primary-background max-lg:hidden",
+   "h": 128,
+   "padTop": "0px",
+   "bg": "lab(99.9987 0.0337958 0.000309944)"
+  },
+  {
+   "cls": "bg-primary-background",
+   "h": 930,
+   "padTop": "0px",
+   "bg": "lab(99.9987 0.0337958 0.000309944)"
+  },
+  {
+   "cls": "bg-primary-background max-lg:hidden",
+   "h": 128,
+   "padTop": "0px",
+   "bg": "lab(99.9987 0.0337958 0.000309944)"
+  },
+  {
+   "cls": "dark relative overflow-hidden border-subtle-stroke",
+   "h": 417,
+   "padTop": "0px",
+   "bg": "lab(4.67701 0 0)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "static",
+  "height": 116,
+  "links": 38,
+  "linkTexts": [
+   "Orchestrate revenue agents with Workflows",
+   "Platform",
+   "Resources",
+   "Developers",
+   "Customers",
+   "Pricing",
+   "Universal ContextThe AI context layer",
+   "Data ModelSync and structure your data",
+   "EnrichmentAuto-enrich every record",
+   "Call IntelligenceRecord and analyze meetings",
+   "Reporting & ForecastsInsights in real time",
+   "Ask AttioAnalyze and create with AI",
+   "WorkflowsOrchestrate any revenue motion",
+   "Custom AgentsAgents ready for any task"
+  ],
+  "bg": "lab(4.67701 0 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "Platform",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "lab(91.5182 -0.365466 -2.84777)",
+   "radius": "10px",
+   "pad": "0px 8px 0px 12px",
+   "size": "15px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 36
+  },
+  {
+   "text": "Resources",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "lab(91.5182 -0.365466 -2.84777)",
+   "radius": "10px",
+   "pad": "0px 8px 0px 12px",
+   "size": "15px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 36
+  },
+  {
+   "text": "Developers",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "lab(91.5182 -0.365466 -2.84777)",
+   "radius": "10px",
+   "pad": "0px 12px",
+   "size": "15px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 36
+  },
+  {
+   "text": "Customers",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "lab(91.5182 -0.365466 -2.84777)",
+   "radius": "10px",
+   "pad": "0px 12px",
+   "size": "15px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 36
+  },
+  {
+   "text": "Pricing",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "lab(91.5182 -0.365466 -2.84777)",
+   "radius": "10px",
+   "pad": "0px 12px",
+   "size": "15px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 36
+  },
+  {
+   "text": "Sign in",
+   "bg": "lab(4.67701 0 0)",
+   "color": "lab(94.3726 -0.157326 -2.23036)",
+   "radius": "10px",
+   "pad": "0px 12px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid lab(20.5697 -0.638425 -4.44436)",
+   "h": 36
+  },
+  {
+   "text": "Start for free",
+   "bg": "lab(20.5697 -0.638425 -4.44436)",
+   "color": "lab(94.3726 -0.157326 -2.23036)",
+   "radius": "10px",
+   "pad": "0px 12px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid rgba(80, 89, 103, 0.5)",
+   "h": 36
+  },
+  {
+   "text": "Start for free",
+   "bg": "lab(99.9987 0.0337958 0.000309944)",
+   "color": "lab(20.5697 -0.638425 -4.44436)",
+   "radius": "10px",
+   "pad": "0px 12px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid lab(83.208 -0.844151 -5.26234)",
+   "h": 36
+  },
+  {
+   "text": "See more",
+   "bg": "lab(4.67701 0 0)",
+   "color": "lab(94.3726 -0.157326 -2.23036)",
+   "radius": "10px",
+   "pad": "0px 6px 0px 10px",
+   "size": "12px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid lab(20.5697 -0.638425 -4.44436)",
+   "h": 32
+  },
+  {
+   "text": "Explore the ecosystem",
+   "bg": "lab(4.67701 0 0)",
+   "color": "lab(94.3726 -0.157326 -2.23036)",
+   "radius": "10px",
+   "pad": "0px 6px 0px 10px",
+   "size": "12px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid lab(20.5697 -0.638425 -4.44436)",
+   "h": 32
+  }
+ ],
+ "headings": [
+  "Welcome to agentic revenue.",
+  "The intelligent system that never sleeps. Picks up leads at 2am. Catches renewals before they slip. Hands you the answer before you ask.",
+  "Your team, amplified. Agents prospect and reach out when buyers are looking, building a pipeline of deals ready to win.",
+  "Speed to lead, every time. New leads get enriched, scored, and routed to the right rep before they ever cool off.",
+  "Run every motion, your way. Pipeline built for how you sell, while agents brief the meetings and keep deals moving.",
+  "For the people who own the number. Ask any revenue question. From the weekly forecast to performance by rep, get the answer in seconds.",
+  "Keep more. Grow more. Agents track the whole book, so you save what's slipping and grow what's rising.",
+  "Live from day one. Connect your inbox and calendar. Attio learns your business and builds itself around it, before your first agent even gets to work.",
+  "Universal Context™",
+  "All of the signals, none of the noise. Ready to act on.",
+  "All of the signals, none of the noise. Ready to act on.",
+  "Your whole stack, connected.",
+  "SDK. API. MCP. Build anything on Attio.",
+  "Run at any scale. Production-grade for your team and agents.",
+  "Trusted by 30,000+ customers. From first agent to enterprise scale.",
+  "Better as you grow. New features every week to keep pace with you.",
+  "Workflow history and agent log",
+  "New blocks for workflows",
+  "App updates",
+  "A more intuitive Ask Attio",
+  "Agentic revenue runs on Attio.",
+  "Platform",
+  "Company",
+  "Import from",
+  "Attio for"
+ ],
+ "paras": [
+  "Extend and integrate with Attio",
+  "Everything's in spreadsheets right now and it's getting unmanageable. I'd like the whole team moved over by Monday if we can.",
+  "We can have you live well before then. How many seats are you thinking?",
+  "Six, on the Pro plan. I'll be the one signing off.",
+  "Perfect — I'll send a Pro quote over today. It covers the workflow automations you flagged.",
+  "Can we bring our existing deal history across too?",
+  "Yep — we'll map it during onboarding, and I'll include a migration checklist.",
+  "Love it. Looking forward to finally getting off spreadsheets.",
+  "@Attio what deals should I focus on today?",
+  "GreenLeaf (verbal yes, no quote out) and Ramp (stalled in Legal 5d)."
+ ],
+ "footer": {
+  "h": 685,
+  "text": "Platform Refer a team New Changelog Gmail extension iOS app Android app Company Customers Announcements Engineering blog New Careers Manifesto Brand Become a partner Import from Salesforce Hubspot Pipedrive Zoho Excel CSV Attio for Startups Deal flow Apps Gmail Outlook Segment Mailchimp Slack Outrea"
+ },
+ "jsMotion": {
+  "scriptsFetched": 11,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "0",
+    5
+   ]
+  ],
+  "staggers": [],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [
+   [
+    "click",
+    1
+   ],
+   [
+    "drag",
+    1
+   ]
+  ],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

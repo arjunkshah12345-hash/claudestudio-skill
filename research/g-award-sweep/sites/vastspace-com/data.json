@@ -1,0 +1,937 @@
+{
+ "url": "https://vastspace.com",
+ "slug": "vastspace-com",
+ "analyzedAt": "2026-10-07T10:01:12.864Z",
+ "scrollHeight": 6898,
+ "pageLengthInViewports": 7.7,
+ "title": "Vast – Building Next-Generation Space Infrastructure",
+ "metaDescription": "Vast is developing next-generation space stations and space infrastructure using an incremental, hardware-rich and low-cost approach.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "Owners 500 normal",
+   "Owners Text 400 normal",
+   "Phonic 400 normal"
+  ],
+  "families": [
+   [
+    "Owners Text",
+    98
+   ],
+   [
+    "Phonic",
+    89
+   ],
+   [
+    "Owners",
+    69
+   ]
+  ],
+  "sizes": [
+   [
+    "12px",
+    84
+   ],
+   [
+    "16px",
+    69
+   ],
+   [
+    "48px",
+    35
+   ],
+   [
+    "20px",
+    30
+   ],
+   [
+    "14px",
+    16
+   ],
+   [
+    "10px",
+    13
+   ],
+   [
+    "18px",
+    5
+   ],
+   [
+    "19px",
+    2
+   ],
+   [
+    "76px",
+    1
+   ],
+   [
+    "346px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    188
+   ],
+   [
+    "500",
+    68
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    100
+   ],
+   [
+    "0.010em@12",
+    76
+   ],
+   [
+    "0.010em@48",
+    35
+   ],
+   [
+    "0.030em@20",
+    30
+   ],
+   [
+    "0.010em@10",
+    13
+   ],
+   [
+    "0.030em@19",
+    2
+   ]
+  ],
+  "uppercaseShare": 0.35,
+  "largest": [
+   {
+    "tag": "h2",
+    "text": "Haven-1",
+    "family": "Owners",
+    "size": "345.6px",
+    "weight": "400",
+    "lh": "345.6px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(236, 232, 227)"
+   },
+   {
+    "tag": "h1",
+    "text": "Building next-generation space infrastructure",
+    "family": "Owners",
+    "size": "76px",
+    "weight": "500",
+    "lh": "65.36px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "div",
+    "text": "Vast",
+    "family": "Owners",
+    "size": "48px",
+    "weight": "500",
+    "lh": "48px",
+    "ls": "0.48px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(137, 127, 117)"
+   },
+   {
+    "tag": "div",
+    "text": "is",
+    "family": "Owners",
+    "size": "48px",
+    "weight": "500",
+    "lh": "48px",
+    "ls": "0.48px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(137, 127, 117)"
+   },
+   {
+    "tag": "div",
+    "text": "developing",
+    "family": "Owners",
+    "size": "48px",
+    "weight": "500",
+    "lh": "48px",
+    "ls": "0.48px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(137, 127, 117)"
+   },
+   {
+    "tag": "div",
+    "text": "next-generation",
+    "family": "Owners",
+    "size": "48px",
+    "weight": "500",
+    "lh": "48px",
+    "ls": "0.48px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(137, 127, 117)"
+   },
+   {
+    "tag": "div",
+    "text": "space",
+    "family": "Owners",
+    "size": "48px",
+    "weight": "500",
+    "lh": "48px",
+    "ls": "0.48px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(137, 127, 117)"
+   },
+   {
+    "tag": "div",
+    "text": "stations",
+    "family": "Owners",
+    "size": "48px",
+    "weight": "500",
+    "lh": "48px",
+    "ls": "0.48px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(137, 127, 117)"
+   },
+   {
+    "tag": "div",
+    "text": "and",
+    "family": "Owners",
+    "size": "48px",
+    "weight": "500",
+    "lh": "48px",
+    "ls": "0.48px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(137, 127, 117)"
+   },
+   {
+    "tag": "div",
+    "text": "infrastructure",
+    "family": "Owners",
+    "size": "48px",
+    "weight": "500",
+    "lh": "48px",
+    "ls": "0.48px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(137, 127, 117)"
+   },
+   {
+    "tag": "div",
+    "text": "using",
+    "family": "Owners",
+    "size": "48px",
+    "weight": "500",
+    "lh": "48px",
+    "ls": "0.48px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(137, 127, 117)"
+   },
+   {
+    "tag": "div",
+    "text": "an",
+    "family": "Owners",
+    "size": "48px",
+    "weight": "500",
+    "lh": "48px",
+    "ls": "0.48px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(137, 127, 117)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(255, 255, 255)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(255, 255, 255)",
+    140
+   ],
+   [
+    "rgb(42, 44, 47)",
+    91
+   ],
+   [
+    "rgb(137, 127, 117)",
+    23
+   ],
+   [
+    "rgb(255, 86, 35)",
+    1
+   ],
+   [
+    "rgb(236, 232, 227)",
+    1
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(42, 44, 47)",
+    61
+   ],
+   [
+    "rgb(255, 255, 255)",
+    59
+   ],
+   [
+    "rgba(42, 44, 47, 0.27)",
+    56
+   ],
+   [
+    "rgb(179, 171, 163)",
+    28
+   ],
+   [
+    "rgb(236, 232, 227)",
+    8
+   ],
+   [
+    "rgb(255, 86, 35)",
+    7
+   ],
+   [
+    "rgb(0, 0, 0)",
+    3
+   ],
+   [
+    "rgba(255, 255, 255, 0.1)",
+    2
+   ],
+   [
+    "rgb(253, 252, 244)",
+    2
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(rgba(255, 255, 255, 0) 0%, rgb(236, 232, 227) 100%)",
+    1
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.62,0.05,0.01,0.99)",
+    9
+   ],
+   [
+    "cubic-bezier(0.77,0,0.175,1)",
+    7
+   ],
+   [
+    "cubic-bezier(0.4,1.35,0.5,0.97)",
+    1
+   ]
+  ],
+  "durations": [
+   [
+    "0.2s",
+    9
+   ],
+   [
+    "0.3s",
+    8
+   ],
+   [
+    "0.5s",
+    6
+   ],
+   [
+    "0.4s",
+    5
+   ],
+   [
+    "0.15s",
+    3
+   ],
+   [
+    "0.55s",
+    2
+   ],
+   [
+    "1s",
+    2
+   ],
+   [
+    "0.7s",
+    2
+   ],
+   [
+    "0s",
+    2
+   ],
+   [
+    "0.1s",
+    1
+   ]
+  ],
+  "keyframes": [
+   "spin",
+   "cky-classic-expand",
+   "cky-classic-top-expand",
+   "chevron",
+   "chevron-icon"
+  ]
+ },
+ "cssVarSample": {
+  "--color--primary--meteorite-black": "#2a2c2f",
+  "--gap-l": "4rem",
+  "--color--primary--warm-white": "#fdfcf4",
+  "--color--primary--warm-gray": "#ece8e3",
+  "--color--primary--moon-rock": "#b3aba3",
+  "--color--primary--white": "white",
+  "--color--accent--solar-orange": "#ff5623",
+  "--color--secondary--green": "#2da046",
+  "--gap-ml": "3.2rem",
+  "--gap-s": "1.6rem",
+  "--gap-xs": ".8rem",
+  "--container-padding": "var(--gap-l)",
+  "--section-padding": "6rem",
+  "--gap-responsive": "var(--gap-l)",
+  "--gap-m": "2.4rem",
+  "--gap-xl": "4.8rem",
+  "--gap-sm": "2rem",
+  "--gap-xxs": ".4rem",
+  "--gap-xxl": "6.4rem",
+  "--color--secondary--asteroid-dust": "#897f75",
+  "--color--primary--black": "black",
+  "--timeline-gap": "64rem",
+  "--timeline-gap-mobile": "50rem",
+  "--btn-size-l": "5.6rem",
+  "--btn-size-m": "4.6rem",
+  "--btn-size-s": "3.6rem",
+  "--css-mobile-mockup-width": "393",
+  "--css-tablet-mockup-width": "1024",
+  "--css-desktop-mockup-width": "1440",
+  "--page-padding": "4rem",
+  "--nav-height": "8rem",
+  "--motion-ease-vast": "cubic-bezier(0.4, 1.35, 0.5, 0.97)",
+  "--motion-ease-spring": "linear(\n      0,\n      0.007,\n      0.03 2.1%,\n      0.122 4.6%,\n      0.243 6.9",
+  "--vh-in-px": "8px",
+  "--vh": "var(--vh-in-px)",
+  "--motion": "1",
+  "--animation-duration-primary": "0.65s",
+  "--animation-duration-primary-fast": "0.5s",
+  "--animation-primary": "calc(var(--animation-duration-primary) * var(--motion)) cubic-bezier(0.62, 0.05,",
+  "--animation-primary-fast": "calc(var(--animation-duration-primary-fast) * var(--motion)) cubic-bezier(0.62, ",
+  "--animation-bezier": "cubic-bezier(0.62, 0.05, 0.01, 0.99)"
+ },
+ "libs": {
+  "gsap": true,
+  "scrollTrigger": false,
+  "lenis": true,
+  "locomotive": false,
+  "three": true,
+  "webglCanvas": 0,
+  "canvases": 1,
+  "barba": true,
+  "swup": false,
+  "framer": false,
+  "webflow": true,
+  "next": false,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": true,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 167,
+  "video": 1,
+  "svg": 101,
+  "picture": 0,
+  "iframes": 2
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 59,
+  "clipPath": 3,
+  "sticky": 0,
+  "fixed": [
+   "global-wrap",
+   "nav",
+   "webgl-masking",
+   "webgl"
+  ],
+  "customCursor": false,
+  "boxShadows": [
+   [
+    "rgba(42, 44, 47, 0.06) 0px 16px 24px 0px",
+    1
+   ]
+  ],
+  "filters": [
+   [
+    "brightness(0) saturate(1)",
+    102
+   ]
+  ],
+  "transforms3d": 1,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "1000px",
+   4
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgba(179, 171, 163, 0.4)",
+   1
+  ],
+  [
+   "1px solid rgb(255, 255, 255)",
+   1
+  ]
+ ],
+ "grids": [
+  [
+   "3cols gap normal",
+   1
+  ],
+  [
+   "3cols gap 60px",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "100%",
+   58
+  ],
+  [
+   "1920px",
+   6
+  ],
+  [
+   "1700px",
+   2
+  ],
+  [
+   "840px",
+   1
+  ],
+  [
+   "1840px",
+   1
+  ]
+ ],
+ "sideMargins": [
+  [
+   "80px",
+   9
+  ],
+  [
+   "1129px",
+   8
+  ],
+  [
+   "40px",
+   7
+  ],
+  [
+   "1149px",
+   7
+  ],
+  [
+   "1281px",
+   7
+  ],
+  [
+   "897px",
+   6
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "page",
+   "h": 6898,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "header-home",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgb(42, 44, 47)"
+  },
+  {
+   "cls": "section-bg",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "highlight-text",
+   "h": 720,
+   "padTop": "240px",
+   "bg": "rgb(179, 171, 163)"
+  },
+  {
+   "cls": "haven-full-3d",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgb(253, 252, 244)"
+  },
+  {
+   "cls": "webgl-home-space-station",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "slider-section",
+   "h": 1062,
+   "padTop": "40px",
+   "bg": "rgb(253, 252, 244)"
+  },
+  {
+   "cls": "section-spacer",
+   "h": 48,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "updates-section",
+   "h": 1681,
+   "padTop": "120px",
+   "bg": "rgb(236, 232, 227)"
+  },
+  {
+   "cls": "press-section",
+   "h": 856,
+   "padTop": "120px",
+   "bg": "rgb(236, 232, 227)"
+  },
+  {
+   "cls": "press-section__inner",
+   "h": 436,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "press-section__marquee",
+   "h": 144,
+   "padTop": "60px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "footer-newsletter",
+   "h": 240,
+   "padTop": "40px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "footer-main",
+   "h": 531,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "NAV",
+  "position": "fixed",
+  "height": 108,
+  "links": 23,
+  "linkTexts": [
+   "Haven-1",
+   "Haven-2",
+   "Haven-1The world's first commercial space station",
+   "Haven-2Designed to succeed the International Space Station",
+   "Satellites",
+   "Updates",
+   "Team",
+   "Careers",
+   "Roadmap",
+   "Contact",
+   "Roadmap",
+   "Shop",
+   "Haven-1 Lab",
+   "Team"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [],
+ "headings": [
+  "Building next-generation space infrastructure",
+  "Vast is developing next-generation space stations and space infrastructure using an incremental, hardware-rich and low-cost approach.",
+  "Vast is developing next-generation space stations and space infrastructure using an incremental, hardware-rich and low-cost approach.",
+  "Haven-1",
+  "Haven-1",
+  "The world’s first commercial space station",
+  "Haven-1 hardware development progress",
+  "Updates",
+  "In the press"
+ ],
+ "paras": [
+  "We use cookies for various purposes. We disclose this data to third parties who assist us with analyzing website traffic and targeting ads on other sites, and who may use that data for their own purposes. Learn more in o",
+  "By clicking \"Accept All\", you consent to our use of all cookies. You can “Reject all” non-necessary cookies or “Customize” to choose which categories to accept. Clicking any button on this banner, means you consent to th",
+  "We use third-party cookies that help us analyze how you use this website, store your preferences, and provide the content and advertisements that are relevant to you. However, you can opt in to the non-necessary cookies ",
+  "Necessary cookies are required to enable the basic features of this site, such as providing secure log-in or adjusting your consent preferences. These cookies do not store any personally identifiable data.",
+  "Functional cookies help perform certain functionalities like sharing the content of the website on social media platforms, collecting feedback, and other third-party features.",
+  "Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics such as the number of visitors, bounce rate, traffic source, etc.",
+  "Performance cookies are used to understand and analyse the key performance indexes of the website which helps in delivering a better user experience for the visitors.",
+  "Advertisement cookies are used to provide visitors with customised advertisements based on the pages you visited previously and to analyse the effectiveness of the ad campaigns.",
+  "The world's first commercial space station",
+  "Designed to succeed the International Space Station"
+ ],
+ "footer": {
+  "h": 779,
+  "text": "Sign up for updates Sign up By subscribing you agree to our Privacy Policy and provide consent to receive updates from Vast. CONTACT 2851 Orange Avenue Long Beach, CA 90806 USA +1 (310) 220-0300 info@vastspace.com PRODUCTS Haven Demo Haven-1 Haven-2 Large Docking Adapter Satellites Haven-1 Lab ABOUT"
+ },
+ "jsMotion": {
+  "scriptsFetched": 14,
+  "gsapEases": [
+   [
+    "expo.out",
+    32
+   ],
+   [
+    "sine.out",
+    22
+   ],
+   [
+    "none",
+    11
+   ],
+   [
+    "power3.inOut",
+    8
+   ],
+   [
+    "power3.out",
+    4
+   ],
+   [
+    "power2.inOut",
+    4
+   ],
+   [
+    "expo.inOut",
+    4
+   ],
+   [
+    "linear",
+    4
+   ],
+   [
+    "power3",
+    3
+   ],
+   [
+    "power4.inOut",
+    2
+   ],
+   [
+    "linear.out",
+    2
+   ],
+   [
+    "expo",
+    1
+   ],
+   [
+    "power4",
+    1
+   ],
+   [
+    "power3.in",
+    1
+   ],
+   [
+    "circ.inOut",
+    1
+   ]
+  ],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "1",
+    42
+   ],
+   [
+    ".3",
+    14
+   ],
+   [
+    ".5",
+    12
+   ],
+   [
+    ".4",
+    7
+   ],
+   [
+    ".7",
+    5
+   ],
+   [
+    "1.2",
+    4
+   ],
+   [
+    "3",
+    3
+   ],
+   [
+    ".9",
+    3
+   ],
+   [
+    ".725",
+    3
+   ],
+   [
+    "0",
+    2
+   ],
+   [
+    ".75",
+    2
+   ],
+   [
+    ".65",
+    2
+   ],
+   [
+    "1.6",
+    2
+   ],
+   [
+    "1.5",
+    2
+   ],
+   [
+    ".8",
+    2
+   ]
+  ],
+  "staggers": [
+   [
+    ".05",
+    5
+   ],
+   [
+    "0",
+    3
+   ],
+   [
+    ".07",
+    3
+   ],
+   [
+    ".1",
+    2
+   ],
+   [
+    ".01",
+    1
+   ],
+   [
+    ".2",
+    1
+   ],
+   [
+    ".08",
+    1
+   ],
+   [
+    ".04",
+    1
+   ],
+   [
+    ".03",
+    1
+   ]
+  ],
+  "lenis": [
+   [
+    "smoothWheel:n",
+    2
+   ],
+   [
+    "wheelMultiplier:1",
+    1
+   ],
+   [
+    "lerp:.3",
+    1
+   ],
+   [
+    "smoothWheel:!0",
+    1
+   ]
+  ],
+  "springs": [],
+  "scrollTriggerStarts": [
+   [
+    "top 70%",
+    2
+   ],
+   [
+    "top 60%",
+    2
+   ],
+   [
+    "top bottom",
+    2
+   ],
+   [
+    "0% 60%",
+    1
+   ],
+   [
+    "top top",
+    1
+   ],
+   [
+    "0% 100%",
+    1
+   ],
+   [
+    "top 65%",
+    1
+   ],
+   [
+    "bottom 90%",
+    1
+   ],
+   [
+    "top center",
+    1
+   ],
+   [
+    "top 80%",
+    1
+   ]
+  ],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

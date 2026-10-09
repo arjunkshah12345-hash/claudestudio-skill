@@ -1,0 +1,864 @@
+{
+ "url": "https://www.anthropic.com",
+ "slug": "www-anthropic-com",
+ "analyzedAt": "2026-10-07T05:15:47.155Z",
+ "scrollHeight": 3390,
+ "pageLengthInViewports": 3.8,
+ "title": "Home \\ Anthropic",
+ "metaDescription": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "Anthropic Sans 300 800 normal",
+   "Anthropic Serif 300 800 normal",
+   "Anthropic Mono 300 800 normal"
+  ],
+  "families": [
+   [
+    "Anthropic Sans",
+    159
+   ],
+   [
+    "Anthropic Serif",
+    10
+   ],
+   [
+    "Anthropic Mono",
+    9
+   ]
+  ],
+  "sizes": [
+   [
+    "12px",
+    104
+   ],
+   [
+    "16px",
+    36
+   ],
+   [
+    "61px",
+    13
+   ],
+   [
+    "15px",
+    10
+   ],
+   [
+    "24px",
+    6
+   ],
+   [
+    "18px",
+    5
+   ],
+   [
+    "68px",
+    2
+   ],
+   [
+    "22px",
+    1
+   ],
+   [
+    "20px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    136
+   ],
+   [
+    "500",
+    16
+   ],
+   [
+    "600",
+    13
+   ],
+   [
+    "700",
+    13
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "-0.020em@12",
+    92
+   ],
+   [
+    "normal",
+    71
+   ],
+   [
+    "-0.003em@15",
+    5
+   ],
+   [
+    "-0.005em@16",
+    5
+   ],
+   [
+    "-0.005em@15",
+    5
+   ]
+  ],
+  "uppercaseShare": 0.05,
+  "largest": [
+   {
+    "tag": "h2",
+    "text": ":Claude: Sonnet 5.5",
+    "family": "Anthropic Serif",
+    "size": "68.3429px",
+    "weight": "500",
+    "lh": "75.1771px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(250, 249, 245)"
+   },
+   {
+    "tag": "span",
+    "text": ":Claude:",
+    "family": "Anthropic Serif",
+    "size": "68.3429px",
+    "weight": "400",
+    "lh": "75.1771px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(250, 249, 245)"
+   },
+   {
+    "tag": "span",
+    "text": "AI research and products that put safety at the frontier",
+    "family": "Anthropic Sans",
+    "size": "60.8653px",
+    "weight": "700",
+    "lh": "66.9518px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(20, 20, 19)"
+   },
+   {
+    "tag": "a",
+    "text": "research",
+    "family": "Anthropic Sans",
+    "size": "60.8653px",
+    "weight": "700",
+    "lh": "66.9518px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(20, 20, 19)"
+   },
+   {
+    "tag": "a",
+    "text": "products",
+    "family": "Anthropic Sans",
+    "size": "60.8653px",
+    "weight": "700",
+    "lh": "66.9518px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(20, 20, 19)"
+   },
+   {
+    "tag": "span",
+    "text": "AI",
+    "family": "Anthropic Sans",
+    "size": "60.8653px",
+    "weight": "700",
+    "lh": "66.9518px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(20, 20, 19)"
+   },
+   {
+    "tag": "span",
+    "text": "and",
+    "family": "Anthropic Sans",
+    "size": "60.8653px",
+    "weight": "700",
+    "lh": "66.9518px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(20, 20, 19)"
+   },
+   {
+    "tag": "span",
+    "text": "that",
+    "family": "Anthropic Sans",
+    "size": "60.8653px",
+    "weight": "700",
+    "lh": "66.9518px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(20, 20, 19)"
+   },
+   {
+    "tag": "span",
+    "text": "put",
+    "family": "Anthropic Sans",
+    "size": "60.8653px",
+    "weight": "700",
+    "lh": "66.9518px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(20, 20, 19)"
+   },
+   {
+    "tag": "span",
+    "text": "safety",
+    "family": "Anthropic Sans",
+    "size": "60.8653px",
+    "weight": "700",
+    "lh": "66.9518px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(20, 20, 19)"
+   },
+   {
+    "tag": "span",
+    "text": "at",
+    "family": "Anthropic Sans",
+    "size": "60.8653px",
+    "weight": "700",
+    "lh": "66.9518px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(20, 20, 19)"
+   },
+   {
+    "tag": "span",
+    "text": "the",
+    "family": "Anthropic Sans",
+    "size": "60.8653px",
+    "weight": "700",
+    "lh": "66.9518px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(20, 20, 19)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(250, 249, 245)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(176, 174, 165)",
+    93
+   ],
+   [
+    "rgb(20, 20, 19)",
+    55
+   ],
+   [
+    "rgb(250, 249, 245)",
+    24
+   ],
+   [
+    "color(srgb 0.0784314 0.0784314 0.0745098 / 0.6)",
+    6
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(20, 20, 19)",
+    7
+   ],
+   [
+    "rgb(250, 249, 245)",
+    3
+   ],
+   [
+    "rgb(227, 218, 204)",
+    3
+   ],
+   [
+    "rgb(240, 238, 230)",
+    2
+   ]
+  ],
+  "gradients": []
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.16,1,0.3,1)",
+    4
+   ],
+   [
+    "cubic-bezier(0.165,0.84,0.44,1)",
+    2
+   ],
+   [
+    "cubic-bezier(.77,0,.175,1)",
+    1
+   ]
+  ],
+  "durations": [
+   [
+    "0.2s",
+    49
+   ],
+   [
+    "0.1s",
+    3
+   ],
+   [
+    "0.3s",
+    3
+   ],
+   [
+    "0.4s",
+    3
+   ],
+   [
+    "0.8s",
+    1
+   ],
+   [
+    "800ms",
+    1
+   ],
+   [
+    "500ms",
+    1
+   ],
+   [
+    "48s",
+    1
+   ],
+   [
+    "400ms",
+    1
+   ],
+   [
+    "1.2s",
+    1
+   ]
+  ],
+  "keyframes": [
+   "spin",
+   "marquee",
+   "fadein",
+   "menuOpen",
+   "menuClose"
+  ]
+ },
+ "cssVarSample": {
+  "--_color-theme---background": "var(--swatch--ivory-light)",
+  "--_text-style---font-family": "var(--_typography---font--paragraph-text)",
+  "--_color-theme---text": "var(--swatch--slate-dark)",
+  "--_text-style---font-size": "var(--_typography---font-size--paragraph-m)",
+  "--_text-style---line-height": "var(--_typography---line-height--1-4)",
+  "--_text-style---font-weight": "var(--_typography---font--paragraph-regular)",
+  "--_text-style---letter-spacing": "var(--_typography---letter-spacing--0em)",
+  "--border-width--main": ".0625rem",
+  "--_color-theme---link--text-hover": "var(--swatch--slate-light)",
+  "--_typography---font--paragraph-medium": "500",
+  "--_typography---font--display-serif-family": "\"Anthropic Serif\",Georgia,sans-serif",
+  "--_text-style---margin-bottom": "var(--_spacing---space--4)",
+  "--_text-style---margin-top": "var(--_spacing---space--4)",
+  "--_spacing---space--6": "var(--size--2rem)",
+  "--size--1-5rem": "1.5rem",
+  "--size--0-5rem": ".5rem",
+  "--size--1rem": "1rem",
+  "--size--2rem": "clamp(1.75rem, 1.6734693877551021rem + 0.326530612244898vw, 2rem)",
+  "--_spacing---space--8": "var(--size--3rem)",
+  "--radius--large": "var(--size--1rem)",
+  "--radius--main": "var(--size--0-5rem)",
+  "--container--main": "calc(var(--site--max-width) - var(--site--margin) * 2)",
+  "--container--small": "calc(var(--column-width--plus-gutter) * (var(--site--column-count) - 4) - var(--",
+  "--container--full": "calc(100% - 4rem)",
+  "--radius--small": "var(--size--0-25rem)",
+  "--_spacing---space--4": "var(--size--1rem)",
+  "--site--gutter": "var(--_spacing---space--6)",
+  "--_spacing---gap--gap-xl": "var(--_spacing---space--9)",
+  "--size--0rem": "0rem",
+  "--_spacing---space--5": "var(--size--1-5rem)",
+  "--_spacing---space--1": "var(--size--0-25rem)",
+  "--_spacing---space--2": "var(--size--0-5rem)",
+  "--_spacing---space--3": "var(--size--0-75rem)",
+  "--_spacing---space--7": "var(--size--2-5rem)",
+  "--_typography---font--display-sans": "\"Anthropic Sans\",Arial,sans-serif",
+  "--_typography---font--display-sans-medium": "500",
+  "--_typography---font--display-sans-semibold": "600",
+  "--_typography---font--display-serif-semibold": "600",
+  "--radius--round": "100vw",
+  "--size--7-5rem": "clamp(4.25rem, 3.2551020408163267rem + 4.244897959183674vw, 7.5rem)",
+  "--_color-theme---border": "var(--swatch--slate-faded-10)",
+  "--size--0-25rem": ".25rem",
+  "--_spacing---space--9": "var(--size--4rem)",
+  "--_typography---font--detail": "\"Anthropic Sans\",Arial,sans-serif",
+  "--size--1-25rem": "1.25rem",
+  "--_typography---font--display-sans-bold": "700",
+  "--_color-theme---background-secondary": "var(--swatch--ivory-medium)",
+  "--_spacing---gap--gap-xs": "var(--_spacing---space--2)",
+  "--swatch--clay": "#d97757",
+  "--_color-theme---text-agate": "var(--swatch--cloud-medium)",
+  "--size--0-375rem": ".375rem",
+  "--size--0-75rem": ".75rem",
+  "--swatch--slate-dark": "#141413",
+  "--swatch--white": "white",
+  "--column-width--4": "calc(var(--column-width--plus-gutter) * 4 - var(--site--gutter))",
+  "--column-width--8": "calc(var(--column-width--plus-gutter) * 8 - var(--site--gutter))",
+  "--column-width--12": "calc(var(--column-width--plus-gutter) * 12 - var(--site--gutter))",
+  "--swatch--transparent": "transparent",
+  "--_button-style---border": "var(--_color-theme---button-primary--border)",
+  "--_button-style---background": "var(--_color-theme---button-primary--background)",
+  "--_button-style---text": "var(--_color-theme---button-primary--text)",
+  "--_typography---letter-spacing--0-005em": "-.005em",
+  "--_button-style---border-hover": "var(--_color-theme---button-primary--border-hover)",
+  "--_button-style---background-hover": "var(--_color-theme---button-primary--background-hover)",
+  "--_button-style---text-hover": "var(--_color-theme---button-primary--text-hover)",
+  "--_typography---font--mono-medium": "500",
+  "--_color-theme---background-secondary-hover": "var(--swatch--ivory-dark)",
+  "--swatch--accent": "#c6613f",
+  "--swatch--brand-text": "var(--swatch--slate-dark)",
+  "--_typography---font-size--paragraph-m": "var(--size--1-25rem)"
+ },
+ "libs": {
+  "gsap": true,
+  "scrollTrigger": true,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": true,
+  "next": false,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": true,
+  "rive": false,
+  "lottie": true,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 0,
+  "video": 1,
+  "svg": 41,
+  "picture": 0,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 0,
+  "clipPath": 14,
+  "sticky": 1,
+  "fixed": [],
+  "customCursor": false,
+  "boxShadows": [],
+  "filters": [],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "8px",
+   7
+  ],
+  [
+   "0px 0px 8px 8px",
+   2
+  ],
+  [
+   "8px 0px 0px 8px",
+   2
+  ],
+  [
+   "0px 8px 8px 0px",
+   1
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgba(20, 20, 19, 0.1)",
+   9
+  ],
+  [
+   "bottom:1px solid rgba(20, 20, 19, 0.2)",
+   6
+  ],
+  [
+   "1px solid rgb(20, 20, 19)",
+   5
+  ],
+  [
+   "bottom:1px solid rgba(20, 20, 19, 0.1)",
+   3
+  ],
+  [
+   "1px solid rgb(250, 249, 245)",
+   1
+  ]
+ ],
+ "grids": [
+  [
+   "2cols gap normal",
+   6
+  ],
+  [
+   "1cols gap normal",
+   4
+  ],
+  [
+   "12cols gap 31.4776px",
+   3
+  ],
+  [
+   "4cols gap 31.4776px",
+   1
+  ],
+  [
+   "2cols gap 8px",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "100%",
+   8
+  ],
+  [
+   "1284.54px",
+   6
+  ]
+ ],
+ "sideMargins": [
+  [
+   "516px",
+   6
+  ],
+  [
+   "78px",
+   4
+  ],
+  [
+   "900px",
+   3
+  ],
+  [
+   "109px",
+   2
+  ],
+  [
+   "548px",
+   2
+  ],
+  [
+   "987px",
+   2
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "nav_component is-desktop",
+   "h": 68,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "g_section_space w-variant-60a7ad7d-02b0-6682-95a5-",
+   "h": 151,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "g_section_space w-variant-d422cbd0-f212-c815-68df-",
+   "h": 61,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "beluga-cta_section is-copy-shown",
+   "h": 745,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "g_section_wrap",
+   "h": 699,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "g_section_space w-variant-f1d60206-ffb1-00d2-d5a6-",
+   "h": 91,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "g_section_space w-variant-f1d60206-ffb1-00d2-d5a6-",
+   "h": 91,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "g_section_space w-variant-f1d60206-ffb1-00d2-d5a6-",
+   "h": 91,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "g_section_space w-variant-f1d60206-ffb1-00d2-d5a6-",
+   "h": 91,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "g_section_wrap",
+   "h": 514,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "g_section_space w-variant-f1d60206-ffb1-00d2-d5a6-",
+   "h": 91,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "g_section_space w-variant-f1d60206-ffb1-00d2-d5a6-",
+   "h": 91,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "footer_group_wrap",
+   "h": 829,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "footer_group_wrap",
+   "h": 829,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "footer_group_wrap",
+   "h": 829,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "footer_group_wrap",
+   "h": 829,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "NAV",
+  "position": "static",
+  "height": 68,
+  "links": 39,
+  "linkTexts": [
+   "Policy",
+   "News",
+   "Try Claude",
+   "Try Claude",
+   "This is some text inside of a div block.",
+   "Log in to Claude",
+   "Log in to Claude",
+   "Download app",
+   "Download app"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "Skip to main content",
+   "bg": "rgb(250, 249, 245)",
+   "color": "rgb(20, 20, 19)",
+   "radius": "0px 0px 8px 8px",
+   "pad": "12px 31.4776px",
+   "size": "18px",
+   "weight": "600",
+   "tt": "none",
+   "border": "none",
+   "h": 49
+  },
+  {
+   "text": "Skip to footer",
+   "bg": "rgb(250, 249, 245)",
+   "color": "rgb(20, 20, 19)",
+   "radius": "0px 0px 8px 8px",
+   "pad": "12px 31.4776px",
+   "size": "18px",
+   "weight": "600",
+   "tt": "none",
+   "border": "none",
+   "h": 49
+  }
+ ],
+ "headings": [
+  "AI research and products that put safety at the frontier AI research and products that put safety at the frontier",
+  ":Claude: Sonnet 5.5",
+  "Latest releases",
+  "Introducing Sonnet 5.5",
+  "Introducing Opus 5.5",
+  "Introducing Fable 5.1 and Mythos 5.1",
+  "At Anthropic, we build AI to serve humanity’s long-term well-being.",
+  "‍",
+  "Claude Science",
+  "Core views on AI safety",
+  "Anthropic’s Responsible Scaling Policy",
+  "Anthropic Academy: Build and Learn with Claude",
+  "Anthropic’s Economic Index",
+  "Claude’s Constitution",
+  "Footer",
+  "Products",
+  "Models",
+  "Solutions",
+  "Claude Platform",
+  "Resources",
+  "Programs",
+  "Help and security",
+  "Company",
+  "Terms and policies",
+  "Cookie Settings"
+ ],
+ "paras": [
+  "AI will have a vast impact on the world. Anthropic is a public benefit corporation dedicated to securing its benefits and mitigating its risks.",
+  "A clear upgrade over Sonnet 5 that runs 30% faster and costs up to 30% less for most work.",
+  "A clear upgrade over Sonnet 5 that runs 30% faster and costs up to 30% less for most work.",
+  "Opus 5.5 performs at the level of Fable 5.1 on most work, and costs 40% less to run than Opus 5 on typical workloads.",
+  "Our most advanced models for coding and knowledge work. Their research capabilities also offer an early glimpse of how AI models will contribute to scientific progress.",
+  "We use cookies to deliver and improve our services, analyze site usage, and if you agree, to customize or personalize your experience and market our services to you. You can read our Cookie Policy here.",
+  "Enables security and basic functionality.",
+  "Enables tracking of site performance.",
+  "Enables ads personalization and tracking."
+ ],
+ "footer": {
+  "h": 981,
+  "text": "Footer © 2026 Anthropic PBC Products Claude Claude Code Claude Code for Enterprise Claude Cowork @Claude Claude Design Claude Science Claude Security Claude in Chrome Claude for Slack Claude for Microsoft 365 Skills Download app Pricing Log in to Claude Models Mythos Fable Opus Sonnet Haiku Solution"
+ },
+ "jsMotion": {
+  "scriptsFetched": 12,
+  "gsapEases": [
+   [
+    "power2.out",
+    7
+   ],
+   [
+    "sine.inOut",
+    3
+   ],
+   [
+    "none",
+    3
+   ],
+   [
+    "expo",
+    1
+   ],
+   [
+    "power4",
+    1
+   ]
+  ],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "0",
+    43
+   ],
+   [
+    "200",
+    13
+   ],
+   [
+    "500",
+    13
+   ],
+   [
+    "400",
+    4
+   ],
+   [
+    "0.8",
+    3
+   ],
+   [
+    "300",
+    2
+   ],
+   [
+    "1200",
+    1
+   ],
+   [
+    "1400",
+    1
+   ],
+   [
+    ".001",
+    1
+   ],
+   [
+    ".1",
+    1
+   ],
+   [
+    ".4",
+    1
+   ],
+   [
+    ".25",
+    1
+   ],
+   [
+    ".5",
+    1
+   ]
+  ],
+  "staggers": [
+   [
+    "0",
+    2
+   ],
+   [
+    "{each:.1}",
+    1
+   ]
+  ],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [
+   [
+    "top bottom",
+    1
+   ]
+  ],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

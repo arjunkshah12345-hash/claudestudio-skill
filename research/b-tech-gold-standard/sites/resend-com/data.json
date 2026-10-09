@@ -1,0 +1,1059 @@
+{
+ "url": "https://resend.com",
+ "slug": "resend-com",
+ "analyzedAt": "2026-10-07T05:13:50.807Z",
+ "scrollHeight": 12319,
+ "pageLengthInViewports": 13.7,
+ "title": "Resend · Email for developers",
+ "metaDescription": "The best way to reach humans instead of spam folders. Deliver transactional and marketing emails at scale.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "inter 100 900 normal",
+   "aBCFavorit 400 normal",
+   "aBCFavorit 500 normal",
+   "domaine 400 normal",
+   "commitMono 400 normal"
+  ],
+  "families": [
+   [
+    "inter",
+    290
+   ],
+   [
+    "commitMono",
+    284
+   ],
+   [
+    "aBCFavorit",
+    26
+   ],
+   [
+    "Helvetica",
+    7
+   ],
+   [
+    "domaine",
+    2
+   ]
+  ],
+  "sizes": [
+   [
+    "14px",
+    299
+   ],
+   [
+    "12px",
+    239
+   ],
+   [
+    "16px",
+    33
+   ],
+   [
+    "20px",
+    13
+   ],
+   [
+    "18px",
+    11
+   ],
+   [
+    "56px",
+    9
+   ],
+   [
+    "24px",
+    3
+   ],
+   [
+    "96px",
+    1
+   ],
+   [
+    "77px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    582
+   ],
+   [
+    "500",
+    16
+   ],
+   [
+    "600",
+    9
+   ],
+   [
+    "700",
+    2
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    594
+   ],
+   [
+    "-0.050em@56",
+    9
+   ],
+   [
+    "-0.050em@16",
+    3
+   ],
+   [
+    "-0.010em@96",
+    1
+   ],
+   [
+    "0.025em@14",
+    1
+   ],
+   [
+    "-0.010em@77",
+    1
+   ]
+  ],
+  "uppercaseShare": 0,
+  "largest": [
+   {
+    "tag": "h1",
+    "text": "Email for developers",
+    "family": "domaine",
+    "size": "96px",
+    "weight": "400",
+    "lh": "96px",
+    "ls": "-0.96px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(240, 240, 240)"
+   },
+   {
+    "tag": "h2",
+    "text": "Email reimagined. Available today.",
+    "family": "domaine",
+    "size": "76.8px",
+    "weight": "400",
+    "lh": "76.8px",
+    "ls": "-0.768px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(240, 240, 240)"
+   },
+   {
+    "tag": "h2",
+    "text": "Integrate tonight",
+    "family": "aBCFavorit",
+    "size": "56px",
+    "weight": "400",
+    "lh": "67.2px",
+    "ls": "-2.8px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(240, 240, 240)"
+   },
+   {
+    "tag": "span",
+    "text": "tonight",
+    "family": "aBCFavorit",
+    "size": "56px",
+    "weight": "400",
+    "lh": "0px",
+    "ls": "-2.8px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "h2",
+    "text": "First-class developer experience",
+    "family": "aBCFavorit",
+    "size": "56px",
+    "weight": "400",
+    "lh": "67.2px",
+    "ls": "-2.8px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(240, 240, 240)"
+   },
+   {
+    "tag": "h2",
+    "text": "Write using a delightful editor",
+    "family": "aBCFavorit",
+    "size": "56px",
+    "weight": "400",
+    "lh": "67.2px",
+    "ls": "-2.8px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(240, 240, 240)"
+   },
+   {
+    "tag": "h2",
+    "text": "Go beyond editing",
+    "family": "aBCFavorit",
+    "size": "56px",
+    "weight": "400",
+    "lh": "67.2px",
+    "ls": "-2.8px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(240, 240, 240)"
+   },
+   {
+    "tag": "h2",
+    "text": "Develop emails using React",
+    "family": "aBCFavorit",
+    "size": "56px",
+    "weight": "400",
+    "lh": "67.2px",
+    "ls": "-2.8px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(240, 240, 240)"
+   },
+   {
+    "tag": "h2",
+    "text": "Reach humans, not spam folders",
+    "family": "aBCFavorit",
+    "size": "56px",
+    "weight": "400",
+    "lh": "67.2px",
+    "ls": "-2.8px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(240, 240, 240)"
+   },
+   {
+    "tag": "h2",
+    "text": "Everything in your control",
+    "family": "aBCFavorit",
+    "size": "56px",
+    "weight": "400",
+    "lh": "67.2px",
+    "ls": "-2.8px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(240, 240, 240)"
+   },
+   {
+    "tag": "h2",
+    "text": "Beyond expectations",
+    "family": "aBCFavorit",
+    "size": "56px",
+    "weight": "400",
+    "lh": "67.2px",
+    "ls": "-2.8px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(240, 240, 240)"
+   },
+   {
+    "tag": "h2",
+    "text": "Welcome to ACME, user!",
+    "family": "Helvetica",
+    "size": "24px",
+    "weight": "400",
+    "lh": "33.6px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgba(252, 253, 255, 0.937)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(0, 0, 0)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(161, 164, 165)",
+    124
+   ],
+   [
+    "rgba(241, 247, 254, 0.71)",
+    85
+   ],
+   [
+    "rgb(70, 74, 77)",
+    66
+   ],
+   [
+    "rgb(235, 236, 237)",
+    65
+   ],
+   [
+    "rgb(240, 240, 240)",
+    60
+   ],
+   [
+    "rgb(108, 108, 108)",
+    53
+   ],
+   [
+    "rgb(171, 171, 171)",
+    48
+   ],
+   [
+    "rgba(252, 253, 255, 0.937)",
+    32
+   ],
+   [
+    "rgb(255, 255, 255)",
+    29
+   ],
+   [
+    "rgb(160, 160, 160)",
+    22
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(0, 0, 0)",
+    20
+   ],
+   [
+    "rgba(214, 235, 253, 0.19)",
+    4
+   ],
+   [
+    "rgb(255, 255, 255)",
+    4
+   ],
+   [
+    "rgba(216, 244, 246, 0.035)",
+    3
+   ],
+   [
+    "lab(70.5521 -66.5147 45.8073)",
+    3
+   ],
+   [
+    "rgba(34, 255, 153, 0.118)",
+    2
+   ],
+   [
+    "rgba(131, 84, 254, 0.21)",
+    2
+   ],
+   [
+    "rgb(11, 14, 20)",
+    1
+   ],
+   [
+    "rgba(0, 119, 255, 0.227)",
+    1
+   ],
+   [
+    "rgba(250, 130, 0, 0.133)",
+    1
+   ],
+   [
+    "rgba(255, 23, 63, 0.176)",
+    1
+   ],
+   [
+    "rgba(217, 237, 254, 0.145)",
+    1
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(42deg, rgb(20, 21, 23), rgb(25, 27, 30)), linear-gradient(42deg, rgba(24, 25, 28, 0.88) 45%, rgba(215, 239, 248, 0.28))",
+    60
+   ],
+   [
+    "linear-gradient(rgba(80, 80, 80, 0.15) 0%, rgba(0, 0, 0, 0) 70%)",
+    30
+   ],
+   [
+    "linear-gradient(rgba(0, 0, 0, 0) 60%, rgb(0, 0, 0) 100%, rgb(0, 0, 0) 100%)",
+    30
+   ],
+   [
+    "linear-gradient(rgba(255, 255, 255, 0) 60%, rgb(255, 255, 255) 100%, rgb(255, 255, 255) 100%)",
+    30
+   ],
+   [
+    "linear-gradient(in oklab, rgba(217, 237, 254, 0.145) 0%, rgba(221, 234, 248, 0.08) 50%, rgba(0, 0, 0, 0) 100%)",
+    24
+   ],
+   [
+    "linear-gradient(to right bottom, rgb(255, 255, 255) 30%, rgba(255, 255, 255, 0.5))",
+    10
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(.4,0,.2,1)",
+    136
+   ],
+   [
+    "cubic-bezier(0,0,.2,1)",
+    18
+   ],
+   [
+    "cubic-bezier(.36,.66,.6,1)",
+    8
+   ],
+   [
+    "cubic-bezier(0.36,0.66,0.6,1)",
+    8
+   ],
+   [
+    "cubic-bezier(0.4,0,0.2,1)",
+    8
+   ],
+   [
+    "cubic-bezier(.4,0,1,1)",
+    6
+   ],
+   [
+    "cubic-bezier(0.22,1,0.36,1)",
+    6
+   ],
+   [
+    "cubic-bezier(.4,0,.6,1)",
+    4
+   ],
+   [
+    "cubic-bezier(.3,1,.66,1)",
+    4
+   ],
+   [
+    "cubic-bezier(0.3,1,0.66,1)",
+    4
+   ],
+   [
+    "cubic-bezier(.6,.12,.34,.96)",
+    4
+   ],
+   [
+    "cubic-bezier(0.6,0.12,0.34,0.96)",
+    4
+   ]
+  ],
+  "durations": [
+   [
+    ".15s",
+    108
+   ],
+   [
+    "0.2s",
+    34
+   ],
+   [
+    "1s",
+    30
+   ],
+   [
+    "2s",
+    22
+   ],
+   [
+    "0.3s",
+    21
+   ],
+   [
+    "0s",
+    20
+   ],
+   [
+    ".2s",
+    18
+   ],
+   [
+    "0.15s",
+    13
+   ],
+   [
+    "1.5s",
+    11
+   ],
+   [
+    "0.1s",
+    9
+   ]
+  ],
+  "keyframes": [
+   "spin",
+   "ping",
+   "pulse",
+   "ai-shimmer-text",
+   "scroll-x",
+   "shine",
+   "disco",
+   "fade-in",
+   "fade-out",
+   "open-slide-down-fade",
+   "close-slide-up-fade",
+   "open-slide-up-fade",
+   "close-slide-down-fade",
+   "open-scale-in-fade",
+   "close-scale-out-fade",
+   "open-scale-up-fade",
+   "plop",
+   "hero-text-slide-up-fade",
+   "webgl-scale-in-fade",
+   "header-slide-down-fade"
+  ]
+ },
+ "cssVarSample": {
+  "--black-a1": "#0000000d",
+  "--black-a2": "#0000001a",
+  "--black-a3": "#00000026",
+  "--black-a4": "#0003",
+  "--black-a5": "#0000004d",
+  "--black-a6": "#0006",
+  "--black-a7": "#00000080",
+  "--black-a8": "#0009",
+  "--black-a9": "#000000b3",
+  "--black-a10": "#000c",
+  "--black-a11": "#000000e6",
+  "--black-a12": "#000000f2",
+  "--editor-topbar-height": "0px"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 1,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": true,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": true,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 73,
+  "video": 5,
+  "svg": 109,
+  "picture": 0,
+  "iframes": 1
+ },
+ "effects": {
+  "mixBlend": [
+   [
+    "darken",
+    3
+   ],
+   [
+    "hard-light",
+    1
+   ]
+  ],
+  "backdropFilter": 4,
+  "clipPath": 15,
+  "sticky": 1,
+  "fixed": [
+   "INPUT",
+   "INPUT",
+   "INPUT"
+  ],
+  "customCursor": true,
+  "boxShadows": [
+   [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(24, 25, 28, 0.88) 0px 0px 0px 1px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+    60
+   ],
+   [
+    "rgb(0, 0, 0) 0px 0px 0px 8px",
+    6
+   ],
+   [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+    4
+   ]
+  ],
+  "filters": [
+   [
+    "blur(4px)",
+    3
+   ],
+   [
+    "url(\"#glow-filter-_r_6_\")",
+    2
+   ],
+   [
+    "grayscale(1)",
+    1
+   ],
+   [
+    "blur(3px)",
+    1
+   ],
+   [
+    "blur(10px)",
+    1
+   ]
+  ],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 2,
+  "backgroundClipText": 11
+ },
+ "radii": [
+  [
+   "3.35544e+07px",
+   74
+  ],
+  [
+   "6px",
+   33
+  ],
+  [
+   "16px",
+   18
+  ],
+  [
+   "4px",
+   17
+  ],
+  [
+   "8px",
+   10
+  ],
+  [
+   "10px",
+   7
+  ],
+  [
+   "8px 0px 0px 8px",
+   2
+  ],
+  [
+   "16px 16px 0px 0px",
+   1
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgba(0, 0, 0, 0)",
+   71
+  ],
+  [
+   "1px solid rgba(214, 235, 253, 0.19)",
+   69
+  ],
+  [
+   "1px solid rgba(217, 237, 254, 0.145)",
+   31
+  ],
+  [
+   "4px solid rgba(0, 0, 0, 0)",
+   30
+  ],
+  [
+   "2px solid oklab(0.999994 0.0000455678 0.0000200868 / 0.05)",
+   4
+  ],
+  [
+   "bottom:1px solid rgba(214, 235, 253, 0.19)",
+   4
+  ]
+ ],
+ "grids": [
+  [
+   "6cols gap 16px",
+   2
+  ],
+  [
+   "2cols gap 32px",
+   2
+  ],
+  [
+   "3cols gap 80px",
+   1
+  ],
+  [
+   "3cols gap 32px",
+   1
+  ],
+  [
+   "5cols gap 32px",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "1280px",
+   12
+  ],
+  [
+   "100%",
+   4
+  ],
+  [
+   "1024px",
+   2
+  ],
+  [
+   "calc(100% - 18px)",
+   1
+  ],
+  [
+   "calc(100% - 200px)",
+   1
+  ]
+ ],
+ "sideMargins": [
+  [
+   "104px",
+   20
+  ],
+  [
+   "541px",
+   6
+  ],
+  [
+   "979px",
+   6
+  ],
+  [
+   "145px",
+   4
+  ],
+  [
+   "777px",
+   4
+  ],
+  [
+   "885px",
+   4
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "mx-auto max-w-5xl px-6 pb-8 md:h-screen md:max-h-[",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "mx-auto px-6 py-12 sm:py-24 max-w-5xl md:max-w-7xl",
+   "h": 567,
+   "padTop": "96px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "mx-auto px-6 py-12 sm:py-24 max-w-5xl md:max-w-7xl",
+   "h": 1296,
+   "padTop": "96px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "mx-auto px-6 py-12 sm:py-24 max-w-5xl md:max-w-7xl",
+   "h": 967,
+   "padTop": "96px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "mx-auto px-6 py-12 sm:py-24 max-w-5xl md:max-w-7xl",
+   "h": 1358,
+   "padTop": "96px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "mx-auto px-6 py-12 sm:py-24 max-w-5xl md:max-w-7xl",
+   "h": 899,
+   "padTop": "96px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "mx-auto px-6 py-12 sm:py-24 max-w-5xl md:max-w-7xl",
+   "h": 1367,
+   "padTop": "96px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "mx-auto sm:py-24 relative mt-12 max-w-5xl overflow",
+   "h": 941,
+   "padTop": "96px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "mx-auto px-6 py-12 sm:py-24 max-w-5xl md:max-w-7xl",
+   "h": 1352,
+   "padTop": "96px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "mx-auto py-12 sm:py-24 px-0",
+   "h": 685,
+   "padTop": "96px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "mx-auto px-6 py-12 sm:py-24 relative max-w-5xl tex",
+   "h": 702,
+   "padTop": "96px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "sticky",
+  "height": 58,
+  "links": 5,
+  "linkTexts": [
+   "Open main menu",
+   "Features",
+   "Company",
+   "Enterprise",
+   "Help",
+   "Docs",
+   "AI",
+   "Pricing",
+   "Log in",
+   "Get started"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "Log in",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(161, 164, 165)",
+   "radius": "16px",
+   "pad": "0px 16px",
+   "size": "14px",
+   "weight": "600",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 40
+  },
+  {
+   "text": "Get started",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "16px",
+   "pad": "0px 16px",
+   "size": "14px",
+   "weight": "600",
+   "tt": "none",
+   "border": "2px solid oklab(0.999994 0.0000455678 0.0000200868 / 0.05)",
+   "h": 40
+  },
+  {
+   "text": "Get started",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "16px",
+   "pad": "0px 20px",
+   "size": "16px",
+   "weight": "600",
+   "tt": "none",
+   "border": "2px solid oklab(0.999994 0.0000455678 0.0000200868 / 0.05)",
+   "h": 48
+  },
+  {
+   "text": "Documentation",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(161, 164, 165)",
+   "radius": "16px",
+   "pad": "0px 20px",
+   "size": "16px",
+   "weight": "600",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 48
+  },
+  {
+   "text": "Explore Enterprise",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(161, 164, 165)",
+   "radius": "16px",
+   "pad": "0px 20px",
+   "size": "16px",
+   "weight": "600",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 48
+  },
+  {
+   "text": "Send",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(240, 240, 240)",
+   "radius": "3.35544e+07px",
+   "pad": "5px 12px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgba(214, 235, 253, 0.19)",
+   "h": 32
+  },
+  {
+   "text": "Get started",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "16px",
+   "pad": "0px 20px",
+   "size": "16px",
+   "weight": "600",
+   "tt": "none",
+   "border": "2px solid oklab(0.999994 0.0000455678 0.0000200868 / 0.05)",
+   "h": 48
+  },
+  {
+   "text": "Check the docs",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(161, 164, 165)",
+   "radius": "16px",
+   "pad": "0px 20px",
+   "size": "16px",
+   "weight": "600",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 48
+  },
+  {
+   "text": "Get Started",
+   "bg": "rgb(0, 163, 255)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "4px",
+   "pad": "12px 20px",
+   "size": "14px",
+   "weight": "600",
+   "tt": "none",
+   "border": "none",
+   "h": 41
+  },
+  {
+   "text": "Intuitive analytics",
+   "bg": "rgba(214, 235, 253, 0.19)",
+   "color": "rgb(240, 240, 240)",
+   "radius": "16px",
+   "pad": "0px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 90
+  }
+ ],
+ "headings": [
+  "Email for developers",
+  "Integrate tonight",
+  "First-class developer experience",
+  "Test mode",
+  "Modular webhooks",
+  "Write using a delightful editor",
+  "Go beyond editing",
+  "Contact management",
+  "Broadcast analytics",
+  "Develop emails using React",
+  "Welcome to ACME, user!",
+  "Reach humans, not spam folders",
+  "Proactive blocklist tracking",
+  "Faster time to inbox",
+  "Build confidence with BIMI",
+  "Managed dedicated IPs",
+  "Dynamic suppression list",
+  "IP and domain monitoring",
+  "Verify DNS records",
+  "Battle-tested infrastructure",
+  "Prevent spoofing with DMARC",
+  "Everything in your control",
+  "Intuitive analytics",
+  "Full visibility",
+  "Domain authentication"
+ ],
+ "paras": [
+  "The best way to reach humans instead of spam folders. Deliver transactional and marketing emails at scale.",
+  "Companies of all sizes trust Resend to deliver their most important emails.",
+  "A simple, elegant interface so you can start sending emails in minutes. It fits right into your code with SDKs for your favorite programming languages.",
+  "We are a team of engineers who love building tools for other engineers. Our goal is to create the email platform we've always wished we had — one that just works.",
+  "Simulate events and experiment with our API without the risk of accidentally sending real emails to real people.",
+  "Receive real-time notifications directly to your server. Every time an email is delivered, opened, bounces, or a link is clicked.",
+  "A modern editor that makes it easy for anyone to write, format, and send emails. Visually build your email and change the design by adding custom styles.",
+  "Group and control your contacts in a simple and intuitive way. Straightforward analytics and reporting tools that will help you send better emails.",
+  "Import your list in minutes, regardless the size of your audience. Get full visibility of each contact and their personal attributes.",
+  "Unlock powerful insights and understand exactly how your audience is interacting with your broadcast emails."
+ ],
+ "footer": {
+  "h": 52,
+  "text": "View on GitHub Download ZIP"
+ },
+ "jsMotion": {
+  "scriptsFetched": 25,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "0",
+    4
+   ],
+   [
+    ".2",
+    1
+   ],
+   [
+    ".45",
+    1
+   ],
+   [
+    ".8",
+    1
+   ],
+   [
+    ".3",
+    1
+   ]
+  ],
+  "staggers": [],
+  "lenis": [],
+  "springs": [
+   [
+    "stiffness:100,damping:10",
+    2
+   ],
+   [
+    "type:\"spring\",duration:.2,bounce:0",
+    1
+   ],
+   [
+    "type:\"spring\",stiffness:500,damping:25,restSpeed:10",
+    1
+   ],
+   [
+    "type:\"spring\",stiffness:550,damping:0===e[1]?2*Math.sqrt(550):30,restSpee",
+    1
+   ]
+  ],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": [
+   [
+    "[.4,0,.1,1]",
+    1
+   ],
+   [
+    "[.25,.1,.35,1]",
+    1
+   ]
+  ]
+ }
+}

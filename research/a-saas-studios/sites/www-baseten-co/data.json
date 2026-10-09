@@ -1,0 +1,888 @@
+{
+ "url": "https://www.baseten.co",
+ "slug": "www-baseten-co",
+ "analyzedAt": "2026-10-07T05:22:45.693Z",
+ "scrollHeight": 8304,
+ "pageLengthInViewports": 9.2,
+ "title": "Inference Platform: Deploy AI models in production | Baseten",
+ "metaDescription": "Serve and scale open-source and custom AI models on the fastest, most reliable inference platform.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "chivoMono 400 normal",
+   "NeueAlteGrotesk 400 normal",
+   "NeueAlteGrotesk 600 normal",
+   "NeueAlteGrotesk Fallback normal normal"
+  ],
+  "families": [
+   [
+    "NeueAlteGrotesk",
+    98
+   ],
+   [
+    "chivoMono",
+    36
+   ],
+   [
+    "ui-sans-serif",
+    35
+   ],
+   [
+    "Chivo Mono",
+    8
+   ]
+  ],
+  "sizes": [
+   [
+    "16px",
+    108
+   ],
+   [
+    "14px",
+    22
+   ],
+   [
+    "24px",
+    15
+   ],
+   [
+    "13px",
+    8
+   ],
+   [
+    "300px",
+    8
+   ],
+   [
+    "64px",
+    6
+   ],
+   [
+    "18px",
+    4
+   ],
+   [
+    "48px",
+    2
+   ],
+   [
+    "22px",
+    2
+   ],
+   [
+    "88px",
+    1
+   ],
+   [
+    "12px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    148
+   ],
+   [
+    "600",
+    29
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    110
+   ],
+   [
+    "-0.020em@14",
+    21
+   ],
+   [
+    "-0.020em@24",
+    15
+   ],
+   [
+    "-0.020em@16",
+    14
+   ],
+   [
+    "-0.020em@13",
+    8
+   ],
+   [
+    "-0.030em@64",
+    6
+   ],
+   [
+    "-0.030em@48",
+    2
+   ],
+   [
+    "-0.020em@88",
+    1
+   ]
+  ],
+  "uppercaseShare": 0.16,
+  "largest": [
+   {
+    "tag": "span",
+    "text": "giItT1WQy@!-/#",
+    "family": "Chivo Mono",
+    "size": "300px",
+    "weight": "400",
+    "lh": "450px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "h1",
+    "text": "Inference is everything",
+    "family": "NeueAlteGrotesk",
+    "size": "88px",
+    "weight": "600",
+    "lh": "80px",
+    "ls": "-1.76px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "h2",
+    "text": "The platform for high-performance inference",
+    "family": "NeueAlteGrotesk",
+    "size": "64px",
+    "weight": "600",
+    "lh": "70px",
+    "ls": "-1.92px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "h1",
+    "text": "The fastest inference takes more than GPUs.",
+    "family": "NeueAlteGrotesk",
+    "size": "64px",
+    "weight": "600",
+    "lh": "70px",
+    "ls": "-1.92px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "h2",
+    "text": "Scale fast — in our cloud or yours.",
+    "family": "NeueAlteGrotesk",
+    "size": "64px",
+    "weight": "600",
+    "lh": "70px",
+    "ls": "-1.92px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "h2",
+    "text": "Engineered for the most demanding Gen AI apps",
+    "family": "NeueAlteGrotesk",
+    "size": "64px",
+    "weight": "600",
+    "lh": "70px",
+    "ls": "-1.92px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "h2",
+    "text": "What our customers are saying",
+    "family": "NeueAlteGrotesk",
+    "size": "64px",
+    "weight": "600",
+    "lh": "70px",
+    "ls": "-1.92px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "h2",
+    "text": "Explore Baseten today",
+    "family": "NeueAlteGrotesk",
+    "size": "64px",
+    "weight": "600",
+    "lh": "70px",
+    "ls": "-1.92px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "h2",
+    "text": "Dedicated inference for high-scale workloads",
+    "family": "NeueAlteGrotesk",
+    "size": "48px",
+    "weight": "600",
+    "lh": "60px",
+    "ls": "-1.44px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "span",
+    "text": "for high-scale workloads",
+    "family": "NeueAlteGrotesk",
+    "size": "48px",
+    "weight": "600",
+    "lh": "60px",
+    "ls": "-1.44px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "p",
+    "text": "The fastest model runtimes, cross-cloud high availability, and seamless developer workflow",
+    "family": "NeueAlteGrotesk",
+    "size": "24px",
+    "weight": "400",
+    "lh": "32px",
+    "ls": "-0.48px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "p",
+    "text": "Pre-optimized Model APIs",
+    "family": "NeueAlteGrotesk",
+    "size": "24px",
+    "weight": "600",
+    "lh": "30px",
+    "ls": "-0.48px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgba(0, 0, 0, 0)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(0, 0, 0)",
+    115
+   ],
+   [
+    "rgb(255, 255, 255)",
+    49
+   ],
+   [
+    "rgb(179, 179, 179)",
+    11
+   ],
+   [
+    "rgb(103, 110, 100)",
+    1
+   ],
+   [
+    "rgb(25, 231, 110)",
+    1
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(255, 255, 255)",
+    33
+   ],
+   [
+    "rgb(245, 248, 244)",
+    28
+   ],
+   [
+    "rgb(25, 231, 110)",
+    15
+   ],
+   [
+    "rgb(0, 0, 0)",
+    6
+   ],
+   [
+    "rgb(225, 234, 221)",
+    1
+   ],
+   [
+    "rgb(185, 198, 179)",
+    1
+   ],
+   [
+    "rgba(15, 139, 66, 0.5)",
+    1
+   ]
+  ],
+  "gradients": [
+   [
+    "repeating-linear-gradient(to right, rgb(217, 217, 217) 0px, rgb(217, 217, 217) 50%, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0))",
+    82
+   ],
+   [
+    "repeating-linear-gradient(rgb(217, 217, 217), rgb(217, 217, 217) 50%, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0))",
+    80
+   ],
+   [
+    "repeating-linear-gradient(rgb(77, 77, 77), rgb(77, 77, 77) 50%, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0))",
+    4
+   ],
+   [
+    "repeating-linear-gradient(to right, rgb(208, 211, 208) 0px, rgb(208, 211, 208) 50%, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0))",
+    2
+   ],
+   [
+    "repeating-linear-gradient(rgb(208, 211, 208), rgb(208, 211, 208) 50%, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0))",
+    2
+   ],
+   [
+    "repeating-linear-gradient(to right, rgb(77, 77, 77) 0px, rgb(77, 77, 77) 50%, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0))",
+    2
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.4,0,0.2,1)",
+    22
+   ],
+   [
+    "cubic-bezier(0.5,0.2,0.4,1)",
+    2
+   ],
+   [
+    "cubic-bezier(0.8,0,1,1)",
+    1
+   ],
+   [
+    "cubic-bezier(0,0,0.2,1)",
+    1
+   ],
+   [
+    "cubic-bezier(0.4,0,0.6,1)",
+    1
+   ],
+   [
+    "cubic-bezier(0,0.6,0.5,1)",
+    1
+   ],
+   [
+    "cubic-bezier(0.87,0,0.13,1)",
+    1
+   ]
+  ],
+  "durations": [
+   [
+    "75ms",
+    10
+   ],
+   [
+    "0.25s",
+    10
+   ],
+   [
+    "0.2s",
+    7
+   ],
+   [
+    "0.1s",
+    5
+   ],
+   [
+    "0.5s",
+    3
+   ],
+   [
+    "0.18s",
+    3
+   ],
+   [
+    "0.3s",
+    2
+   ],
+   [
+    "2s",
+    2
+   ],
+   [
+    "0.8s",
+    2
+   ],
+   [
+    "1s",
+    1
+   ]
+  ],
+  "keyframes": [
+   "bounce",
+   "pulse",
+   "highlight-grow",
+   "react-loading-skeleton",
+   "lines_lineRevealHorizontal__1hCed",
+   "lines_lineRevealVertical__2UDHG",
+   "hubspot_shake__pszsQ",
+   "styles_marqueeScroll__NLpCG",
+   "shimmer",
+   "hero_revealTitle__TrzUH"
+  ]
+ },
+ "cssVarSample": {},
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 1,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": true,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 61,
+  "video": 0,
+  "svg": 63,
+  "picture": 20,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [
+   [
+    "multiply",
+    15
+   ],
+   [
+    "darken",
+    3
+   ]
+  ],
+  "backdropFilter": 0,
+  "clipPath": 201,
+  "sticky": 1,
+  "fixed": [],
+  "customCursor": true,
+  "boxShadows": [],
+  "filters": [
+   [
+    "url(\"#__lottie_element_669\")",
+    1
+   ],
+   [
+    "url(\"#__lottie_element_655\")",
+    1
+   ],
+   [
+    "url(\"#__lottie_element_620\")",
+    1
+   ],
+   [
+    "url(\"#__lottie_element_627\")",
+    1
+   ],
+   [
+    "url(\"#__lottie_element_641\")",
+    1
+   ]
+  ],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "9999px",
+   1
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgba(0, 0, 0, 0.05)",
+   5
+  ],
+  [
+   "bottom:1px dashed rgb(204, 204, 204)",
+   1
+  ],
+  [
+   "1px solid rgb(144, 154, 139)",
+   1
+  ]
+ ],
+ "grids": [
+  [
+   "12cols gap 24px",
+   4
+  ],
+  [
+   "3cols gap 0px",
+   4
+  ],
+  [
+   "7cols gap 0px",
+   4
+  ],
+  [
+   "9cols gap 0px",
+   3
+  ],
+  [
+   "10cols gap 0px",
+   2
+  ],
+  [
+   "6cols gap 0px",
+   2
+  ],
+  [
+   "3cols gap normal",
+   2
+  ],
+  [
+   "3cols gap 24px",
+   2
+  ]
+ ],
+ "containers": [
+  [
+   "1296px",
+   17
+  ],
+  [
+   "856px",
+   1
+  ],
+  [
+   "768px",
+   1
+  ],
+  [
+   "100%",
+   1
+  ]
+ ],
+ "sideMargins": [
+  [
+   "112px",
+   11
+  ],
+  [
+   "971px",
+   6
+  ],
+  [
+   "128px",
+   4
+  ],
+  [
+   "160px",
+   4
+  ],
+  [
+   "113px",
+   4
+  ],
+  [
+   "757px",
+   4
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "relative w-full overflow-hidden h-auto md:h-[500px",
+   "h": 500,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "flex flex-col justify-center overflow-clip relativ",
+   "h": 334,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "relative pt-12 overflow-hidden lg:pt-16 bg-b-fills",
+   "h": 1424,
+   "padTop": "64px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "relative overflow-hidden",
+   "h": 1566,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "relative pb-12 overflow-hidden",
+   "h": 1044,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "overflow-hidden bg-b-fills-200",
+   "h": 856,
+   "padTop": "0px",
+   "bg": "rgb(245, 248, 244)"
+  },
+  {
+   "cls": "relative overflow-hidden",
+   "h": 1066,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "relative overflow-hidden pt-[1px]",
+   "h": 443,
+   "padTop": "1px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "NAV",
+  "position": "static",
+  "height": 38,
+  "links": 8,
+  "linkTexts": [
+   "Products",
+   "Solutions",
+   "Resources",
+   "Models",
+   "Customers",
+   "Pricing",
+   "Base Labs",
+   "Docs",
+   "LOG IN",
+   "GET STARTED"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "LOG IN",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "0px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "uppercase",
+   "border": "none",
+   "h": 36
+  },
+  {
+   "text": "GET STARTED",
+   "bg": "rgb(0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "0px",
+   "pad": "0px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "uppercase",
+   "border": "none",
+   "h": 36
+  },
+  {
+   "text": "GET STARTED",
+   "bg": "rgb(0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "0px",
+   "pad": "0px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "uppercase",
+   "border": "none",
+   "h": 48
+  },
+  {
+   "text": "TALK TO AN ENGINEER",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "0px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "uppercase",
+   "border": "none",
+   "h": 48
+  },
+  {
+   "text": "START DEPLOYING",
+   "bg": "rgb(0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "0px",
+   "pad": "0px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "uppercase",
+   "border": "none",
+   "h": 36
+  },
+  {
+   "text": "LEARN MORE",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "0px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "uppercase",
+   "border": "none",
+   "h": 36
+  },
+  {
+   "text": "LEARN MORE",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "0px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "uppercase",
+   "border": "none",
+   "h": 36
+  },
+  {
+   "text": "LEARN MORE",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "0px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "uppercase",
+   "border": "none",
+   "h": 36
+  },
+  {
+   "text": "LEARN MORE",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "0px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "uppercase",
+   "border": "none",
+   "h": 36
+  },
+  {
+   "text": "LEARN MORE",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "0px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "uppercase",
+   "border": "none",
+   "h": 36
+  }
+ ],
+ "headings": [
+  "Inference is everything",
+  "The platform for high-performance inference",
+  "Dedicated inference for high-scale workloads",
+  "The fastest inference takes more than GPUs.",
+  "Scale fast — in our cloud or yours.",
+  "Engineered for the most demanding Gen AI apps",
+  "Rapid image generation",
+  "Optimized transcription",
+  "SOTA text-to-speech",
+  "Performant LLM runtimes",
+  "The fastest embeddings",
+  "Ultra-low-latency compound AI",
+  "What our customers are saying",
+  "Explore Baseten today"
+ ],
+ "paras": [
+  "The fastest model runtimes, cross-cloud high availability, and seamless developer workflows. Powered by the Baseten Inference Stack.",
+  "Serve open-source, custom, and fine-tuned AI models on infra purpose-built for high-performance inference at massive scale.",
+  "Test new workloads, prototype products, or evaluate the latest AI models optimized to be the fastest in production — instantly.",
+  "Train your models with frontier RL using the Loops SDK and easily deploy them to production inference on the same stack.",
+  "Distribute and monetize your model on Baseten infrastructure",
+  "Baseten delivers the infrastructure, tooling, and expertise needed to bring the most performant AI products to market—fast.",
+  "Bleeding-edge performance research",
+  "Run cutting-edge performance research with custom kernels, the latest decoding techniques, and advanced caching baked into the Baseten Inference Stack.",
+  "Inference-optimized infrastructure",
+  "Scale workloads across any region and any cloud (in our cloud or yours), with blazing-fast cold starts and 99.99% uptime out of the box."
+ ],
+ "footer": {
+  "h": 36,
+  "text": "NATHAN SOBO CO-FOUNDER, ZED INDUSTRIES"
+ },
+ "jsMotion": {
+  "scriptsFetched": 21,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "800",
+    1
+   ],
+   [
+    ".8",
+    1
+   ],
+   [
+    ".3",
+    1
+   ]
+  ],
+  "staggers": [],
+  "lenis": [],
+  "springs": [
+   [
+    "stiffness:100,damping:10",
+    1
+   ],
+   [
+    "type:\"spring\",stiffness:500,damping:25,restSpeed:10",
+    1
+   ],
+   [
+    "type:\"spring\",stiffness:550,damping:0===e[1]?2*Math.sqrt(550):30,restSpee",
+    1
+   ],
+   [
+    "type:\"spring\",stiffness:300,damping:25",
+    1
+   ]
+  ],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": [
+   [
+    "[.25,.1,.35,1]",
+    1
+   ]
+  ]
+ }
+}

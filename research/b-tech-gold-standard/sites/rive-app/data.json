@@ -1,0 +1,655 @@
+{
+ "url": "https://rive.app",
+ "slug": "rive-app",
+ "analyzedAt": "2026-10-07T05:15:33.346Z",
+ "scrollHeight": 5330,
+ "pageLengthInViewports": 5.9,
+ "title": "Rive — the interactive experience engine",
+ "metaDescription": "Behind Spotify Wrapped, Duolingo, and products reaching 2 billion users. Design, animate, and code in one place. Ship everywhere.",
+ "lang": "en-US",
+ "type": {
+  "loadedFonts": [
+   "Orbitron 700 normal",
+   "Tomorrow 400 normal",
+   "Tomorrow 500 normal",
+   "Orbitron 900 normal",
+   "PragmataPro VF Variable Regular 400 normal",
+   "Inter 500 normal",
+   "Inter 400 normal",
+   "Inter 600 normal",
+   "Inter Display 400 normal",
+   "Tomorrow Placeholder normal normal",
+   "Orbitron Placeholder normal normal",
+   "PragmataPro VF Variable Regular Placeholder normal normal",
+   "Inter Placeholder normal normal",
+   "Inter Display Placeholder normal normal"
+  ],
+  "families": [
+   [
+    "Tomorrow",
+    68
+   ],
+   [
+    "Inter",
+    57
+   ],
+   [
+    "Inter Display",
+    18
+   ],
+   [
+    "Orbitron",
+    5
+   ],
+   [
+    "PragmataPro VF Variable Regular",
+    5
+   ]
+  ],
+  "sizes": [
+   [
+    "14px",
+    43
+   ],
+   [
+    "16px",
+    42
+   ],
+   [
+    "11px",
+    36
+   ],
+   [
+    "13px",
+    14
+   ],
+   [
+    "12px",
+    13
+   ],
+   [
+    "24px",
+    3
+   ],
+   [
+    "40px",
+    1
+   ],
+   [
+    "20px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "500",
+    82
+   ],
+   [
+    "400",
+    66
+   ],
+   [
+    "700",
+    4
+   ],
+   [
+    "900",
+    1
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    94
+   ],
+   [
+    "0.010em@11",
+    36
+   ],
+   [
+    "0.050em@14",
+    9
+   ],
+   [
+    "0.100em@12",
+    7
+   ],
+   [
+    "0.100em@14",
+    4
+   ],
+   [
+    "0.010em@40",
+    1
+   ],
+   [
+    "0.008em@24",
+    1
+   ],
+   [
+    "0.010em@20",
+    1
+   ]
+  ],
+  "uppercaseShare": 0.48,
+  "largest": [
+   {
+    "tag": "h1",
+    "text": "THE INTERACTIVE EXPERIENCE ENGINE",
+    "family": "Orbitron",
+    "size": "40px",
+    "weight": "900",
+    "lh": "48px",
+    "ls": "0.4px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "h2",
+    "text": "DESIGN, CODE, AND ANIMATE",
+    "family": "Orbitron",
+    "size": "24px",
+    "weight": "700",
+    "lh": "33.6px",
+    "ls": "normal",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(241, 241, 241)"
+   },
+   {
+    "tag": "h2",
+    "text": "BUILD ONCE, SHIP ANYWHERE",
+    "family": "Orbitron",
+    "size": "24px",
+    "weight": "700",
+    "lh": "33.6px",
+    "ls": "normal",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(241, 241, 241)"
+   },
+   {
+    "tag": "h2",
+    "text": "PRODUCTS BUILT WITH RIVE REACH OVER 2 BILLION USERS WORLDWIDE",
+    "family": "Orbitron",
+    "size": "24px",
+    "weight": "700",
+    "lh": "31.2px",
+    "ls": "0.2px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(241, 241, 241)"
+   },
+   {
+    "tag": "h2",
+    "text": "JOIN OUR NEWSLETTER",
+    "family": "Orbitron",
+    "size": "20px",
+    "weight": "700",
+    "lh": "24px",
+    "ls": "0.2px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(241, 241, 241)"
+   },
+   {
+    "tag": "p",
+    "text": "Build interactive UI, motion, and game experiences in the Editor, or let an agent generate",
+    "family": "Inter",
+    "size": "16px",
+    "weight": "400",
+    "lh": "25.6px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgba(255, 255, 255, 0.6)"
+   },
+   {
+    "tag": "p",
+    "text": "Rive is where designers, animators, and developers build interactive experiences. Design, ",
+    "family": "Inter",
+    "size": "16px",
+    "weight": "400",
+    "lh": "25.6px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgba(255, 255, 255, 0.6)"
+   },
+   {
+    "tag": "p",
+    "text": "Open source runtimes that run your Rive files natively on any platform. Powered by the Riv",
+    "family": "Inter",
+    "size": "16px",
+    "weight": "400",
+    "lh": "25.6px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgba(255, 255, 255, 0.6)"
+   },
+   {
+    "tag": "p",
+    "text": "Spotify, Duolingo, Disney, Google, and Fortune 500 automakers use Rive to build once and s",
+    "family": "Inter",
+    "size": "16px",
+    "weight": "400",
+    "lh": "25.6px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgba(255, 255, 255, 0.6)"
+   },
+   {
+    "tag": "p",
+    "text": "Rive is the interactive design and animation engine behind products at Spotify, Duolingo, ",
+    "family": "Inter",
+    "size": "16px",
+    "weight": "400",
+    "lh": "25.6px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgba(255, 255, 255, 0.6)"
+   },
+   {
+    "tag": "p",
+    "text": "Get all the latest Rive news delivered to your inbox.",
+    "family": "Inter",
+    "size": "16px",
+    "weight": "400",
+    "lh": "25.6px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgba(255, 255, 255, 0.6)"
+   },
+   {
+    "tag": "a",
+    "text": "Editor",
+    "family": "Inter",
+    "size": "16px",
+    "weight": "500",
+    "lh": "19.2px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(153, 153, 153)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(0, 0, 0)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(153, 153, 153)",
+    42
+   ],
+   [
+    "rgb(255, 255, 255)",
+    35
+   ],
+   [
+    "rgb(242, 240, 240)",
+    27
+   ],
+   [
+    "rgba(255, 255, 255, 0.6)",
+    20
+   ],
+   [
+    "rgb(170, 170, 170)",
+    18
+   ],
+   [
+    "rgb(241, 241, 241)",
+    4
+   ],
+   [
+    "rgb(25, 242, 255)",
+    2
+   ],
+   [
+    "rgb(255, 164, 28)",
+    2
+   ],
+   [
+    "rgba(255, 255, 255, 0.5)",
+    1
+   ],
+   [
+    "rgb(113, 255, 25)",
+    1
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(18, 18, 18)",
+    18
+   ],
+   [
+    "rgb(0, 0, 0)",
+    13
+   ],
+   [
+    "rgb(38, 38, 38)",
+    9
+   ],
+   [
+    "rgb(29, 29, 29)",
+    7
+   ],
+   [
+    "rgb(17, 17, 17)",
+    3
+   ],
+   [
+    "rgb(255, 255, 255)",
+    1
+   ],
+   [
+    "rgb(235, 235, 235)",
+    1
+   ],
+   [
+    "rgba(255, 255, 255, 0.1)",
+    1
+   ]
+  ],
+  "gradients": []
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.12,0.23,0.5,1)",
+    1
+   ]
+  ],
+  "durations": [
+   [
+    "0.1s",
+    1
+   ],
+   [
+    "0.4s",
+    1
+   ]
+  ],
+  "keyframes": []
+ },
+ "cssVarSample": {},
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 2,
+  "barba": false,
+  "swup": false,
+  "framer": true,
+  "webflow": false,
+  "next": false,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": true,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 50,
+  "video": 10,
+  "svg": 15,
+  "picture": 0,
+  "iframes": 1
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 0,
+  "clipPath": 1,
+  "sticky": 0,
+  "fixed": [
+   "framer-1dpyk88-container"
+  ],
+  "customCursor": false,
+  "boxShadows": [
+   [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 1px inset",
+    1
+   ]
+  ],
+  "filters": [],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "4px",
+   26
+  ],
+  [
+   "8px",
+   21
+  ],
+  [
+   "5px",
+   12
+  ],
+  [
+   "8px 8px 0px 0px",
+   9
+  ],
+  [
+   "0px 0px 8px 8px",
+   9
+  ]
+ ],
+ "borders": [],
+ "grids": [
+  [
+   "5cols gap 30px",
+   1
+  ],
+  [
+   "3cols gap 30px",
+   1
+  ],
+  [
+   "2cols gap 15px",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "1000px",
+   9
+  ],
+  [
+   "730px",
+   2
+  ],
+  [
+   "100%",
+   1
+  ]
+ ],
+ "sideMargins": [
+  [
+   "276px",
+   12
+  ],
+  [
+   "619px",
+   12
+  ],
+  [
+   "963px",
+   12
+  ],
+  [
+   "892px",
+   12
+  ],
+  [
+   "220px",
+   11
+  ],
+  [
+   "376px",
+   9
+  ]
+ ],
+ "sections": [],
+ "nav": {
+  "tag": "NAV",
+  "position": "relative",
+  "height": 64,
+  "links": 5,
+  "linkTexts": [
+   "PRICING",
+   "DOWNLOADS",
+   "DOCS",
+   "GET STARTED"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "GET STARTED",
+   "bg": "rgb(29, 29, 29)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "4px",
+   "pad": "0px 16px",
+   "size": "12px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 40
+  },
+  {
+   "text": "SIGN UP",
+   "bg": "rgb(29, 29, 29)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "4px",
+   "pad": "0px 16px",
+   "size": "12px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 40
+  },
+  {
+   "text": "DOWNLOAD DESKTOP APP",
+   "bg": "rgb(29, 29, 29)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "4px",
+   "pad": "0px 16px",
+   "size": "12px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 40
+  },
+  {
+   "text": "LEARN MORE",
+   "bg": "rgb(29, 29, 29)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "4px",
+   "pad": "0px 16px",
+   "size": "12px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 40
+  },
+  {
+   "text": "FEATURES",
+   "bg": "rgb(29, 29, 29)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "4px",
+   "pad": "0px 16px",
+   "size": "12px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 40
+  },
+  {
+   "text": "LEARN MORE",
+   "bg": "rgb(29, 29, 29)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "4px",
+   "pad": "0px 16px",
+   "size": "12px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 40
+  },
+  {
+   "text": "DOCS",
+   "bg": "rgb(29, 29, 29)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "4px",
+   "pad": "0px 16px",
+   "size": "12px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 40
+  }
+ ],
+ "headings": [
+  "THE INTERACTIVE EXPERIENCE ENGINE",
+  "RIVE CLI",
+  "RIVE EDITOR",
+  "RIVE EDITOR",
+  "DESIGN, CODE, AND ANIMATE",
+  "RIVE RUNTIMES",
+  "BUILD ONCE, SHIP ANYWHERE",
+  "PRODUCTS BUILT WITH RIVE REACH OVER 2 BILLION USERS WORLDWIDE",
+  "JOIN OUR NEWSLETTER"
+ ],
+ "paras": [
+  "Build interactive UI, motion, and game experiences in the Editor, or let an agent generate them with the CLI. What you build runs natively on mobile, desktop, web, consoles, TVs, and vehicles.",
+  "curl -fsSL https://releases.rive.app/cli/install.sh | sh",
+  "Trusted by Spotify Wrapped, Duolingo, and products reaching 2 billion users.",
+  "Rive is where designers, animators, and developers build interactive experiences. Design, animate, and code in one place. What you build in the editor is what ships in your app, game, or website. No mockups, no prototype",
+  "Open source runtimes that run your Rive files natively on any platform. Powered by the Rive Renderer — a GPU-accelerated vector graphics engine running at 120fps with perfect quality.",
+  "Spotify, Duolingo, Disney, Google, and Fortune 500 automakers use Rive to build once and ship everywhere — websites, apps, games, devices, and vehicles. Designers and developers work with the same tools. No silos. What y",
+  "Rive is the interactive design and animation engine behind products at Spotify, Duolingo, Disney, ESPN, LinkedIn, Google, and Fortune 500 automakers. Design, animate, and code interactive experiences in one tool — then s",
+  "300 million users engaged with Wrapped, up 20%. 630 million shares on social media, up 42%. Day one marked the highest single day of subscriber intake in Spotify history.",
+  "Using Lottie felt like playing 3D chess. All my decisions were tied to the pain I was anticipating. With Rive, we cut process time to 20% of what it was.",
+  "By switching to Rive, we achieved up to 90% smaller file sizes, a 10% reduction in app launch times, and a 50% faster design-to-development handoff."
+ ],
+ "footer": {
+  "h": 758,
+  "text": "PRODUCT Editor Runtimes Renderer Changelog COMMUNITY Marketplace Community Bug Reports Support Voyager Support Feature Requests Discord Experts LEARN Documentation Blog Newsletter Features COMPANY Careers Merch Terms Privacy USE CASES Automotive Product UI Game UI Websites Mobile Apps Film + TV Broa"
+ },
+ "jsMotion": {
+  "scriptsFetched": 6,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [],
+  "staggers": [],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

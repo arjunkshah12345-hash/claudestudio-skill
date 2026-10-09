@@ -1,0 +1,826 @@
+{
+ "url": "https://www.obama.org/",
+ "slug": "www-obama-org",
+ "analyzedAt": "2026-10-07T05:16:54.637Z",
+ "scrollHeight": 10443,
+ "pageLengthInViewports": 11.6,
+ "title": "Welcome to the Obama Foundation | The Obama Foundation",
+ "metaDescription": "The Obama Foundation's mission is to inspire, empower, and connect people to change their world. ",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "Gotham Condensed 700 normal",
+   "Gotham-Fallback normal normal",
+   "Gotham 500 normal",
+   "Chronicle Text G1 400 normal",
+   "Chronicle Text G1 700 normal"
+  ],
+  "families": [
+   [
+    "Gotham Condensed",
+    111
+   ],
+   [
+    "Chronicle Text G1",
+    35
+   ],
+   [
+    "Gotham",
+    31
+   ]
+  ],
+  "sizes": [
+   [
+    "24px",
+    56
+   ],
+   [
+    "15px",
+    31
+   ],
+   [
+    "32px",
+    28
+   ],
+   [
+    "16px",
+    28
+   ],
+   [
+    "72px",
+    16
+   ],
+   [
+    "100px",
+    7
+   ],
+   [
+    "13px",
+    5
+   ],
+   [
+    "54px",
+    2
+   ],
+   [
+    "230px",
+    2
+   ],
+   [
+    "22px",
+    1
+   ],
+   [
+    "34px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    171
+   ],
+   [
+    "600",
+    3
+   ],
+   [
+    "700",
+    3
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    114
+   ],
+   [
+    "-0.033em@15",
+    31
+   ],
+   [
+    "-0.017em@72",
+    16
+   ],
+   [
+    "-0.015em@100",
+    7
+   ],
+   [
+    "0.010em@13",
+    3
+   ],
+   [
+    "-0.013em@16",
+    2
+   ],
+   [
+    "-0.011em@230",
+    2
+   ],
+   [
+    "-0.009em@22",
+    1
+   ],
+   [
+    "-0.006em@34",
+    1
+   ]
+  ],
+  "uppercaseShare": 0.01,
+  "largest": [
+   {
+    "tag": "span",
+    "text": "DONATE",
+    "family": "Gotham Condensed",
+    "size": "230.4px",
+    "weight": "700",
+    "lh": "184.32px",
+    "ls": "-2.48px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "TODAY",
+    "family": "Gotham Condensed",
+    "size": "230.4px",
+    "weight": "700",
+    "lh": "184.32px",
+    "ls": "-2.48px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "div",
+    "text": "A campus",
+    "family": "Gotham Condensed",
+    "size": "100px",
+    "weight": "400",
+    "lh": "90px",
+    "ls": "-1.5px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "div",
+    "text": "A museum",
+    "family": "Gotham Condensed",
+    "size": "100px",
+    "weight": "400",
+    "lh": "90px",
+    "ls": "-1.5px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "div",
+    "text": "Art",
+    "family": "Gotham Condensed",
+    "size": "100px",
+    "weight": "400",
+    "lh": "90px",
+    "ls": "-1.5px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "div",
+    "text": "Sports",
+    "family": "Gotham Condensed",
+    "size": "100px",
+    "weight": "400",
+    "lh": "90px",
+    "ls": "-1.5px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "div",
+    "text": "Events",
+    "family": "Gotham Condensed",
+    "size": "100px",
+    "weight": "400",
+    "lh": "90px",
+    "ls": "-1.5px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "div",
+    "text": "that bring change home",
+    "family": "Gotham Condensed",
+    "size": "100px",
+    "weight": "400",
+    "lh": "90px",
+    "ls": "-1.5px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "Our",
+    "family": "Gotham Condensed",
+    "size": "72px",
+    "weight": "400",
+    "lh": "64.8px",
+    "ls": "-1.2px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "span",
+    "text": "mission",
+    "family": "Gotham Condensed",
+    "size": "72px",
+    "weight": "400",
+    "lh": "64.8px",
+    "ls": "-1.2px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "span",
+    "text": "is",
+    "family": "Gotham Condensed",
+    "size": "72px",
+    "weight": "400",
+    "lh": "64.8px",
+    "ls": "-1.2px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "span",
+    "text": "to",
+    "family": "Gotham Condensed",
+    "size": "72px",
+    "weight": "400",
+    "lh": "64.8px",
+    "ls": "-1.2px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgba(0, 0, 0, 0)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(0, 0, 0)",
+    97
+   ],
+   [
+    "rgb(255, 255, 255)",
+    60
+   ],
+   [
+    "rgba(0, 0, 0, 0.6)",
+    18
+   ],
+   [
+    "rgba(0, 0, 0, 0.75)",
+    2
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(255, 255, 255)",
+    23
+   ],
+   [
+    "rgb(0, 0, 0)",
+    19
+   ],
+   [
+    "rgb(255, 189, 18)",
+    2
+   ],
+   [
+    "rgb(0, 100, 240)",
+    2
+   ],
+   [
+    "rgb(142, 221, 255)",
+    1
+   ],
+   [
+    "rgb(243, 243, 238)",
+    1
+   ],
+   [
+    "rgba(0, 0, 0, 0.5)",
+    1
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(rgb(255, 255, 255), rgb(255, 255, 255))",
+    27
+   ],
+   [
+    "linear-gradient(rgb(0, 0, 0), rgb(0, 0, 0))",
+    15
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.33,1,0.68,1)",
+    17
+   ],
+   [
+    "cubic-bezier(0.4,0,0.2,1)",
+    10
+   ],
+   [
+    "cubic-bezier(0.25,0.1,0.25,0.1)",
+    3
+   ],
+   [
+    "cubic-bezier(0.61,1,0.88,1)",
+    1
+   ],
+   [
+    "cubic-bezier(0.65,0,0.35,1)",
+    1
+   ],
+   [
+    "cubic-bezier(0.4,0,1,1)",
+    1
+   ]
+  ],
+  "durations": [
+   [
+    "0.15s",
+    11
+   ],
+   [
+    "0.2s",
+    9
+   ],
+   [
+    "0.1s",
+    8
+   ],
+   [
+    "0.3s",
+    7
+   ],
+   [
+    "0.5s",
+    6
+   ],
+   [
+    "0.4s",
+    5
+   ],
+   [
+    "0.25s",
+    5
+   ],
+   [
+    "1s",
+    4
+   ],
+   [
+    ".5s",
+    3
+   ],
+   [
+    "1.5s",
+    1
+   ]
+  ],
+  "keyframes": [
+   "fun-widget-backdrop",
+   "fun-widget-backdrop-fadein",
+   "fun-widget-backdrop-rotate",
+   "spin",
+   "text",
+   "onetrust-fade-in",
+   "ot-slide-in-left",
+   "ot-slide-in-right",
+   "ot-slide-out-left",
+   "ot-slide-out-right",
+   "svelte-1tlvh7w-dots",
+   "svelte-sjyosd-fly-in",
+   "svelte-1naeu77-fly-in",
+   "slide-down-custom"
+  ]
+ },
+ "cssVarSample": {
+  "--grid-columns": "4",
+  "--grid-gap": "1.875rem",
+  "--grid-gap-half": ".9375rem",
+  "--grid-margin": "1.875rem",
+  "--grid-max-width": "120rem",
+  "--nav-height": "92px",
+  "--embed-height": "350px",
+  "--stack-level-layer-top": "1000",
+  "--stack-level-layer-9": "900",
+  "--stack-level-layer-8": "800",
+  "--stack-level-layer-7": "700",
+  "--stack-level-layer-6": "600",
+  "--stack-level-layer-5": "500",
+  "--stack-level-layer-4": "400",
+  "--stack-level-layer-3": "300",
+  "--stack-level-layer-2": "200",
+  "--stack-level-layer-1": "100",
+  "--stack-level-layer-base": "0",
+  "--stack-level-layer-minus-1": "-100",
+  "--stack-level-layer-minus-2": "-200",
+  "--stack-level-layer-minus-3": "-300",
+  "--stack-level-layer-minus-4": "-400",
+  "--stack-level-layer-bottom": "-500",
+  "--stack-level-popup": "var(--stack-level-layer-6)",
+  "--stack-level-drawer": "var(--stack-level-layer-5)",
+  "--stack-level-drawer-background": "calc(var(--stack-level-drawer) - 1)",
+  "--stack-level-top-banner": "calc(var(--stack-level-drawer) - 2)",
+  "--stack-level-global-nav": "var(--stack-level-layer-4)",
+  "--stack-level-global-nav-bar-mobile": "calc(var(--stack-level-global-nav) + 1)",
+  "--stack-level-global-nav-animation-wrapper": "calc(var(--stack-level-global-nav) - 1)",
+  "--stack-level-bottom-banner": "calc(var(--stack-level-global-nav) - 2)",
+  "--stack-level-video-controls": "calc(var(--stack-level-layer-1) + 2)",
+  "--stack-level-overlay": "calc(var(--stack-level-layer-1) + 1)",
+  "--stack-level-video-iframe": "var(--stack-level-layer-1)",
+  "--stack-level-youtube-iframe": "var(--stack-level-layer-1)",
+  "--stack-level-newsletter-confirmation": "var(--stack-level-layer-1)",
+  "--stack-level-card": "var(--stack-level-layer-1)",
+  "--stack-level-event-card-bg": "var(--stack-level-layer-minus-1)",
+  "--stack-level-schedule-list-title": "var(--stack-level-layer-1)",
+  "--stack-level-pattern-container": "var(--stack-level-layer-base)",
+  "--stack-level-pattern-background": "calc(var(--stack-level-pattern-container) - 1)"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": true,
+  "shopify": false,
+  "splitText": true,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 21,
+  "video": 1,
+  "svg": 71,
+  "picture": 0,
+  "iframes": 15
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 0,
+  "clipPath": 6,
+  "sticky": 5,
+  "fixed": [
+   "onetrust-pc-dark-filter ot-fade-in",
+   "otFloatingRounded otRelFont ot-bottom-left ot-wo-title verti"
+  ],
+  "customCursor": true,
+  "boxShadows": [
+   [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.1) 0px 8px 10px -6px",
+    1
+   ],
+   [
+    "rgba(0, 0, 0, 0.2) 0px 0px 18px 0px",
+    1
+   ]
+  ],
+  "filters": [],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "2px",
+   4
+  ],
+  [
+   "2.5px",
+   1
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgb(255, 255, 255)",
+   9
+  ],
+  [
+   "1px solid rgb(0, 0, 0)",
+   7
+  ],
+  [
+   "bottom:1px solid rgb(0, 0, 0)",
+   5
+  ],
+  [
+   "1px solid rgb(0, 100, 240)",
+   1
+  ]
+ ],
+ "grids": [
+  [
+   "12cols gap 72px",
+   16
+  ],
+  [
+   "6cols gap 72px",
+   5
+  ],
+  [
+   "3cols gap 72px",
+   3
+  ],
+  [
+   "1cols gap normal",
+   2
+  ]
+ ],
+ "containers": [
+  [
+   "1920px",
+   18
+  ],
+  [
+   "100%",
+   2
+  ],
+  [
+   "70%",
+   1
+  ]
+ ],
+ "sideMargins": [
+  [
+   "60px",
+   5
+  ],
+  [
+   "110px",
+   5
+  ],
+  [
+   "1104px",
+   1
+  ],
+  [
+   "755px",
+   1
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "page-body last-page-element mb-15 md:mb-20 lg:mb-2",
+   "h": 8582,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "relative flex h-svh w-full flex-col overflow-hidde",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgb(0, 0, 0)"
+  },
+  {
+   "cls": "text-black bg-white  section embedded-content ",
+   "h": 1066,
+   "padTop": "0px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "text-black bg-white  section embedded-content ",
+   "h": 959,
+   "padTop": "0px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "text-black bg-white  section embedded-content ",
+   "h": 354,
+   "padTop": "0px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "text-black bg-white  section embedded-content ",
+   "h": 1778,
+   "padTop": "0px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "text-black bg-white  section embedded-content ",
+   "h": 949,
+   "padTop": "0px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "text-black bg-white  section embedded-content ",
+   "h": 2498,
+   "padTop": "0px",
+   "bg": "rgb(255, 255, 255)"
+  }
+ ],
+ "nav": {
+  "tag": "NAV",
+  "position": "sticky",
+  "height": 74,
+  "links": 7,
+  "linkTexts": [
+   "The Obama Foundation – Home",
+   "Visit",
+   "What's On",
+   "Programs",
+   "Stories",
+   "Support us",
+   "Search",
+   "Donate"
+  ],
+  "bg": "rgb(255, 255, 255)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "Skip to content",
+   "bg": "rgb(0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "0px",
+   "pad": "16px 24px",
+   "size": "24px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(0, 0, 0)",
+   "h": 58
+  },
+  {
+   "text": "Donate",
+   "bg": "rgb(0, 100, 240)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "0px",
+   "pad": "24px 32px",
+   "size": "24px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(0, 100, 240)",
+   "h": 74
+  },
+  {
+   "text": "Visit Campus",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "16px 24px",
+   "size": "24px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(0, 0, 0)",
+   "h": 58
+  },
+  {
+   "text": "Explore Exhibits",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "16px 24px",
+   "size": "24px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(0, 0, 0)",
+   "h": 58
+  },
+  {
+   "text": "Submit",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "16px 24px",
+   "size": "24px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(0, 0, 0)",
+   "h": 58
+  },
+  {
+   "text": "Donate",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "16px 24px",
+   "size": "24px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(255, 255, 255)",
+   "h": 58
+  },
+  {
+   "text": "Your Opt-Out Rights",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "2px",
+   "pad": "12px 0px",
+   "size": "13.008px",
+   "weight": "600",
+   "tt": "none",
+   "border": "none",
+   "h": 40
+  },
+  {
+   "text": "Reject Optional",
+   "bg": "rgb(0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "2px",
+   "pad": "12px 10px",
+   "size": "13.008px",
+   "weight": "600",
+   "tt": "none",
+   "border": "1px solid rgb(0, 0, 0)",
+   "h": 42
+  },
+  {
+   "text": "Accept All",
+   "bg": "rgb(0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "2px",
+   "pad": "12px 10px",
+   "size": "13.008px",
+   "weight": "600",
+   "tt": "none",
+   "border": "1px solid rgb(0, 0, 0)",
+   "h": 42
+  }
+ ],
+ "headings": [
+  "A campus A museum Art Sports Events A campus that bring change home",
+  "Visit",
+  "Experience the Center",
+  "Our mission is to inspire, empower, and connect people to change their world.",
+  "Inspiration from leaders and communities around the world.",
+  "Be an insider",
+  "Empowering the next generation of changemakers.",
+  "undefined",
+  "DONATE TODAY",
+  "Opt out of sale of personal data and targeted advertising",
+  "Manage Consent Preferences",
+  "Cookie List"
+ ],
+ "paras": [
+  "Our campus and museum, where people from around the world come to get inspired and bring change home.",
+  "Get a close-up look at life in the Obama White House and explore the moments that shaped President and Mrs. Obama, brought to life through captivating exhibits, unique artifacts, and hands-on interactions.",
+  "We need your help to turn hope into action—to inspire, empower, and connect people to change their world.",
+  "Mon: 1 - 8 p.m. Tues - Sun: 10 a.m. - 5 p.m.",
+  "Mon: 1 p.m. - 8 p.m. Tues - Sun: 10 a.m. - 5 p.m.",
+  "Mon/Wed: 12 p.m. - 8 p.m. Tues/Thurs: 10 a.m. - 6 p.m. Fri/Sat: 9 a.m. - 5 p.m. Sun: 1 p.m. - 5 p.m.",
+  "The Obama Foundation is a nonpartisan 501(c)(3) nonprofit organization on a mission to inspire, empower, and connect people to change their world. Read more about our tax-exempt status.",
+  "© 2026 The Barack Obama Foundation.",
+  "These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your",
+  "Third party trackers collect information used for analytics and to personalize your experience with targeted ads. Under the Colorado Privacy Act, you have the right to opt-out of the sale of your personal data to third p"
+ ],
+ "footer": {
+  "h": 1616,
+  "text": "DONATE TODAY We need your help to turn hope into action—to inspire, empower, and connect people to change their world. Donate Visit 6001 S. Stony Island Ave. 1-(773)-900-0044 Campus Mon - Sun: 6 a.m. - 9 p.m. The Museum Mon: 1 - 8 p.m. Tues - Sun: 10 a.m. - 5 p.m. Forum Building Mon: 1 p.m. - 8 p.m."
+ },
+ "jsMotion": {
+  "scriptsFetched": 3,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [],
+  "staggers": [],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

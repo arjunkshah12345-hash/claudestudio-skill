@@ -1,0 +1,421 @@
+{
+ "url": "https://immersivebags.miumiu.com/",
+ "slug": "immersivebags-miumiu-com",
+ "analyzedAt": "2026-10-07T05:29:34.342Z",
+ "scrollHeight": 900,
+ "pageLengthInViewports": 1,
+ "title": "Miu Miu - 2026 Bag Campaign",
+ "metaDescription": "Explore the new bag collection and discover something special",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "WorkSans 400 normal",
+   "WorkSans 700 normal"
+  ],
+  "families": [
+   [
+    "WorkSans",
+    8
+   ]
+  ],
+  "sizes": [
+   [
+    "54px",
+    3
+   ],
+   [
+    "17px",
+    2
+   ],
+   [
+    "27px",
+    2
+   ],
+   [
+    "14px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "700",
+    5
+   ],
+   [
+    "400",
+    3
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    3
+   ],
+   [
+    "0.074em@54",
+    3
+   ],
+   [
+    "0.148em@27",
+    2
+   ]
+  ],
+  "uppercaseShare": 0.75,
+  "largest": [
+   {
+    "tag": "span",
+    "text": "HOUSE",
+    "family": "WorkSans",
+    "size": "54px",
+    "weight": "700",
+    "lh": "54px",
+    "ls": "4px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "THAT",
+    "family": "WorkSans",
+    "size": "54px",
+    "weight": "700",
+    "lh": "54px",
+    "ls": "4px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "WE",
+    "family": "WorkSans",
+    "size": "54px",
+    "weight": "700",
+    "lh": "54px",
+    "ls": "4px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "MIUMIU",
+    "family": "WorkSans",
+    "size": "27px",
+    "weight": "700",
+    "lh": "27px",
+    "ls": "4px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "PRESENTS",
+    "family": "WorkSans",
+    "size": "27px",
+    "weight": "700",
+    "lh": "27px",
+    "ls": "4px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "FOR AN OPTIMAL EXPERIENCE PLEASE TURN ON YOUR SOUND",
+    "family": "WorkSans",
+    "size": "17.1px",
+    "weight": "400",
+    "lh": "17.1px",
+    "ls": "normal",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "div",
+    "text": "Explore the new bag collection and discover something special",
+    "family": "WorkSans",
+    "size": "17.1px",
+    "weight": "400",
+    "lh": "20.52px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "Enter",
+    "family": "WorkSans",
+    "size": "14px",
+    "weight": "400",
+    "lh": "15.4px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(255, 255, 255)",
+  "htmlBg": "rgb(255, 255, 255)",
+  "text": [
+   [
+    "rgb(255, 255, 255)",
+    7
+   ],
+   [
+    "rgb(0, 0, 0)",
+    1
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(255, 255, 255)",
+    3
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(225deg, rgba(255, 255, 255, 0.918) 49%, rgb(240, 240, 240) 51%, rgb(222, 222, 222))",
+    2
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.23,1,0.32,1)",
+    37
+   ],
+   [
+    "cubic-bezier(0.55,0,0.1,1)",
+    21
+   ],
+   [
+    "cubic-bezier(0.16,1,0.3,1)",
+    20
+   ],
+   [
+    "cubic-bezier(0.25,1,0.5,1)",
+    12
+   ],
+   [
+    "cubic-bezier(0.36,0.07,0.19,0.97)",
+    9
+   ],
+   [
+    "cubic-bezier(0.19,1.51,0.29,0.99)",
+    8
+   ],
+   [
+    "cubic-bezier(0.71,0.01,0.81,-0.51)",
+    4
+   ],
+   [
+    "cubic-bezier(0.075,0.82,0.165,1)",
+    4
+   ],
+   [
+    "cubic-bezier(0,0.96,0.22,1)",
+    2
+   ],
+   [
+    "cubic-bezier(.075,.82,.165,1)",
+    2
+   ],
+   [
+    "cubic-bezier(.24,1,.24,1)",
+    2
+   ],
+   [
+    "cubic-bezier(0.755,0.05,0.855,0.06)",
+    2
+   ]
+  ],
+  "durations": [
+   [
+    "0.5s",
+    38
+   ],
+   [
+    "0.3s",
+    24
+   ],
+   [
+    "0.4s",
+    19
+   ],
+   [
+    "1.6s",
+    12
+   ],
+   [
+    "1s",
+    11
+   ],
+   [
+    "0.8s",
+    6
+   ],
+   [
+    "0.2s",
+    5
+   ],
+   [
+    "1.5s",
+    4
+   ],
+   [
+    "0.25s",
+    3
+   ],
+   [
+    "0.6s",
+    3
+   ]
+  ],
+  "keyframes": [
+   "preloader-spinner",
+   "shake1",
+   "jitter-subtle",
+   "jitter-subtle-rtl",
+   "ken-burns",
+   "underline-expand-56ee19ba",
+   "counterEnter-edcb2055",
+   "counterLeave-edcb2055",
+   "counterReturn-edcb2055",
+   "hotspotLoadingSpin-d83d10c7",
+   "pulseMiddleOutCircle-d83d10c7",
+   "wiggle-a373ba30"
+  ]
+ },
+ "cssVarSample": {
+  "--base-text": "calc((10px) * var(--h-demult, 1))",
+  "--padding": "max(6px, calc(var(--base-text) * .15))",
+  "--ui-bps": "xs:400px / s:640px / sm:768px / md:1024px / lg:1200px / xl:1600px / xxl:1920px",
+  "--ui-colors": "bg-primary:#0c0f60 / primary-hover:#000 / primary:#fff / yellow:#ffe100 / white:",
+  "--ui-color-bg-primary": "#0c0f60",
+  "--ui-color-primary-hover": "#000",
+  "--ui-color-primary": "#fff",
+  "--ui-color-yellow": "#ffe100",
+  "--ui-color-white": "#fff",
+  "--ui-color-black": "#000",
+  "--ui-color-paper": "#ffedd9",
+  "--ui-color-beige": "#fcf5e6",
+  "--ui-color-blue": "#265adf",
+  "--ui-color-red": "#c60000",
+  "--ui-color-viewmaster-red": "#d81219",
+  "--ui-color-viewmaster-beige": "#eee2b7",
+  "--ui-color-phone-beige": "#d7c8b1",
+  "--miumiu-header": "1.5em"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": true,
+  "webglCanvas": 0,
+  "canvases": 1,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": true,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 0,
+  "video": 0,
+  "svg": 4,
+  "picture": 0,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 0,
+  "clipPath": 2,
+  "sticky": 0,
+  "fixed": [
+   "loaded",
+   "preloader-btn-container",
+   "preloader-background",
+   "btn-ui button-sound is-active button-sound",
+   "webgl-wrapper"
+  ],
+  "customCursor": false,
+  "boxShadows": [
+   [
+    "rgba(0, 0, 0, 0.25) 0.5px 0.5px 1px 0px",
+    1
+   ]
+  ],
+  "filters": [],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "4px",
+   1
+  ]
+ ],
+ "borders": [],
+ "grids": [],
+ "containers": [
+  [
+   "1440px",
+   1
+  ]
+ ],
+ "sideMargins": [],
+ "sections": [],
+ "nav": null,
+ "ctas": [],
+ "headings": [],
+ "paras": [],
+ "footer": null,
+ "jsMotion": {
+  "scriptsFetched": 1,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "300",
+    1
+   ],
+   [
+    "500",
+    1
+   ],
+   [
+    "750",
+    1
+   ]
+  ],
+  "staggers": [],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

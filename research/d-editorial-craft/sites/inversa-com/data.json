@@ -1,0 +1,649 @@
+{
+ "url": "https://inversa.com",
+ "slug": "inversa-com",
+ "analyzedAt": "2026-10-07T05:15:16.319Z",
+ "scrollHeight": 900,
+ "pageLengthInViewports": 1,
+ "title": "INVERSA - Home",
+ "metaDescription": "As a humane byproduct of ecosystem restoration that addresses the harm caused by non-native species, INVERSA™ ethical exotics restore balance to nature.",
+ "lang": "en-US",
+ "type": {
+  "loadedFonts": [
+   "JetBrains Mono 700 normal",
+   "JetBrains Mono 400 normal",
+   "JetBrains Mono 300 normal",
+   "NB International Pro 400 normal"
+  ],
+  "families": [
+   [
+    "NB International Pro",
+    30
+   ],
+   [
+    "JetBrains Mono",
+    19
+   ]
+  ],
+  "sizes": [
+   [
+    "72px",
+    14
+   ],
+   [
+    "18px",
+    11
+   ],
+   [
+    "13px",
+    10
+   ],
+   [
+    "14px",
+    8
+   ],
+   [
+    "58px",
+    3
+   ],
+   [
+    "10px",
+    2
+   ],
+   [
+    "29px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    32
+   ],
+   [
+    "300",
+    16
+   ],
+   [
+    "700",
+    1
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    32
+   ],
+   [
+    "-0.030em@72",
+    14
+   ],
+   [
+    "-0.030em@58",
+    3
+   ]
+  ],
+  "uppercaseShare": 0.33,
+  "largest": [
+   {
+    "tag": "div",
+    "text": "Invasions move fast.",
+    "family": "NB International Pro",
+    "size": "72px",
+    "weight": "400",
+    "lh": "64.8px",
+    "ls": "-2.16px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(244, 243, 232)"
+   },
+   {
+    "tag": "div",
+    "text": "Be faster.",
+    "family": "NB International Pro",
+    "size": "72px",
+    "weight": "400",
+    "lh": "64.8px",
+    "ls": "-2.16px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(244, 243, 232)"
+   },
+   {
+    "tag": "div",
+    "text": "Creating the",
+    "family": "NB International Pro",
+    "size": "72px",
+    "weight": "400",
+    "lh": "64.8px",
+    "ls": "-2.16px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(244, 243, 232)"
+   },
+   {
+    "tag": "div",
+    "text": "modern invasive",
+    "family": "NB International Pro",
+    "size": "72px",
+    "weight": "400",
+    "lh": "64.8px",
+    "ls": "-2.16px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(244, 243, 232)"
+   },
+   {
+    "tag": "div",
+    "text": "management",
+    "family": "NB International Pro",
+    "size": "72px",
+    "weight": "400",
+    "lh": "64.8px",
+    "ls": "-2.16px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(244, 243, 232)"
+   },
+   {
+    "tag": "div",
+    "text": "workforce",
+    "family": "NB International Pro",
+    "size": "72px",
+    "weight": "400",
+    "lh": "64.8px",
+    "ls": "-2.16px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(244, 243, 232)"
+   },
+   {
+    "tag": "div",
+    "text": "FWC’s partnership with Inversa has",
+    "family": "NB International Pro",
+    "size": "72px",
+    "weight": "400",
+    "lh": "64.8px",
+    "ls": "-2.16px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(19, 20, 14)"
+   },
+   {
+    "tag": "div",
+    "text": "supercharged the removal of invasive",
+    "family": "NB International Pro",
+    "size": "72px",
+    "weight": "400",
+    "lh": "64.8px",
+    "ls": "-2.16px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(19, 20, 14)"
+   },
+   {
+    "tag": "div",
+    "text": "Burmese Pythons from the",
+    "family": "NB International Pro",
+    "size": "72px",
+    "weight": "400",
+    "lh": "64.8px",
+    "ls": "-2.16px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(19, 20, 14)"
+   },
+   {
+    "tag": "div",
+    "text": "Everglades. The new program",
+    "family": "NB International Pro",
+    "size": "72px",
+    "weight": "400",
+    "lh": "64.8px",
+    "ls": "-2.16px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(19, 20, 14)"
+   },
+   {
+    "tag": "div",
+    "text": "accomplished more removals in July",
+    "family": "NB International Pro",
+    "size": "72px",
+    "weight": "400",
+    "lh": "64.8px",
+    "ls": "-2.16px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(19, 20, 14)"
+   },
+   {
+    "tag": "div",
+    "text": "2025 alone than in the entire year",
+    "family": "NB International Pro",
+    "size": "72px",
+    "weight": "400",
+    "lh": "64.8px",
+    "ls": "-2.16px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(19, 20, 14)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(19, 20, 14)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(244, 243, 232)",
+    28
+   ],
+   [
+    "rgb(19, 20, 14)",
+    18
+   ],
+   [
+    "rgb(235, 252, 114)",
+    3
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(19, 20, 14)",
+    9
+   ],
+   [
+    "rgb(235, 252, 114)",
+    5
+   ],
+   [
+    "color(srgb 0.956863 0.952941 0.909804 / 0.5)",
+    4
+   ],
+   [
+    "rgb(241, 102, 77)",
+    3
+   ],
+   [
+    "rgb(176, 179, 180)",
+    1
+   ],
+   [
+    "rgb(244, 243, 232)",
+    1
+   ],
+   [
+    "rgb(18, 18, 12)",
+    1
+   ],
+   [
+    "color(srgb 0.0745098 0.0784314 0.054902 / 0.3)",
+    1
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(to right, color(srgb 0.956863 0.952941 0.909804 / 0.05) 1px, rgba(0, 0, 0, 0) 1px), linear-gradient(color(srgb 0.956863 0.95",
+    1
+   ],
+   [
+    "repeating-linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0) 3.6px, rgb(235, 252, 114) 3.6px, rgb(235, 252, 114) 135px), repeating-linear-gr",
+    1
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(1,0,0,1)",
+    4
+   ],
+   [
+    "cubic-bezier(.77,0,.175,1)",
+    1
+   ],
+   [
+    "cubic-bezier(.645,.045,.355,1)",
+    1
+   ],
+   [
+    "cubic-bezier(.455,.03,.515,.955)",
+    1
+   ],
+   [
+    "cubic-bezier(.165,.84,.44,1)",
+    1
+   ],
+   [
+    "cubic-bezier(.215,.61,.355,1)",
+    1
+   ],
+   [
+    "cubic-bezier(.25,.46,.45,.94)",
+    1
+   ],
+   [
+    "cubic-bezier(.25,.25,.75,.75)",
+    1
+   ]
+  ],
+  "durations": [
+   [
+    "1s",
+    23
+   ],
+   [
+    "0.25s",
+    12
+   ],
+   [
+    "0.2s",
+    4
+   ],
+   [
+    "5s",
+    4
+   ],
+   [
+    "0.5s",
+    4
+   ]
+  ],
+  "keyframes": [
+   "blink",
+   "flash",
+   "flicker",
+   "spin"
+  ]
+ },
+ "cssVarSample": {
+  "--size": "1600",
+  "--color-white": "#fff",
+  "--color-creme": "#f4f3e8",
+  "--color-grey": "#595a51",
+  "--color-grey-2": "#404040",
+  "--color-black": "#13140e",
+  "--color-black-2": "#181813",
+  "--color-black-3": "#171717",
+  "--color-black-4": "#181815",
+  "--color-yellow": "#ebfc72",
+  "--color-yellow-2": "#bacd31",
+  "--color-red": "#f1664d",
+  "--color-green": "#00d399",
+  "--color-purple": "#c084fc",
+  "--ease-in-out-quart": "cubic-bezier(.77,0,.175,1)",
+  "--ease-in-out-cubic": "cubic-bezier(.645,.045,.355,1)",
+  "--ease-in-out-quad": "cubic-bezier(.455,.03,.515,.955)",
+  "--ease-out-quart": "cubic-bezier(.165,.84,.44,1)",
+  "--ease-out-cubic": "cubic-bezier(.215,.61,.355,1)",
+  "--ease-out-quad": "cubic-bezier(.25,.46,.45,.94)",
+  "--ease-none": "cubic-bezier(.25,.25,.75,.75)",
+  "--font-s": "calc((100vw/var(--size))*10)",
+  "--font-f-primary": "\"JetBrains Mono\"",
+  "--font-f-secondary": "\"NB International Pro\""
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": true,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": true,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": true,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 17,
+  "video": 1,
+  "svg": 21,
+  "picture": 0,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [
+   [
+    "color",
+    1
+   ]
+  ],
+  "backdropFilter": 0,
+  "clipPath": 4,
+  "sticky": 2,
+  "fixed": [
+   "cursor is-visible",
+   "header",
+   "scroll lenis"
+  ],
+  "customCursor": true,
+  "boxShadows": [],
+  "filters": [],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "3.6px",
+   4
+  ],
+  [
+   "100%",
+   3
+  ],
+  [
+   "1.8px",
+   2
+  ]
+ ],
+ "borders": [
+  [
+   "bottom:1px solid rgb(64, 64, 64)",
+   2
+  ],
+  [
+   "1px solid color(srgb 0.956863 0.952941 0.909804 / 0.2)",
+   1
+  ],
+  [
+   "1px solid rgb(64, 64, 64)",
+   1
+  ],
+  [
+   "bottom:1px solid rgb(244, 243, 232)",
+   1
+  ]
+ ],
+ "grids": [],
+ "containers": [],
+ "sideMargins": [
+  [
+   "1015px",
+   5
+  ],
+  [
+   "133px",
+   4
+  ],
+  [
+   "14px",
+   2
+  ],
+  [
+   "74px",
+   2
+  ],
+  [
+   "904px",
+   2
+  ],
+  [
+   "0px",
+   1
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "scroll lenis",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgb(19, 20, 14)"
+  },
+  {
+   "cls": "home-hero",
+   "h": 3600,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "values",
+   "h": 2897,
+   "padTop": "0px",
+   "bg": "rgb(244, 243, 232)"
+  },
+  {
+   "cls": "harvester",
+   "h": 3243,
+   "padTop": "0px",
+   "bg": "rgb(18, 18, 12)"
+  },
+  {
+   "cls": "quotes",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgb(235, 252, 114)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "fixed",
+  "height": 47,
+  "links": 1,
+  "linkTexts": [
+   "INVERSA",
+   "Menu"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "EXPLORE ORIGIN",
+   "bg": "rgb(235, 252, 114)",
+   "color": "rgb(19, 20, 14)",
+   "radius": "3.6px",
+   "pad": "0px 18px",
+   "size": "12.6px",
+   "weight": "300",
+   "tt": "uppercase",
+   "border": "none",
+   "h": 41
+  },
+  {
+   "text": "INVERSA LEATHERS",
+   "bg": "rgb(19, 20, 14)",
+   "color": "rgb(244, 243, 232)",
+   "radius": "3.6px",
+   "pad": "0px 18px",
+   "size": "12.6px",
+   "weight": "300",
+   "tt": "uppercase",
+   "border": "none",
+   "h": 41
+  },
+  {
+   "text": "CASE STUDY",
+   "bg": "rgb(19, 20, 14)",
+   "color": "rgb(244, 243, 232)",
+   "radius": "3.6px",
+   "pad": "0px 18px",
+   "size": "12.6px",
+   "weight": "300",
+   "tt": "uppercase",
+   "border": "none",
+   "h": 41
+  },
+  {
+   "text": "EXPLORE ORIGIN",
+   "bg": "rgb(19, 20, 14)",
+   "color": "rgb(244, 243, 232)",
+   "radius": "3.6px",
+   "pad": "0px 18px",
+   "size": "12.6px",
+   "weight": "300",
+   "tt": "uppercase",
+   "border": "none",
+   "h": 41
+  }
+ ],
+ "headings": [
+  "Home",
+  "Invasions move fast. Be faster.",
+  "DAMAGED ECOSYSTEMS",
+  "ONE CLICK INVASIVE MANAGEMENT",
+  "RESTORATION",
+  "Inversa is where economics, ecology, and efficiency meet.",
+  "ECONOMICS",
+  "ECOLOGY",
+  "EFFICIENCY",
+  "Creating the modern invasive management workforce",
+  "CONTACT",
+  "CONNECT",
+  "SUBSCRIBE"
+ ],
+ "paras": [
+  "Invasive species degrade ecosystems by overwhelming native wildlife and systems that drive costly ecological and economic decline.",
+  "Origin, Inversa's digital command center, deploys field specialists and management tools, targeting priority zones with precision to restore balance and deliver measurable ecological and economic impact."
+ ],
+ "footer": {
+  "h": 887,
+  "text": "CONTACT info@inversa.com Get in touch INVERSA Origin powers INVERSA Leathers Learn more CONNECT Instagram LinkedIn SUBSCRIBE ©2025 INVERSA Privacy Policy Crafted by Exo Ape"
+ },
+ "jsMotion": {
+  "scriptsFetched": 1,
+  "gsapEases": [
+   [
+    "none",
+    1
+   ]
+  ],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "0",
+    1
+   ],
+   [
+    ".5",
+    1
+   ]
+  ],
+  "staggers": [
+   [
+    "0",
+    2
+   ]
+  ],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

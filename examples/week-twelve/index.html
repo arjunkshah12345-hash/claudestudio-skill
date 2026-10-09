@@ -1,0 +1,453 @@
+<!doctype html>
+<!--
+DESIGN SPINE: Week Twelve, a design studio for YC companies
+DIRECTION   : 4 Editorial Motion. It is a studio, so juries and founders judge the type, the work and the motion. Borrows one move from Ledger Light (live numbers).
+REGISTER    : Loud. The bold device is colour as a field: the studio is black and cream, and every colour on the page belongs to a client, one hue per company.
+AXES        : ground colour-block system (warm black + cream + one field per client) · type genre condensed gothic caps + wide/extended (one variable family, width as hierarchy) · image medium colour-block composition + client product UI rebuilt in HTML · composition index (the client list is the hero) + banded stacking fields · motion feel kinetic type (field flood, word reveals, live countdown)
+DEFAULT?    : 1/6 matched (near-black ink only) → DIFFERENT FROM DEFAULT BY: ground, labels (no mono), no hairline spec bands as texture, no line drawing, multi-hue semantic fields
+MOTIF       : the 12-week batch. 1) the logo mark: 12 bars, this week lit (live) · 2) the hero batch band: 12 segments + Demo Day countdown · 3) the process Gantt on 12 columns · 4) each case's mini 12-bar "weeks used" · 5) the finale: "Demo Day is in N days"
+TYPE        : display Archivo (wdth 62 caps 600 for the index, wdth 112 400 for sentences) · text Archivo 400 · serif Newsreader 300/400 for ledes and quotes · system mono only inside the rebuilt code
+SCALE       : index 112px/.84/−.005em caps · h1 74px/.98/−.035em · h2 54px/1.04/−.03em · body 16px · label 11px +.09em
+PALETTE     : dark #13120F · cream #ECE7DB · ink tiers by opacity · client fields: Halyard #0D4643, Pellucid #CBBEF3, Ferrous #8A3416, Okra #A6C451, Tallwater #A5C8E6, Corvid #EFCB45, each with its own dark or light tint for text
+GRID        : 12 col / 24px · container 1360 · margin 48px · sections 96–144px, voids up to 220px
+HERO        : H13 Index as hero. h1 + lede on top, the client list in 112px condensed caps below; hover floods the hero with that client's colour and a poster follows the cursor
+IMAGERY     : client posters (mark + wordmark) and three client products rebuilt in HTML (API docs, eval run, steel RFQ)
+CONVERSION  : "Book a 20-minute intro" in the nav, hero, pricing, finale and footer
+MOTION      : house ease cubic-bezier(.19,1,.22,1) · UI 160–240ms · reveal 900ms blur-in · field flood 650ms · native scroll
+SIGNATURES  : index-as-hero with colour flood · sticky stacking client fields · live batch countdown
+VOICE       : "Look funded before you are." / "Your batch is twelve weeks. We use all twelve." / "Demo Day is in 63 days."
+-->
+<html lang="en" class="no-js">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Week Twelve: the design studio for YC companies</title>
+<meta name="description" content="Name, brand, website and product for Y Combinator companies, finished inside the batch. Twelve weeks, planned backwards from Demo Day.">
+<meta name="theme-color" content="#13120F">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Crect width='24' height='24' fill='%2313120F'/%3E%3Cg fill='%23ECE7DB'%3E%3Crect x='3' y='6' width='2' height='12'/%3E%3Crect x='7' y='6' width='2' height='12'/%3E%3Crect x='11' y='6' width='2' height='12'/%3E%3C/g%3E%3Cg fill='%23ECE7DB' opacity='.35'%3E%3Crect x='15' y='6' width='2' height='12'/%3E%3Crect x='19' y='6' width='2' height='12'/%3E%3C/g%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:ital,wdth,wght@0,62..125,300..700;1,62..125,300..700&family=Newsreader:ital,opsz,wght@0,6..72,300..500;1,6..72,300..500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="tokens.css">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body class="field f-dark">
+<a class="skip btn btn--primary" href="#main">Skip to content</a>
+
+<!-- ============================== NAV (tinted to the field beneath it) -->
+<header class="nav">
+  <a class="brand" href="#top" aria-label="Week Twelve, home">
+    <span class="mark" aria-hidden="true" data-mark></span>
+    <span class="brand-word">Week Twelve</span>
+  </a>
+  <nav class="nav-links" aria-label="Primary">
+    <a href="#work" data-letter-roll>Work</a>
+    <a href="#process" data-letter-roll>Process</a>
+    <a href="#pricing" data-letter-roll>Pricing</a>
+  </nav>
+  <p class="nav-status t-label"><span class="live-dot" aria-hidden="true"></span><span data-batch-code>F26</span> · Week <span class="t-num" data-week>3</span> of 12</p>
+  <a class="nav-cta" href="#book">Book an intro <span aria-hidden="true">→</span></a>
+</header>
+
+<main id="main">
+
+<!-- ============================== HERO: the index is the hero -->
+<section class="hero field f-dark" id="top" data-hero>
+  <div class="container hero-top">
+    <h1 class="t-display hero-h1" data-split="words">Look funded before you&nbsp;are.</h1>
+    <div class="hero-side" data-reveal style="--i:4">
+      <p class="t-lead">A design studio for Y&nbsp;Combinator companies. Name, brand, website and product, finished inside your batch. Before Demo Day, <em>not after</em>.</p>
+      <div class="ctas">
+        <a class="btn btn--primary" href="#book">Book a 20-minute intro <span class="arr" aria-hidden="true">→</span></a>
+        <a class="btn btn--text" href="#work">See the work</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="ix-head t-label" data-reveal style="--i:5">
+      <span>Index · 41 companies since W21</span>
+      <span class="hide-touch">Hover a name to see the work</span>
+    </div>
+    <ol class="ix-list" data-ix>
+      <li><a class="ix" href="#halyard" data-field="#0D4643" data-ink="207 236 224" data-poster="halyard">
+        <span class="ix-batch t-label">W24</span><span class="ix-name">Halyard</span><span class="ix-scope">Marine cargo insurance, as an API</span><span class="ix-arr" aria-hidden="true">→</span></a></li>
+      <li><a class="ix" href="#pellucid" data-field="#CBBEF3" data-ink="38 24 92" data-poster="pellucid">
+        <span class="ix-batch t-label">S25</span><span class="ix-name">Pellucid</span><span class="ix-scope">Evals for teams shipping LLM features</span><span class="ix-arr" aria-hidden="true">→</span></a></li>
+      <li><a class="ix" href="#ferrous" data-field="#8A3416" data-ink="252 228 214" data-poster="ferrous">
+        <span class="ix-batch t-label">X25</span><span class="ix-name">Ferrous</span><span class="ix-scope">Steel procurement for mid-size fabricators</span><span class="ix-arr" aria-hidden="true">→</span></a></li>
+      <li><a class="ix" href="#more" data-field="#A6C451" data-ink="30 42 8" data-poster="okra">
+        <span class="ix-batch t-label">W25</span><span class="ix-name">Okra</span><span class="ix-scope">Delivery routing for independent grocers</span><span class="ix-arr" aria-hidden="true">→</span></a></li>
+      <li><a class="ix" href="#more" data-field="#A5C8E6" data-ink="14 41 68" data-poster="tallwater">
+        <span class="ix-batch t-label">S24</span><span class="ix-name">Tallwater</span><span class="ix-scope">Billing for small water utilities</span><span class="ix-arr" aria-hidden="true">→</span></a></li>
+      <li><a class="ix" href="#more" data-field="#EFCB45" data-ink="58 44 0" data-poster="corvid">
+        <span class="ix-batch t-label">F25</span><span class="ix-name">Corvid</span><span class="ix-scope">Permissions for AI agents</span><span class="ix-arr" aria-hidden="true">→</span></a></li>
+    </ol>
+  </div>
+
+  <!-- cursor-following poster (decorative; the index rows carry the info) -->
+  <div class="preview" aria-hidden="true" data-preview>
+    <div class="poster" data-p="halyard" style="--pf:#0D4643;--pi:#CFECE0">
+      <svg viewBox="0 0 40 40"><path d="M11 4v32" stroke="currentColor" stroke-width="2.5"/><path d="M12 6l20 7-20 7z" fill="currentColor"/></svg>
+      <p class="p-tag">Bind cover before the ship leaves port.</p>
+      <p class="p-word w-halyard">halyard</p>
+    </div>
+    <div class="poster" data-p="pellucid" style="--pf:#CBBEF3;--pi:#26185C">
+      <svg viewBox="0 0 40 40" fill="none" stroke="currentColor" stroke-width="2"><circle cx="20" cy="20" r="16"/><circle cx="20" cy="20" r="10"/><circle cx="20" cy="20" r="4" fill="currentColor"/></svg>
+      <p class="p-tag">Know it works before your users find out.</p>
+      <p class="p-word w-pellucid">Pellucid</p>
+    </div>
+    <div class="poster" data-p="ferrous" style="--pf:#8A3416;--pi:#FCE4D6">
+      <svg viewBox="0 0 40 40"><path d="M6 6h28v6H23v16h11v6H6v-6h11V12H6z" fill="currentColor"/></svg>
+      <p class="p-tag">Forty mills. One bid sheet.</p>
+      <p class="p-word w-ferrous">FERROUS</p>
+    </div>
+    <div class="poster" data-p="okra" style="--pf:#A6C451;--pi:#1E2A08">
+      <svg viewBox="0 0 40 40"><path d="M20 3l4.5 11.5L36 15l-9 8 3 12-10-6.5L10 35l3-12-9-8 11.5-.5z" fill="currentColor"/></svg>
+      <p class="p-tag">The corner shop, routed like a warehouse.</p>
+      <p class="p-word w-okra">okra</p>
+    </div>
+    <div class="poster" data-p="tallwater" style="--pf:#A5C8E6;--pi:#0E2944">
+      <svg viewBox="0 0 40 40" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M4 12q4-4 8 0t8 0 8 0 8 0M4 20q4-4 8 0t8 0 8 0 8 0M4 28q4-4 8 0t8 0 8 0 8 0"/></svg>
+      <p class="p-tag">Bills a town of 4,000 can understand.</p>
+      <p class="p-word w-tallwater">Tallwater</p>
+    </div>
+    <div class="poster" data-p="corvid" style="--pf:#EFCB45;--pi:#3A2C00">
+      <svg viewBox="0 0 40 40"><path d="M3 30L20 7l17 23-17-8z" fill="currentColor"/><circle cx="20" cy="17" r="2" fill="var(--pi)"/></svg>
+      <p class="p-tag">Your agents can do anything. Decide what.</p>
+      <p class="p-word w-corvid">CORVID</p>
+    </div>
+  </div>
+</section>
+
+<!-- ============================== BATCH BAND: the motif, live -->
+<section class="batch field f-dark" aria-labelledby="batch-h">
+  <div class="container">
+    <div class="batch-meta t-label">
+      <span><span data-batch-code>F26</span> batch · Demo Day <span data-demo-date>Thu 10 Dec</span></span>
+      <span>Day <span class="t-num" data-day>17</span> of 80</span>
+    </div>
+    <ol class="weeks" data-weeks aria-label="The twelve weeks of the current batch">
+      <li><span>01</span></li><li><span>02</span></li><li><span>03</span></li><li><span>04</span></li>
+      <li><span>05</span></li><li><span>06</span></li><li><span>07</span></li><li><span>08</span></li>
+      <li><span>09</span></li><li><span>10</span></li><li><span>11</span></li><li><span>12</span></li>
+    </ol>
+    <h2 class="t-h2 manifesto" id="batch-h" data-scroll-fill>Your batch is twelve weeks. We use all twelve, planned backwards from Demo Day, so the name, the site and the deck land in the same week your round opens.</h2>
+  </div>
+</section>
+
+<!-- ============================== WORK -->
+<section class="work-intro field f-dark" id="work" aria-labelledby="work-h">
+  <div class="container work-head">
+    <p class="t-label dim">Selected work · 3 of 41</p>
+    <h2 class="t-h2" id="work-h" data-reveal>Every colour here is a client's. <span class="dim">The studio is black and cream on purpose.</span></h2>
+  </div>
+</section>
+
+<div class="stack">
+  <!-- Case 1: Halyard -->
+  <section class="case field" id="halyard" style="--paper:#0D4643;--ink-rgb:207 236 224;--win:#082F2D" aria-labelledby="halyard-h">
+    <div class="container case-grid">
+      <div class="case-copy">
+        <p class="case-meta t-label"><span>01 / 03</span><span>W24</span></p>
+        <h3 class="case-name" id="halyard-h">Halyard</h3>
+        <p class="case-line t-h3">Insurance that reads like infrastructure. <span class="dim">We renamed the company in week two and wrote the docs before the homepage, because the buyers are engineers.</span></p>
+        <dl class="spec">
+          <div><dt>Weeks</dt><dd><span class="mini" data-weeks-used="1-10"></span>1–10</dd></div>
+          <div><dt>Scope</dt><dd>Name, identity, site, API docs</dd></div>
+          <div><dt>After Demo Day</dt><dd>Seed closed in 11 days</dd></div>
+        </dl>
+      </div>
+      <figure class="win" role="img" aria-label="Halyard API documentation: a POST request to /v1/quotes returns a bindable premium of $1,284.00 in 182 milliseconds" inert>
+        <div class="win-bar"><span class="dots"><i></i><i></i><i></i></span><span>docs.halyard.dev/quotes</span><span>v1</span></div>
+        <div class="win-body docs">
+          <ul class="docs-nav">
+            <li>Getting started</li><li>Authentication</li><li class="on">Quotes</li><li>Policies</li><li>Claims</li><li>Webhooks</li><li>Errors</li>
+          </ul>
+          <div class="docs-main">
+            <p class="ui-kicker">Quotes</p>
+            <p class="ui-title">Price a shipment in one call</p>
+            <p class="ui-dim">Send the cargo, the route and the declared value. Get a bindable premium back in under 200&nbsp;ms.</p>
+            <pre class="code"><b>POST</b> /v1/quotes
+{
+  "cargo": "frozen seafood",
+  "route": ["CNSHA", "USLAX"],
+  "declared_value": 412000,
+  "currency": "USD"
+}</pre>
+            <p class="resp-head"><span class="ok">200 OK</span><span>182 ms</span></p>
+            <pre class="code code--resp">{
+  "quote_id": "qt_8f2kL9",
+  "premium": 1284.00,
+  "bindable_until": "2026-10-09T17:00Z"<span class="caret"></span>
+}</pre>
+          </div>
+        </div>
+      </figure>
+    </div>
+  </section>
+
+  <!-- Case 2: Pellucid -->
+  <section class="case field" id="pellucid" style="--paper:#CBBEF3;--ink-rgb:38 24 92;--win:#F4F1FD" aria-labelledby="pellucid-h">
+    <div class="container case-grid">
+      <div class="case-copy">
+        <p class="case-meta t-label"><span>02 / 03</span><span>S25</span></p>
+        <h3 class="case-name" id="pellucid-h">Pellucid</h3>
+        <p class="case-line t-h3">A test suite you can show a board. <span class="dim">Lilac, one serif and a results table that makes 94.2% feel earned, not claimed.</span></p>
+        <dl class="spec">
+          <div><dt>Weeks</dt><dd><span class="mini" data-weeks-used="2-12"></span>2–12</dd></div>
+          <div><dt>Scope</dt><dd>Identity, site, product UI</dd></div>
+          <div><dt>During the batch</dt><dd>Docs traffic up 3.4×</dd></div>
+        </dl>
+      </div>
+      <figure class="win" role="img" aria-label="Pellucid eval run: refund-agent v14 scores 94.2 percent against 88.7 for v13, with 212 of 240 cases complete" inert>
+        <div class="win-bar"><span class="dots"><i></i><i></i><i></i></span><span>app.pellucid.ai/runs/1183</span><span>Run 1183</span></div>
+        <div class="win-body evals">
+          <div class="ev-top">
+            <div>
+              <p class="ui-kicker">refund-agent · v14 against v13</p>
+              <p class="ev-score t-num">94.2<small>%</small></p>
+              <p class="ui-dim">Pass rate · up 5.5 points on 240 cases</p>
+            </div>
+            <div class="ev-progress">
+              <p class="ui-dim">Running case <span class="t-num" data-run>212</span> of 240</p>
+              <span class="bar"><i data-run-bar></i></span>
+            </div>
+          </div>
+          <table class="ev-table">
+            <thead><tr><th>Case</th><th>Input</th><th>Judge</th><th>Verdict</th></tr></thead>
+            <tbody>
+              <tr><td>c-0207</td><td>"Charged twice for the annual plan"</td><td>policy-v3</td><td><span class="chip">Pass</span></td></tr>
+              <tr><td>c-0208</td><td>"Refund to a card I closed last week"</td><td>policy-v3</td><td><span class="chip">Pass</span></td></tr>
+              <tr><td>c-0209</td><td>"Can I get credit instead of cash?"</td><td>tone-v1</td><td><span class="chip chip--fail">Fail</span></td></tr>
+              <tr><td>c-0210</td><td>"Cancel and refund the unused months"</td><td>policy-v3</td><td><span class="chip">Pass</span></td></tr>
+              <tr class="pending"><td>c-0211</td><td>"Why was my refund only partial?"</td><td>policy-v3</td><td><span class="shimmer">Judging…</span></td></tr>
+            </tbody>
+          </table>
+        </div>
+      </figure>
+    </div>
+  </section>
+
+  <!-- Case 3: Ferrous -->
+  <section class="case field" id="ferrous" style="--paper:#8A3416;--ink-rgb:252 228 214;--win:#6E2811" aria-labelledby="ferrous-h">
+    <div class="container case-grid">
+      <div class="case-copy">
+        <p class="case-meta t-label"><span>03 / 03</span><span>X25</span></p>
+        <h3 class="case-name" id="ferrous-h">Ferrous</h3>
+        <p class="case-line t-h3">Steel buying without the phone tag. <span class="dim">A marketplace that looks as heavy as what it sells, and a bid screen fabricators trusted on day one.</span></p>
+        <dl class="spec">
+          <div><dt>Weeks</dt><dd><span class="mini" data-weeks-used="1-12"></span>1–12</dd></div>
+          <div><dt>Scope</dt><dd>Brand, marketplace UI, Demo Day deck</dd></div>
+          <div><dt>Before launch</dt><dd>30 mills signed</dd></div>
+        </dl>
+      </div>
+      <figure class="win" role="img" aria-label="Ferrous bid sheet for 240 tonnes of A36 hot-rolled coil: four mill bids, the lowest at $812 per tonne, bidding closes in just over two hours" inert>
+        <div class="win-bar"><span class="dots"><i></i><i></i><i></i></span><span>ferrous.co/rfq/20931</span><span>Buyer view</span></div>
+        <div class="win-body rfq">
+          <div class="rfq-top">
+            <div>
+              <p class="ui-kicker">RFQ-20931 · Open</p>
+              <p class="ui-title">Hot-rolled coil, ASTM A36</p>
+              <p class="ui-dim">240 t · 0.25 × 60 in · Deliver to Houston, TX by 14 Nov</p>
+            </div>
+            <div class="rfq-clock">
+              <p class="ui-dim">Bids close in</p>
+              <p class="t-num" data-countdown="8049">02:14:09</p>
+            </div>
+          </div>
+          <table class="rfq-table">
+            <thead><tr><th>Mill</th><th>Lead</th><th>$ / t</th><th>Landed</th></tr></thead>
+            <tbody>
+              <tr class="best"><td>Brazos Mill Co.<em>Lowest landed</em></td><td>3 wk</td><td class="t-num">812</td><td class="t-num">$194,880</td></tr>
+              <tr><td>Sabine Metals</td><td>2 wk</td><td class="t-num">829</td><td class="t-num">$198,960</td></tr>
+              <tr><td>Lakeshore Rolling</td><td>4 wk</td><td class="t-num">818</td><td class="t-num">$201,320</td></tr>
+              <tr><td>Tri-County Steel</td><td>3 wk</td><td class="t-num">846</td><td class="t-num">$203,040</td></tr>
+            </tbody>
+          </table>
+          <p class="rfq-cta"><span>Award to Brazos Mill Co.</span><span aria-hidden="true">→</span></p>
+        </div>
+      </figure>
+    </div>
+  </section>
+</div>
+
+<!-- More work: zero-gutter colour tiles -->
+<section class="more field f-dark" id="more" aria-labelledby="more-h">
+  <div class="container more-head">
+    <h2 class="t-label dim" id="more-h">Also from the index</h2>
+    <a class="link t-small" href="#book">Ask for the full case list →</a>
+  </div>
+  <div class="tiles">
+    <article class="tile" style="--pf:#A6C451;--pi:#1E2A08">
+      <svg viewBox="0 0 40 40" aria-hidden="true"><path d="M20 3l4.5 11.5L36 15l-9 8 3 12-10-6.5L10 35l3-12-9-8 11.5-.5z" fill="currentColor"/></svg>
+      <p class="p-word w-okra">okra</p>
+      <div class="tile-foot"><p>Delivery routing for independent grocers. Name, identity, driver app.</p><span class="t-label">W25</span></div>
+    </article>
+    <article class="tile" style="--pf:#A5C8E6;--pi:#0E2944">
+      <svg viewBox="0 0 40 40" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true"><path d="M4 12q4-4 8 0t8 0 8 0 8 0M4 20q4-4 8 0t8 0 8 0 8 0M4 28q4-4 8 0t8 0 8 0 8 0"/></svg>
+      <p class="p-word w-tallwater">Tallwater</p>
+      <div class="tile-foot"><p>Billing for small water utilities. Identity and a site councils can read.</p><span class="t-label">S24</span></div>
+    </article>
+    <article class="tile" style="--pf:#EFCB45;--pi:#3A2C00">
+      <svg viewBox="0 0 40 40" aria-hidden="true"><path d="M3 30L20 7l17 23-17-8z" fill="currentColor"/><circle cx="20" cy="17" r="2" fill="#EFCB45"/></svg>
+      <p class="p-word w-corvid">CORVID</p>
+      <div class="tile-foot"><p>Permissions for AI agents. Name, identity, site and docs.</p><span class="t-label">F25</span></div>
+    </article>
+  </div>
+</section>
+
+<!-- ============================== PROCESS: the motif as data -->
+<section class="process field f-cream" id="process" aria-labelledby="process-h">
+  <div class="container">
+    <div class="process-head">
+      <p class="t-label dim">How a batch runs</p>
+      <h2 class="t-h2" id="process-h" data-reveal>Twelve weeks, planned backwards. <span class="dim">Nothing ships after week eleven. Week twelve is for rehearsing.</span></h2>
+    </div>
+
+    <div class="gantt" data-gantt role="table" aria-label="Twelve-week plan">
+      <div class="g-row g-scale" role="row">
+        <span class="g-name t-label" role="columnheader">Week</span>
+        <span class="g-track" role="presentation">
+          <i>01</i><i>02</i><i>03</i><i>04</i><i>05</i><i>06</i><i>07</i><i>08</i><i>09</i><i>10</i><i>11</i><i>12</i>
+        </span>
+      </div>
+      <div class="g-now" data-now aria-hidden="true"><span class="t-label">This week</span></div>
+
+      <div class="g-row" role="row">
+        <div class="g-name" role="rowheader"><p class="g-title">Diagnose</p><p class="g-desc">Ten customer calls, your investor list, the one sentence.</p></div>
+        <span class="g-track" role="cell"><b style="--s:1;--e:2"><span class="t-label">Wk 1–2</span></b></span>
+      </div>
+      <div class="g-row" role="row">
+        <div class="g-name" role="rowheader"><p class="g-title">Name and identity</p><p class="g-desc">Trademark check, wordmark, type, colour, voice.</p></div>
+        <span class="g-track" role="cell"><b style="--s:2;--e:5"><span class="t-label">Wk 2–5</span></b></span>
+      </div>
+      <div class="g-row" role="row">
+        <div class="g-name" role="rowheader"><p class="g-title">Website</p><p class="g-desc">Copy first, then design, then shipped to your domain.</p></div>
+        <span class="g-track" role="cell"><b style="--s:5;--e:9"><span class="t-label">Wk 5–9</span></b></span>
+      </div>
+      <div class="g-row" role="row">
+        <div class="g-name" role="rowheader"><p class="g-title">Product pass</p><p class="g-desc">Onboarding, empty states, the three screens investors see.</p></div>
+        <span class="g-track" role="cell"><b style="--s:6;--e:10"><span class="t-label">Wk 6–10</span></b></span>
+      </div>
+      <div class="g-row" role="row">
+        <div class="g-name" role="rowheader"><p class="g-title">Demo Day</p><p class="g-desc">The deck, the sixty-second script, nine rehearsals.</p></div>
+        <span class="g-track" role="cell"><b style="--s:9;--e:11"><span class="t-label">Wk 9–11</span></b></span>
+      </div>
+      <div class="g-row" role="row">
+        <div class="g-name" role="rowheader"><p class="g-title">Hand-off</p><p class="g-desc">Source files, a component kit, us in your Slack for 30 days.</p></div>
+        <span class="g-track" role="cell"><b style="--s:11;--e:12"><span class="t-label">Wk 11–12</span></b></span>
+      </div>
+    </div>
+
+    <dl class="terms">
+      <div><dt class="t-label dim">Team</dt><dd>A designer, a writer and an engineer. The same three people from week one to Demo Day.</dd></div>
+      <div><dt class="t-label dim">Rhythm</dt><dd>One review a week, Tuesdays at 10. Work in progress is always on a live link, never a PDF.</dd></div>
+      <div><dt class="t-label dim">Capacity</dt><dd>Four companies a batch. We say no to the fifth so the first four get all of us.</dd></div>
+    </dl>
+  </div>
+</section>
+
+<!-- ============================== VOICES -->
+<section class="voices field f-cream" aria-labelledby="voices-h">
+  <div class="container">
+    <h2 class="sr-only" id="voices-h">What founders say</h2>
+    <figure class="big-quote" data-reveal>
+      <blockquote><p>“Three investors opened the meeting by mentioning the website. That had never happened to me before.”</p></blockquote>
+      <figcaption><span class="av" style="--pf:#0D4643;--pi:#CFECE0" aria-hidden="true">MO</span><span><b>Maya Okafor</b><br><span class="dim">Co-founder and CEO, Halyard · W24</span></span></figcaption>
+    </figure>
+    <div class="quotes" data-reveal-group>
+      <figure><blockquote><p>“They cut our homepage from nine sections to four. Signups doubled and nobody missed the other five.”</p></blockquote><figcaption><b>Dev Raman</b><span class="dim">CTO, Pellucid · S25</span></figcaption></figure>
+      <figure><blockquote><p>“In week eleven they made me rehearse the Demo Day minute nine times. The ninth one raised the round.”</p></blockquote><figcaption><b>Ana Ruiz</b><span class="dim">CEO, Ferrous · X25</span></figcaption></figure>
+      <figure><blockquote><p>“We had a logo from a hackathon. We left the batch with a brand people ask about.”</p></blockquote><figcaption><b>Theo Lindqvist</b><span class="dim">Co-founder, Okra · W25</span></figcaption></figure>
+    </div>
+  </div>
+</section>
+
+<!-- ============================== PRICING -->
+<section class="pricing field f-dark" id="pricing" aria-labelledby="pricing-h">
+  <div class="container">
+    <div class="pricing-head">
+      <h2 class="t-h2" id="pricing-h" data-reveal>One batch, one price. <span class="dim">No hourly anything.</span></h2>
+      <div class="slots">
+        <p class="t-label dim"><span data-batch-code>F26</span> capacity</p>
+        <p class="slot-row" aria-label="3 of 4 slots taken"><i class="on"></i><i class="on"></i><i class="on"></i><i></i></p>
+        <p class="t-small dim">One slot left. Intros for <span data-next-code>W27</span> are open.</p>
+      </div>
+    </div>
+
+    <div class="plans">
+      <article class="plan plan--main">
+        <header><p class="t-label">The Batch</p><p class="dim t-small">12 weeks · fixed</p></header>
+        <p class="price t-num">$48,000</p>
+        <p class="t-small plan-alt">or $24,000 and 0.25% on your post-money SAFE.</p>
+        <ul>
+          <li>Positioning and the one sentence</li>
+          <li>Name check, wordmark and identity</li>
+          <li>Marketing site, written, built and shipped</li>
+          <li>Product pass on the screens investors see</li>
+          <li>Demo Day deck and the sixty-second script</li>
+          <li>30 days in your Slack after Demo Day</li>
+        </ul>
+        <a class="btn btn--primary btn--block" href="#book">Book a 20-minute intro <span class="arr" aria-hidden="true">→</span></a>
+      </article>
+      <article class="plan">
+        <header><p class="t-label">The Sprint</p><p class="dim t-small">3 weeks · fixed</p></header>
+        <p class="price t-num">$14,500</p>
+        <p class="t-small plan-alt">Site only, on the brand you already have.</p>
+        <ul>
+          <li>Structure and copy</li>
+          <li>Design and build on your stack</li>
+          <li>Analytics and launch day</li>
+        </ul>
+        <a class="btn btn--ghost btn--block" href="#book">Ask about a sprint</a>
+      </article>
+    </div>
+    <p class="fine t-small dim">Prices in USD. Half up front, half in week six. If we miss Demo Day, the second half is yours to keep.</p>
+  </div>
+</section>
+
+<!-- ============================== FINALE -->
+<section class="finale field f-cream" id="book" aria-labelledby="finale-h">
+  <div class="container">
+    <h2 class="finale-h" id="finale-h">Demo Day is in<br> <span class="t-num" data-days-left>63</span>&nbsp;days.</h2>
+    <div class="finale-row">
+      <p class="t-lead">Intros take twenty minutes. Bring the one sentence you can’t get&nbsp;right.</p>
+      <div class="ctas">
+        <a class="btn btn--primary" href="mailto:hello@weektwelve.studio?subject=Intro%20call">Book a 20-minute intro <span class="arr" aria-hidden="true">→</span></a>
+        <a class="btn btn--text" href="mailto:hello@weektwelve.studio">hello@weektwelve.studio</a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+
+<!-- ============================== FOOTER -->
+<footer class="foot field f-dark">
+  <div class="container">
+    <div class="foot-grid">
+      <div class="foot-brand">
+        <span class="mark mark--lg" aria-hidden="true" data-mark></span>
+        <p class="t-small dim">A design studio for Y&nbsp;Combinator companies. Independent, and not affiliated with Y&nbsp;Combinator.</p>
+      </div>
+      <nav aria-label="Studio"><p class="t-label dim">Studio</p><a href="#work">Work</a><a href="#process">Process</a><a href="#pricing">Pricing</a></nav>
+      <div><p class="t-label dim">Contact</p><a href="mailto:hello@weektwelve.studio">hello@weektwelve.studio</a><a href="#book">Book an intro</a></div>
+      <div><p class="t-label dim">Studios</p>
+        <p>San Francisco <span class="t-num dim" data-clock="America/Los_Angeles">09:41</span></p>
+        <p>New York <span class="t-num dim" data-clock="America/New_York">12:41</span></p>
+      </div>
+      <div><p class="t-label dim">Right now</p>
+        <p><span class="live-dot" aria-hidden="true"></span> Replying within the hour</p>
+        <p class="dim"><span data-batch-code>F26</span>, week <span class="t-num" data-week>3</span>, day <span class="t-num" data-day>17</span></p>
+      </div>
+    </div>
+    <div class="foot-base t-small dim">
+      <span>© 2026 Week Twelve Studio</span>
+      <span>Set in Archivo and Newsreader</span>
+    </div>
+  </div>
+</footer>
+
+<script type="module" src="app.js"></script>
+</body>
+</html>

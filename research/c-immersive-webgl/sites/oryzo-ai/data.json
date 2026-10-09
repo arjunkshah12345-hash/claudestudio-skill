@@ -1,0 +1,591 @@
+{
+ "url": "https://oryzo.ai",
+ "slug": "oryzo-ai",
+ "analyzedAt": "2026-10-07T05:21:52.912Z",
+ "scrollHeight": 49967,
+ "pageLengthInViewports": 55.5,
+ "title": "ORYZO AI",
+ "metaDescription": "A physical product, reimagined for the AI era, proving even the smallest idea can feel extraordinary.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "halyard-display-variable 100 900 normal",
+   "Literata 200 900 normal",
+   "DM Mono 400 normal"
+  ],
+  "families": [
+   [
+    "halyard-display-variable",
+    13
+   ]
+  ],
+  "sizes": [
+   [
+    "12px",
+    10
+   ],
+   [
+    "41px",
+    2
+   ],
+   [
+    "15px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "500",
+    13
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    13
+   ]
+  ],
+  "uppercaseShare": 1,
+  "largest": [
+   {
+    "tag": "span",
+    "text": "WE CAUGHT YOUR ATTENTION WITH A NON-EXISTENT PRODUCT.",
+    "family": "halyard-display-variable",
+    "size": "40.8px",
+    "weight": "500",
+    "lh": "36.72px",
+    "ls": "normal",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(255, 237, 215)"
+   },
+   {
+    "tag": "span",
+    "text": "IF WE CAN SELL A COASTER, IMAGINE WHAT WE CAN DO FOR YOUR BRAND.",
+    "family": "halyard-display-variable",
+    "size": "40.8px",
+    "weight": "500",
+    "lh": "36.72px",
+    "ls": "normal",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(255, 237, 215)"
+   },
+   {
+    "tag": "div",
+    "text": "ORYZO-1 MODEL",
+    "family": "halyard-display-variable",
+    "size": "15px",
+    "weight": "500",
+    "lh": "60px",
+    "ls": "normal",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(16, 9, 4)"
+   },
+   {
+    "tag": "span",
+    "text": "* ADOBE",
+    "family": "halyard-display-variable",
+    "size": "12px",
+    "weight": "500",
+    "lh": "13.08px",
+    "ls": "normal",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(255, 237, 215)"
+   },
+   {
+    "tag": "span",
+    "text": "ILLUSTRATOR",
+    "family": "halyard-display-variable",
+    "size": "12px",
+    "weight": "500",
+    "lh": "13.08px",
+    "ls": "normal",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(255, 237, 215)"
+   },
+   {
+    "tag": "div",
+    "text": "BUILT BY LUSION WITH LOVE",
+    "family": "halyard-display-variable",
+    "size": "12px",
+    "weight": "500",
+    "lh": "13.08px",
+    "ls": "normal",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(220, 80, 0)"
+   },
+   {
+    "tag": "a",
+    "text": "LUSION",
+    "family": "halyard-display-variable",
+    "size": "12px",
+    "weight": "500",
+    "lh": "13.08px",
+    "ls": "normal",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(220, 80, 0)"
+   },
+   {
+    "tag": "span",
+    "text": "SHARE WITH FRIENDS",
+    "family": "halyard-display-variable",
+    "size": "12px",
+    "weight": "500",
+    "lh": "13.08px",
+    "ls": "normal",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(255, 237, 215)"
+   },
+   {
+    "tag": "span",
+    "text": "IF YOU LIKE IT",
+    "family": "halyard-display-variable",
+    "size": "12px",
+    "weight": "500",
+    "lh": "13.08px",
+    "ls": "normal",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(255, 237, 215)"
+   },
+   {
+    "tag": "label",
+    "text": "SUBSCRIBE TO LUSION'S NEWSLETTER:",
+    "family": "halyard-display-variable",
+    "size": "12px",
+    "weight": "500",
+    "lh": "13.08px",
+    "ls": "normal",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(255, 237, 215)"
+   },
+   {
+    "tag": "div",
+    "text": "NEW BUSINESS:",
+    "family": "halyard-display-variable",
+    "size": "12px",
+    "weight": "500",
+    "lh": "13.08px",
+    "ls": "normal",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(255, 237, 215)"
+   },
+   {
+    "tag": "div",
+    "text": "GENERAL ENQUIRES:",
+    "family": "halyard-display-variable",
+    "size": "12px",
+    "weight": "500",
+    "lh": "13.08px",
+    "ls": "normal",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(255, 237, 215)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgba(0, 0, 0, 0)",
+  "htmlBg": "rgb(16, 9, 4)",
+  "text": [
+   [
+    "rgb(255, 237, 215)",
+    10
+   ],
+   [
+    "rgb(220, 80, 0)",
+    2
+   ],
+   [
+    "rgb(16, 9, 4)",
+    1
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(56, 36, 22)",
+    1
+   ],
+   [
+    "rgb(255, 237, 215)",
+    1
+   ],
+   [
+    "rgb(16, 9, 4)",
+    1
+   ]
+  ],
+  "gradients": [
+   [
+    "repeating-linear-gradient(90deg, rgb(255, 237, 215) 0px, rgb(255, 237, 215) 2px, rgba(255, 237, 215, 0) 0px, rgba(255, 237, 215, 0) 4px)",
+    15
+   ],
+   [
+    "repeating-linear-gradient(90deg, rgb(255, 237, 215) 0px, rgb(255, 237, 215) 3px, rgba(255, 237, 215, 0) 0px, rgba(255, 237, 215, 0) 6px)",
+    2
+   ],
+   [
+    "repeating-linear-gradient(0deg, rgb(255, 237, 215) 0px, rgb(255, 237, 215) 3px, rgba(255, 237, 215, 0) 0px, rgba(255, 237, 215, 0) 6px)",
+    2
+   ],
+   [
+    "linear-gradient(rgb(253, 254, 237), rgb(255, 191, 2) 17%, rgb(233, 80, 14) 32%, rgb(205, 25, 125), rgb(140, 1, 156), rgb(37, 1, 135), rgb(3,",
+    1
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.3,0,0.66,-0.3)",
+    1
+   ]
+  ],
+  "durations": [
+   [
+    "0.18s",
+    5
+   ],
+   [
+    "0.3s",
+    5
+   ],
+   [
+    "0.2s",
+    4
+   ],
+   [
+    "1s",
+    4
+   ],
+   [
+    "0.5s",
+    3
+   ],
+   [
+    "0.25s",
+    2
+   ],
+   [
+    "0.15s",
+    1
+   ],
+   [
+    "0s",
+    1
+   ],
+   [
+    "3s",
+    1
+   ]
+  ],
+  "keyframes": [
+   "hero-card-dot-blink",
+   "bikini-btn-pulse-animation",
+   "grip-instruction-wheel-dash",
+   "newsletter-btn-loading"
+  ]
+ },
+ "cssVarSample": {
+  "--vh": "1vh",
+  "--display-font": "\"halyard-display-variable\"",
+  "--text-font": "\"halyard-text-variable\"",
+  "--site-padding-x": "3.125vw",
+  "--site-row-height": "calc(var(--site-padding-x) * 8 / 60)",
+  "--site-padding-y": "calc(var(--site-row-height) * 4)",
+  "--grid-columns": "16",
+  "--grid-rows": "1",
+  "--grid-gap-scale": "calc(24 / 90)",
+  "--grid-gap-width": "calc((100vw - var(--site-padding-x) * 2) / ((var(--grid-columns) / var(--grid-ga",
+  "--grid-column-width": "calc(var(--grid-gap-width) / var(--grid-gap-scale))",
+  "--grid-span-width": "calc(var(--grid-gap-width) + var(--grid-column-width))",
+  "--grid-span-1": "var(--grid-column-width)",
+  "--grid-span-2": "calc(var(--grid-span-width) * 1 + var(--grid-column-width))",
+  "--grid-span-3": "calc(var(--grid-span-width) * 2 + var(--grid-column-width))",
+  "--grid-span-4": "calc(var(--grid-span-width) * 3 + var(--grid-column-width))",
+  "--grid-span-5": "calc(var(--grid-span-width) * 4 + var(--grid-column-width))",
+  "--grid-span-6": "calc(var(--grid-span-width) * 5 + var(--grid-column-width))",
+  "--grid-span-7": "calc(var(--grid-span-width) * 6 + var(--grid-column-width))",
+  "--grid-span-8": "calc(var(--grid-span-width) * 7 + var(--grid-column-width))",
+  "--grid-span-9": "calc(var(--grid-span-width) * 8 + var(--grid-column-width))",
+  "--grid-span-10": "calc(var(--grid-span-width) * 9 + var(--grid-column-width))",
+  "--grid-span-11": "calc(var(--grid-span-width) * 10 + var(--grid-column-width))",
+  "--grid-span-12": "calc(var(--grid-span-width) * 11 + var(--grid-column-width))",
+  "--grid-span-13": "calc(var(--grid-span-width) * 12 + var(--grid-column-width))",
+  "--grid-span-14": "calc(var(--grid-span-width) * 13 + var(--grid-column-width))",
+  "--grid-span-15": "calc(var(--grid-span-width) * 14 + var(--grid-column-width))",
+  "--grid-span-16": "calc(var(--grid-span-width) * 15 + var(--grid-column-width))",
+  "--color-white": "#ffedd7",
+  "--color-white-transparent": "#ffedd700",
+  "--color-black": "#100904",
+  "--color-black-transparent": "#10090400",
+  "--color-grey-brown": "#6c5f51",
+  "--color-green": "#445231",
+  "--color-green-light": "#5d6c49",
+  "--color-green-lightest": "#f6e0c6",
+  "--color-pure-white": "#fff",
+  "--color-pure-black": "#000",
+  "--color-orange": "#dc5000",
+  "--color-brown": "#382416",
+  "--inner-width": "calc(100vw - var(--site-padding-x) * 2)",
+  "--screen-unit": "min(var(--inner-width) / (1920 - 60 * 2), calc(var(--vh) * 100) / 1024 * 1.25)",
+  "--h1": "calc(164 * var(--screen-unit))",
+  "--h2": "calc(68 * var(--screen-unit))",
+  "--h3": "calc(45 * var(--screen-unit))",
+  "--h4": "calc(32 * var(--screen-unit))",
+  "--h5": "calc(20 * var(--screen-unit))",
+  "--sub1": "calc(24 * var(--screen-unit))",
+  "--sub2": "calc(16 * var(--screen-unit))",
+  "--body1": "calc(38 * var(--screen-unit))",
+  "--body2": "calc(24 * var(--screen-unit))",
+  "--body3": "calc(18 * var(--screen-unit))",
+  "--link-header": "calc(16 * var(--screen-unit))",
+  "--quote": "calc(30 * var(--screen-unit))",
+  "--default": "calc(18 * var(--screen-unit))",
+  "--btn": "calc(16 * var(--screen-unit))",
+  "--site-header": "21px"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": true,
+  "webglCanvas": 0,
+  "canvases": 6,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": false,
+  "astro": true,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 39,
+  "video": 2,
+  "svg": 43,
+  "picture": 17,
+  "iframes": 1
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 0,
+  "clipPath": 0,
+  "sticky": 2,
+  "fixed": [
+   "CANVAS",
+   "section__inner o-container"
+  ],
+  "customCursor": false,
+  "boxShadows": [],
+  "filters": [
+   [
+    "blur(8.55px)",
+    91
+   ],
+   [
+    "blur(12.3px)",
+    11
+   ],
+   [
+    "blur(4.92px)",
+    1
+   ],
+   [
+    "blur(10.125px)",
+    1
+   ],
+   [
+    "saturate(0.4) brightness(0.6)",
+    1
+   ]
+  ],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "36px",
+   1
+  ],
+  [
+   "22.5px",
+   1
+  ],
+  [
+   "50%",
+   1
+  ]
+ ],
+ "borders": [
+  [
+   "2px solid rgba(220, 80, 0, 0)",
+   1
+  ],
+  [
+   "1px dashed rgba(255, 237, 215, 0.2)",
+   1
+  ],
+  [
+   "1px dashed rgb(255, 237, 215)",
+   1
+  ]
+ ],
+ "grids": [
+  [
+   "16cols gap 18px",
+   2
+  ]
+ ],
+ "containers": [],
+ "sideMargins": [
+  [
+   "131px",
+   1
+  ],
+  [
+   "695px",
+   1
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "section",
+   "h": 7200,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section__inner o-container",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section",
+   "h": 981,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section__inner o-container o-grid",
+   "h": 957,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "fixed",
+  "height": 0,
+  "links": 10,
+  "linkTexts": [
+   "I\nI\nN\nN\nT\nT\nR\nR\nO\nO",
+   "F\nF\nE\nE\nA\nA\nT\nT\nU\nU\nR\nR\nE\nE\nS\nS",
+   "P\nP\nR\nR\nO\nO\nD\nD\nU\nU\nC\nC\nT\nT",
+   "C\nC\nO\nO\nN\nN\nT\nT\nA\nA\nC\nC\nT\nT",
+   "Intro",
+   "Features",
+   "Product",
+   "Contact",
+   "hello@lusion.co"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "L L U U S S I I O O N N . . C C O O",
+   "bg": "rgb(56, 36, 22)",
+   "color": "rgb(255, 237, 215)",
+   "radius": "36px",
+   "pad": "14.4px 24px",
+   "size": "12px",
+   "weight": "500",
+   "tt": "uppercase",
+   "border": "2px solid rgba(220, 80, 0, 0)",
+   "h": 46
+  },
+  {
+   "text": "C C O O P P Y Y U U R R L L",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(255, 237, 215)",
+   "radius": "22.5px",
+   "pad": "7.5px 0px",
+   "size": "7.5px",
+   "weight": "500",
+   "tt": "uppercase",
+   "border": "1px dashed rgb(255, 237, 215)",
+   "h": 26
+  }
+ ],
+ "headings": [
+  "ISN’T JUST A COASTER.",
+  "WE CAUGHT YOUR ATTENTION WITH A NON-EXISTENT PRODUCT. IF WE CAN SELL A COASTER, IMAGINE WHAT WE CAN DO FOR YOUR BRAND."
+ ],
+ "paras": [],
+ "footer": {
+  "h": 0,
+  "text": ""
+ },
+ "jsMotion": {
+  "scriptsFetched": 2,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "0",
+    1
+   ]
+  ],
+  "staggers": [],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [
+   [
+    "lines,chars",
+    16
+   ],
+   [
+    "chars",
+    6
+   ],
+   [
+    "lines",
+    6
+   ],
+   [
+    "words",
+    3
+   ],
+   [
+    "lines,words,chars",
+    1
+   ]
+  ],
+  "bezierArrays": []
+ }
+}

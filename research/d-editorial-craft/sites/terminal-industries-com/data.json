@@ -1,0 +1,1282 @@
+{
+ "url": "https://terminal-industries.com",
+ "slug": "terminal-industries-com",
+ "analyzedAt": "2026-10-07T05:18:48.887Z",
+ "scrollHeight": 15766,
+ "pageLengthInViewports": 17.5,
+ "title": "Terminal Yard Operating System | The New Industry Standard in Yard Operations",
+ "metaDescription": "Max throughput. Easy-to-use. Rapid ROI. Terminal Yard Operating System is the only AI-native, fully-integrated platform for the yard of the future.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "SuisseIntl 400 normal",
+   "SuisseIntl 450 normal",
+   "SuisseIntl 600 normal",
+   "SuisseIntl 500 normal",
+   "Geist Mono 400 normal",
+   "Geist Mono 600 normal"
+  ],
+  "families": [
+   [
+    "SuisseIntl",
+    163
+   ],
+   [
+    "Geist Mono",
+    26
+   ]
+  ],
+  "sizes": [
+   [
+    "14px",
+    70
+   ],
+   [
+    "18px",
+    21
+   ],
+   [
+    "13px",
+    17
+   ],
+   [
+    "20px",
+    17
+   ],
+   [
+    "23px",
+    14
+   ],
+   [
+    "11px",
+    13
+   ],
+   [
+    "15px",
+    7
+   ],
+   [
+    "16px",
+    6
+   ],
+   [
+    "12px",
+    5
+   ],
+   [
+    "46px",
+    4
+   ],
+   [
+    "22px",
+    3
+   ],
+   [
+    "17px",
+    3
+   ],
+   [
+    "70px",
+    2
+   ],
+   [
+    "34px",
+    2
+   ],
+   [
+    "27px",
+    2
+   ],
+   [
+    "38px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    92
+   ],
+   [
+    "450",
+    71
+   ],
+   [
+    "600",
+    26
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "0.030em@14",
+    68
+   ],
+   [
+    "0.020em@18",
+    21
+   ],
+   [
+    "0.180em@13",
+    16
+   ],
+   [
+    "-0.010em@20",
+    15
+   ],
+   [
+    "-0.018em@23",
+    8
+   ],
+   [
+    "0.180em@11",
+    7
+   ],
+   [
+    "0.024em@15",
+    7
+   ],
+   [
+    "0.136em@11",
+    6
+   ],
+   [
+    "-0.019em@16",
+    5
+   ],
+   [
+    "-0.010em@23",
+    5
+   ],
+   [
+    "-0.010em@46",
+    4
+   ],
+   [
+    "0.180em@12",
+    3
+   ],
+   [
+    "-0.018em@22",
+    3
+   ],
+   [
+    "-0.018em@17",
+    3
+   ],
+   [
+    "-0.051em@70",
+    2
+   ]
+  ],
+  "uppercaseShare": 0.12,
+  "largest": [
+   {
+    "tag": "h2",
+    "text": "Powering the yards behind the brands you know",
+    "family": "SuisseIntl",
+    "size": "70px",
+    "weight": "400",
+    "lh": "70px",
+    "ls": "-3.6px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(5, 36, 36)"
+   },
+   {
+    "tag": "h2",
+    "text": "Fix one yard problem today. Expand on your timetable.",
+    "family": "SuisseIntl",
+    "size": "70px",
+    "weight": "400",
+    "lh": "70px",
+    "ls": "-3.6px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(5, 36, 36)"
+   },
+   {
+    "tag": "p",
+    "text": "Automate and Expedite Gate Operations",
+    "family": "SuisseIntl",
+    "size": "46px",
+    "weight": "400",
+    "lh": "55.2px",
+    "ls": "-0.46px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "p",
+    "text": "Real-Time Visibility and Workflow Automation",
+    "family": "SuisseIntl",
+    "size": "46px",
+    "weight": "400",
+    "lh": "normal",
+    "ls": "-0.46px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(5, 36, 36)"
+   },
+   {
+    "tag": "p",
+    "text": "Optimize Loading and Improve Dock Efficiency",
+    "family": "SuisseIntl",
+    "size": "46px",
+    "weight": "400",
+    "lh": "normal",
+    "ls": "-0.46px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "p",
+    "text": "A Unified, Connected Data-Driven System",
+    "family": "SuisseIntl",
+    "size": "46px",
+    "weight": "400",
+    "lh": "normal",
+    "ls": "-0.46px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(5, 36, 36)"
+   },
+   {
+    "tag": "span",
+    "text": "641,626",
+    "family": "SuisseIntl",
+    "size": "44px",
+    "weight": "400",
+    "lh": "52.8px",
+    "ls": "-0.6px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "h2",
+    "text": "Tell us about your yard:",
+    "family": "SuisseIntl",
+    "size": "38px",
+    "weight": "400",
+    "lh": "36.48px",
+    "ls": "-0.613333px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(5, 36, 36)"
+   },
+   {
+    "tag": "p",
+    "text": "“We have not seen this kind of accuracy with computer-vision technology… this is a signifi",
+    "family": "SuisseIntl",
+    "size": "34.5024px",
+    "weight": "400",
+    "lh": "33.1223px",
+    "ls": "-0.613333px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "With Terminal",
+    "family": "SuisseIntl",
+    "size": "34px",
+    "weight": "400",
+    "lh": "40.8px",
+    "ls": "-0.68px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "your yard saves",
+    "family": "SuisseIntl",
+    "size": "34px",
+    "weight": "400",
+    "lh": "40.8px",
+    "ls": "-0.32px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgba(255, 255, 255, 0.6)"
+   },
+   {
+    "tag": "span",
+    "text": "23",
+    "family": "SuisseIntl",
+    "size": "27px",
+    "weight": "400",
+    "lh": "39.42px",
+    "ls": "-0.4px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgba(0, 0, 0, 0)",
+  "htmlBg": "rgb(255, 255, 255)",
+  "text": [
+   [
+    "rgb(255, 255, 255)",
+    107
+   ],
+   [
+    "rgb(5, 36, 36)",
+    39
+   ],
+   [
+    "rgb(194, 194, 194)",
+    13
+   ],
+   [
+    "rgb(31, 31, 31)",
+    11
+   ],
+   [
+    "rgba(255, 255, 255, 0.6)",
+    5
+   ],
+   [
+    "rgb(127, 127, 127)",
+    4
+   ],
+   [
+    "rgba(5, 36, 36, 0.7)",
+    3
+   ],
+   [
+    "rgb(69, 71, 66)",
+    3
+   ],
+   [
+    "rgba(255, 255, 255, 0.4)",
+    2
+   ],
+   [
+    "rgba(5, 36, 36, 0.2)",
+    1
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(151, 151, 151)",
+    90
+   ],
+   [
+    "rgb(255, 255, 255)",
+    32
+   ],
+   [
+    "rgba(5, 36, 36, 0.05)",
+    6
+   ],
+   [
+    "rgba(5, 36, 36, 0.2)",
+    6
+   ],
+   [
+    "rgb(240, 240, 240)",
+    4
+   ],
+   [
+    "rgb(5, 36, 36)",
+    4
+   ],
+   [
+    "rgb(171, 255, 2)",
+    3
+   ],
+   [
+    "rgba(0, 0, 0, 0.3)",
+    2
+   ],
+   [
+    "rgba(255, 255, 255, 0.1)",
+    2
+   ],
+   [
+    "rgb(194, 194, 194)",
+    2
+   ],
+   [
+    "rgb(221, 221, 221)",
+    1
+   ],
+   [
+    "rgb(0, 0, 0)",
+    1
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(rgba(255, 255, 255, 0), rgb(229, 229, 229))",
+    35
+   ],
+   [
+    "radial-gradient(circle, rgba(171, 255, 2, 0.8), rgba(0, 0, 0, 0) 240px)",
+    25
+   ],
+   [
+    "linear-gradient(90deg, rgba(255, 255, 255, 0), rgb(229, 229, 229))",
+    22
+   ],
+   [
+    "radial-gradient(circle, rgba(171, 255, 2, 0.4), rgba(0, 0, 0, 0) 128px)",
+    20
+   ],
+   [
+    "linear-gradient(0deg, rgba(255, 255, 255, 0), rgb(229, 229, 229))",
+    15
+   ],
+   [
+    "radial-gradient(circle, rgb(171, 255, 2), rgba(0, 0, 0, 0) 240px)",
+    5
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.39,0.575,0.565,1)",
+    59
+   ],
+   [
+    "cubic-bezier(0.19,1,0.22,1)",
+    39
+   ],
+   [
+    "cubic-bezier(0.4,0,0.2,1)",
+    21
+   ],
+   [
+    "cubic-bezier(0.42,0,0.58,1)",
+    10
+   ],
+   [
+    "cubic-bezier(0.16,1,0.3,1)",
+    7
+   ],
+   [
+    "cubic-bezier(0.215,0.61,0.355,1)",
+    6
+   ],
+   [
+    "cubic-bezier(0.4,0,0.6,1)",
+    5
+   ],
+   [
+    "cubic-bezier(0.075,0.82,0.165,1)",
+    4
+   ],
+   [
+    "cubic-bezier(0.445,0.05,0.55,0.95)",
+    4
+   ],
+   [
+    "cubic-bezier(0,0,0.2,1)",
+    3
+   ],
+   [
+    "cubic-bezier(0.47,0,0.745,0.715)",
+    2
+   ],
+   [
+    "cubic-bezier(0.785,0.135,0.15,0.86)",
+    2
+   ]
+  ],
+  "durations": [
+   [
+    "0.2s",
+    68
+   ],
+   [
+    "0.3s",
+    48
+   ],
+   [
+    "0.15s",
+    22
+   ],
+   [
+    "0.25s",
+    19
+   ],
+   [
+    "1s",
+    19
+   ],
+   [
+    "0.5s",
+    17
+   ],
+   [
+    ".3s",
+    16
+   ],
+   [
+    "0.7s",
+    15
+   ],
+   [
+    "0.6s",
+    11
+   ],
+   [
+    "5000s",
+    6
+   ]
+  ],
+  "keyframes": [
+   "color-transition",
+   "color-transition-cafe0bfb",
+   "spin-cafe0bfb",
+   "popdown-in-cafe0bfb",
+   "color-transition-18c5ce2a",
+   "color-transition-6810d964",
+   "color-transition-19891b94",
+   "color-transition-63b732dd",
+   "color-transition-27d88e82",
+   "color-transition-59fa0a68",
+   "color-transition-5608d61e",
+   "color-transition-7a33bed2",
+   "color-transition-5aa95c1e",
+   "dropdown-in-5aa95c1e",
+   "color-transition-bb6830dc",
+   "color-transition-3eb00c32",
+   "color-transition-ebd3c3c9",
+   "color-transition-2a5cb2b0",
+   "color-transition-b5fe9da5",
+   "color-transition-aaa1b985"
+  ]
+ },
+ "cssVarSample": {
+  "--spacing": "5.128vw",
+  "--vw": "1vw",
+  "--vh": "calc(var(--vh, 1vh)*1)",
+  "--dvh": "calc(var(--dvh, 1dvh)*1)",
+  "--svh": "calc(var(--svh, 1svh)*1)",
+  "--lvh": "calc(var(--lvh, 1lvh)*1)",
+  "--nuxt-devtools-safe-area-top": "env(safe-area-inset-top,0px)",
+  "--nuxt-devtools-safe-area-right": "env(safe-area-inset-right,0px)",
+  "--nuxt-devtools-safe-area-bottom": "env(safe-area-inset-bottom,0px)",
+  "--nuxt-devtools-safe-area-left": "env(safe-area-inset-left,0px)",
+  "--svw": "1vw",
+  "--c-black": "#000",
+  "--c-black-10": "rgba(0,0,0,.1)",
+  "--c-gray": "#454742",
+  "--c-dark-gray": "#7f7f7f",
+  "--c-light-gray": "#c2c2c2",
+  "--c-dark-gray-008": "rgba(39,39,39,.08)",
+  "--c-light-light-gray": "#ddd",
+  "--c-white": "#fff",
+  "--c-white-40": "hsla(0,0%,100%,.4)",
+  "--c-white-30": "hsla(0,0%,100%,.3)",
+  "--c-white-20": "hsla(0,0%,100%,.2)",
+  "--c-white-15": "hsla(0,0%,100%,.15)",
+  "--c-white-0": "hsla(0,0%,100%,0)",
+  "--c-dirty-white": "#f0f0f0",
+  "--c-lime": "#abff02",
+  "--c-orange": "#fb6b3c",
+  "--c-dark-green": "#052424",
+  "--c-dark-green-20": "rgba(5,36,36,.2)",
+  "--c-dark-green-15": "rgba(5,36,36,.15)",
+  "--c-dark-green-05": "rgba(5,36,36,.05)",
+  "--ease-out": "cubic-bezier(0,0,.58,1)",
+  "--font-primary": "\"SuisseIntl\",sans-serif",
+  "--font-mono": "\"Geist Mono\",monospace",
+  "--dp-common-transition": "all .1s ease-in",
+  "--dp-menu-padding": "6px 8px",
+  "--dp-animation-duration": ".1s",
+  "--dp-menu-appear-transition-timing": "cubic-bezier(.4,0,1,1)",
+  "--dp-transition-timing": "ease-out",
+  "--dp-action-row-transition": "all .2s ease-in",
+  "--dp-font-family": "-apple-system,blinkmacsystemfont,\"Segoe UI\",roboto,oxygen,ubuntu,cantarell,\"Open",
+  "--dp-border-radius": "4px",
+  "--dp-cell-border-radius": "4px",
+  "--dp-transition-length": "22px",
+  "--dp-transition-timing-general": ".1s",
+  "--dp-button-height": "35px",
+  "--dp-month-year-row-height": "35px",
+  "--dp-month-year-row-button-size": "25px",
+  "--dp-button-icon-height": "20px",
+  "--dp-calendar-wrap-padding": "0 5px",
+  "--dp-cell-size": "35px",
+  "--dp-cell-padding": "5px",
+  "--dp-common-padding": "10px",
+  "--dp-input-icon-padding": "35px",
+  "--dp-input-padding": "6px 30px 6px 12px",
+  "--dp-input-not-clearable-padding": "12px",
+  "--dp-menu-min-width": "260px",
+  "--dp-action-buttons-padding": "1px 6px",
+  "--dp-row-margin": "5px 0",
+  "--dp-calendar-header-cell-padding": ".5rem",
+  "--dp-multi-calendars-spacing": "10px",
+  "--dp-overlay-col-padding": "3px",
+  "--dp-time-inc-dec-button-size": "32px",
+  "--dp-font-size": "1rem",
+  "--dp-preview-font-size": ".8rem",
+  "--dp-time-font-size": "2rem",
+  "--dp-action-button-height": "22px",
+  "--dp-action-row-padding": "8px",
+  "--dp-direction": "ltr",
+  "--salespeak-font-family": "'Poppins', sans-serif"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": true,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 1,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": true,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 39,
+  "video": 4,
+  "svg": 42,
+  "picture": 34,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [
+   [
+    "difference",
+    1
+   ]
+  ],
+  "backdropFilter": 9,
+  "clipPath": 14,
+  "sticky": 5,
+  "fixed": [
+   "site-header",
+   "scroll-indicator"
+  ],
+  "customCursor": false,
+  "boxShadows": [
+   [
+    "rgba(255, 255, 255, 0.06) 0px 1px 0px 0px inset, rgba(0, 0, 0, 0.25) 0px 40px 80px 0px",
+    1
+   ]
+  ],
+  "filters": [
+   [
+    "url(\"#v-0-0-0-2\")",
+    4
+   ],
+   [
+    "url(\"#v-0-0-0-0-6-2\")",
+    1
+   ],
+   [
+    "blur(30px)",
+    1
+   ]
+  ],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "8px",
+   24
+  ],
+  [
+   "20px",
+   4
+  ],
+  [
+   "24px",
+   3
+  ],
+  [
+   "18px",
+   1
+  ],
+  [
+   "17px",
+   1
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgb(194, 194, 194)",
+   6
+  ],
+  [
+   "bottom:1px solid rgba(255, 255, 255, 0.3)",
+   6
+  ],
+  [
+   "1px solid rgba(5, 36, 36, 0.15)",
+   3
+  ],
+  [
+   "1px solid rgba(0, 0, 0, 0)",
+   2
+  ],
+  [
+   "1px solid rgba(255, 255, 255, 0.6)",
+   1
+  ]
+ ],
+ "grids": [
+  [
+   "12cols gap 15.0048px",
+   5
+  ],
+  [
+   "1cols gap normal",
+   5
+  ],
+  [
+   "12cols gap 0px",
+   2
+  ],
+  [
+   "2cols gap 40px",
+   2
+  ],
+  [
+   "12cols gap normal",
+   1
+  ],
+  [
+   "3cols gap 24.0048px",
+   1
+  ],
+  [
+   "3cols gap 6.0048px",
+   1
+  ],
+  [
+   "3cols gap 24px",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "933.754px",
+   4
+  ],
+  [
+   "880px",
+   2
+  ],
+  [
+   "100%",
+   2
+  ],
+  [
+   "900px",
+   1
+  ],
+  [
+   "1780px",
+   1
+  ],
+  [
+   "1920px",
+   1
+  ]
+ ],
+ "sideMargins": [
+  [
+   "749px",
+   6
+  ],
+  [
+   "70px",
+   6
+  ],
+  [
+   "784px",
+   5
+  ],
+  [
+   "270px",
+   4
+  ],
+  [
+   "165px",
+   4
+  ],
+  [
+   "110px",
+   3
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "content-wrapper",
+   "h": 15766,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "video-carousel",
+   "h": 2700,
+   "padTop": "0px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "notch-section__wrapper",
+   "h": 48,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "logo-grid-wrapper logo-wall--pt-sm logo-wall--pb-s",
+   "h": 641,
+   "padTop": "40px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "product-grid product-grid--pt-xl product-grid--pb-",
+   "h": 1028,
+   "padTop": "120px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "notch-section__wrapper",
+   "h": 48,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "notch-section__wrapper",
+   "h": 481,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section__wrapper",
+   "h": 481,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section-introduction hp-si2",
+   "h": 481,
+   "padTop": "180px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section-content",
+   "h": 121,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "notch-section__wrapper",
+   "h": 681,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section__wrapper",
+   "h": 681,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section-introduction hp-si2",
+   "h": 681,
+   "padTop": "180px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section-content",
+   "h": 321,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "features-steps",
+   "h": 3101,
+   "padTop": "48px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "features-carousel-expandable-section",
+   "h": 1340,
+   "padTop": "82px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "header-section",
+   "h": 223,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "notch-section__wrapper",
+   "h": 621,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section__wrapper",
+   "h": 621,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section-introduction hp-si2",
+   "h": 621,
+   "padTop": "180px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section-content",
+   "h": 261,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "logo-grid-wrapper",
+   "h": 621,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "notch-section__wrapper",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "form-section",
+   "h": 574,
+   "padTop": "48px",
+   "bg": "rgb(5, 36, 36)"
+  },
+  {
+   "cls": "tabbed-accordion",
+   "h": 787,
+   "padTop": "90px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "logo-section",
+   "h": 239,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "gartner-section",
+   "h": 79,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "fixed",
+  "height": 78,
+  "links": 70,
+  "linkTexts": [
+   "System",
+   "Markets",
+   "Featured",
+   "Resources",
+   "About",
+   "Read More",
+   "What is YOS™",
+   "SmartYard™ YMS",
+   "The Agentic AI Yard",
+   "Terminal at the Gate",
+   "Terminal In the Yard",
+   "Terminal at the Dock",
+   "Terminal Across Your Operations",
+   "Read More"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "EXPLORE PRODUCT",
+   "bg": "rgb(171, 255, 2)",
+   "color": "rgb(5, 36, 36)",
+   "radius": "8px",
+   "pad": "8px 20.9952px",
+   "size": "11px",
+   "weight": "600",
+   "tt": "none",
+   "border": "none",
+   "h": 42
+  },
+  {
+   "text": "REQUEST DEMO",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(5, 36, 36)",
+   "radius": "8px",
+   "pad": "8px 20.9952px",
+   "size": "11px",
+   "weight": "600",
+   "tt": "none",
+   "border": "none",
+   "h": 42
+  },
+  {
+   "text": "CONTACT US",
+   "bg": "rgb(221, 221, 221)",
+   "color": "rgb(5, 36, 36)",
+   "radius": "8px",
+   "pad": "8px 20.9952px",
+   "size": "11px",
+   "weight": "600",
+   "tt": "none",
+   "border": "none",
+   "h": 42
+  },
+  {
+   "text": "FIX NOW",
+   "bg": "rgba(5, 36, 36, 0.05)",
+   "color": "rgb(5, 36, 36)",
+   "radius": "8px",
+   "pad": "25px 96px",
+   "size": "11px",
+   "weight": "600",
+   "tt": "uppercase",
+   "border": "none",
+   "h": 59
+  },
+  {
+   "text": "LEARN MORE",
+   "bg": "rgba(5, 36, 36, 0.05)",
+   "color": "rgb(5, 36, 36)",
+   "radius": "8px",
+   "pad": "25px 96px",
+   "size": "11px",
+   "weight": "600",
+   "tt": "uppercase",
+   "border": "none",
+   "h": 59
+  },
+  {
+   "text": "ONE SYSTEM FOR ALL",
+   "bg": "rgba(5, 36, 36, 0.05)",
+   "color": "rgb(5, 36, 36)",
+   "radius": "8px",
+   "pad": "25px 96px",
+   "size": "11px",
+   "weight": "600",
+   "tt": "uppercase",
+   "border": "none",
+   "h": 59
+  },
+  {
+   "text": "SUBMIT",
+   "bg": "rgb(240, 240, 240)",
+   "color": "rgb(5, 36, 36)",
+   "radius": "8px",
+   "pad": "12px 28px",
+   "size": "13px",
+   "weight": "600",
+   "tt": "uppercase",
+   "border": "none",
+   "h": 58
+  },
+  {
+   "text": "AT THE GATE",
+   "bg": "rgba(5, 36, 36, 0.05)",
+   "color": "rgb(5, 36, 36)",
+   "radius": "8px",
+   "pad": "12px 18px",
+   "size": "13px",
+   "weight": "600",
+   "tt": "uppercase",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 58
+  },
+  {
+   "text": "IN THE YARD",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(194, 194, 194)",
+   "radius": "8px",
+   "pad": "12px 18px",
+   "size": "13px",
+   "weight": "600",
+   "tt": "uppercase",
+   "border": "1px solid rgb(194, 194, 194)",
+   "h": 58
+  },
+  {
+   "text": "AT THE DOCK",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(194, 194, 194)",
+   "radius": "8px",
+   "pad": "12px 18px",
+   "size": "13px",
+   "weight": "600",
+   "tt": "uppercase",
+   "border": "1px solid rgb(194, 194, 194)",
+   "h": 58
+  }
+ ],
+ "headings": [
+  "We have reinvented the future of logistics through the yard.",
+  "AI-native technology that turns the space between your gate and your dock...",
+  "into one connected, automated system.",
+  "Powering the yards behind the brands you know",
+  "Fix one yard problem today. Expand on your timetable.",
+  "Fix One Problem in the Yard",
+  "I Have a Few Yards to Optimize",
+  "I Run a Network of Yards",
+  "What's your yard costing you?",
+  "Tell us about your yard:",
+  "Introducing the Terminal Yard Operating System",
+  "One Modular Platform Infinite Possibilities",
+  "Built by logistics leaders who want a new industry standard in the yard",
+  "Contact us and we will be in touch",
+  "same day, your way",
+  "FAQs",
+  "The yard of the future starts today."
+ ],
+ "paras": [
+  "Gate, security, dock — start with the single problem slowing your yard down today. Go live in days with no disruption and at low cost.",
+  "Begin with one site, prove the value, and roll out to the rest on your own timeline. No big platform commitment to get started.",
+  "One control tower across every site, with the analytics and orchestration to manage your whole operation from a single view.",
+  "Estimated annual savings by category:",
+  "Labor Savings (Gate, Traffic, Dispatch, Yard Check):",
+  "Spotter Savings (Drivers and Unit Leases):",
+  "Enter your work email below if you would like to run a custom ROI analysis with one of our team of yard experts.",
+  "The Terminal Yard Operating System™ (YOS™) uses computer vision and autonomous decision intelligence to turn chaotic, manually run yards into self-aware logistics environments. Its key benefits include:",
+  "Orchestrate Yard Execution Computer vision automates check-in, location, and validation gate to dock — up to 50% more throughput and 85% faster gate processing.",
+  "Build System You Need Start with the applications your need most and then expand as your needs grow or as your operations become more complex. Live in 5 days, low IT lift, no third-party devices to support."
+ ],
+ "footer": null,
+ "jsMotion": {
+  "scriptsFetched": 8,
+  "gsapEases": [
+   [
+    "expo.inOut",
+    10
+   ],
+   [
+    "custom.fastInOut",
+    6
+   ],
+   [
+    "expo.out",
+    6
+   ],
+   [
+    "power2.inOut",
+    2
+   ],
+   [
+    "power1.in",
+    2
+   ],
+   [
+    "none",
+    1
+   ],
+   [
+    "expo",
+    1
+   ],
+   [
+    "power4",
+    1
+   ],
+   [
+    "power1.out",
+    1
+   ]
+  ],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "1.2",
+    10
+   ],
+   [
+    "1",
+    6
+   ],
+   [
+    ".6",
+    4
+   ],
+   [
+    "0",
+    2
+   ],
+   [
+    ".2",
+    2
+   ],
+   [
+    ".8",
+    2
+   ],
+   [
+    "2",
+    1
+   ],
+   [
+    ".5",
+    1
+   ],
+   [
+    ".4",
+    1
+   ],
+   [
+    "1.4",
+    1
+   ]
+  ],
+  "staggers": [
+   [
+    "0",
+    2
+   ],
+   [
+    "{each:.04,from:\"end\"}",
+    2
+   ]
+  ],
+  "lenis": [
+   [
+    "smoothWheel:r",
+    2
+   ],
+   [
+    "wheelMultiplier:1",
+    1
+   ]
+  ],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

@@ -1,0 +1,751 @@
+{
+ "url": "https://www.menil.org/",
+ "slug": "www-menil-org",
+ "analyzedAt": "2026-10-07T05:25:30.446Z",
+ "scrollHeight": 7263,
+ "pageLengthInViewports": 8.1,
+ "title": "Homepage - Menil",
+ "metaDescription": "Set within a residential neighborhood, the Menil Collection invites visitors to explore its art buildings and green spaces. Admission is always free.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "freight-text-pro 400 normal",
+   "freight-text-pro 400 italic",
+   "freight-display-pro 400 normal",
+   "freight-display-pro 400 italic",
+   "acumin-variable 100 900 normal"
+  ],
+  "families": [
+   [
+    "acumin-variable",
+    81
+   ],
+   [
+    "freight-text-pro",
+    52
+   ],
+   [
+    "freight-display-pro",
+    4
+   ],
+   [
+    "ui-sans-serif",
+    2
+   ]
+  ],
+  "sizes": [
+   [
+    "17px",
+    40
+   ],
+   [
+    "14px",
+    30
+   ],
+   [
+    "26px",
+    28
+   ],
+   [
+    "23px",
+    17
+   ],
+   [
+    "15px",
+    11
+   ],
+   [
+    "31px",
+    7
+   ],
+   [
+    "65px",
+    4
+   ],
+   [
+    "16px",
+    2
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    100
+   ],
+   [
+    "500",
+    36
+   ],
+   [
+    "700",
+    3
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    106
+   ],
+   [
+    "0.030em@14",
+    25
+   ],
+   [
+    "0.030em@15",
+    8
+   ]
+  ],
+  "uppercaseShare": 0.26,
+  "largest": [
+   {
+    "tag": "p",
+    "text": "Discover a space for creativity and reflection.",
+    "family": "freight-display-pro",
+    "size": "64.8px",
+    "weight": "400",
+    "lh": "66.24px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "p",
+    "text": "Immerse yourself in a neighborhood of art.",
+    "family": "freight-display-pro",
+    "size": "64.8px",
+    "weight": "400",
+    "lh": "66.24px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "p",
+    "text": "Welcome to The Menil Collection",
+    "family": "freight-display-pro",
+    "size": "64.8px",
+    "weight": "400",
+    "lh": "66.24px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(30, 31, 31)"
+   },
+   {
+    "tag": "em",
+    "text": "Welcome",
+    "family": "freight-display-pro",
+    "size": "64.8px",
+    "weight": "400",
+    "lh": "66.24px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "italic",
+    "color": "rgb(30, 31, 31)"
+   },
+   {
+    "tag": "div",
+    "text": "Set within a residential neighborhood, the Menil Collection invites visitors to explore it",
+    "family": "freight-text-pro",
+    "size": "30.8px",
+    "weight": "400",
+    "lh": "34.72px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(30, 31, 31)"
+   },
+   {
+    "tag": "h3",
+    "text": "Final Week",
+    "family": "freight-text-pro",
+    "size": "30.8px",
+    "weight": "400",
+    "lh": "34.72px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(30, 31, 31)"
+   },
+   {
+    "tag": "span",
+    "text": "See “John Akomfrah: The Hour Of The Dog” through October 11.",
+    "family": "freight-text-pro",
+    "size": "30.8px",
+    "weight": "400",
+    "lh": "34.72px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "italic",
+    "color": "rgb(30, 31, 31)"
+   },
+   {
+    "tag": "h3",
+    "text": "On View",
+    "family": "freight-text-pro",
+    "size": "30.8px",
+    "weight": "400",
+    "lh": "34.72px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(30, 31, 31)"
+   },
+   {
+    "tag": "h3",
+    "text": "Events",
+    "family": "freight-text-pro",
+    "size": "30.8px",
+    "weight": "400",
+    "lh": "34.72px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(30, 31, 31)"
+   },
+   {
+    "tag": "h3",
+    "text": "Become a Menil Member",
+    "family": "freight-text-pro",
+    "size": "30.8px",
+    "weight": "400",
+    "lh": "34.72px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(247, 231, 206)"
+   },
+   {
+    "tag": "span",
+    "text": "The Menil Collection's members enjoy exhibition opening parties, special events, gallery t",
+    "family": "freight-text-pro",
+    "size": "30.8px",
+    "weight": "400",
+    "lh": "34.72px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "italic",
+    "color": "rgb(247, 231, 206)"
+   },
+   {
+    "tag": "h4",
+    "text": "Plan Your Visit",
+    "family": "freight-text-pro",
+    "size": "25.6px",
+    "weight": "400",
+    "lh": "30.72px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(30, 31, 31)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(255, 255, 255)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(30, 31, 31)",
+    104
+   ],
+   [
+    "rgb(115, 119, 119)",
+    21
+   ],
+   [
+    "rgb(255, 255, 255)",
+    6
+   ],
+   [
+    "rgb(33, 33, 33)",
+    5
+   ],
+   [
+    "rgb(247, 231, 206)",
+    2
+   ],
+   [
+    "rgb(100, 104, 104)",
+    1
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(255, 255, 255)",
+    10
+   ],
+   [
+    "rgb(115, 119, 119)",
+    8
+   ],
+   [
+    "rgb(235, 239, 239)",
+    4
+   ],
+   [
+    "rgb(100, 104, 104)",
+    1
+   ],
+   [
+    "rgb(247, 231, 206)",
+    1
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(rgba(255, 255, 255, 0) 0%, rgb(235, 239, 239) 100%)",
+    1
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0,0,0.58,1)",
+    17
+   ],
+   [
+    "cubic-bezier(0.4,0,0.2,1)",
+    16
+   ],
+   [
+    "cubic-bezier(0.5,0,0.25,1)",
+    8
+   ],
+   [
+    "cubic-bezier(0.4,0,0.34,0.99)",
+    3
+   ],
+   [
+    "cubic-bezier(0,0,0.2,1)",
+    2
+   ],
+   [
+    "cubic-bezier(0.25,0.46,0.45,0.94)",
+    2
+   ],
+   [
+    "cubic-bezier(0.61,1,0.88,1)",
+    1
+   ]
+  ],
+  "durations": [
+   [
+    "0.3s",
+    23
+   ],
+   [
+    "0.2s",
+    8
+   ],
+   [
+    "0.15s",
+    7
+   ],
+   [
+    "0.4s",
+    3
+   ],
+   [
+    "0s",
+    2
+   ],
+   [
+    "1ms",
+    2
+   ],
+   [
+    "0.35s",
+    2
+   ],
+   [
+    "1s",
+    2
+   ],
+   [
+    "0.5s",
+    2
+   ],
+   [
+    "0.1s",
+    2
+   ]
+  ],
+  "keyframes": [
+   "swiper-preloader-spin"
+  ]
+ },
+ "cssVarSample": {
+  "--breakpoint": "\"sm\"",
+  "--1": "unset",
+  "--inner-gutter": "clamp(.75rem, .75rem + 0vw, .75rem)",
+  "--outer-gutter": "clamp(.75rem, .5rem + .4444444444444444vw, 1rem)",
+  "--2": "6",
+  "--3": "\"production\"",
+  "--4": "rgba(127, 255, 255, .25)",
+  "--d": ".25rem",
+  "--e": ".5rem",
+  "--f": ".75rem",
+  "--g": "1rem",
+  "--h": "clamp(1rem, .875rem + .3333333333333333vw, 1.25rem)",
+  "--i": "clamp(1.25rem, 1.125rem + .3333333333333333vw, 1.5rem)",
+  "--j": "clamp(1.5rem, 1rem + 1.3333333333333333vw, 2.5rem)",
+  "--k": "clamp(2rem, 1.5rem + 1.3333333333333333vw, 3rem)",
+  "--l": "clamp(2.5rem, 1.75rem + 2vw, 4rem)",
+  "--m": "clamp(3rem, 2rem + 2.6666666666666665vw, 5rem)",
+  "--n": "clamp(4rem, 3rem + 2.6666666666666665vw, 6rem)",
+  "--o": "clamp(5rem, 3.5rem + 4vw, 8rem)",
+  "--p": "clamp(6rem, 4rem + 5.333333333333333vw, 10rem)",
+  "--q": "clamp(8rem, 6rem + 5.333333333333333vw, 12rem)",
+  "--r": "4.5rem",
+  "--v": "acumin-variable, Arial, sans-serif",
+  "--w": "freight-text-pro, Times New Roman, serif",
+  "--x": "freight-display-pro, Times New Roman, serif",
+  "--y": "var(--v)",
+  "--z": "200",
+  "--10": "clamp(3rem, .75rem + 6vw, 7.5rem)",
+  "--11": "90%",
+  "--12": "-.03em",
+  "--13": "uppercase",
+  "--14": "var(--x)",
+  "--15": "400",
+  "--16": "clamp(3rem, 2.25rem + 2vw, 4.5rem)",
+  "--17": "clamp(3.3000000000000003rem, 2.7000000000000006rem + 1.5999999999999996vw, 4.5re",
+  "--18": "0em",
+  "--19": "lining-nums proportional-nums",
+  "--1a": "var(--x)",
+  "--1b": "400",
+  "--1c": "clamp(2rem, 1.125rem + 2.3333333333333335vw, 3.75rem)",
+  "--1d": "clamp(2.4rem, 1.725rem + 1.8vw, 3.75rem)",
+  "--1e": "0em",
+  "--1f": "lining-nums proportional-nums",
+  "--1g": "var(--x)",
+  "--1h": "400",
+  "--1i": "clamp(1.75rem, 1.125rem + 1.6666666666666667vw, 3rem)",
+  "--1j": "clamp(2.1rem, 1.4999999999999998rem + 1.6vw, 3.3000000000000003rem)",
+  "--1k": "0em",
+  "--1l": "lining-nums proportional-nums",
+  "--1m": "var(--w)",
+  "--1n": "400",
+  "--1o": "clamp(1.75rem, 1.625rem + .3333333333333333vw, 2rem)",
+  "--1p": "clamp(2.1rem, 2.05rem + .13333333333333344vw, 2.2rem)",
+  "--1q": "0em",
+  "--1r": "lining-nums proportional-nums",
+  "--1s": "var(--v)",
+  "--1t": "300",
+  "--1u": "clamp(1.75rem, 1.125rem + 1.6666666666666667vw, 3rem)",
+  "--1v": "clamp(2.275rem, 1.7625rem + 1.3666666666666671vw, 3.3000000000000003rem)",
+  "--1w": "-.01em",
+  "--1x": "uppercase",
+  "--1y": "lining-nums proportional-nums",
+  "--1z": "var(--v)",
+  "--20": "300",
+  "--21": "clamp(1.75rem, 1.875rem + -.3333333333333333vw, 1.5rem)",
+  "--22": "110%",
+  "--23": "-.01em",
+  "--24": "uppercase",
+  "--25": "lining-nums proportional-nums",
+  "--26": "var(--w)"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": false,
+  "swup": true,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 36,
+  "video": 0,
+  "svg": 25,
+  "picture": 0,
+  "iframes": 1
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 0,
+  "clipPath": 2,
+  "sticky": 3,
+  "fixed": [
+   "cky-consent-container cky-banner-bottom",
+   "w-full px-outer-gutter py-spacing-5 theme-default-inverse bg"
+  ],
+  "customCursor": true,
+  "boxShadows": [],
+  "filters": [
+   [
+    "drop-shadow(rgba(0, 0, 0, 0.05) 0px 1px 2px)",
+    3
+   ]
+  ],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "4px",
+   20
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgb(194, 199, 199)",
+   25
+  ],
+  [
+   "1px solid rgb(30, 31, 31)",
+   3
+  ],
+  [
+   "2px solid rgb(115, 119, 119)",
+   2
+  ],
+  [
+   "2px solid rgb(255, 255, 255)",
+   1
+  ]
+ ],
+ "grids": [],
+ "containers": [
+  [
+   "100%",
+   4
+  ]
+ ],
+ "sideMargins": [
+  [
+   "14px",
+   10
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "z-1 bg-primary",
+   "h": 7359,
+   "padTop": "0px",
+   "bg": "rgb(255, 255, 255)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "relative",
+  "height": 76,
+  "links": 15,
+  "linkTexts": [
+   "Menu",
+   "VISIT",
+   "WHAT'S ON",
+   "ART",
+   "READ & WATCH",
+   "BECOME A MEMBER",
+   "Menil"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "CUSTOMIZE",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(115, 119, 119)",
+   "radius": "4px",
+   "pad": "8px 16px",
+   "size": "15px",
+   "weight": "500",
+   "tt": "uppercase",
+   "border": "2px solid rgb(255, 255, 255)",
+   "h": 44
+  },
+  {
+   "text": "REJECT ALL",
+   "bg": "rgb(115, 119, 119)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "4px",
+   "pad": "8px 16px",
+   "size": "15px",
+   "weight": "500",
+   "tt": "uppercase",
+   "border": "2px solid rgb(115, 119, 119)",
+   "h": 44
+  },
+  {
+   "text": "ACCEPT ALL",
+   "bg": "rgb(115, 119, 119)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "4px",
+   "pad": "8px 16px",
+   "size": "15px",
+   "weight": "500",
+   "tt": "uppercase",
+   "border": "2px solid rgb(115, 119, 119)",
+   "h": 44
+  },
+  {
+   "text": "BECOME A MEMBER",
+   "bg": "rgb(235, 239, 239)",
+   "color": "rgb(30, 31, 31)",
+   "radius": "4px",
+   "pad": "0px 16px",
+   "size": "15px",
+   "weight": "500",
+   "tt": "uppercase",
+   "border": "none",
+   "h": 40
+  },
+  {
+   "text": "LEARN MORE",
+   "bg": "rgb(115, 119, 119)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "4px",
+   "pad": "0px 16px",
+   "size": "15px",
+   "weight": "500",
+   "tt": "uppercase",
+   "border": "none",
+   "h": 40
+  },
+  {
+   "text": "JOIN TODAY",
+   "bg": "rgb(247, 231, 206)",
+   "color": "rgb(100, 104, 104)",
+   "radius": "4px",
+   "pad": "0px 16px",
+   "size": "15px",
+   "weight": "500",
+   "tt": "uppercase",
+   "border": "none",
+   "h": 40
+  },
+  {
+   "text": "SUPPORT",
+   "bg": "rgb(115, 119, 119)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "4px",
+   "pad": "0px 16px",
+   "size": "15px",
+   "weight": "500",
+   "tt": "uppercase",
+   "border": "none",
+   "h": 40
+  }
+ ],
+ "headings": [
+  "Discover a space for creativity and reflection.",
+  "Immerse yourself in a neighborhood of art.",
+  "Welcome to The Menil Collection",
+  "Final Week",
+  "On View",
+  "Events",
+  "Become a Menil Member",
+  "navigation.menu",
+  "Visit",
+  "What's on",
+  "Art",
+  "Research",
+  "Footer",
+  "Footer Primary Navigation"
+ ],
+ "paras": [
+  "We use cookies to enhance your browsing experience, serve personalised ads or content, and analyse our traffic. By clicking \"Accept All\", you consent to our use of cookies.",
+  "Used by YouTube for feature rollout and personalization of embedded video content",
+  "Discover a space for creativity and reflection.",
+  "Immerse yourself in a neighborhood of art.",
+  "Welcome to The Menil Collection"
+ ],
+ "footer": {
+  "h": 543,
+  "text": "Footer Footer Primary Navigation About Contact Careers Press Photo & Video Policy Menil Bookstore Green Space Policy Privacy Policy Terms & Conditions SUPPORT Wednesday–Sunday 11 a.m.–7 p.m. Free Admission 1533 Sul Ross Street Houston, TX Subscribe to Newsletter © 2026 The Menil Collection"
+ },
+ "jsMotion": {
+  "scriptsFetched": 6,
+  "gsapEases": [
+   [
+    "power2.inOut",
+    4
+   ],
+   [
+    "power2.out",
+    3
+   ],
+   [
+    "none",
+    2
+   ],
+   [
+    "expo",
+    1
+   ],
+   [
+    "power4",
+    1
+   ],
+   [
+    "power2.in",
+    1
+   ]
+  ],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    ".5",
+    4
+   ],
+   [
+    ".75",
+    4
+   ],
+   [
+    "0",
+    1
+   ],
+   [
+    ".4",
+    1
+   ]
+  ],
+  "staggers": [
+   [
+    "0",
+    2
+   ]
+  ],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [
+   [
+    "top top",
+    2
+   ],
+   [
+    "top +=600",
+    1
+   ]
+  ],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

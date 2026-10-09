@@ -1,0 +1,889 @@
+{
+ "url": "https://www.kinfolk.com/",
+ "slug": "www-kinfolk-com",
+ "analyzedAt": "2026-10-07T05:26:12.175Z",
+ "scrollHeight": 15848,
+ "pageLengthInViewports": 17.6,
+ "title": "Home - Kinfolk",
+ "metaDescription": null,
+ "lang": "en-US",
+ "type": {
+  "loadedFonts": [
+   "Kinfolk-Sans 400 normal",
+   "Kinfolk-Serif-Deck 400 normal",
+   "Kinfolk-Serif-Display 400 normal",
+   "Kinfolk-Serif-Text 400 normal"
+  ],
+  "families": [
+   [
+    "Kinfolk-Sans",
+    153
+   ],
+   [
+    "Kinfolk-Serif-Deck",
+    69
+   ],
+   [
+    "Kinfolk-Serif-Text",
+    28
+   ],
+   [
+    "Kinfolk-Serif-Display",
+    1
+   ]
+  ],
+  "sizes": [
+   [
+    "15px",
+    124
+   ],
+   [
+    "32px",
+    50
+   ],
+   [
+    "13px",
+    50
+   ],
+   [
+    "25px",
+    8
+   ],
+   [
+    "60px",
+    8
+   ],
+   [
+    "20px",
+    7
+   ],
+   [
+    "50px",
+    4
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    251
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "0.010em@15",
+    88
+   ],
+   [
+    "-0.005em@32",
+    50
+   ],
+   [
+    "0.030em@13",
+    43
+   ],
+   [
+    "normal",
+    30
+   ],
+   [
+    "-0.005em@25",
+    8
+   ],
+   [
+    "-0.005em@60",
+    8
+   ],
+   [
+    "0.060em@13",
+    7
+   ],
+   [
+    "0.020em@20",
+    6
+   ],
+   [
+    "-0.010em@50",
+    4
+   ],
+   [
+    "-0.005em@15",
+    3
+   ],
+   [
+    "0.020em@15",
+    3
+   ],
+   [
+    "-0.025em@20",
+    1
+   ]
+  ],
+  "uppercaseShare": 0.25,
+  "largest": [
+   {
+    "tag": "a",
+    "text": "A HELTER-SKELTER WORLD",
+    "family": "Kinfolk-Serif-Deck",
+    "size": "60px",
+    "weight": "400",
+    "lh": "60px",
+    "ls": "-0.3px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "a",
+    "text": "The artist Carsten Höller wants to play.",
+    "family": "Kinfolk-Serif-Deck",
+    "size": "60px",
+    "weight": "400",
+    "lh": "60px",
+    "ls": "-0.3px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "span",
+    "text": "ART",
+    "family": "Kinfolk-Serif-Deck",
+    "size": "60px",
+    "weight": "400",
+    "lh": "60px",
+    "ls": "-0.3px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "span",
+    "text": "Jeremy Deller on the power and limits of art.",
+    "family": "Kinfolk-Serif-Deck",
+    "size": "60px",
+    "weight": "400",
+    "lh": "60px",
+    "ls": "-0.3px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "span",
+    "text": "WHAT ARE YOU WORKING ON?",
+    "family": "Kinfolk-Serif-Deck",
+    "size": "60px",
+    "weight": "400",
+    "lh": "60px",
+    "ls": "-0.3px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "span",
+    "text": "Playwright Sanaz Toossi’s next productions.",
+    "family": "Kinfolk-Serif-Deck",
+    "size": "60px",
+    "weight": "400",
+    "lh": "60px",
+    "ls": "-0.3px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "span",
+    "text": "BOOKS",
+    "family": "Kinfolk-Serif-Deck",
+    "size": "60px",
+    "weight": "400",
+    "lh": "60px",
+    "ls": "-0.3px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "span",
+    "text": "Novelist Ben Lerner reflects on the art—and artifice—of the interview.",
+    "family": "Kinfolk-Serif-Deck",
+    "size": "60px",
+    "weight": "400",
+    "lh": "60px",
+    "ls": "-0.3px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "h1",
+    "text": "ISSUE 61",
+    "family": "Kinfolk-Serif-Deck",
+    "size": "50px",
+    "weight": "400",
+    "lh": "52px",
+    "ls": "-0.5px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "h2",
+    "text": "THE PLAY ISSUE",
+    "family": "Kinfolk-Serif-Deck",
+    "size": "50px",
+    "weight": "400",
+    "lh": "52px",
+    "ls": "-0.5px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "a",
+    "text": "AT WORK WITH: FAYE TOOGOOD",
+    "family": "Kinfolk-Serif-Deck",
+    "size": "50px",
+    "weight": "400",
+    "lh": "52px",
+    "ls": "-0.5px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "a",
+    "text": "The British artist and designer behind some of the design world’s most playful pieces.",
+    "family": "Kinfolk-Serif-Deck",
+    "size": "50px",
+    "weight": "400",
+    "lh": "52px",
+    "ls": "-0.5px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgba(0, 0, 0, 0)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(0, 0, 0)",
+    180
+   ],
+   [
+    "rgb(255, 255, 255)",
+    71
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(219, 222, 213)",
+    42
+   ],
+   [
+    "rgb(255, 255, 255)",
+    8
+   ],
+   [
+    "rgb(0, 0, 0)",
+    6
+   ]
+  ],
+  "gradients": []
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.25,1,0.5,1)",
+    67
+   ],
+   [
+    "cubic-bezier(0,0,0.2,1)",
+    4
+   ],
+   [
+    "cubic-bezier(0.215,0.61,0.355,1)",
+    4
+   ],
+   [
+    "cubic-bezier(0.83,0,0.17,1)",
+    3
+   ],
+   [
+    "cubic-bezier(0.4,0,0.2,1)",
+    2
+   ],
+   [
+    "cubic-bezier(0.4,1,0.4,1)",
+    2
+   ],
+   [
+    "cubic-bezier(.25,0,0,1)",
+    2
+   ],
+   [
+    "cubic-bezier(0.15,0,0.15,1)",
+    1
+   ],
+   [
+    "cubic-bezier(0.25,0,0,1)",
+    1
+   ],
+   [
+    "cubic-bezier(0.68,-0.55,0.27,1.55)",
+    1
+   ]
+  ],
+  "durations": [
+   [
+    "0.4s",
+    62
+   ],
+   [
+    "0.5s",
+    53
+   ],
+   [
+    "0.1s",
+    48
+   ],
+   [
+    "0.6s",
+    14
+   ],
+   [
+    "0.3s",
+    12
+   ],
+   [
+    "0.2s",
+    11
+   ],
+   [
+    "1s",
+    5
+   ],
+   [
+    "0s",
+    4
+   ],
+   [
+    "0.01ms",
+    4
+   ],
+   [
+    "0.8s",
+    3
+   ]
+  ],
+  "keyframes": [
+   "components-animate__appear-animation",
+   "components-animate__slide-in-animation",
+   "components-animate__loading",
+   "components-button__busy-animation",
+   "slide-in-left",
+   "slide-in-right",
+   "slide-out-left",
+   "slide-out-right",
+   "fade-in",
+   "fade-out",
+   "__wp-base-styles-fade-in",
+   "__wp-base-styles-fade-out",
+   "components-modal__appear-animation",
+   "components-modal__disappear-animation",
+   "components-resizable-box__top-bottom-animation",
+   "components-resizable-box__left-right-animation",
+   "components-button__appear-animation",
+   "components-validated-control__indicator-jump",
+   "fadeIn"
+  ]
+ },
+ "cssVarSample": {
+  "--six-cols": "8",
+  "--six-site-margin": "16px",
+  "--six-gutter": "10px",
+  "--six-site-max-width": "4000px",
+  "--wpds-border-radius-xs": "1px",
+  "--wpds-border-radius-sm": "2px",
+  "--wpds-border-radius-md": "4px",
+  "--wpds-border-radius-lg": "8px",
+  "--wpds-border-radius-xl": "12px",
+  "--wpds-border-width-xs": "1px",
+  "--wpds-border-width-sm": "2px",
+  "--wpds-border-width-md": "4px",
+  "--wpds-border-width-lg": "8px",
+  "--wpds-border-width-focus": "2px",
+  "--wpds-color-background-surface-neutral": "#fcfcfc",
+  "--wpds-color-background-surface-neutral-strong": "#fff",
+  "--wpds-color-background-surface-neutral-weak": "#f4f4f4",
+  "--wpds-color-background-surface-brand": "#ecf0fa",
+  "--wpds-color-background-surface-success": "#c6f7cd",
+  "--wpds-color-background-surface-success-weak": "#ebffed",
+  "--wpds-color-background-surface-info": "#deebfa",
+  "--wpds-color-background-surface-info-weak": "#f3f9ff",
+  "--wpds-color-background-surface-warning": "#fde6be",
+  "--wpds-color-background-surface-warning-weak": "#fff7e1",
+  "--wpds-color-background-surface-caution": "#fee995",
+  "--wpds-color-background-surface-caution-weak": "#fff9ca",
+  "--wpds-color-background-surface-error": "#f6e6e3",
+  "--wpds-color-background-surface-error-weak": "#fff6f5",
+  "--wpds-color-background-interactive-neutral-strong": "#2d2d2d",
+  "--wpds-color-background-interactive-neutral-strong-active": "#1e1e1e",
+  "--wpds-color-background-interactive-neutral-strong-disabled": "#e6e6e6",
+  "--wpds-color-background-interactive-neutral-weak": "#0000",
+  "--wpds-color-background-interactive-neutral-weak-active": "#ededed",
+  "--wpds-color-background-interactive-neutral-weak-disabled": "#0000",
+  "--wpds-color-background-interactive-brand-strong": "#3858e9",
+  "--wpds-color-background-interactive-brand-strong-active": "#2e49d9",
+  "--wpds-color-background-interactive-brand-strong-disabled": "#e6e6e6",
+  "--wpds-color-background-interactive-brand-weak": "#0000",
+  "--wpds-color-background-interactive-brand-weak-active": "#e6eaf4",
+  "--wpds-color-background-interactive-brand-weak-disabled": "#0000",
+  "--wpds-color-background-interactive-error": "#0000",
+  "--wpds-color-background-interactive-error-active": "#fff6f5",
+  "--wpds-color-background-interactive-error-disabled": "#0000",
+  "--wpds-color-background-interactive-error-strong": "#cc1818",
+  "--wpds-color-background-interactive-error-strong-active": "#b90000",
+  "--wpds-color-background-interactive-error-strong-disabled": "#e6e6e6",
+  "--wpds-color-background-interactive-error-weak": "#0000",
+  "--wpds-color-background-interactive-error-weak-active": "#f6e6e3",
+  "--wpds-color-background-interactive-error-weak-disabled": "#0000",
+  "--wpds-color-background-track-neutral-weak": "#f0f0f0",
+  "--wpds-color-background-track-neutral": "#dbdbdb",
+  "--wpds-color-background-thumb-neutral-weak": "#8d8d8d",
+  "--wpds-color-background-thumb-neutral-weak-active": "#6e6e6e",
+  "--wpds-color-background-thumb-brand": "#3858e9",
+  "--wpds-color-background-thumb-brand-active": "#3858e9",
+  "--wpds-color-background-thumb-brand-disabled": "#dbdbdb",
+  "--wpds-color-background-thumb-neutral-weak-disabled": "#dbdbdb",
+  "--wpds-color-foreground-content-neutral": "#1e1e1e",
+  "--wpds-color-foreground-content-neutral-weak": "#707070",
+  "--wpds-color-foreground-content-success": "#002900",
+  "--wpds-color-foreground-content-success-weak": "#008030",
+  "--wpds-color-foreground-content-info": "#001b4f",
+  "--wpds-color-foreground-content-info-weak": "#006bd7",
+  "--wpds-color-foreground-content-warning": "#2e1900",
+  "--wpds-color-foreground-content-warning-weak": "#926300",
+  "--wpds-color-foreground-content-caution": "#281d00",
+  "--wpds-color-foreground-content-caution-weak": "#826a00",
+  "--wpds-color-foreground-content-error": "#470000",
+  "--wpds-color-foreground-content-error-weak": "#cc1818",
+  "--wpds-color-foreground-interactive-neutral": "#1e1e1e"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": true,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": true,
+  "swup": true,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 66,
+  "video": 2,
+  "svg": 11,
+  "picture": 2,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 0,
+  "clipPath": 5,
+  "sticky": 2,
+  "fixed": [
+   "[ SiteHeader ] ",
+   "MiniCart ",
+   "[ SiteNav  ]",
+   "[ SiteNav__inner ]"
+  ],
+  "customCursor": false,
+  "boxShadows": [],
+  "filters": [],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "2px",
+   3
+  ]
+ ],
+ "borders": [
+  [
+   "bottom:2px solid rgb(0, 0, 0)",
+   5
+  ],
+  [
+   "1px solid rgb(255, 255, 255)",
+   3
+  ],
+  [
+   "1px solid rgb(0, 0, 0)",
+   2
+  ],
+  [
+   "2px solid rgb(255, 255, 255)",
+   1
+  ],
+  [
+   "bottom:1px solid rgb(137, 137, 137)",
+   1
+  ]
+ ],
+ "grids": [
+  [
+   "30cols gap 20px",
+   28
+  ],
+  [
+   "26cols gap 20px",
+   11
+  ],
+  [
+   "1cols gap normal",
+   2
+  ],
+  [
+   "10cols gap 20px",
+   2
+  ]
+ ],
+ "containers": [
+  [
+   "100%",
+   24
+  ],
+  [
+   "1296px",
+   1
+  ]
+ ],
+ "sideMargins": [
+  [
+   "34px",
+   12
+  ],
+  [
+   "1020px",
+   9
+  ],
+  [
+   "1194px",
+   8
+  ],
+  [
+   "350px",
+   6
+  ],
+  [
+   "665px",
+   6
+  ],
+  [
+   "981px",
+   6
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "six-blocks",
+   "h": 15091,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "[ Carousel ] flickity-enabled is-draggable flickit",
+   "h": 581,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "js-prod-hero-wrapper",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "[ Carousel ] flickity-enabled is-fade flickity-loa",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "[ Carousel ] flickity-enabled is-draggable flickit",
+   "h": 496,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "[ Carousel ] flickity-enabled is-draggable flickit",
+   "h": 496,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "[ Carousel ] flickity-enabled is-draggable flickit",
+   "h": 647,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "[ Carousel ] flickity-enabled is-draggable flickit",
+   "h": 496,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "[ Carousel  ]",
+   "h": 571,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "[ SubscriberBar ] is-active show-active-text",
+   "h": 60,
+   "padTop": "0px",
+   "bg": "rgb(0, 0, 0)"
+  },
+  {
+   "cls": "Video c-Video--landscape-ratioportrait c-Video--po",
+   "h": 384,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "[ SiteNav  ]",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "fixed",
+  "height": 54,
+  "links": 1,
+  "linkTexts": [
+   "Cart"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "Subscribe Now",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "2px",
+   "pad": "4px 8px",
+   "size": "15px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(255, 255, 255)",
+   "h": 28
+  },
+  {
+   "text": "Learn More",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "2px",
+   "pad": "4px 8px",
+   "size": "15px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(255, 255, 255)",
+   "h": 30
+  },
+  {
+   "text": "Login",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "2px",
+   "pad": "4px 8px",
+   "size": "15px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(255, 255, 255)",
+   "h": 28
+  },
+  {
+   "text": "View Cart",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "9px 30px 7px",
+   "size": "15px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(0, 0, 0)",
+   "h": 40
+  },
+  {
+   "text": "Checkout",
+   "bg": "rgb(0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "0px",
+   "pad": "9px 30px 7px",
+   "size": "15px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(0, 0, 0)",
+   "h": 40
+  }
+ ],
+ "headings": [
+  "ISSUE 61",
+  "THE PLAY ISSUE",
+  "THE FLOW STATE Mind. Body. Clothes: The total absorption of creative play.",
+  "HOME TOUR: SPHINX HILL John Outram’s postmodern Egyptianate fantasy.",
+  "BALMING TIGER An hour with the alternative K-pop group.",
+  "TAKING PLAY SERIOUSLY A conversation with the National Institute for Play.",
+  "KYLE KUZMA The NBA forward is playing the long game.",
+  "PRESS HERE A visual guide to giving a massage.",
+  "RICE IS NICE One staple, five ways to rethink it.",
+  "AT WORK WITH: FAYE TOOGOOD The British artist and designer behind some of the design world’s most playful pieces.",
+  "FREE PREVIEW",
+  "TAKING PLAY SERIOUSLY",
+  "ART Jeremy Deller on the power and limits of art.",
+  "WHAT ARE YOU WORKING ON? Playwright Sanaz Toossi’s next productions.",
+  "BOOKS Novelist Ben Lerner reflects on the art—and artifice—of the interview.",
+  "SUBSCRIBE Discover unlimited access to Kinfolk"
+ ],
+ "paras": [
+  "An access pass to Furry Weekend Atlanta.",
+  "Skater Sage Elsesser’s essentials.",
+  "The case for doing the difficult thing.",
+  "Three creatives shaping how children read, play and imagine.",
+  "Inside Expormim—the Spanish furniture company preserving the art of rattan.",
+  "Novelist Ben Lerner reflects on the art—and artifice—of the interview.",
+  "The artist Carsten Höller wants to play.",
+  "Take a look inside Issue Sixty-One",
+  "Mind. Body. Clothes: The total absorption of creative play.",
+  "A conversation with the National Institute for Play."
+ ],
+ "footer": {
+  "h": 72,
+  "text": "© KINFOLK 2026 SHOP CURRENT ISSUE SUBSCRIBE FACEBOOK INSTAGRAM X Made by Six"
+ },
+ "jsMotion": {
+  "scriptsFetched": 22,
+  "gsapEases": [
+   [
+    "none",
+    3
+   ],
+   [
+    "expo",
+    1
+   ],
+   [
+    "power4",
+    1
+   ],
+   [
+    "power3.out",
+    1
+   ]
+  ],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    ".5",
+    5
+   ],
+   [
+    ".2",
+    2
+   ],
+   [
+    ".3",
+    2
+   ],
+   [
+    ".6",
+    2
+   ],
+   [
+    "0",
+    1
+   ],
+   [
+    "600",
+    1
+   ],
+   [
+    "2.5",
+    1
+   ],
+   [
+    "1.5",
+    1
+   ]
+  ],
+  "staggers": [
+   [
+    "0",
+    2
+   ]
+  ],
+  "lenis": [
+   [
+    "smoothWheel:a",
+    2
+   ]
+  ],
+  "springs": [],
+  "scrollTriggerStarts": [
+   [
+    "top bottom",
+    2
+   ],
+   [
+    "top ",
+    1
+   ],
+   [
+    "top top",
+    1
+   ],
+   [
+    "top 25%",
+    1
+   ],
+   [
+    "bottom 75%",
+    1
+   ],
+   [
+    "bottom top",
+    1
+   ]
+  ],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

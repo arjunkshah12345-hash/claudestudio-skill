@@ -1,0 +1,513 @@
+{
+ "url": "https://teenage.engineering",
+ "slug": "teenage-engineering",
+ "analyzedAt": "2026-10-07T05:19:37.994Z",
+ "scrollHeight": 15233,
+ "pageLengthInViewports": 16.9,
+ "title": "teenage engineering",
+ "metaDescription": "teenage engineering creates high quality, well designed, electronic products for all people who love sound and music.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "te-20 100 normal",
+   "te-20 300 normal",
+   "te-40 300 normal",
+   "Unicode 100 400 normal"
+  ],
+  "families": [
+   [
+    "te-20",
+    108
+   ],
+   [
+    "te-40",
+    1
+   ]
+  ],
+  "sizes": [
+   [
+    "13px",
+    54
+   ],
+   [
+    "16px",
+    27
+   ],
+   [
+    "9px",
+    12
+   ],
+   [
+    "19px",
+    9
+   ],
+   [
+    "20px",
+    6
+   ],
+   [
+    "40px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "300",
+    58
+   ],
+   [
+    "100",
+    51
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    109
+   ]
+  ],
+  "uppercaseShare": 0,
+  "largest": [
+   {
+    "tag": "span",
+    "text": "explore all products",
+    "family": "te-40",
+    "size": "39.6735px",
+    "weight": "300",
+    "lh": "44.0816px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(229, 229, 229)"
+   },
+   {
+    "tag": "tspan",
+    "text": "",
+    "family": "te-20",
+    "size": "19.5px",
+    "weight": "100",
+    "lh": "29.25px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(15, 14, 18)"
+   },
+   {
+    "tag": "span",
+    "text": "united states",
+    "family": "te-20",
+    "size": "19.102px",
+    "weight": "300",
+    "lh": "22.0408px",
+    "ls": "normal",
+    "tt": "lowercase",
+    "style": "normal",
+    "color": "rgb(229, 229, 229)"
+   },
+   {
+    "tag": "p",
+    "text": "newsletter",
+    "family": "te-20",
+    "size": "19.102px",
+    "weight": "100",
+    "lh": "22.0408px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(229, 229, 229)"
+   },
+   {
+    "tag": "p",
+    "text": "retailers",
+    "family": "te-20",
+    "size": "19.102px",
+    "weight": "100",
+    "lh": "22.0408px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(229, 229, 229)"
+   },
+   {
+    "tag": "p",
+    "text": "store",
+    "family": "te-20",
+    "size": "19.102px",
+    "weight": "100",
+    "lh": "22.0408px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(229, 229, 229)"
+   },
+   {
+    "tag": "p",
+    "text": "terms",
+    "family": "te-20",
+    "size": "19.102px",
+    "weight": "100",
+    "lh": "22.0408px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(229, 229, 229)"
+   },
+   {
+    "tag": "p",
+    "text": "press",
+    "family": "te-20",
+    "size": "19.102px",
+    "weight": "100",
+    "lh": "22.0408px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(229, 229, 229)"
+   },
+   {
+    "tag": "p",
+    "text": "contact",
+    "family": "te-20",
+    "size": "19.102px",
+    "weight": "100",
+    "lh": "22.0408px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(229, 229, 229)"
+   },
+   {
+    "tag": "p",
+    "text": "returns",
+    "family": "te-20",
+    "size": "19.102px",
+    "weight": "100",
+    "lh": "22.0408px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(229, 229, 229)"
+   },
+   {
+    "tag": "p",
+    "text": "©2026 teenage engineering",
+    "family": "te-20",
+    "size": "19.102px",
+    "weight": "100",
+    "lh": "22.0408px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(229, 229, 229)"
+   },
+   {
+    "tag": "span",
+    "text": "teenage engineering",
+    "family": "te-20",
+    "size": "16px",
+    "weight": "100",
+    "lh": "24px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(15, 14, 18)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(255, 255, 255)",
+  "htmlBg": "rgb(255, 255, 255)",
+  "text": [
+   [
+    "rgb(15, 14, 18)",
+    47
+   ],
+   [
+    "rgb(0, 113, 187)",
+    23
+   ],
+   [
+    "rgb(0, 0, 0)",
+    22
+   ],
+   [
+    "rgb(229, 229, 229)",
+    15
+   ],
+   [
+    "rgb(178, 178, 178)",
+    2
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(246, 248, 247)",
+    34
+   ],
+   [
+    "rgb(0, 0, 0)",
+    2
+   ],
+   [
+    "rgb(15, 14, 18)",
+    2
+   ]
+  ],
+  "gradients": []
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.6,0.2,0,0.8)",
+    1
+   ]
+  ],
+  "durations": [
+   [
+    "1s",
+    9
+   ],
+   [
+    "0.2s",
+    6
+   ],
+   [
+    "0.25s",
+    4
+   ],
+   [
+    "0.1s",
+    4
+   ],
+   [
+    "0.4s",
+    3
+   ],
+   [
+    "0.15s",
+    1
+   ],
+   [
+    "0.5s",
+    1
+   ],
+   [
+    "0s",
+    1
+   ],
+   [
+    "1.1s",
+    1
+   ]
+  ],
+  "keyframes": [
+   "bulge",
+   "_load_hiku9_1",
+   "_in_rewic_1",
+   "_mrq-scroll_1k63w_1",
+   "vjs-spinner-show",
+   "vjs-spinner-spin",
+   "vjs-spinner-fade"
+  ]
+ },
+ "cssVarSample": {
+  "--white": "#fff",
+  "--te-white": "#f5f5f5",
+  "--te-black": "#0f0e12",
+  "--te-grey-100": "#e5e5e5",
+  "--te-grey-200": "#ccc",
+  "--te-grey-300": "#b2b2b2",
+  "--te-grey-500": "#a1a7af",
+  "--te-grey-600": "#767676",
+  "--te-grey-700": "#7f7f7f",
+  "--te-grey-900": "#4d4d4d",
+  "--te-grey-1000": "#272727",
+  "--te-blue": "#0071bb",
+  "--te-green": "#006837",
+  "--te-orange": "#f05a24",
+  "--te-red": "#b81d13",
+  "--te-yellow": "#fab413",
+  "--success": "var(--te-green)",
+  "--error": "#c0262c",
+  "--z-over": "100",
+  "--z-navigation": "1000",
+  "--z-modal-backdrop": "2000",
+  "--z-dialog": "2001",
+  "--viewport-height": "100vh",
+  "--base-design-width": "980",
+  "--header-height": "calc(.183673 * var(--client-width))",
+  "--footer-height": "calc(.0663265 * var(--client-width))",
+  "--page-height": "calc(100vh - var(--header-height))",
+  "--footer-column": "calc(.219388 * var(--client-width))",
+  "--product-background-color": "#f5f5f5",
+  "--theme-body-bc": "rgba(255,255,255,1)",
+  "--theme-bc": "transparent",
+  "--theme-fc": "rgba(15,14,18,1)",
+  "--theme-fct": "var(--te-grey-100)",
+  "--theme-mc": "rgba(15,14,18,1)",
+  "--theme-c1": "inherit",
+  "--theme-c10": "inherit",
+  "--theme-c11": "inherit",
+  "--theme-c3": "inherit",
+  "--theme-c4": "inherit",
+  "--theme-c5": "inherit",
+  "--theme-c6": "inherit",
+  "--theme-c7": "inherit",
+  "--theme-c8": "inherit",
+  "--theme-c8b": "inherit",
+  "--theme-c9": "inherit",
+  "--theme-mobile-cart": "rgba(15,14,18,1)",
+  "--theme-mobile-cart-text": "rgba(229,229,229,1)",
+  "--theme-mobile-search": "rgba(15,14,18,1)",
+  "--theme-op": "1",
+  "--theme-dt": "0",
+  "--header-adjustment-primary": "calc(.00306122 * var(--client-width))",
+  "--header-adjustment-secondary": "calc(-.00204082 * var(--client-width))",
+  "--space-xs": "calc(.0102041 * var(--client-width))",
+  "--space-sm": "calc(.0204082 * var(--client-width))",
+  "--space-md": "calc(.0306122 * var(--client-width))",
+  "--space-lg": "calc(.0459184 * var(--client-width))",
+  "--space-xl": "calc(.0918367 * var(--client-width))",
+  "--tile-border-radius": "calc(.0255102 * var(--client-width))",
+  "--tile-padding": "2vw",
+  "--btn-min-click-area": "48px",
+  "--te-20": "\"te-20\", \"Unicode\", sans-serif",
+  "--te-40": "\"te-40\", \"Unicode\", sans-serif",
+  "--fw-thin": "100",
+  "--fw-light": "300",
+  "--fs-10": "calc(.0183673 * var(--client-width))",
+  "--fs-15": "calc(.0265306 * var(--client-width))",
+  "--fs-20": "calc(.0367347 * var(--client-width))",
+  "--fs-25": "calc(.0469388 * var(--client-width))",
+  "--fs-30": "calc(.055102 * var(--client-width))",
+  "--fs-40": "calc(.0734694 * var(--client-width))"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 39,
+  "video": 0,
+  "svg": 16,
+  "picture": 38,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 0,
+  "clipPath": 30,
+  "sticky": 0,
+  "fixed": [
+   "_bag-overlay_sfmpp_8"
+  ],
+  "customCursor": false,
+  "boxShadows": [],
+  "filters": [
+   [
+    "url(\"#luminosity-invert\")",
+    1
+   ],
+   [
+    "url(\"#luminosity-invert-noclip\")",
+    1
+   ]
+  ],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [],
+ "borders": [],
+ "grids": [
+  [
+   "12cols gap normal",
+   1
+  ],
+  [
+   "3cols gap normal",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "100%",
+   24
+  ]
+ ],
+ "sideMargins": [],
+ "sections": [
+  {
+   "cls": "page ls-12-980-45-10-10",
+   "h": 15138,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "absolute",
+  "height": 0,
+  "links": 22,
+  "linkTexts": [
+   "teenage engineering",
+   "product",
+   "instruments",
+   "audio",
+   "designs",
+   "store",
+   "checkout",
+   "deals",
+   "newsletter",
+   "instagram",
+   "now",
+   "guides",
+   "support",
+   "search"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [],
+ "headings": [],
+ "paras": [],
+ "footer": {
+  "h": 96,
+  "text": "country or region united states albania andorra armenia australia austria bahrain belgium bolivia bosnia and herzegovina brazil canada chile colombia croatia czech republic denmark egypt estonia finland france georgia germany greece guyana hong kong hungary iceland india ireland israel italy jamaica"
+ },
+ "jsMotion": {
+  "scriptsFetched": 3,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [],
+  "staggers": [],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

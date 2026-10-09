@@ -1,0 +1,1355 @@
+{
+ "url": "https://www.apple.com/macbook-pro/",
+ "slug": "www-apple-com-macbook-pro",
+ "analyzedAt": "2026-10-07T05:16:14.811Z",
+ "scrollHeight": 30905,
+ "pageLengthInViewports": 34.3,
+ "title": "MacBook Pro - Apple",
+ "metaDescription": null,
+ "lang": "en-US",
+ "type": {
+  "loadedFonts": [
+   "SF Pro Display 400 normal",
+   "SF Pro Display 600 normal",
+   "SF Pro Text 400 normal",
+   "SF Pro Text 400 italic",
+   "SF Pro Text 600 normal",
+   "SF Pro Icons 400 normal",
+   "SF Pro Icons 600 normal"
+  ],
+  "families": [
+   [
+    "SF Pro Text",
+    323
+   ],
+   [
+    "SF Pro Display",
+    145
+   ]
+  ],
+  "sizes": [
+   [
+    "12px",
+    206
+   ],
+   [
+    "17px",
+    108
+   ],
+   [
+    "28px",
+    69
+   ],
+   [
+    "21px",
+    28
+   ],
+   [
+    "40px",
+    12
+   ],
+   [
+    "48px",
+    10
+   ],
+   [
+    "80px",
+    10
+   ],
+   [
+    "14px",
+    7
+   ],
+   [
+    "24px",
+    5
+   ],
+   [
+    "19px",
+    4
+   ],
+   [
+    "32px",
+    3
+   ],
+   [
+    "56px",
+    3
+   ],
+   [
+    "20px",
+    2
+   ],
+   [
+    "64px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    250
+   ],
+   [
+    "600",
+    218
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "-0.010em@12",
+    206
+   ],
+   [
+    "-0.022em@17",
+    107
+   ],
+   [
+    "0.007em@28",
+    69
+   ],
+   [
+    "0.011em@21",
+    28
+   ],
+   [
+    "normal",
+    13
+   ],
+   [
+    "-0.003em@48",
+    10
+   ],
+   [
+    "-0.015em@80",
+    10
+   ],
+   [
+    "-0.016em@14",
+    7
+   ],
+   [
+    "0.009em@24",
+    5
+   ],
+   [
+    "0.012em@19",
+    4
+   ],
+   [
+    "0.004em@32",
+    3
+   ],
+   [
+    "-0.005em@56",
+    3
+   ],
+   [
+    "-0.019em@20",
+    2
+   ],
+   [
+    "-0.009em@64",
+    1
+   ]
+  ],
+  "uppercaseShare": 0,
+  "largest": [
+   {
+    "tag": "p",
+    "text": "M5. M5 Pro. M5 Max.",
+    "family": "SF Pro Display",
+    "size": "80px",
+    "weight": "600",
+    "lh": "84px",
+    "ls": "-1.2px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(245, 245, 247)"
+   },
+   {
+    "tag": "p",
+    "text": "Pick your quick.",
+    "family": "SF Pro Display",
+    "size": "80px",
+    "weight": "600",
+    "lh": "84px",
+    "ls": "-1.2px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(245, 245, 247)"
+   },
+   {
+    "tag": "p",
+    "text": "All-day battery life. Think outside the outlet.",
+    "family": "SF Pro Display",
+    "size": "80px",
+    "weight": "600",
+    "lh": "84px",
+    "ls": "-1.2px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(245, 245, 247)"
+   },
+   {
+    "tag": "span",
+    "text": "battery life.",
+    "family": "SF Pro Display",
+    "size": "80px",
+    "weight": "600",
+    "lh": "84px",
+    "ls": "-1.2px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(245, 245, 247)"
+   },
+   {
+    "tag": "p",
+    "text": "Built for AI. From the silicon up.",
+    "family": "SF Pro Display",
+    "size": "80px",
+    "weight": "600",
+    "lh": "84px",
+    "ls": "-1.2px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(245, 245, 247)"
+   },
+   {
+    "tag": "span",
+    "text": "From the silicon up.",
+    "family": "SF Pro Display",
+    "size": "80px",
+    "weight": "600",
+    "lh": "84px",
+    "ls": "-1.2px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(245, 245, 247)"
+   },
+   {
+    "tag": "h3",
+    "text": "Fresh faced. Timelessly Mac.",
+    "family": "SF Pro Display",
+    "size": "80px",
+    "weight": "600",
+    "lh": "84px",
+    "ls": "-1.2px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(245, 245, 247)"
+   },
+   {
+    "tag": "span",
+    "text": "Timelessly Mac.",
+    "family": "SF Pro Display",
+    "size": "80px",
+    "weight": "600",
+    "lh": "84px",
+    "ls": "-1.2px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(245, 245, 247)"
+   },
+   {
+    "tag": "p",
+    "text": "Make powerful connections.",
+    "family": "SF Pro Display",
+    "size": "80px",
+    "weight": "600",
+    "lh": "84px",
+    "ls": "-1.2px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(245, 245, 247)"
+   },
+   {
+    "tag": "p",
+    "text": "Fast runs in the family.",
+    "family": "SF Pro Display",
+    "size": "64px",
+    "weight": "600",
+    "lh": "68px",
+    "ls": "-0.576px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(245, 245, 247)"
+   },
+   {
+    "tag": "span",
+    "text": "Apple Intelligence.",
+    "family": "SF Pro Display",
+    "size": "56px",
+    "weight": "600",
+    "lh": "60px",
+    "ls": "-0.28px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(245, 245, 247)"
+   },
+   {
+    "tag": "span",
+    "text": "Task and you shall receive.",
+    "family": "SF Pro Display",
+    "size": "56px",
+    "weight": "600",
+    "lh": "60px",
+    "ls": "-0.28px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(245, 245, 247)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(0, 0, 0)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(29, 29, 31)",
+    86
+   ],
+   [
+    "rgba(0, 0, 0, 0.72)",
+    84
+   ],
+   [
+    "rgb(245, 245, 247)",
+    80
+   ],
+   [
+    "rgba(0, 0, 0, 0.56)",
+    72
+   ],
+   [
+    "rgb(134, 134, 139)",
+    34
+   ],
+   [
+    "rgb(51, 51, 54)",
+    28
+   ],
+   [
+    "rgb(255, 255, 255)",
+    17
+   ],
+   [
+    "rgb(0, 102, 204)",
+    14
+   ],
+   [
+    "rgba(0, 0, 0, 0.88)",
+    13
+   ],
+   [
+    "rgba(255, 255, 255, 0.8)",
+    12
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(29, 29, 31)",
+    33
+   ],
+   [
+    "rgb(0, 0, 0)",
+    28
+   ],
+   [
+    "rgb(245, 245, 247)",
+    17
+   ],
+   [
+    "rgb(255, 255, 255)",
+    17
+   ],
+   [
+    "rgba(42, 42, 45, 0.72)",
+    10
+   ],
+   [
+    "rgb(0, 113, 227)",
+    5
+   ],
+   [
+    "rgba(245, 245, 247, 0.8)",
+    4
+   ],
+   [
+    "rgba(66, 66, 69, 0.72)",
+    3
+   ],
+   [
+    "rgb(46, 44, 46)",
+    2
+   ],
+   [
+    "rgba(210, 210, 215, 0.64)",
+    2
+   ],
+   [
+    "rgb(227, 228, 229)",
+    2
+   ],
+   [
+    "rgba(250, 250, 252, 0.8)",
+    1
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(90deg, rgb(211, 211, 211), rgb(112, 112, 112))",
+    60
+   ],
+   [
+    "linear-gradient(105deg, rgb(37, 117, 220), rgb(132, 199, 232))",
+    31
+   ],
+   [
+    "linear-gradient(100deg, rgb(86, 32, 175) -10%, rgb(203, 160, 220), rgb(186, 135, 218))",
+    31
+   ],
+   [
+    "linear-gradient(90deg, rgb(228, 246, 240), rgb(157, 207, 202) 31%, rgb(107, 149, 172) 68%, rgb(69, 101, 125))",
+    23
+   ],
+   [
+    "linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0))",
+    11
+   ],
+   [
+    "linear-gradient(45deg, rgb(51, 51, 54), rgb(51, 51, 54), rgb(51, 51, 54), rgb(51, 51, 54))",
+    8
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.4,0,0.6,1)",
+    209
+   ],
+   [
+    "cubic-bezier(0,0,0.2,1)",
+    35
+   ],
+   [
+    "cubic-bezier(0.42,0,0.58,1)",
+    26
+   ],
+   [
+    "cubic-bezier(.4,0,.6,1)",
+    21
+   ],
+   [
+    "cubic-bezier(0.25,0.1,0.3,1)",
+    15
+   ],
+   [
+    "cubic-bezier(0.28,0.11,0.32,1)",
+    4
+   ],
+   [
+    "cubic-bezier(0.66,0,0.1,1)",
+    4
+   ],
+   [
+    "cubic-bezier(1,0.1,0,0.3)",
+    2
+   ],
+   [
+    "cubic-bezier(0,0,0.5,1)",
+    2
+   ],
+   [
+    "cubic-bezier(0.3,2,0.5,1)",
+    2
+   ],
+   [
+    "cubic-bezier(0.4,0,0.3,2)",
+    2
+   ],
+   [
+    "cubic-bezier(0.33,1,0.68,1)",
+    1
+   ]
+  ],
+  "durations": [
+   [
+    "320ms",
+    76
+   ],
+   [
+    "0s",
+    70
+   ],
+   [
+    "0.24s",
+    44
+   ],
+   [
+    "1s",
+    32
+   ],
+   [
+    "0.3s",
+    24
+   ],
+   [
+    "0.32s",
+    21
+   ],
+   [
+    "0.4s",
+    16
+   ],
+   [
+    "100ms",
+    16
+   ],
+   [
+    "400ms",
+    14
+   ],
+   [
+    "240ms",
+    14
+   ]
+  ],
+  "keyframes": [
+   "globalnav-chevron-slide-in-hover",
+   "globalnav-chevron-hover-off",
+   "globalnav-flyout-slide-forward-next",
+   "globalnav-flyout-slide-forward-previous",
+   "globalnav-flyout-slide-back-previous",
+   "globalnav-flyout-slide-back-next",
+   "globalnav-scrim-height-change",
+   "globalnav-fade-in",
+   "globalnav-search-fade",
+   "globalnav-search-fade-and-slide",
+   "globalnav-search-fade-and-slide-to-close",
+   "globalnav-search-slide-top-to-bottom",
+   "globalnav-search-slide-bottom-to-top",
+   "globalnav-search-input-intro",
+   "globalnav-search-input-outro",
+   "segment-out",
+   "progress-indicator-animating",
+   "ribbon-drop",
+   "animate-color-fff-1d1d1f",
+   "animate-color-fff-06c"
+  ]
+ },
+ "cssVarSample": {
+  "--r-globalnav-background-opened": "#fafafc",
+  "--r-globalnav-background-opened-dark": "#161617",
+  "--sk-focus-color": "#0071e3",
+  "--sk-focus-color-alt": "rgb(0,0,0)",
+  "--sk-focus-offset": "1px",
+  "--sk-focus-offset-container": "3px",
+  "--r-globalnav-height": "44px",
+  "--r-globalmessage-segment-height": "0px",
+  "--r-globalnav-segmentbar-height": "0px",
+  "--r-localnav-height": "calc(52px * var(--r-localnav-text-zoom-factor))",
+  "--r-localnav-stacked-height": "calc(66px * var(--r-localnav-text-zoom-factor))",
+  "--r-localnav-gn-height": "var(--r-globalnav-height, 44px)",
+  "--r-localnav-viewport-large-min-width": "1024px",
+  "--r-localnav-viewport-large-query": "min-width(1024px)",
+  "--r-localnav-viewport-medium-min-width": "834px",
+  "--r-localnav-viewport-medium-max-width": "1023px",
+  "--r-localnav-viewport-medium-query": "min-width(834px)",
+  "--r-localnav-viewport-small-min-width": "320px",
+  "--r-localnav-viewport-small-max-width": "833px",
+  "--r-localnav-viewport-small-query": "min-width(320px)",
+  "--r-localnav-text-zoom-factor": "1",
+  "--nav-height": "44px",
+  "--localnav-height": "52px",
+  "--inset-top-offset": "16px",
+  "--inset-border-radius": "10px",
+  "--inset-ribbon-width": "83.33333%",
+  "--inset-content-width": "80%",
+  "--locale-switcher-height": "70px",
+  "--reduced-inset-ribbon-width": "83.33333%",
+  "--reduced-inset-content-width": "80%",
+  "--sk-body-text-color": "rgb(29,29,31)",
+  "--sk-headline-text-color": "rgb(29,29,31)",
+  "--sk-body-background-color": "rgb(255,255,255)",
+  "--sk-body-font-stack": "text",
+  "--sk-default-stacked-margin": "0.4em",
+  "--sk-paragraph-plus-element-margin": "0.8em",
+  "--sk-headline-plus-first-element-margin": "0.8em",
+  "--sk-headline-plus-headline-margin": "0.4em",
+  "--sk-paragraph-plus-headline-margin": "1.6em",
+  "--sk-body-link-color": "rgb(0,102,204)",
+  "--sk-link-disabled-opacity": "0.42",
+  "--sk-footnote-font-size": "0.6em",
+  "--sk-footnote-offset-top": "-0.5em",
+  "--sk-glyph": "rgb(0,0,0)",
+  "--sk-glyph-gray": "rgb(29,29,31)",
+  "--sk-glyph-gray-alpha": "rgba(0,0,0,0.88)",
+  "--sk-glyph-gray-secondary": "rgb(110,110,115)",
+  "--sk-glyph-gray-secondary-alpha": "rgba(0,0,0,0.56)",
+  "--sk-glyph-gray-secondary-alt": "rgb(66,66,69)",
+  "--sk-glyph-gray-secondary-alt-alpha": "rgba(0,0,0,0.72)",
+  "--sk-glyph-gray-tertiary": "rgb(134,134,139)",
+  "--sk-glyph-gray-tertiary-alpha": "rgba(0,0,0,0.48)",
+  "--sk-glyph-blue": "rgb(0,102,204)",
+  "--sk-glyph-orange": "rgb(182,68,0)",
+  "--sk-glyph-green": "rgb(0,128,9)",
+  "--sk-glyph-red": "rgb(227,0,0)",
+  "--sk-fill": "rgb(255,255,255)",
+  "--sk-fill-secondary": "rgb(250,250,252)",
+  "--sk-fill-tertiary": "rgb(245,245,247)",
+  "--sk-fill-gray": "rgb(29,29,31)",
+  "--sk-fill-gray-alpha": "rgba(0,0,0,0.88)",
+  "--sk-fill-gray-secondary": "rgb(134,134,139)",
+  "--sk-fill-gray-secondary-alpha": "rgba(0,0,0,0.48)",
+  "--sk-fill-gray-tertiary": "rgb(210,210,215)",
+  "--sk-fill-gray-tertiary-alpha": "rgba(0,0,0,0.16)",
+  "--sk-fill-gray-quaternary": "rgb(232,232,237)",
+  "--sk-fill-gray-quaternary-alpha": "rgba(0,0,0,0.08)",
+  "--sk-fill-blue": "rgb(0,113,227)",
+  "--sk-fill-orange": "rgb(245,99,0)",
+  "--sk-fill-orange-secondary": "rgb(255,249,244)"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 111,
+  "video": 13,
+  "svg": 153,
+  "picture": 109,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [
+   [
+    "multiply",
+    1
+   ],
+   [
+    "darken",
+    1
+   ]
+  ],
+  "backdropFilter": 31,
+  "clipPath": 76,
+  "sticky": 19,
+  "fixed": [],
+  "customCursor": false,
+  "boxShadows": [
+   [
+    "rgba(0, 0, 0, 0.11) 0px 0px 0.5px 0px inset",
+    7
+   ]
+  ],
+  "filters": [],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 59
+ },
+ "radii": [
+  [
+   "28px",
+   68
+  ],
+  [
+   "50%",
+   22
+  ],
+  [
+   "10px",
+   4
+  ],
+  [
+   "36px",
+   4
+  ],
+  [
+   "980px",
+   3
+  ],
+  [
+   "32px",
+   3
+  ],
+  [
+   "50px",
+   2
+  ],
+  [
+   "210px",
+   1
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgba(0, 0, 0, 0)",
+   4
+  ],
+  [
+   "bottom:1px solid rgba(0, 0, 0, 0.16)",
+   2
+  ],
+  [
+   "1px solid rgb(134, 134, 139)",
+   1
+  ]
+ ],
+ "grids": [
+  [
+   "1cols gap normal",
+   62
+  ],
+  [
+   "3cols gap normal",
+   35
+  ],
+  [
+   "2cols gap 30px",
+   34
+  ],
+  [
+   "2cols gap 20px",
+   5
+  ],
+  [
+   "2cols gap 40px",
+   4
+  ],
+  [
+   "4cols gap 20px",
+   2
+  ],
+  [
+   "12cols gap 20px",
+   2
+  ],
+  [
+   "3cols gap 20px",
+   2
+  ]
+ ],
+ "containers": [
+  [
+   "1260px",
+   23
+  ],
+  [
+   "1024px",
+   14
+  ],
+  [
+   "100%",
+   10
+  ],
+  [
+   "66.6667%",
+   10
+  ],
+  [
+   "1440px",
+   9
+  ],
+  [
+   "75%",
+   7
+  ]
+ ],
+ "sideMargins": [
+  [
+   "300px",
+   16
+  ],
+  [
+   "90px",
+   12
+  ],
+  [
+   "122px",
+   7
+  ],
+  [
+   "230px",
+   5
+  ],
+  [
+   "270px",
+   4
+  ],
+  [
+   "770px",
+   4
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "ribbon ribbon-upgrade-2026 static-dark",
+   "h": 52,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section section-welcome theme-dark section-welcome",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgb(0, 0, 0)"
+  },
+  {
+   "cls": "section section-upgraders section-product-stories ",
+   "h": 1275,
+   "padTop": "144px",
+   "bg": "rgb(0, 0, 0)"
+  },
+  {
+   "cls": "typography-headline-super section-headline",
+   "h": 52,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section section-highlights background-alt theme-da",
+   "h": 1166,
+   "padTop": "144px",
+   "bg": "rgb(29, 29, 31)"
+  },
+  {
+   "cls": "section-header row",
+   "h": 52,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section-header-headline typography-section-header-",
+   "h": 52,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section-header-cta-list-wrapper",
+   "h": 21,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section-header-cta-list typography-section-header-",
+   "h": 21,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section-header-cta-item section-header-cta-item-fi",
+   "h": 21,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "action-handler icon-wrapper section-header-cta-lin",
+   "h": 20,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section section-product-viewer theme-dark backgrou",
+   "h": 1000,
+   "padTop": "0px",
+   "bg": "rgb(29, 29, 31)"
+  },
+  {
+   "cls": "section-header row",
+   "h": 52,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section-header-headline typography-section-header-",
+   "h": 52,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section section-performance section-product-storie",
+   "h": 7329,
+   "padTop": "0px",
+   "bg": "rgb(0, 0, 0)"
+  },
+  {
+   "cls": "subsection-mx-hero",
+   "h": 3468,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section-mx-scroll revealed",
+   "h": 848,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "mx-copy mx-copy-2 typography-eyebrow-reduced secti",
+   "h": 125,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "subsection-gpu viewport-content",
+   "h": 841,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "typography-eyebrow-reduced section-copy-with-highl",
+   "h": 125,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "subsection-mx-family",
+   "h": 2750,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section section-battery section-product-stories th",
+   "h": 1889,
+   "padTop": "144px",
+   "bg": "rgb(0, 0, 0)"
+  },
+  {
+   "cls": "subsection-overflow",
+   "h": 1192,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section-header product-stories-section-header larg",
+   "h": 292,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section-header-eyebrow typography-eyebrow",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section-header-headline typography-headline-super",
+   "h": 168,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "subsection-content",
+   "h": 409,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "typography-site-body section-copy-with-highlight s",
+   "h": 285,
+   "padTop": "80px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section section-artificial-intelligence section-pr",
+   "h": 3103,
+   "padTop": "144px",
+   "bg": "rgb(0, 0, 0)"
+  },
+  {
+   "cls": "section section-ai section-product-stories no-pad ",
+   "h": 1314,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section-header product-stories-section-header larg",
+   "h": 372,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section-header-eyebrow typography-eyebrow",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section-header-headline typography-headline-super",
+   "h": 168,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section-header-description typography-eyebrow-redu",
+   "h": 100,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "router-card-description typography-router-copy sec",
+   "h": 92,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "router-card-description typography-router-copy sec",
+   "h": 92,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section section-apple-intelligence section-product",
+   "h": 1645,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "product-stories-subsection-header section-header r",
+   "h": 512,
+   "padTop": "80px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section-header-headline typography-product-stories",
+   "h": 120,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section-header-description typography-eyebrow-redu",
+   "h": 150,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "NAV",
+  "position": "absolute",
+  "height": 44,
+  "links": 234,
+  "linkTexts": [
+   "Apple",
+   "Store",
+   "Mac",
+   "iPad",
+   "iPhone",
+   "Watch",
+   "Vision",
+   "AirPods",
+   "TV & Home",
+   "Entertainment",
+   "Accessories",
+   "Support",
+   "0\n+"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "Buy MacBook Pro",
+   "bg": "rgb(0, 113, 227)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "980px",
+   "pad": "3px 10px",
+   "size": "12px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 24
+  },
+  {
+   "text": "Buy",
+   "bg": "rgb(0, 113, 227)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "980px",
+   "pad": "8px 15px",
+   "size": "17px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 39
+  },
+  {
+   "text": "M5, M5 Pro, and M5 Max chips",
+   "bg": "rgba(245, 245, 247, 0.8)",
+   "color": "rgb(41, 151, 255)",
+   "radius": "10px",
+   "pad": "0px",
+   "size": "17px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 8
+  },
+  {
+   "text": "Battery life",
+   "bg": "rgba(245, 245, 247, 0.8)",
+   "color": "rgb(41, 151, 255)",
+   "radius": "10px",
+   "pad": "0px",
+   "size": "17px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 8
+  },
+  {
+   "text": "AI",
+   "bg": "rgba(245, 245, 247, 0.8)",
+   "color": "rgb(41, 151, 255)",
+   "radius": "10px",
+   "pad": "0px",
+   "size": "17px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 8
+  },
+  {
+   "text": "macOS Tahoe",
+   "bg": "rgba(245, 245, 247, 0.8)",
+   "color": "rgb(41, 151, 255)",
+   "radius": "10px",
+   "pad": "0px",
+   "size": "17px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 8
+  },
+  {
+   "text": "Learn more",
+   "bg": "rgb(0, 113, 227)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "980px",
+   "pad": "11px 21px",
+   "size": "17px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 44
+  }
+ ],
+ "headings": [
+  "MacBook Pro",
+  "There’s never been a better time to upgrade.",
+  "Get the highlights.",
+  "Take a closer look.",
+  "Performance",
+  "Three chips. Second to none.",
+  "Battery",
+  "AI",
+  "AI apps on Mac. Born to run.",
+  "AI tools in apps. Mac makes magic.",
+  "Apple Intelligence. Task and you shall receive.",
+  "Great powers come with great privacy.",
+  "macOS Tahoe",
+  "Fresh faced. Timelessly Mac.",
+  "Liquid Glass. Clearly inspired.",
+  "Spotlight helps you act fast.",
+  "Live Translation speaks your language.",
+  "Run shortcuts automagically.",
+  "Ports and Connectivity",
+  "Why Apple is the best place to shop Mac.",
+  "Apple Upgrade",
+  "Ways to Buy",
+  "Apple Trade In",
+  "Education",
+  "Personal Setup"
+ ],
+ "paras": [
+  "Lease a new Mac with low monthly payments for 24 or 36 months and upgrade at the end of your term with Apple Upgrade.§ Learn more",
+  "Now with M5, M5 Pro, and M5 Max.",
+  "From $1999 or $166.58/mo. for 12 mo.*",
+  "Lease from $38.99/mo. for 36 mo. with Apple Upgrade◊",
+  "Don’t know which model you have?",
+  "Click the Apple logo in the upper left of your screen and choose About This Mac.",
+  "Here’s what you get with the 14‑inch MacBook Pro with M5.",
+  "Fly through demanding AI tasks up to 6x faster.1",
+  "More ports and faster charging.",
+  "More detailed graphics and gaming with hardware-accelerated ray tracing."
+ ],
+ "footer": {
+  "h": 5888,
+  "text": "Apple Footer § Apple Upgrade is a device leasing program available in the U.S. (excluding U.S. territories). Leases are provided by Klarna; subject to eligibility and credit approval, including final approval at checkout. To be eligible, you must be a U.S. resident, at least 18 years old (or the leg"
+ },
+ "jsMotion": {
+  "scriptsFetched": 16,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    ".5",
+    12
+   ],
+   [
+    "0",
+    10
+   ],
+   [
+    ".63",
+    6
+   ],
+   [
+    "1",
+    5
+   ],
+   [
+    ".15",
+    4
+   ],
+   [
+    ".3",
+    4
+   ],
+   [
+    ".52",
+    3
+   ],
+   [
+    ".7",
+    3
+   ],
+   [
+    ".32",
+    3
+   ],
+   [
+    ".2",
+    2
+   ],
+   [
+    ".6",
+    2
+   ],
+   [
+    ".02",
+    2
+   ],
+   [
+    ".03",
+    2
+   ],
+   [
+    ".05",
+    2
+   ],
+   [
+    ".45",
+    2
+   ]
+  ],
+  "staggers": [],
+  "lenis": [
+   [
+    "lerp:3",
+    1
+   ]
+  ],
+  "springs": [
+   [
+    "stiffness:100,damping:20",
+    14
+   ],
+   [
+    "stiffness:100,damping:8",
+    8
+   ],
+   [
+    "stiffness:100,damping:10",
+    7
+   ],
+   [
+    "stiffness:200,damping:15",
+    4
+   ],
+   [
+    "stiffness:200,damping:25",
+    4
+   ],
+   [
+    "stiffness:200,damping:20",
+    4
+   ],
+   [
+    "stiffness:200,damping:10",
+    2
+   ],
+   [
+    "stiffness:110,damping:20",
+    1
+   ]
+  ],
+  "scrollTriggerStarts": [
+   [
+    "t - 100vh",
+    8
+   ],
+   [
+    "a0t - 100vh",
+    7
+   ],
+   [
+    "t - 200vh",
+    5
+   ],
+   [
+    "t + 60h - 100vh",
+    2
+   ],
+   [
+    "0 + ",
+    2
+   ],
+   [
+    "t - 50vh",
+    2
+   ],
+   [
+    "start",
+    2
+   ],
+   [
+    "t - 100vh + 50a0h",
+    1
+   ],
+   [
+    "t - 110vh",
+    1
+   ],
+   [
+    "t - 150vh",
+    1
+   ]
+  ],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

@@ -1,0 +1,769 @@
+{
+ "url": "https://brand.dropbox.com",
+ "slug": "brand-dropbox-com",
+ "analyzedAt": "2026-10-07T05:27:47.203Z",
+ "scrollHeight": 2700,
+ "pageLengthInViewports": 3,
+ "title": "Dropbox Brand Guidelines",
+ "metaDescription": "At Dropbox, our Brand Guidelines help us infuse everything we make with identity. From icons to illustration, logos to language, this collection is the foundation for how Dropbox looks, feels, and sounds like Dropbox.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "Atlasgrotesk Web 400 normal",
+   "Atlasgrotesk Web 500 normal",
+   "Dbsharpgroteskvariable Vf 250 900 normal",
+   "Noto Sans Mono 400 normal",
+   "Noto Sans Mono 500 normal"
+  ],
+  "families": [
+   [
+    "Dbsharpgroteskvariable Vf",
+    9
+   ],
+   [
+    "Atlasgrotesk Web",
+    9
+   ]
+  ],
+  "sizes": [
+   [
+    "34px",
+    8
+   ],
+   [
+    "14px",
+    6
+   ],
+   [
+    "12px",
+    3
+   ],
+   [
+    "30px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "500",
+    11
+   ],
+   [
+    "400",
+    6
+   ],
+   [
+    "700",
+    1
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    9
+   ],
+   [
+    "-0.020em@34",
+    8
+   ],
+   [
+    "-0.020em@30",
+    1
+   ]
+  ],
+  "uppercaseShare": 0,
+  "largest": [
+   {
+    "tag": "div",
+    "text": "Framework",
+    "family": "Dbsharpgroteskvariable Vf",
+    "size": "33.6px",
+    "weight": "500",
+    "lh": "26.88px",
+    "ls": "-0.672px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(180, 200, 225)"
+   },
+   {
+    "tag": "div",
+    "text": "Voice & Tone",
+    "family": "Dbsharpgroteskvariable Vf",
+    "size": "33.6px",
+    "weight": "500",
+    "lh": "26.88px",
+    "ls": "-0.672px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(104, 69, 5)"
+   },
+   {
+    "tag": "div",
+    "text": "Logo",
+    "family": "Dbsharpgroteskvariable Vf",
+    "size": "33.6px",
+    "weight": "500",
+    "lh": "26.88px",
+    "ls": "-0.672px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(5, 84, 99)"
+   },
+   {
+    "tag": "div",
+    "text": "Typography",
+    "family": "Dbsharpgroteskvariable Vf",
+    "size": "33.6px",
+    "weight": "500",
+    "lh": "26.88px",
+    "ls": "-0.672px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(78, 1, 25)"
+   },
+   {
+    "tag": "div",
+    "text": "Iconography",
+    "family": "Dbsharpgroteskvariable Vf",
+    "size": "33.6px",
+    "weight": "500",
+    "lh": "26.88px",
+    "ls": "-0.672px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(23, 86, 65)"
+   },
+   {
+    "tag": "div",
+    "text": "Color",
+    "family": "Dbsharpgroteskvariable Vf",
+    "size": "33.6px",
+    "weight": "500",
+    "lh": "26.88px",
+    "ls": "-0.672px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(109, 46, 9)"
+   },
+   {
+    "tag": "div",
+    "text": "Imagery",
+    "family": "Dbsharpgroteskvariable Vf",
+    "size": "33.6px",
+    "weight": "500",
+    "lh": "26.88px",
+    "ls": "-0.672px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 175, 165)"
+   },
+   {
+    "tag": "div",
+    "text": "Motion",
+    "family": "Dbsharpgroteskvariable Vf",
+    "size": "33.6px",
+    "weight": "500",
+    "lh": "26.88px",
+    "ls": "-0.672px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(104, 39, 96)"
+   },
+   {
+    "tag": "h3",
+    "text": "The details are not the details. They make the design.”",
+    "family": "Dbsharpgroteskvariable Vf",
+    "size": "30px",
+    "weight": "700",
+    "lh": "36px",
+    "ls": "-0.6px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(30, 25, 25)"
+   },
+   {
+    "tag": "div",
+    "text": "— Charles Eames",
+    "family": "Atlasgrotesk Web",
+    "size": "14px",
+    "weight": "400",
+    "lh": "22px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(115, 108, 100)"
+   },
+   {
+    "tag": "p",
+    "text": "These guidelines are meant to help you create things that live in the Dropbox ecosystem an",
+    "family": "Atlasgrotesk Web",
+    "size": "14px",
+    "weight": "400",
+    "lh": "22px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(115, 108, 100)"
+   },
+   {
+    "tag": "p",
+    "text": "All of this information is a toolkit. Go use it to make things. Really cool, well-designed",
+    "family": "Atlasgrotesk Web",
+    "size": "14px",
+    "weight": "400",
+    "lh": "22px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(115, 108, 100)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(255, 255, 255)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(115, 108, 100)",
+    3
+   ],
+   [
+    "rgb(30, 25, 25)",
+    2
+   ],
+   [
+    "rgb(0, 97, 254)",
+    2
+   ],
+   [
+    "rgb(95, 157, 255)",
+    2
+   ],
+   [
+    "rgb(180, 200, 225)",
+    1
+   ],
+   [
+    "rgb(104, 69, 5)",
+    1
+   ],
+   [
+    "rgb(5, 84, 99)",
+    1
+   ],
+   [
+    "rgb(78, 1, 25)",
+    1
+   ],
+   [
+    "rgb(23, 86, 65)",
+    1
+   ],
+   [
+    "rgb(109, 46, 9)",
+    1
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(95, 157, 255)",
+    36
+   ],
+   [
+    "rgba(95, 157, 255, 0.4)",
+    4
+   ],
+   [
+    "rgb(104, 39, 96)",
+    2
+   ],
+   [
+    "rgb(255, 255, 255)",
+    1
+   ],
+   [
+    "rgb(40, 55, 80)",
+    1
+   ],
+   [
+    "rgb(250, 210, 75)",
+    1
+   ],
+   [
+    "rgb(61, 211, 238)",
+    1
+   ],
+   [
+    "rgb(250, 85, 30)",
+    1
+   ],
+   [
+    "rgb(180, 220, 25)",
+    1
+   ],
+   [
+    "rgb(255, 140, 25)",
+    1
+   ],
+   [
+    "rgb(190, 75, 10)",
+    1
+   ],
+   [
+    "rgb(109, 46, 9)",
+    1
+   ]
+  ],
+  "gradients": []
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.5,0,0.3,1)",
+    4
+   ],
+   [
+    "cubic-bezier(0.2,0.1,0,1)",
+    4
+   ],
+   [
+    "cubic-bezier(0.5,0,0.05,1)",
+    2
+   ],
+   [
+    "cubic-bezier(.4,0,.2,1)",
+    2
+   ],
+   [
+    "cubic-bezier(0.15,0.5,0.05,1)",
+    2
+   ],
+   [
+    "cubic-bezier(0.2,0,0.3,1)",
+    2
+   ],
+   [
+    "cubic-bezier(0.6,0,0.6,1)",
+    2
+   ],
+   [
+    "cubic-bezier(0.4,0,0.3,1)",
+    1
+   ],
+   [
+    "cubic-bezier(.6,0,0,1)",
+    1
+   ],
+   [
+    "cubic-bezier(0.4,0.2,0.2,1)",
+    1
+   ],
+   [
+    "cubic-bezier(.4,0.2,.2,1)",
+    1
+   ],
+   [
+    "cubic-bezier(0.4,0,0.1,1)",
+    1
+   ]
+  ],
+  "durations": [
+   [
+    "0.7s",
+    5
+   ],
+   [
+    "0.3s",
+    4
+   ],
+   [
+    "1.5s",
+    3
+   ],
+   [
+    "0.75s",
+    3
+   ],
+   [
+    "1.25s",
+    2
+   ],
+   [
+    "0.2s",
+    2
+   ],
+   [
+    "0.35s",
+    1
+   ],
+   [
+    "0.4s",
+    1
+   ],
+   [
+    "0.8s",
+    1
+   ],
+   [
+    "0s",
+    1
+   ]
+  ],
+  "keyframes": [
+   "drawIn",
+   "scaleToClose"
+  ]
+ },
+ "cssVarSample": {
+  "--button-size": "90px",
+  "--nav-tile-gap": "10px",
+  "--tile-transition": "0.35s cubic-bezier(.4,0,.2,1)",
+  "--nav-easing": "cubic-bezier(.4,0,.2,1)",
+  "--nav-easing-swoop": "cubic-bezier(.6,0,0,1)",
+  "--highest-tile-yeet": "calc((max(100vw, 100vh) - 90px) / -4)",
+  "--overscroll-progress": "0",
+  "--opening-margin": "120px",
+  "--opening-gutter": "24px",
+  "--opening-total-margins": "calc(2 * var(--opening-margin))",
+  "--opening-total-gutters": "calc(11 * var(--opening-gutter))",
+  "--opening-grid-width": "calc(100vw - var(--opening-total-margins))",
+  "--opening-single-column": "calc((var(--opening-grid-width) - var(--opening-total-gutters)) / 12)",
+  "--opening-col-1-left": "var(--opening-margin)",
+  "--opening-col-1-right": "calc(var(--opening-margin) + var(--opening-single-column))",
+  "--opening-col-2-left": "calc(var(--opening-margin) + 1 * (var(--opening-single-column) + var(--opening-g",
+  "--opening-col-2-right": "calc(var(--opening-margin) + 1 * (var(--opening-single-column) + var(--opening-g",
+  "--opening-col-3-left": "calc(var(--opening-margin) + 2 * (var(--opening-single-column) + var(--opening-g",
+  "--opening-col-3-right": "calc(var(--opening-margin) + 2 * (var(--opening-single-column) + var(--opening-g",
+  "--opening-col-4-left": "calc(var(--opening-margin) + 3 * (var(--opening-single-column) + var(--opening-g",
+  "--opening-col-4-right": "calc(var(--opening-margin) + 3 * (var(--opening-single-column) + var(--opening-g",
+  "--opening-col-5-left": "calc(var(--opening-margin) + 4 * (var(--opening-single-column) + var(--opening-g",
+  "--opening-col-5-right": "calc(var(--opening-margin) + 4 * (var(--opening-single-column) + var(--opening-g",
+  "--opening-col-6-left": "calc(var(--opening-margin) + 5 * (var(--opening-single-column) + var(--opening-g",
+  "--opening-col-6-right": "calc(var(--opening-margin) + 5 * (var(--opening-single-column) + var(--opening-g",
+  "--opening-col-7-left": "calc(var(--opening-margin) + 6 * (var(--opening-single-column) + var(--opening-g",
+  "--opening-col-7-right": "calc(var(--opening-margin) + 6 * (var(--opening-single-column) + var(--opening-g",
+  "--opening-col-8-left": "calc(var(--opening-margin) + 7 * (var(--opening-single-column) + var(--opening-g",
+  "--opening-col-8-right": "calc(var(--opening-margin) + 7 * (var(--opening-single-column) + var(--opening-g",
+  "--opening-col-9-left": "calc(var(--opening-margin) + 8 * (var(--opening-single-column) + var(--opening-g",
+  "--opening-col-9-right": "calc(var(--opening-margin) + 8 * (var(--opening-single-column) + var(--opening-g",
+  "--opening-col-10-left": "calc(var(--opening-margin) + 9 * (var(--opening-single-column) + var(--opening-g",
+  "--opening-col-10-right": "calc(var(--opening-margin) + 9 * (var(--opening-single-column) + var(--opening-g",
+  "--opening-col-11-left": "calc(var(--opening-margin) + 10 * (var(--opening-single-column) + var(--opening-",
+  "--opening-col-11-right": "calc(var(--opening-margin) + 10 * (var(--opening-single-column) + var(--opening-",
+  "--opening-col-12-left": "calc(var(--opening-margin) + 11 * (var(--opening-single-column) + var(--opening-",
+  "--opening-col-12-right": "calc(100vw - var(--opening-margin))",
+  "--opening-span-1": "var(--opening-single-column)",
+  "--opening-span-2": "calc(2 * var(--opening-single-column) + var(--opening-gutter))",
+  "--opening-span-3": "calc(3 * var(--opening-single-column) + 2 * var(--opening-gutter))",
+  "--opening-span-4": "calc(4 * var(--opening-single-column) + 3 * var(--opening-gutter))",
+  "--opening-span-5": "calc(5 * var(--opening-single-column) + 4 * var(--opening-gutter))",
+  "--opening-span-6": "calc(6 * var(--opening-single-column) + 5 * var(--opening-gutter))",
+  "--opening-span-7": "calc(7 * var(--opening-single-column) + 6 * var(--opening-gutter))",
+  "--opening-span-8": "calc(8 * var(--opening-single-column) + 7 * var(--opening-gutter))",
+  "--opening-span-9": "calc(9 * var(--opening-single-column) + 8 * var(--opening-gutter))",
+  "--opening-span-10": "calc(10 * var(--opening-single-column) + 9 * var(--opening-gutter))",
+  "--opening-span-11": "calc(11 * var(--opening-single-column) + 10 * var(--opening-gutter))",
+  "--opening-span-12": "calc(12 * var(--opening-single-column) + 11 * var(--opening-gutter))",
+  "--body-margin-real": "120px",
+  "--body-gutter": "24px",
+  "--body-total-margins": "calc(2 * var(--body-margin-real))",
+  "--body-total-gutters": "calc(11 * var(--body-gutter))",
+  "--body-grid-width": "min(calc(100vw - var(--body-total-margins)), 1920px)",
+  "--body-single-column": "calc((var(--body-grid-width) - var(--body-total-gutters)) / 12)",
+  "--body-margin": "calc((100vw - var(--body-grid-width)) / 2)",
+  "--body-col-1-left": "var(--body-margin)",
+  "--body-col-1-right": "calc(var(--body-margin) + var(--body-single-column))",
+  "--body-col-2-left": "calc(var(--body-margin) + 1 * (var(--body-single-column) + var(--body-gutter)))",
+  "--body-col-2-right": "calc(var(--body-margin) + 1 * (var(--body-single-column) + var(--body-gutter)) +",
+  "--body-col-3-left": "calc(var(--body-margin) + 2 * (var(--body-single-column) + var(--body-gutter)))",
+  "--body-col-3-right": "calc(var(--body-margin) + 2 * (var(--body-single-column) + var(--body-gutter)) +",
+  "--body-col-4-left": "calc(var(--body-margin) + 3 * (var(--body-single-column) + var(--body-gutter)))",
+  "--body-col-4-right": "calc(var(--body-margin) + 3 * (var(--body-single-column) + var(--body-gutter)) +",
+  "--body-col-5-left": "calc(var(--body-margin) + 4 * (var(--body-single-column) + var(--body-gutter)))",
+  "--body-col-5-right": "calc(var(--body-margin) + 4 * (var(--body-single-column) + var(--body-gutter)) +",
+  "--body-col-6-left": "calc(var(--body-margin) + 5 * (var(--body-single-column) + var(--body-gutter)))",
+  "--body-col-6-right": "calc(var(--body-margin) + 5 * (var(--body-single-column) + var(--body-gutter)) +",
+  "--body-col-7-left": "calc(var(--body-margin) + 6 * (var(--body-single-column) + var(--body-gutter)))",
+  "--body-col-7-right": "calc(var(--body-margin) + 6 * (var(--body-single-column) + var(--body-gutter)) +"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": true,
+  "next": false,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": true,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 0,
+  "video": 0,
+  "svg": 35,
+  "picture": 0,
+  "iframes": 1
+ },
+ "effects": {
+  "mixBlend": [
+   [
+    "difference",
+    1
+   ]
+  ],
+  "backdropFilter": 0,
+  "clipPath": 10,
+  "sticky": 0,
+  "fixed": [
+   "outro-page",
+   "nav",
+   "menu",
+   "menu"
+  ],
+  "customCursor": true,
+  "boxShadows": [],
+  "filters": [],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "8px 0px 0px",
+   1
+  ],
+  [
+   "0px 8px 0px 0px",
+   1
+  ],
+  [
+   "0px 0px 0px 8px",
+   1
+  ],
+  [
+   "0px 0px 8px",
+   1
+  ]
+ ],
+ "borders": [
+  [
+   "2px solid rgba(0, 0, 0, 0)",
+   2
+  ],
+  [
+   "1px solid rgba(0, 0, 0, 0)",
+   1
+  ]
+ ],
+ "grids": [
+  [
+   "12cols gap 24px",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "1440px",
+   1
+  ]
+ ],
+ "sideMargins": [
+  [
+   "-474px",
+   2
+  ],
+  [
+   "-1282px",
+   1
+  ],
+  [
+   "-1266px",
+   1
+  ]
+ ],
+ "sections": [],
+ "nav": {
+  "tag": "NAV",
+  "position": "absolute",
+  "height": 900,
+  "links": 8,
+  "linkTexts": [
+   "Framework",
+   "Voice & Tone",
+   "Logo",
+   "Typography",
+   "Iconography",
+   "Color",
+   "Imagery",
+   "Motion"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "Framework",
+   "bg": "rgb(40, 55, 80)",
+   "color": "rgb(180, 200, 225)",
+   "radius": "8px 0px 0px",
+   "pad": "23px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 485
+  },
+  {
+   "text": "Voice & Tone",
+   "bg": "rgb(250, 210, 75)",
+   "color": "rgb(104, 69, 5)",
+   "radius": "0px",
+   "pad": "23px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 385
+  },
+  {
+   "text": "Logo",
+   "bg": "rgb(61, 211, 238)",
+   "color": "rgb(5, 84, 99)",
+   "radius": "0px",
+   "pad": "23px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 485
+  },
+  {
+   "text": "Typography",
+   "bg": "rgb(250, 85, 30)",
+   "color": "rgb(78, 1, 25)",
+   "radius": "0px 8px 0px 0px",
+   "pad": "23px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 385
+  },
+  {
+   "text": "Iconography",
+   "bg": "rgb(180, 220, 25)",
+   "color": "rgb(23, 86, 65)",
+   "radius": "0px 0px 0px 8px",
+   "pad": "23px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 385
+  },
+  {
+   "text": "Color",
+   "bg": "rgb(255, 140, 25)",
+   "color": "rgb(109, 46, 9)",
+   "radius": "0px",
+   "pad": "23px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 485
+  },
+  {
+   "text": "Imagery",
+   "bg": "rgb(137, 32, 85)",
+   "color": "rgb(255, 175, 165)",
+   "radius": "0px",
+   "pad": "23px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 385
+  },
+  {
+   "text": "Motion",
+   "bg": "rgb(200, 175, 240)",
+   "color": "rgb(104, 39, 96)",
+   "radius": "0px 0px 8px",
+   "pad": "23px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 485
+  }
+ ],
+ "headings": [
+  "“",
+  "The details are not the details. They make the design.”",
+  "At Dropbox, our Brand Guidelines help us infuse everything we make with identity.",
+  "From icons to illustration, logos to language, this collection is the foundation for how Dropbox looks, feels, and sounds like Dropbox."
+ ],
+ "paras": [
+  "These guidelines are meant to help you create things that live in the Dropbox ecosystem and express our brand in the best way possible. But they’re just the beginning. What’s next is up to you.",
+  "All of this information is a toolkit. Go use it to make things. Really cool, well-designed things. Then share them with us, and the world. We can’t wait to see them."
+ ],
+ "footer": null,
+ "jsMotion": {
+  "scriptsFetched": 6,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "0",
+    58
+   ],
+   [
+    "500",
+    5
+   ],
+   [
+    "10",
+    2
+   ],
+   [
+    "200",
+    2
+   ],
+   [
+    "100",
+    1
+   ],
+   [
+    "350",
+    1
+   ],
+   [
+    "1600",
+    1
+   ]
+  ],
+  "staggers": [],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

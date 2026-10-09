@@ -1,0 +1,458 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ostra — Four eaux de parfum from the Atlantic coast, Lisbon</title>
+<meta name="description" content="Ostra is a small fragrance house in Lisbon. Four eaux de parfum, each built on one material from Portugal's Atlantic coast: salt-cured fig, cork oak, sea fennel and wet granite. Discovery set €28, credited against a 50 ml.">
+<!--
+DESIGN SPINE — Ostra
+DIRECTION   : 5 Quiet Luxury Commerce — fragrance buyers who distrust luxury theatre convert on restraint, plain facts and a clear price; no film, no gold.
+MOTIF       : the graduation mark (tide staff / lab vial scale). Hero: ml scale on drawn vials · chapters: drydown ruler in hours · dividers: ticked rule + coordinates · discovery set: plan-view vials with fill marks · footer: 24-hour ruler with a live "now" mark over atelier hours.
+TYPE        : display Newsreader 300 (section titles, h1 only) · text Hanken Grotesk 400/500 · label IBM Plex Mono 400
+SCALE       : h1 32→44px / 1.08 / −0.015em · h2 28→38px / 1.1 / −0.01em · h3 26→32px · body 14px/1.6 (15px lede) · label 11px / +0.1em uppercase
+PALETTE     : paper #F2F0EA (salt-pan white) · ink #262522 (wet granite) · ink-2 ink@68% · hairline ink@12% · accent #9E4316 (stripped cork trunk) → ONLY on level marks (vial fill line, footer "now" mark) and the 11px "credited" flag
+GRID        : 12 / 20px · container 1200px · side margin 120px (20px at 390) · section rhythm 120–200px, varied
+HERO        : H9 "small object, big room" adapted — statement + CTA bottom-left, the discovery set drawn as a technical elevation (four vials, ml graduations) as the subject on the right
+IMAGERY     : no photographs. Line drawings of the actual product (vials, tray) + drydown rulers that carry real information. No placeholders.
+MOTION      : house ease cubic-bezier(.215,.61,.355,1) · UI 300ms · reveal 800ms · primitive: blur-in on the first element per section; vial liquid rises to its fill line once
+SIGNATURES  : #35 FIG captions + spec tables · #52 live clock + coordinates · #6 ruled viewport with corner metadata
+VOICE       : hero "Fig, cork, sea fennel, wet granite." · section "Nothing here is rare. It is just particular." · CTA "Order the discovery set — €28"
+-->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;500&family=IBM+Plex+Mono:wght@400&family=Newsreader:ital,opsz,wght@0,6..72,300;1,6..72,300&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="tokens.css">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<a class="skip btn btn--primary btn--sm" href="#main">Skip to content</a>
+
+<header class="nav" id="top">
+  <div class="nav__in">
+    <nav class="nav__left" aria-label="Primary">
+      <a href="#four">The four</a>
+      <a href="#set">Discovery set</a>
+      <a href="#house">The house</a>
+    </nav>
+    <a class="wordmark" href="#top" aria-label="Ostra, home">Ostra</a>
+    <div class="nav__right">
+      <a class="nav__set" href="#set">Set <span class="t-num">€28</span></a>
+      <button class="nav__bag" type="button" aria-live="polite">Bag (<span class="t-num" data-bag-count>0</span>)</button>
+    </div>
+  </div>
+</header>
+
+<main id="main">
+
+  <!-- ============ HERO ============ -->
+  <section class="hero" aria-labelledby="h1">
+    <div class="container hero__grid">
+      <div class="hero__copy">
+        <p class="t-label dim" data-reveal>Ostra · Lisboa · Eaux de parfum</p>
+        <h1 id="h1" class="t-display" data-reveal style="--i:1">Fig, cork, sea fennel, wet&nbsp;granite.</h1>
+        <p class="hero__dek">Four perfumes, each built on one material from Portugal’s Atlantic coast. Smell all four for €28, and we credit it against a full bottle.</p>
+        <div class="hero__ctas">
+          <a class="btn btn--primary" href="#set">Order the discovery set <span class="t-num">— €28</span></a>
+          <a class="hero__more" href="#four">Read the four materials <span aria-hidden="true">↓</span></a>
+        </div>
+      </div>
+
+      <figure class="hero__fig vials" data-reveal style="--i:2">
+        <div class="vials__art">
+        <svg class="vials__svg" viewBox="0 0 480 520" preserveAspectRatio="xMidYMin slice" role="img" aria-label="Line drawing of the Ostra discovery set: four 2 ml spray vials standing in a row, each filled to the 2 ml mark.">
+          <defs>
+            <pattern id="hatch" width="5" height="5" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+              <line x1="0" y1="0" x2="0" y2="5" stroke="currentColor" stroke-opacity=".22" stroke-width="1"/>
+            </pattern>
+            <!-- inner glass, one per vial -->
+            <clipPath id="in0"><path d="M32 102v374q0 10 10 10h36q10 0 10-10V102z"/></clipPath>
+            <clipPath id="in1"><path d="M152 102v374q0 10 10 10h36q10 0 10-10V102z"/></clipPath>
+            <clipPath id="in2"><path d="M272 102v374q0 10 10 10h36q10 0 10-10V102z"/></clipPath>
+            <clipPath id="in3"><path d="M392 102v374q0 10 10 10h36q10 0 10-10V102z"/></clipPath>
+            <g id="vial" fill="none" stroke="currentColor" stroke-width="1" vector-effect="non-scaling-stroke">
+              <!-- actuator + nozzle -->
+              <rect x="-12" y="22" width="24" height="24" rx="3"/>
+              <rect x="12" y="30" width="4" height="7"/>
+              <!-- crimp collar with ribs -->
+              <rect x="-26" y="46" width="52" height="40" rx="2"/>
+              <path stroke-opacity=".35" d="M-21 50v32M-17 50v32M-13 50v32M-9 50v32M-5 50v32M-1 50v32M3 50v32M7 50v32M11 50v32M15 50v32M19 50v32"/>
+              <!-- neck -->
+              <rect x="-14" y="86" width="28" height="12"/>
+              <!-- body + inner wall -->
+              <path d="M-32 98v382q0 14 14 14h36q14 0 14-14V98z"/>
+              <path stroke-opacity=".3" d="M-28 102v374q0 10 10 10h36q10 0 10-10V102"/>
+              <!-- dip tube -->
+              <path stroke-opacity=".35" d="M0 98v384"/>
+              <!-- graduations: 0.25 ml steps, 2.0 at y=140, 0 at y=486 -->
+              <path stroke-opacity=".7" d="M-28 140h14M-28 183h7M-28 227h10M-28 270h7M-28 313h14M-28 356h7M-28 400h10M-28 443h7"/>
+            </g>
+          </defs>
+
+          <line class="floor" x1="0" y1="494.5" x2="480" y2="494.5" stroke="currentColor" stroke-opacity=".25" vector-effect="non-scaling-stroke"/>
+
+          <g clip-path="url(#in0)"><g class="fill" style="--i:0"><rect x="32" y="140" width="56" height="360" fill="url(#hatch)"/><line class="level" x1="32" y1="140" x2="88" y2="140"/></g></g>
+          <g clip-path="url(#in1)"><g class="fill" style="--i:1"><rect x="152" y="140" width="56" height="360" fill="url(#hatch)"/><line class="level" x1="152" y1="140" x2="208" y2="140"/></g></g>
+          <g clip-path="url(#in2)"><g class="fill" style="--i:2"><rect x="272" y="140" width="56" height="360" fill="url(#hatch)"/><line class="level" x1="272" y1="140" x2="328" y2="140"/></g></g>
+          <g clip-path="url(#in3)"><g class="fill" style="--i:3"><rect x="392" y="140" width="56" height="360" fill="url(#hatch)"/><line class="level" x1="392" y1="140" x2="448" y2="140"/></g></g>
+
+          <use href="#vial" x="60"/>
+          <use href="#vial" x="180"/>
+          <use href="#vial" x="300"/>
+          <use href="#vial" x="420"/>
+
+          <g class="gr-num" font-size="9" fill="currentColor" fill-opacity=".7">
+            <text x="33" y="134">2.0</text><text x="33" y="307">1.0</text>
+          </g>
+        </svg>
+        <ol class="vials__names" aria-label="The four vials">
+          <li><span class="t-label">No. 1</span> Figo</li>
+          <li><span class="t-label">No. 2</span> Sobreiro</li>
+          <li><span class="t-label">No. 3</span> Funcho</li>
+          <li><span class="t-label">No. 4</span> Granito</li>
+        </ol>
+        </div>
+        <figcaption class="t-label dim">Fig. 1 — The discovery set. Four 2 ml spray vials, filled to the line.</figcaption>
+      </figure>
+    </div>
+
+    <div class="container hero__meta t-label dim">
+      <span>Batch 07 · bottled 18.09.2026</span>
+      <span class="hero__meta-mid">50 ml · €165 each</span>
+      <span>Santos, Lisboa · 38°42′N 9°09′W</span>
+    </div>
+  </section>
+
+  <!-- ============ STATEMENT ============ -->
+  <section class="statement section" aria-labelledby="st-h">
+    <div class="container statement__grid">
+      <p class="t-label dim statement__k">Why four</p>
+      <h2 id="st-h" class="t-h2" data-reveal>Nothing here is rare. <span class="dim">It is just particular: a fig cured in Castro Marim salt, cork bark the week it comes off the tree, a weed that grows out of a cliff, a stone ten minutes after rain.</span></h2>
+    </div>
+  </section>
+
+  <!-- ============ THE FOUR ============ -->
+  <section class="four" id="four" aria-labelledby="four-h">
+    <div class="container">
+      <header class="four__head">
+        <h2 id="four-h" class="t-h2" data-reveal>The four. <span class="dim">50 ml each, €165 each, one material each.</span></h2>
+        <p class="four__note">Read each line left to right: what you smell in the first hour, the middle of the day, and what is still on your wrist in the evening. Times are on skin, not paper.</p>
+      </header>
+
+      <!-- No. 1 -->
+      <div class="tick-rule" aria-hidden="true"><span class="t-label">37°13′N 7°26′W</span></div>
+      <article class="eau" id="figo" aria-labelledby="figo-h">
+        <div class="eau__id">
+          <p class="t-label dim">No. 1</p>
+          <h3 id="figo-h" class="eau__name">Figo</h3>
+          <p class="eau__mat">Salt-cured fig</p>
+          <p class="eau__place t-label dim">Castro Marim, Algarve</p>
+        </div>
+        <div class="eau__body">
+          <p class="eau__desc">Black figs split and packed in flor de sal from the Castro Marim pans. The salt draws out the jam and leaves the leather. Milky for an hour, then dry, then almost savoury.</p>
+          <div class="drydown" style="--total:10" role="img" aria-label="Drydown over about 9 hours: fig leaf and flor de sal for the first hour, dried fig and cured skin to hour 5, cedar and beeswax to hour 9.">
+            <div class="ruler">
+              <span class="seg seg--1" style="--a:0;--b:1"></span>
+              <span class="seg seg--2" style="--a:1;--b:5"></span>
+              <span class="seg seg--3" style="--a:5;--b:9"></span>
+            </div>
+            <div class="ruler__hours t-label" aria-hidden="true"><span>0 h</span><span>2</span><span>4</span><span>6</span><span>8</span><span>10</span></div>
+          </div>
+          <dl class="legend">
+            <div><dt><i class="sw sw--1"></i><span class="t-label t-num">0–1 h</span></dt><dd>Fig leaf, flor de sal</dd></div>
+            <div><dt><i class="sw sw--2"></i><span class="t-label t-num">1–5 h</span></dt><dd>Dried fig, cured skin</dd></div>
+            <div><dt><i class="sw sw--3"></i><span class="t-label t-num">5–9 h</span></dt><dd>Cedar, beeswax</dd></div>
+          </dl>
+          <div class="buy">
+            <p class="buy__price"><span class="t-num">50 ml · €165</span></p>
+            <button class="btn btn--ghost btn--sm" type="button" data-add="Figo">Add Figo to bag</button>
+            <a class="buy__alt" href="#set">or smell it first in the set</a>
+          </div>
+        </div>
+      </article>
+
+      <!-- No. 2 -->
+      <div class="tick-rule" aria-hidden="true"><span class="t-label">38°23′N 8°47′W</span></div>
+      <article class="eau" id="sobreiro" aria-labelledby="sob-h">
+        <div class="eau__id">
+          <p class="t-label dim">No. 2</p>
+          <h3 id="sob-h" class="eau__name">Sobreiro</h3>
+          <p class="eau__mat">Cork oak</p>
+          <p class="eau__place t-label dim">Comporta, Alentejo coast</p>
+        </div>
+        <div class="eau__body">
+          <p class="eau__desc">Cork comes off the tree in July, once every nine years, and leaves the trunk the colour of brick. This is that week: dry bark, warm dust, and resin drifting over from the pines in the next field.</p>
+          <div class="drydown" style="--total:10" role="img" aria-label="Drydown over about 10 hours: pine resin and dust for the first hour, cork bark and tobacco leaf to hour 4, labdanum and dry wood to hour 10.">
+            <div class="ruler">
+              <span class="seg seg--1" style="--a:0;--b:1"></span>
+              <span class="seg seg--2" style="--a:1;--b:4"></span>
+              <span class="seg seg--3" style="--a:4;--b:10"></span>
+            </div>
+            <div class="ruler__hours t-label" aria-hidden="true"><span>0 h</span><span>2</span><span>4</span><span>6</span><span>8</span><span>10</span></div>
+          </div>
+          <dl class="legend">
+            <div><dt><i class="sw sw--1"></i><span class="t-label t-num">0–1 h</span></dt><dd>Pine resin, warm dust</dd></div>
+            <div><dt><i class="sw sw--2"></i><span class="t-label t-num">1–4 h</span></dt><dd>Cork bark, tobacco leaf</dd></div>
+            <div><dt><i class="sw sw--3"></i><span class="t-label t-num">4–10 h</span></dt><dd>Labdanum, dry wood</dd></div>
+          </dl>
+          <div class="buy">
+            <p class="buy__price"><span class="t-num">50 ml · €165</span></p>
+            <button class="btn btn--ghost btn--sm" type="button" data-add="Sobreiro">Add Sobreiro to bag</button>
+            <a class="buy__alt" href="#set">or smell it first in the set</a>
+          </div>
+        </div>
+      </article>
+
+      <!-- No. 3 -->
+      <div class="tick-rule" aria-hidden="true"><span class="t-label">38°25′N 9°13′W</span></div>
+      <article class="eau" id="funcho" aria-labelledby="fun-h">
+        <div class="eau__id">
+          <p class="t-label dim">No. 3</p>
+          <h3 id="fun-h" class="eau__name">Funcho</h3>
+          <p class="eau__mat">Sea fennel</p>
+          <p class="eau__place t-label dim">Cabo Espichel</p>
+        </div>
+        <div class="eau__body">
+          <p class="eau__desc"><i>Crithmum maritimum</i> grows out of the limestone at Cabo Espichel, where little else will. Crush a stem and you get celery, lemon peel and iodine. We kept it sharp and let it soften only at the very end.</p>
+          <div class="drydown" style="--total:10" role="img" aria-label="Drydown over about 7 hours: crushed stem and lemon peel for the first hour, iodine and celery seed to hour 3, ambrette and salt skin to hour 7.">
+            <div class="ruler">
+              <span class="seg seg--1" style="--a:0;--b:1"></span>
+              <span class="seg seg--2" style="--a:1;--b:3"></span>
+              <span class="seg seg--3" style="--a:3;--b:7"></span>
+            </div>
+            <div class="ruler__hours t-label" aria-hidden="true"><span>0 h</span><span>2</span><span>4</span><span>6</span><span>8</span><span>10</span></div>
+          </div>
+          <dl class="legend">
+            <div><dt><i class="sw sw--1"></i><span class="t-label t-num">0–1 h</span></dt><dd>Crushed stem, lemon peel</dd></div>
+            <div><dt><i class="sw sw--2"></i><span class="t-label t-num">1–3 h</span></dt><dd>Iodine, celery seed</dd></div>
+            <div><dt><i class="sw sw--3"></i><span class="t-label t-num">3–7 h</span></dt><dd>Ambrette, salt on skin</dd></div>
+          </dl>
+          <div class="buy">
+            <p class="buy__price"><span class="t-num">50 ml · €165</span></p>
+            <button class="btn btn--ghost btn--sm" type="button" data-add="Funcho">Add Funcho to bag</button>
+            <a class="buy__alt" href="#set">or smell it first in the set</a>
+          </div>
+        </div>
+      </article>
+
+      <!-- No. 4 -->
+      <div class="tick-rule" aria-hidden="true"><span class="t-label">41°41′N 8°51′W</span></div>
+      <article class="eau" id="granito" aria-labelledby="gra-h">
+        <div class="eau__id">
+          <p class="t-label dim">No. 4</p>
+          <h3 id="gra-h" class="eau__name">Granito</h3>
+          <p class="eau__mat">Wet granite</p>
+          <p class="eau__place t-label dim">Vila Praia de Âncora, Minho</p>
+        </div>
+        <div class="eau__body">
+          <p class="eau__desc">The northern coast is granite, and it rains there. This is the first ten minutes of it: cold mineral, crushed moss, and a little smoke from a chimney somewhere up the hill.</p>
+          <div class="drydown" style="--total:10" role="img" aria-label="Drydown over about 10 hours: petrichor and cold mineral for the first hour, moss and wet stone to hour 5, vetiver and smoke to hour 10.">
+            <div class="ruler">
+              <span class="seg seg--1" style="--a:0;--b:1"></span>
+              <span class="seg seg--2" style="--a:1;--b:5"></span>
+              <span class="seg seg--3" style="--a:5;--b:10"></span>
+            </div>
+            <div class="ruler__hours t-label" aria-hidden="true"><span>0 h</span><span>2</span><span>4</span><span>6</span><span>8</span><span>10</span></div>
+          </div>
+          <dl class="legend">
+            <div><dt><i class="sw sw--1"></i><span class="t-label t-num">0–1 h</span></dt><dd>Petrichor, cold mineral</dd></div>
+            <div><dt><i class="sw sw--2"></i><span class="t-label t-num">1–5 h</span></dt><dd>Moss, wet stone</dd></div>
+            <div><dt><i class="sw sw--3"></i><span class="t-label t-num">5–10 h</span></dt><dd>Vetiver, woodsmoke</dd></div>
+          </dl>
+          <div class="buy">
+            <p class="buy__price"><span class="t-num">50 ml · €165</span></p>
+            <button class="btn btn--ghost btn--sm" type="button" data-add="Granito">Add Granito to bag</button>
+            <a class="buy__alt" href="#set">or smell it first in the set</a>
+          </div>
+        </div>
+      </article>
+    </div>
+  </section>
+
+  <!-- ============ DISCOVERY SET ============ -->
+  <section class="set" id="set" aria-labelledby="set-h">
+    <div class="container set__grid">
+      <figure class="set__fig vials" data-reveal>
+        <svg viewBox="0 0 560 380" role="img" aria-label="Plan drawing of the discovery set box: four vials lying in a card tray, numbered 1 to 4.">
+          <defs>
+            <pattern id="hatch2" width="5" height="5" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+              <line x1="0" y1="0" x2="0" y2="5" stroke="currentColor" stroke-opacity=".22" stroke-width="1"/>
+            </pattern>
+            <clipPath id="p0"><path d="M84 66h300v28H84a14 14 0 0 1 0-28z"/></clipPath>
+            <clipPath id="p1"><path d="M84 136h300v28H84a14 14 0 0 1 0-28z"/></clipPath>
+            <clipPath id="p2"><path d="M84 206h300v28H84a14 14 0 0 1 0-28z"/></clipPath>
+            <clipPath id="p3"><path d="M84 276h300v28H84a14 14 0 0 1 0-28z"/></clipPath>
+            <g id="lying" fill="none" stroke="currentColor" stroke-width="1" vector-effect="non-scaling-stroke">
+              <!-- slot in the card insert -->
+              <rect x="50" y="-28" width="468" height="56" rx="28" stroke-opacity=".3"/>
+              <!-- body (base on the left) -->
+              <path d="M388 -18H84a18 18 0 0 0 0 36h304z"/>
+              <!-- neck, collar, actuator -->
+              <rect x="388" y="-10" width="12" height="20"/>
+              <rect x="400" y="-20" width="40" height="40" rx="2"/>
+              <path stroke-opacity=".35" d="M404 -16v32M408 -16v32M412 -16v32M416 -16v32M420 -16v32M424 -16v32M428 -16v32M432 -16v32M436 -16v32"/>
+              <rect x="440" y="-12" width="24" height="24" rx="3"/>
+              <!-- dip tube + graduations along the top -->
+              <path stroke-opacity=".35" d="M388 0H76"/>
+              <path stroke-opacity=".7" d="M350 -14v12M315 -14v6M280 -14v9M245 -14v6M210 -14v12M175 -14v6M140 -14v9M105 -14v6"/>
+            </g>
+          </defs>
+          <!-- box + tray wall -->
+          <rect x="10.5" y="10.5" width="539" height="359" fill="none" stroke="currentColor" stroke-opacity=".55" vector-effect="non-scaling-stroke"/>
+          <rect x="26.5" y="26.5" width="507" height="327" fill="none" stroke="currentColor" stroke-opacity=".2" vector-effect="non-scaling-stroke"/>
+
+          <g clip-path="url(#p0)"><g class="fill fill--x" style="--i:0"><rect x="60" y="60" width="290" height="40" fill="url(#hatch2)"/><line class="level" x1="350" y1="60" x2="350" y2="100"/></g></g>
+          <g clip-path="url(#p1)"><g class="fill fill--x" style="--i:1"><rect x="60" y="130" width="290" height="40" fill="url(#hatch2)"/><line class="level" x1="350" y1="130" x2="350" y2="170"/></g></g>
+          <g clip-path="url(#p2)"><g class="fill fill--x" style="--i:2"><rect x="60" y="200" width="290" height="40" fill="url(#hatch2)"/><line class="level" x1="350" y1="200" x2="350" y2="240"/></g></g>
+          <g clip-path="url(#p3)"><g class="fill fill--x" style="--i:3"><rect x="60" y="270" width="290" height="40" fill="url(#hatch2)"/><line class="level" x1="350" y1="270" x2="350" y2="310"/></g></g>
+
+          <use href="#lying" y="80"/>
+          <use href="#lying" y="150"/>
+          <use href="#lying" y="220"/>
+          <use href="#lying" y="290"/>
+
+          <g font-size="13" fill="currentColor" fill-opacity=".75">
+            <text x="490" y="85">1</text><text x="490" y="155">2</text><text x="490" y="225">3</text><text x="490" y="295">4</text>
+          </g>
+        </svg>
+        <figcaption class="t-label dim">Fig. 2 — The set from above. 4 × 2 ml in a card tray that posts through a letterbox.</figcaption>
+      </figure>
+
+      <div class="set__copy">
+        <p class="t-label dim" data-reveal>The discovery set</p>
+        <h2 id="set-h" class="t-h2" data-reveal style="--i:1">Smell all four first. <span class="dim">The&nbsp;€28 comes off your&nbsp;bottle.</span></h2>
+
+        <table class="ledger t-num">
+          <caption class="sr-only">How the discovery set credit works</caption>
+          <tbody>
+            <tr><th scope="row">Discovery set, 4 × 2 ml</th><td>€28</td></tr>
+            <tr><th scope="row">Later, one 50 ml of your choice</th><td>€165</td></tr>
+            <tr class="ledger__credit"><th scope="row">Credit from the set <span class="flag">Credited</span></th><td>−€28</td></tr>
+            <tr class="ledger__total"><th scope="row">What the bottle costs you</th><td>€137</td></tr>
+          </tbody>
+        </table>
+
+        <ul class="set__facts">
+          <li>About 25 sprays per vial: three or four days of wearing each one properly.</li>
+          <li>Your credit code is printed inside the lid. It works on any 50 ml.</li>
+          <li>Ships from Lisbon within two working days. Prices include IVA.</li>
+        </ul>
+
+        <a class="btn btn--primary btn--wide" href="#set" data-add="Discovery set">Order the discovery set <span class="t-num">— €28</span></a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ THE HOUSE ============ -->
+  <section class="house section" id="house" aria-labelledby="house-h">
+    <div class="container house__grid">
+      <div class="house__copy">
+        <h2 id="house-h" class="t-h2" data-reveal>What we leave out. <span class="dim">No oud, no gold caps, no “notes of mystery”, and no fifth perfume this year.</span></h2>
+        <p>Ostra is two people and a small room in Santos. We make four perfumes because we know four places on this coast well enough to describe them honestly. When we know a fifth, we will make a fifth.</p>
+      </div>
+      <dl class="spec">
+        <div><dt class="t-label">Concentration</dt><dd>Eau de parfum, 18%</dd></div>
+        <div><dt class="t-label">Maceration</dt><dd class="t-num">6 weeks, in Lisbon</dd></div>
+        <div><dt class="t-label">Batch</dt><dd class="t-num">300 bottles, numbered</dd></div>
+        <div><dt class="t-label">Glass</dt><dd>Marinha Grande</dd></div>
+        <div><dt class="t-label">Cap</dt><dd>Natural cork, Coruche</dd></div>
+        <div><dt class="t-label">Alcohol</dt><dd>Grape, from the Douro</dd></div>
+      </dl>
+    </div>
+  </section>
+
+  <!-- ============ FINALE ============ -->
+  <section class="finale" aria-labelledby="fin-h">
+    <div class="container finale__grid">
+      <h2 id="fin-h" class="finale__line" data-reveal>Start with the small bottles.</h2>
+      <div class="finale__act" data-reveal style="--i:1">
+        <a class="btn btn--primary" href="#set">Order the discovery set <span class="t-num">— €28</span></a>
+        <p class="dim">Four vials, one coast, and the €28 back when you choose.</p>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="foot">
+  <div class="container">
+    <div class="foot__cols">
+      <div class="foot__brand">
+        <p class="wordmark wordmark--foot">Ostra</p>
+        <address>Rua das Janelas Verdes<br>Santos, 1200 Lisboa<br><span class="t-label dim">38°42′N 9°09′W</span></address>
+      </div>
+      <nav aria-label="Shop">
+        <p class="t-label dim">Shop</p>
+        <ul><li><a href="#figo">No. 1 Figo</a></li><li><a href="#sobreiro">No. 2 Sobreiro</a></li><li><a href="#funcho">No. 3 Funcho</a></li><li><a href="#granito">No. 4 Granito</a></li><li><a href="#set">Discovery set</a></li></ul>
+      </nav>
+      <nav aria-label="House">
+        <p class="t-label dim">House</p>
+        <ul><li><a href="#house">How we work</a></li><li><a href="#four">The materials</a></li><li><a href="#house">Stockists</a></li><li><a href="#house">Press</a></li></ul>
+      </nav>
+      <nav aria-label="Help">
+        <p class="t-label dim">Help</p>
+        <ul><li><a href="#set">Shipping</a></li><li><a href="#set">Returns</a></li><li><a href="#set">Using your credit</a></li><li><a href="mailto:atelier@ostra.pt">atelier@ostra.pt</a></li></ul>
+      </nav>
+      <form class="letters" data-letters>
+        <p class="t-label dim">Letters</p>
+        <p class="letters__note">Four a year, one per perfume. Nothing in between.</p>
+        <label class="sr-only" for="em">Email address</label>
+        <div class="letters__row">
+          <input id="em" type="email" required placeholder="Email address" autocomplete="email">
+          <button type="submit" class="letters__go">Subscribe</button>
+        </div>
+        <p class="letters__ok" hidden>Noted. The next letter is about granite, in December.</p>
+      </form>
+    </div>
+
+    <div class="atelier" aria-label="Atelier hours, Lisbon time">
+      <p class="atelier__now"><span class="t-label dim">Lisboa</span> <span class="t-num atelier__time" data-clock="Europe/Lisbon">--:--</span> <span class="atelier__status" data-status>Atelier open Tuesday to Saturday, 11:00–19:00</span></p>
+      <div class="day" aria-hidden="true">
+        <span class="day__open"></span>
+        <span class="day__now" data-now></span>
+        <div class="day__hours t-label"><span>00</span><span>06</span><span>12</span><span>18</span><span>24</span></div>
+      </div>
+    </div>
+
+    <div class="foot__base t-label dim">
+      <span>© 2026 Ostra Perfumaria, Lda.</span>
+      <span>Made and macerated in Lisbon</span>
+      <span>Prices in euros, IVA included</span>
+    </div>
+  </div>
+</footer>
+
+<script type="module">
+  import { autoInit } from './motion.js';
+  autoInit();
+
+  // Atelier status + "now" mark on the 24-hour ruler (Lisbon time)
+  const parts = () => Object.fromEntries(new Intl.DateTimeFormat('en-GB', { timeZone: 'Europe/Lisbon', weekday: 'short', hour: '2-digit', minute: '2-digit', hourCycle: 'h23' })
+    .formatToParts(new Date()).map((p) => [p.type, p.value]));
+  const status = document.querySelector('[data-status]');
+  const now = document.querySelector('[data-now]');
+  const tick = () => {
+    const p = parts(); const h = +p.hour, m = +p.minute; const mins = h * 60 + m;
+    now.style.setProperty('--t', (mins / 1440).toFixed(4));
+    const openDay = ['Tue', 'Wed', 'Thu', 'Fri', 'Sat'].includes(p.weekday);
+    const open = openDay && mins >= 660 && mins < 1140;
+    status.dataset.open = open;
+    status.textContent = open ? `Atelier open now · closes at 19:00`
+      : openDay && mins < 660 ? `Atelier opens at 11:00 today`
+      : `Atelier closed · open Tuesday to Saturday, 11:00–19:00`;
+  };
+  tick(); setInterval(tick, 30000);
+
+  // Bag (demo state only)
+  const count = document.querySelector('[data-bag-count]');
+  document.querySelectorAll('[data-add]').forEach((b) => b.addEventListener('click', (e) => {
+    if (b.tagName === 'A') e.preventDefault();
+    count.textContent = +count.textContent + 1;
+    if (b.tagName === 'BUTTON') { b.textContent = `${b.dataset.add} is in your bag`; b.disabled = true; }
+  }));
+
+  // Letters success state
+  const f = document.querySelector('[data-letters]');
+  f.addEventListener('submit', (e) => { e.preventDefault(); f.querySelector('.letters__row').hidden = true; f.querySelector('.letters__ok').hidden = false; });
+</script>
+</body>
+</html>

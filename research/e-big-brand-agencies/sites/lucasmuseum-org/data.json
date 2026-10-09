@@ -1,0 +1,737 @@
+{
+ "url": "https://lucasmuseum.org/",
+ "slug": "lucasmuseum-org",
+ "analyzedAt": "2026-10-07T05:24:31.852Z",
+ "scrollHeight": 18158,
+ "pageLengthInViewports": 20.2,
+ "title": "Lucas Museum of Narrative Art",
+ "metaDescription": "Learn more about the Lucas Museum of Narrative Art in Los Angeles, opening in September 2026. Founded by George Lucas and Mellody Hobson. Discover our collection.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "Hellix VF 100 900 normal",
+   "Suisse Works 400 normal"
+  ],
+  "families": [
+   [
+    "Hellix VF",
+    44
+   ],
+   [
+    "ui-sans-serif",
+    6
+   ],
+   [
+    "Suisse Works",
+    6
+   ]
+  ],
+  "sizes": [
+   [
+    "16px",
+    44
+   ],
+   [
+    "48px",
+    4
+   ],
+   [
+    "14px",
+    2
+   ],
+   [
+    "24px",
+    2
+   ],
+   [
+    "20px",
+    2
+   ],
+   [
+    "64px",
+    1
+   ],
+   [
+    "40px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    54
+   ],
+   [
+    "450",
+    2
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "0.010em@16",
+    38
+   ],
+   [
+    "normal",
+    8
+   ],
+   [
+    "-0.030em@48",
+    4
+   ],
+   [
+    "0.010em@14",
+    2
+   ],
+   [
+    "0.010em@20",
+    2
+   ],
+   [
+    "-0.030em@64",
+    1
+   ],
+   [
+    "-0.030em@40",
+    1
+   ]
+  ],
+  "uppercaseShare": 0,
+  "largest": [
+   {
+    "tag": "h3",
+    "text": "Featured Galleries",
+    "family": "Suisse Works",
+    "size": "64px",
+    "weight": "400",
+    "lh": "70.4px",
+    "ls": "-1.92px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(247, 247, 247)"
+   },
+   {
+    "tag": "h2",
+    "text": "A Home for the Art That Connects Us",
+    "family": "Suisse Works",
+    "size": "48px",
+    "weight": "400",
+    "lh": "52.8px",
+    "ls": "-1.44px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(29, 29, 29)"
+   },
+   {
+    "tag": "h2",
+    "text": "Founding Membership",
+    "family": "Suisse Works",
+    "size": "48px",
+    "weight": "400",
+    "lh": "52.8px",
+    "ls": "-1.44px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(29, 29, 29)"
+   },
+   {
+    "tag": "h2",
+    "text": "A New Landmark in Los Angeles",
+    "family": "Suisse Works",
+    "size": "48px",
+    "weight": "400",
+    "lh": "52.8px",
+    "ls": "-1.44px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(29, 29, 29)"
+   },
+   {
+    "tag": "h2",
+    "text": "Sign Up for Our Newsletter",
+    "family": "Suisse Works",
+    "size": "48px",
+    "weight": "400",
+    "lh": "52.8px",
+    "ls": "-1.44px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(29, 29, 29)"
+   },
+   {
+    "tag": "p",
+    "text": "The Lucas Museum explores how narrative art shapes our world—expressing beliefs, communica",
+    "family": "Hellix VF",
+    "size": "24px",
+    "weight": "450",
+    "lh": "33.6px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(99, 99, 99)"
+   },
+   {
+    "tag": "p",
+    "text": "From the sculptural architecture of Ma Yansong to Mia Lehrer’s evolving landscape, the Luc",
+    "family": "Hellix VF",
+    "size": "24px",
+    "weight": "450",
+    "lh": "33.6px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(99, 99, 99)"
+   },
+   {
+    "tag": "p",
+    "text": "From timeless myths to cinematic galaxies far, far away—stories connect us. Come join our ",
+    "family": "Hellix VF",
+    "size": "20px",
+    "weight": "400",
+    "lh": "28px",
+    "ls": "0.2px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(29, 29, 29)"
+   },
+   {
+    "tag": "p",
+    "text": "Stay connected with our latest news and programming.",
+    "family": "Hellix VF",
+    "size": "20px",
+    "weight": "400",
+    "lh": "28px",
+    "ls": "0.2px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(99, 99, 99)"
+   },
+   {
+    "tag": "span",
+    "text": "Manage Preferences",
+    "family": "Hellix VF",
+    "size": "16px",
+    "weight": "400",
+    "lh": "22.4px",
+    "ls": "0.16px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(29, 29, 29)"
+   },
+   {
+    "tag": "span",
+    "text": "Reject Non-Essential",
+    "family": "Hellix VF",
+    "size": "16px",
+    "weight": "400",
+    "lh": "22.4px",
+    "ls": "0.16px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(29, 29, 29)"
+   },
+   {
+    "tag": "span",
+    "text": "Accept All Cookies",
+    "family": "Hellix VF",
+    "size": "16px",
+    "weight": "400",
+    "lh": "22.4px",
+    "ls": "0.16px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(247, 247, 247)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(242, 237, 233)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(29, 29, 29)",
+    31
+   ],
+   [
+    "rgb(0, 0, 0)",
+    9
+   ],
+   [
+    "rgb(99, 99, 99)",
+    9
+   ],
+   [
+    "rgb(247, 247, 247)",
+    7
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(0, 0, 0)",
+    8
+   ],
+   [
+    "rgb(229, 218, 207)",
+    7
+   ],
+   [
+    "rgba(252, 248, 245, 0.7)",
+    6
+   ],
+   [
+    "rgb(255, 255, 255)",
+    3
+   ],
+   [
+    "rgb(242, 237, 233)",
+    3
+   ]
+  ],
+  "gradients": []
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.4,0,1,1)",
+    8
+   ],
+   [
+    "cubic-bezier(0.4,0.1,0.3,1)",
+    6
+   ],
+   [
+    "cubic-bezier(0,0,0.3,1)",
+    6
+   ],
+   [
+    "cubic-bezier(.4,0,.2,1)",
+    4
+   ],
+   [
+    "cubic-bezier(.4,0,1,1)",
+    2
+   ],
+   [
+    "cubic-bezier(0,0,.2,1)",
+    2
+   ],
+   [
+    "cubic-bezier(.2,0,.38,.9)",
+    2
+   ],
+   [
+    "cubic-bezier(.4,.1,.3,1)",
+    2
+   ],
+   [
+    "cubic-bezier(0,.5,.5,1)",
+    2
+   ],
+   [
+    "cubic-bezier(.46,.03,.52,.96)",
+    2
+   ],
+   [
+    "cubic-bezier(.4,.15,0,1)",
+    2
+   ],
+   [
+    "cubic-bezier(0,1,1,0)",
+    1
+   ]
+  ],
+  "durations": [
+   [
+    "0.34s",
+    35
+   ],
+   [
+    "0.89s",
+    33
+   ],
+   [
+    "0.3s",
+    19
+   ],
+   [
+    "0s",
+    13
+   ],
+   [
+    "0.55s",
+    12
+   ],
+   [
+    "0.2s",
+    10
+   ],
+   [
+    "0.35s",
+    6
+   ],
+   [
+    "1ms",
+    4
+   ],
+   [
+    "0.25s",
+    4
+   ],
+   [
+    "0.21s",
+    4
+   ]
+  ],
+  "keyframes": [
+   "spin",
+   "lds-ellipsis1",
+   "lds-ellipsis3",
+   "lds-ellipsis2"
+  ]
+ },
+ "cssVarSample": {},
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": true,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": false,
+  "swup": true,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 29,
+  "video": 1,
+  "svg": 50,
+  "picture": 1,
+  "iframes": 1
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 6,
+  "clipPath": 15,
+  "sticky": 2,
+  "fixed": [
+   "didomi-regular-notice didomi-banner-notice-info-type didomi-",
+   "anim-overlay-active p-outer-gutter fixed inset-0",
+   "anim-overlay-active p-outer-gutter fixed inset-0",
+   "anim-overlay-active p-outer-gutter fixed inset-0",
+   "anim-overlay-active p-outer-gutter fixed inset-0"
+  ],
+  "customCursor": true,
+  "boxShadows": [],
+  "filters": [],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "9999px",
+   36
+  ],
+  [
+   "12px",
+   15
+  ],
+  [
+   "4px",
+   14
+  ],
+  [
+   "24px",
+   1
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgba(0, 0, 0, 0.4)",
+   2
+  ],
+  [
+   "1px solid rgba(0, 0, 0, 0.3)",
+   1
+  ]
+ ],
+ "grids": [
+  [
+   "2cols gap 24px",
+   3
+  ],
+  [
+   "4cols gap 8px",
+   1
+  ],
+  [
+   "2cols gap 8px",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "100%",
+   12
+  ]
+ ],
+ "sideMargins": [
+  [
+   "374px",
+   4
+  ],
+  [
+   "24px",
+   4
+  ],
+  [
+   "840px",
+   2
+  ],
+  [
+   "373px",
+   2
+  ],
+  [
+   "257px",
+   2
+  ],
+  [
+   "456px",
+   1
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "bg-default relative flex-grow",
+   "h": 16988,
+   "padTop": "0px",
+   "bg": "rgb(242, 237, 233)"
+  },
+  {
+   "cls": "anim-heroe-medias h-screen-banner bg-inverse relat",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgb(0, 0, 0)"
+  },
+  {
+   "cls": "block-el block-el-section-title",
+   "h": 230,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "block-el block-el-section-title",
+   "h": 352,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "pt-spacing-set-12 pb-spacing-set-10 bg-default bg-",
+   "h": 389,
+   "padTop": "160px",
+   "bg": "rgb(242, 237, 233)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "sticky",
+  "height": 96,
+  "links": 21,
+  "linkTexts": [
+   "Visit",
+   "Explore Art",
+   "About",
+   "Store",
+   "Membership",
+   "Tickets",
+   "Open mobile navigation\n                            \n                            \n                                Close mobile navigation",
+   "Open mobile navigation\n                            \n                            \n                                Close mobile navigation"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "Manage Preferences",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(29, 29, 29)",
+   "radius": "9999px",
+   "pad": "0px 20px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0.4)",
+   "h": 56
+  },
+  {
+   "text": "Reject Non-Essential",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(29, 29, 29)",
+   "radius": "9999px",
+   "pad": "0px 20px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0.4)",
+   "h": 56
+  },
+  {
+   "text": "Accept All Cookies",
+   "bg": "rgb(0, 0, 0)",
+   "color": "rgb(247, 247, 247)",
+   "radius": "9999px",
+   "pad": "0px 20px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0.3)",
+   "h": 56
+  },
+  {
+   "text": "Skip to main content",
+   "bg": "rgb(242, 237, 233)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "9999px",
+   "pad": "0px 20px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 56
+  },
+  {
+   "text": "Membership",
+   "bg": "rgb(0, 0, 0)",
+   "color": "rgb(247, 247, 247)",
+   "radius": "9999px",
+   "pad": "0px 20px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 56
+  },
+  {
+   "text": "Tickets",
+   "bg": "rgb(0, 0, 0)",
+   "color": "rgb(247, 247, 247)",
+   "radius": "9999px",
+   "pad": "0px 20px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 56
+  },
+  {
+   "text": "Buy tickets (opens in a new tab)",
+   "bg": "rgba(252, 248, 245, 0.7)",
+   "color": "rgb(29, 29, 29)",
+   "radius": "9999px",
+   "pad": "0px 20px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 56
+  },
+  {
+   "text": "Explore Comics",
+   "bg": "rgba(252, 248, 245, 0.7)",
+   "color": "rgb(29, 29, 29)",
+   "radius": "9999px",
+   "pad": "0px 20px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 53
+  },
+  {
+   "text": "Explore Children's Stories",
+   "bg": "rgba(252, 248, 245, 0.7)",
+   "color": "rgb(29, 29, 29)",
+   "radius": "9999px",
+   "pad": "0px 20px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 53
+  },
+  {
+   "text": "Explore Fantasy",
+   "bg": "rgba(252, 248, 245, 0.7)",
+   "color": "rgb(29, 29, 29)",
+   "radius": "9999px",
+   "pad": "0px 20px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 53
+  }
+ ],
+ "headings": [
+  "Primary Navigation",
+  "Now Open",
+  "A Home for the Art That Connects Us",
+  "Drawing Us to Adventure",
+  "Inspiring Wonder",
+  "Escaping into Other Worlds",
+  "Featured Galleries",
+  "Founding Membership",
+  "A New Landmark in Los Angeles",
+  "Sign Up for Our Newsletter",
+  "Primary Navigation",
+  "Secondary Navigation",
+  "Legal Navigation",
+  "Mobile Navigation",
+  "Primary Mobile Navigation",
+  "Sign Up for Our Newsletter",
+  "Sign Up for Our Newsletter"
+ ],
+ "paras": [
+  "We and our third-party partners use cookies, pixels, and similar tracking technologies to ensure essential functionality of the site and for business and marketing purposes, including analytics and delivering personalize",
+  "The Lucas Museum explores how narrative art shapes our world—expressing beliefs, communicating values, expanding imagination, and inviting conversation.",
+  "From timeless myths to cinematic galaxies far, far away—stories connect us. Come join our global community as a Founding Member and enjoy insider access and benefits.",
+  "From the sculptural architecture of Ma Yansong to Mia Lehrer’s evolving landscape, the Lucas Museum of Narrative Art rises from what was once an asphalt lot to become a place where art, nature, and community meet.",
+  "One Lucas Plaza 3800 S Vermont Ave Los Angeles, CA 90037 USA",
+  "Monday: 10 AM – 5 PM Tuesday: CLOSED Wednesday: 10 AM – 5 PM Thursday: 10 AM – 5 PM Friday: 10 AM – 9 PM Saturday: 9 AM – 9 PM Sunday: 9 AM – 5 PM Last entry, 45 minutes before closing. Closed on Thanksgiving, Christmas,",
+  "© Lucas Museum of Narrative Art. Lucas Museum of Narrative Art, Lucas Museum, LMNA, and the LM logo are all trademarks of the Lucas Museum of Narrative Art, a California nonprofit benefit corporation.",
+  "Stay connected with our latest news and programming."
+ ],
+ "footer": {
+  "h": 780,
+  "text": "One Lucas Plaza 3800 S Vermont Ave Los Angeles, CA 90037 USA Monday: 10 AM – 5 PM Tuesday: CLOSED Wednesday: 10 AM – 5 PM Thursday: 10 AM – 5 PM Friday: 10 AM – 9 PM Saturday: 9 AM – 9 PM Sunday: 9 AM – 5 PM Last entry, 45 minutes before closing. Closed on Thanksgiving, Christmas, New Year's Day Pri"
+ },
+ "jsMotion": {
+  "scriptsFetched": 7,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [],
+  "staggers": [],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

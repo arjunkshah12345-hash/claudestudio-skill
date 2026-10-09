@@ -1,0 +1,522 @@
+{
+ "url": "https://www.pasqua.it",
+ "slug": "www-pasqua-it",
+ "analyzedAt": "2026-10-07T05:31:01.006Z",
+ "scrollHeight": 900,
+ "pageLengthInViewports": 1,
+ "title": "Pasqua Wines",
+ "metaDescription": "The House of the Unconventional, where wine-making is wine-reinventing.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "Acid Grotesk 400 normal",
+   "Acid Grotesk 500 normal",
+   "Wulkan Display 400 normal"
+  ],
+  "families": [
+   [
+    "Acid Grotesk",
+    8
+   ],
+   [
+    "Wulkan Display",
+    1
+   ]
+  ],
+  "sizes": [
+   [
+    "64px",
+    3
+   ],
+   [
+    "18px",
+    3
+   ],
+   [
+    "105px",
+    2
+   ],
+   [
+    "15px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    5
+   ],
+   [
+    "500",
+    4
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    9
+   ]
+  ],
+  "uppercaseShare": 0.11,
+  "largest": [
+   {
+    "tag": "div",
+    "text": "PASQUA WINES",
+    "family": "Acid Grotesk",
+    "size": "105px",
+    "weight": "400",
+    "lh": "105px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(187, 187, 173)"
+   },
+   {
+    "tag": "i",
+    "text": "PRESENTS",
+    "family": "Wulkan Display",
+    "size": "105px",
+    "weight": "400",
+    "lh": "105px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(187, 187, 173)"
+   },
+   {
+    "tag": "div",
+    "text": "ICONS",
+    "family": "Acid Grotesk",
+    "size": "63.75px",
+    "weight": "400",
+    "lh": "63.75px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "div",
+    "text": "PASQUA",
+    "family": "Acid Grotesk",
+    "size": "63.75px",
+    "weight": "400",
+    "lh": "63.75px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "div",
+    "text": "FAMIGLIA PASQUA",
+    "family": "Acid Grotesk",
+    "size": "63.75px",
+    "weight": "400",
+    "lh": "63.75px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "span",
+    "text": "CONFEZIONI",
+    "family": "Acid Grotesk",
+    "size": "18px",
+    "weight": "500",
+    "lh": "22.5px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "span",
+    "text": "DIGITAL TASTING",
+    "family": "Acid Grotesk",
+    "size": "18px",
+    "weight": "500",
+    "lh": "22.5px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "span",
+    "text": "I NOSTRI VINI",
+    "family": "Acid Grotesk",
+    "size": "18px",
+    "weight": "500",
+    "lh": "22.5px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "span",
+    "text": "START THE EXPERIENCE",
+    "family": "Acid Grotesk",
+    "size": "15px",
+    "weight": "500",
+    "lh": "15px",
+    "ls": "normal",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(187, 187, 173)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(0, 0, 0)",
+    7
+   ],
+   [
+    "rgb(187, 187, 173)",
+    2
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(92, 98, 28)",
+    2
+   ],
+   [
+    "rgb(131, 126, 110)",
+    1
+   ],
+   [
+    "rgb(111, 111, 73)",
+    1
+   ],
+   [
+    "rgb(187, 187, 173)",
+    1
+   ],
+   [
+    "rgb(31, 27, 3)",
+    1
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(to left, rgb(187, 188, 196), rgb(187, 188, 196) 2px, rgba(0, 0, 0, 0) 2px, rgba(0, 0, 0, 0) 4px, rgb(187, 188, 196) 4px)",
+    2
+   ],
+   [
+    "url(\"https://pasqua.it/images/header-bg-gradient.png\")",
+    1
+   ],
+   [
+    "linear-gradient(90deg, rgb(193, 56, 14) 0px, rgb(193, 56, 14) 0%, rgba(187, 187, 173, 0.5) 0%, rgba(187, 187, 173, 0.5))",
+    1
+   ],
+   [
+    "linear-gradient(90deg, rgb(147, 133, 80) 0px, rgb(147, 133, 80) 0%, rgba(187, 187, 173, 0.5) 0%, rgba(187, 187, 173, 0.5))",
+    1
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.215,0.61,0.355,1)",
+    83
+   ],
+   [
+    "cubic-bezier(0.77,0,0.175,1)",
+    22
+   ]
+  ],
+  "durations": [
+   [
+    "0.75s",
+    47
+   ],
+   [
+    "0.2s",
+    18
+   ],
+   [
+    "0.5s",
+    13
+   ],
+   [
+    "0.4s",
+    12
+   ],
+   [
+    "0.3s",
+    10
+   ],
+   [
+    "1s",
+    6
+   ],
+   [
+    "5000s",
+    2
+   ],
+   [
+    "0.6s",
+    2
+   ],
+   [
+    "1.2s",
+    1
+   ],
+   [
+    "0.05s",
+    1
+   ]
+  ],
+  "keyframes": [
+   "spin",
+   "autofill",
+   "noise",
+   "plyr-progress",
+   "plyr-popup",
+   "plyr-fade-in",
+   "infinite-bounce-data-v-253e5754"
+  ]
+ },
+ "cssVarSample": {
+  "--grid-unit": "32",
+  "--grid-unit-vertical": "18",
+  "--grid-val": "calc(100/var(--grid-unit))",
+  "--grid-val-vertical": "calc(100/var(--grid-unit))"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": true,
+  "webglCanvas": 0,
+  "canvases": 1,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": true,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": true,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 2,
+  "video": 1,
+  "svg": 5,
+  "picture": 2,
+  "iframes": 1
+ },
+ "effects": {
+  "mixBlend": [
+   [
+    "hard-light",
+    4
+   ]
+  ],
+  "backdropFilter": 0,
+  "clipPath": 23,
+  "sticky": 0,
+  "fixed": [
+   "DIV",
+   "app-header header",
+   "shop-navigator",
+   "manifesto",
+   "app-cursor cursor"
+  ],
+  "customCursor": true,
+  "boxShadows": [],
+  "filters": [
+   [
+    "grayscale(0)",
+    1
+   ]
+  ],
+  "transforms3d": 0,
+  "noiseOrGrain": true,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "30px",
+   1
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgb(0, 0, 0)",
+   1
+  ]
+ ],
+ "grids": [],
+ "containers": [],
+ "sideMargins": [
+  [
+   "354px",
+   1
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "rooms",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "manifesto",
+   "h": 720,
+   "padTop": "0px",
+   "bg": "rgb(31, 27, 3)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "fixed",
+  "height": 99,
+  "links": 43,
+  "linkTexts": [
+   "Vision",
+   "Roots",
+   "Wines",
+   "Special Projects",
+   "House of Smith",
+   "Sangue d'Oro",
+   "Experiences",
+   "Journal",
+   "Trade",
+   "Portfolio",
+   "Contact",
+   "SHOP",
+   "IG",
+   "FB"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "PLEASE WAIT START THE EXPERIENCE",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "30px",
+   "pad": "6.75px 36px",
+   "size": "15px",
+   "weight": "500",
+   "tt": "uppercase",
+   "border": "1px solid rgb(0, 0, 0)",
+   "h": 31
+  }
+ ],
+ "headings": [
+  "HOUSE OF THEUNCONVENTIONAL",
+  "PASQUA WINES PRESENTS",
+  "Rotateyour device"
+ ],
+ "paras": [
+  "for a better browsing experience."
+ ],
+ "footer": null,
+ "jsMotion": {
+  "scriptsFetched": 21,
+  "gsapEases": [
+   [
+    "power2.out",
+    10
+   ],
+   [
+    "expo.inOut",
+    8
+   ],
+   [
+    "power2.inOut",
+    8
+   ],
+   [
+    "power3.inOut",
+    4
+   ],
+   [
+    "none",
+    2
+   ],
+   [
+    "linear",
+    2
+   ],
+   [
+    "power1.inOut",
+    2
+   ]
+  ],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    ".6",
+    12
+   ],
+   [
+    "1.2",
+    10
+   ],
+   [
+    ".8",
+    6
+   ],
+   [
+    "1",
+    4
+   ],
+   [
+    ".5",
+    4
+   ],
+   [
+    "0",
+    3
+   ],
+   [
+    "8",
+    2
+   ],
+   [
+    ".4",
+    2
+   ],
+   [
+    "3.5",
+    2
+   ]
+  ],
+  "staggers": [
+   [
+    ".05",
+    4
+   ]
+  ],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

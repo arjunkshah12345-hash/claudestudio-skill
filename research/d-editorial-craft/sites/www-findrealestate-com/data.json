@@ -1,0 +1,969 @@
+{
+ "url": "https://www.findrealestate.com",
+ "slug": "www-findrealestate-com",
+ "analyzedAt": "2026-10-07T05:19:51.416Z",
+ "scrollHeight": 15838,
+ "pageLengthInViewports": 17.6,
+ "title": "FIND Real Estate | Purchase, Rent or Sell Commercial and Residential Real Estate",
+ "metaDescription": "FIND is an agent-owned real estate brokerage helping you buy, sell or rent in New York, New Jersey, Philadelphia, Connecticut and Miami.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "Instrument Sans 400 700 normal",
+   "Instrument Sans Fallback normal normal",
+   "Lora 400 700 normal"
+  ],
+  "families": [
+   [
+    "Instrument Sans",
+    192
+   ],
+   [
+    "Lora",
+    10
+   ]
+  ],
+  "sizes": [
+   [
+    "14px",
+    31
+   ],
+   [
+    "15px",
+    25
+   ],
+   [
+    "11px",
+    25
+   ],
+   [
+    "24px",
+    21
+   ],
+   [
+    "12px",
+    19
+   ],
+   [
+    "54px",
+    16
+   ],
+   [
+    "33px",
+    16
+   ],
+   [
+    "18px",
+    15
+   ],
+   [
+    "9px",
+    10
+   ],
+   [
+    "20px",
+    7
+   ],
+   [
+    "42px",
+    5
+   ],
+   [
+    "105px",
+    4
+   ],
+   [
+    "30px",
+    3
+   ],
+   [
+    "180px",
+    3
+   ],
+   [
+    "60px",
+    2
+   ]
+  ],
+  "weights": [
+   [
+    "500",
+    119
+   ],
+   [
+    "400",
+    48
+   ],
+   [
+    "600",
+    31
+   ],
+   [
+    "700",
+    4
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    131
+   ],
+   [
+    "-0.010em@24",
+    12
+   ],
+   [
+    "-0.040em@54",
+    12
+   ],
+   [
+    "-0.020em@33",
+    10
+   ],
+   [
+    "-0.030em@33",
+    6
+   ],
+   [
+    "-0.030em@42",
+    5
+   ],
+   [
+    "-0.020em@24",
+    5
+   ],
+   [
+    "-0.020em@105",
+    4
+   ],
+   [
+    "-0.010em@18",
+    3
+   ],
+   [
+    "-0.050em@180",
+    3
+   ],
+   [
+    "-0.003em@24",
+    2
+   ],
+   [
+    "-0.030em@54",
+    2
+   ],
+   [
+    "-0.030em@24",
+    2
+   ],
+   [
+    "-0.040em@60",
+    2
+   ],
+   [
+    "-0.010em@54",
+    2
+   ]
+  ],
+  "uppercaseShare": 0.03,
+  "largest": [
+   {
+    "tag": "span",
+    "text": "Buy",
+    "family": "Instrument Sans",
+    "size": "180px",
+    "weight": "400",
+    "lh": "171px",
+    "ls": "-9px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "Sell",
+    "family": "Instrument Sans",
+    "size": "180px",
+    "weight": "400",
+    "lh": "171px",
+    "ls": "-9px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "Rent",
+    "family": "Instrument Sans",
+    "size": "180px",
+    "weight": "400",
+    "lh": "171px",
+    "ls": "-9px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "div",
+    "text": "Find",
+    "family": "Instrument Sans",
+    "size": "105px",
+    "weight": "700",
+    "lh": "105px",
+    "ls": "-2.1px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "div",
+    "text": "What",
+    "family": "Instrument Sans",
+    "size": "105px",
+    "weight": "700",
+    "lh": "105px",
+    "ls": "-2.1px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "div",
+    "text": "Moves",
+    "family": "Instrument Sans",
+    "size": "105px",
+    "weight": "700",
+    "lh": "105px",
+    "ls": "-2.1px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "div",
+    "text": "You",
+    "family": "Instrument Sans",
+    "size": "105px",
+    "weight": "700",
+    "lh": "105px",
+    "ls": "-2.1px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "div",
+    "text": "Blog &",
+    "family": "Instrument Sans",
+    "size": "60px",
+    "weight": "500",
+    "lh": "60px",
+    "ls": "-2.4px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "span",
+    "text": "Resources",
+    "family": "Instrument Sans",
+    "size": "60px",
+    "weight": "500",
+    "lh": "60px",
+    "ls": "-2.4px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(179, 179, 179)"
+   },
+   {
+    "tag": "h2",
+    "text": "This isn’t just about real estate.",
+    "family": "Instrument Sans",
+    "size": "54px",
+    "weight": "500",
+    "lh": "54px",
+    "ls": "-2.16px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "span",
+    "text": "about real estate.",
+    "family": "Instrument Sans",
+    "size": "54px",
+    "weight": "500",
+    "lh": "54px",
+    "ls": "-2.16px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(179, 179, 179)"
+   },
+   {
+    "tag": "div",
+    "text": "Real Estate,",
+    "family": "Instrument Sans",
+    "size": "54px",
+    "weight": "500",
+    "lh": "54px",
+    "ls": "-2.16px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgba(0, 0, 0, 0)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(21, 23, 23)",
+    67
+   ],
+   [
+    "rgb(0, 0, 0)",
+    48
+   ],
+   [
+    "rgb(255, 255, 255)",
+    44
+   ],
+   [
+    "rgba(255, 255, 255, 0.4)",
+    18
+   ],
+   [
+    "rgb(179, 179, 179)",
+    14
+   ],
+   [
+    "rgb(156, 156, 156)",
+    9
+   ],
+   [
+    "rgba(21, 23, 23, 0.5)",
+    1
+   ],
+   [
+    "rgba(255, 255, 255, 0.7)",
+    1
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(255, 255, 255)",
+    21
+   ],
+   [
+    "rgb(241, 241, 241)",
+    14
+   ],
+   [
+    "rgb(21, 23, 23)",
+    9
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(rgba(255, 255, 255, 0), rgb(255, 255, 255))",
+    1
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.16,1,0.3,1)",
+    23
+   ],
+   [
+    "cubic-bezier(0.34,3.56,0.64,1)",
+    3
+   ],
+   [
+    "cubic-bezier(0.34,5.56,0.64,1)",
+    2
+   ],
+   [
+    "cubic-bezier(0.5,1,0.89,1)",
+    2
+   ],
+   [
+    "cubic-bezier(0.3,0.8,0.3,1)",
+    1
+   ],
+   [
+    "cubic-bezier(0.4,0,0.2,1)",
+    1
+   ],
+   [
+    "cubic-bezier(0.34,2.56,0.64,1)",
+    1
+   ]
+  ],
+  "durations": [
+   [
+    "0.3s",
+    24
+   ],
+   [
+    "1s",
+    10
+   ],
+   [
+    "0.4s",
+    8
+   ],
+   [
+    "0.15s",
+    7
+   ],
+   [
+    "0.7s",
+    6
+   ],
+   [
+    "0.2s",
+    5
+   ],
+   [
+    "0.9s",
+    5
+   ],
+   [
+    "0.5s",
+    3
+   ],
+   [
+    "0.85s",
+    2
+   ],
+   [
+    "0.75s",
+    2
+   ]
+  ],
+  "keyframes": [
+   "app-tooltip_appear__uwULo",
+   "skeleton_skeleton-pulse__DdvlB",
+   "agent-join-modal_slideDown__e4uyC",
+   "agent-join-modal_slideUp__xI_aK",
+   "agent-join-modal_overlayShow__K1dY2",
+   "agent-join-modal_contentShow__0G70k",
+   "drop-menu_appear__iEaKs",
+   "burger-menu_slideDown__ReXzg",
+   "burger-menu_slideUp__L9EMs",
+   "loading-line_youtubeLoading__zpf5Y",
+   "loading-line_youtubeLoadingSlow__nR50v",
+   "loading-line_youtubeCompleting__31EzQ",
+   "find-properties-modal_slideDown__8m2_b",
+   "find-properties-modal_slideUp__OqMUQ",
+   "find-properties-modal_overlayShow__AJ0ph",
+   "find-properties-modal_contentShow__8JsZO",
+   "swiper-preloader-spin",
+   "contact-us-modal_slideDown__lVYgV",
+   "contact-us-modal_slideUp__7zyfW",
+   "contact-us-modal_overlayShow__LNgm0"
+  ]
+ },
+ "cssVarSample": {
+  "--full-width": "calc(100vw + var(--scrollbar-width, 0px))",
+  "--swiper-theme-color": "#007aff"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": true,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": true,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 51,
+  "video": 1,
+  "svg": 28,
+  "picture": 0,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 0,
+  "clipPath": 3,
+  "sticky": 2,
+  "fixed": [
+   "DIV"
+  ],
+  "customCursor": false,
+  "boxShadows": [],
+  "filters": [],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "100px",
+   15
+  ],
+  [
+   "12px",
+   12
+  ],
+  [
+   "999px",
+   1
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgba(21, 23, 23, 0.15)",
+   12
+  ],
+  [
+   "1px solid rgba(0, 0, 0, 0)",
+   8
+  ],
+  [
+   "1px solid rgb(179, 179, 179)",
+   4
+  ],
+  [
+   "1px solid rgba(255, 255, 255, 0.5)",
+   4
+  ],
+  [
+   "1px solid rgb(237, 237, 237)",
+   3
+  ],
+  [
+   "1px solid rgb(56, 58, 58)",
+   3
+  ]
+ ],
+ "grids": [
+  [
+   "1cols gap normal",
+   16
+  ],
+  [
+   "2cols gap normal",
+   3
+  ],
+  [
+   "4cols gap 15px",
+   3
+  ],
+  [
+   "3cols gap 45px",
+   3
+  ],
+  [
+   "1cols gap 11.25px",
+   3
+  ],
+  [
+   "2cols gap 22.5px",
+   3
+  ],
+  [
+   "2cols gap 30px",
+   2
+  ],
+  [
+   "3cols gap normal",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "1920px",
+   17
+  ]
+ ],
+ "sideMargins": [
+  [
+   "75px",
+   20
+  ],
+  [
+   "91px",
+   12
+  ],
+  [
+   "417px",
+   12
+  ],
+  [
+   "744px",
+   12
+  ],
+  [
+   "1070px",
+   12
+  ],
+  [
+   "633px",
+   3
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "hero_root__N0Loz",
+   "h": 4500,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "why-us_root__aGsFp",
+   "h": 1225,
+   "padTop": "112.5px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "listing-discovery_home__TRCXV",
+   "h": 2510,
+   "padTop": "30px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "listing-discovery_row__jcdo5",
+   "h": 840,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "listings-disclaimer_disclaimer__CC5EA",
+   "h": 174,
+   "padTop": "30px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "listing-discovery_row__jcdo5",
+   "h": 817,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "listings-disclaimer_disclaimer__CC5EA",
+   "h": 174,
+   "padTop": "30px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "listing-discovery_row__jcdo5",
+   "h": 657,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "listings-disclaimer_disclaimer__CC5EA",
+   "h": 174,
+   "padTop": "30px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "arrows-section_root__yyPBl",
+   "h": 823,
+   "padTop": "112.5px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "arrows-section_title__a4gyt",
+   "h": 54,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "arrows-section_arrows__BPayV",
+   "h": 330,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "arrows-section_arrow___KXxg",
+   "h": 330,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "arrows-section_arrow___KXxg",
+   "h": 330,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "arrows-section_arrow___KXxg",
+   "h": 330,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "arrows-section_arrow___KXxg",
+   "h": 330,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "arrows-section_text__Z1Oii",
+   "h": 94,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "",
+   "h": 645,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "",
+   "h": 1247,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "testimonials_root__PiYLZ",
+   "h": 870,
+   "padTop": "112.5px",
+   "bg": "rgb(241, 241, 241)"
+  },
+  {
+   "cls": "services_root__Ch_WM",
+   "h": 1547,
+   "padTop": "112.5px",
+   "bg": "rgb(21, 23, 23)"
+  },
+  {
+   "cls": "features_root__CCic6",
+   "h": 815,
+   "padTop": "112.5px",
+   "bg": "rgb(21, 23, 23)"
+  },
+  {
+   "cls": "latest-posts_root__W0OHF",
+   "h": 1588,
+   "padTop": "112.5px",
+   "bg": "rgb(241, 241, 241)"
+  },
+  {
+   "cls": "outro_root__stMHm",
+   "h": 675,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "sticky",
+  "height": 59,
+  "links": 11,
+  "linkTexts": [
+   "Search",
+   "Neighborhoods",
+   "Agents",
+   "BETA",
+   "Sign In",
+   "Search",
+   "Neighborhoods",
+   "Agents",
+   "Sign In",
+   "Beta: new agent platform"
+  ],
+  "bg": "rgb(255, 255, 255)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "BETA",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(21, 23, 23)",
+   "radius": "999px",
+   "pad": "2.25px 6.75px",
+   "size": "9px",
+   "weight": "600",
+   "tt": "uppercase",
+   "border": "1px solid rgb(21, 23, 23)",
+   "h": 18
+  },
+  {
+   "text": "Sign In",
+   "bg": "rgb(21, 23, 23)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "100px",
+   "pad": "11.55px 22.5px",
+   "size": "15px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 44
+  },
+  {
+   "text": "Sign In",
+   "bg": "rgb(21, 23, 23)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "100px",
+   "pad": "11.55px 22.5px",
+   "size": "13.5px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 44
+  },
+  {
+   "text": "Find Properties",
+   "bg": "rgb(21, 23, 23)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "100px",
+   "pad": "11.55px 22.5px",
+   "size": "13.5px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 40
+  },
+  {
+   "text": "Start Your Search",
+   "bg": "rgb(21, 23, 23)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "100px",
+   "pad": "11.55px 22.5px",
+   "size": "13.5px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 44
+  },
+  {
+   "text": "Join The Movement",
+   "bg": "rgb(21, 23, 23)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "100px",
+   "pad": "11.55px 22.5px",
+   "size": "13.5px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 44
+  },
+  {
+   "text": "Get Started with FIND",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "100px",
+   "pad": "11.55px 22.5px",
+   "size": "13.5px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid rgba(255, 255, 255, 0.5)",
+   "h": 44
+  },
+  {
+   "text": "Discover Our Services",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(21, 23, 23)",
+   "radius": "100px",
+   "pad": "11.55px 22.5px",
+   "size": "13.5px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 44
+  },
+  {
+   "text": "Learn More",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "100px",
+   "pad": "11.55px 22.5px",
+   "size": "13.5px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid rgba(255, 255, 255, 0.5)",
+   "h": 44
+  },
+  {
+   "text": "Learn More",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "100px",
+   "pad": "11.55px 22.5px",
+   "size": "13.5px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid rgba(255, 255, 255, 0.5)",
+   "h": 44
+  }
+ ],
+ "headings": [
+  "Find What Moves You",
+  "Why FIND",
+  "Homes in Williamsburg",
+  "480 Kent Avenue, Apt 16E, Brooklyn, NY 11249",
+  "75 South 9th Street, Apt Building, Brooklyn, NY 11249",
+  "339 Bedford Avenue, Apt 30, Brooklyn, NY 11211",
+  "373 South 4th Street, Apt 10, Brooklyn, NY 11211",
+  "Homes in Astoria",
+  "30-55 Vernon Boulevard, Apt 7J, Queens, NY 11102",
+  "33-64 21st Street, Apt 6-C, Astoria, NY 11106",
+  "3514 30th Avenue, Astoria, NY 11103",
+  "2540 Shore Boulevard, Apt 20-N, Astoria, NY 11102",
+  "Homes in Chelsea",
+  "255 West 14th Street, Apt 2E, New York, NY 10011",
+  "221 West 14th Street, Apt 1B, New York, NY 10011",
+  "315 West 33rd Street, Apt 20J, New York, NY 10001",
+  "315 West 33rd Street, Apt 35A, New York, NY 10001",
+  "This isn’t just about real estate.",
+  "Real Estate, Rewired.",
+  "Don’t Take Our Word for It.",
+  "How FIND Can Help You",
+  "Buy smarter with expert agents backed by mortgage, legal, and appraisal pros—dialed in to get you the best deal, fast. We’ve done this over 10,000 times, and we know what wins.",
+  "Sell fast, sell high. Your listing gets pro staging, strategic pricing, constant open houses, and agents who never stop working until the right buyer signs.",
+  "Access hidden rentals before they hit the market through agents who know every landlord in town. With decades of NYC experience, we unlock the best deals you won’t find online.",
+  "Support Beyond Buying and Selling"
+ ],
+ "paras": [
+  "Expert agents. Real guidance. A clear path to find what’s next.",
+  "Listing information for certain New York City properties is provided courtesy of the Real Estate Board of New York's Residential Listing Service (the \"RLS\"). This information is not verified for authenticity or accuracy,",
+  "The data relating to real estate for sale on this website also comes in part from the IDX Program of OneKey® MLS. Information Copyright 2026, OneKey® MLS. All data is deemed reliable but is not guaranteed accurate.",
+  "All listing information provided here is exclusively for consumers' personal, non-commercial use, and may not be used for any purpose other than to identify prospective properties consumers may be interested in purchasin",
+  "Listing information for certain New York City properties is provided courtesy of the Real Estate Board of New York's Residential Listing Service (the \"RLS\"). This information is not verified for authenticity or accuracy,",
+  "The data relating to real estate for sale on this website also comes in part from the IDX Program of OneKey® MLS. Information Copyright 2026, OneKey® MLS. All data is deemed reliable but is not guaranteed accurate.",
+  "All listing information provided here is exclusively for consumers' personal, non-commercial use, and may not be used for any purpose other than to identify prospective properties consumers may be interested in purchasin",
+  "Listing information for certain New York City properties is provided courtesy of the Real Estate Board of New York's Residential Listing Service (the \"RLS\"). This information is not verified for authenticity or accuracy,",
+  "The data relating to real estate for sale on this website also comes in part from the IDX Program of OneKey® MLS. Information Copyright 2026, OneKey® MLS. All data is deemed reliable but is not guaranteed accurate.",
+  "All listing information provided here is exclusively for consumers' personal, non-commercial use, and may not be used for any purpose other than to identify prospective properties consumers may be interested in purchasin"
+ ],
+ "footer": null,
+ "jsMotion": {
+  "scriptsFetched": 7,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [],
+  "staggers": [],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

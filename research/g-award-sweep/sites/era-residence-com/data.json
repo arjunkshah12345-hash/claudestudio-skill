@@ -1,0 +1,774 @@
+{
+ "url": "https://era-residence.com",
+ "slug": "era-residence-com",
+ "analyzedAt": "2026-10-07T05:25:15.615Z",
+ "scrollHeight": 24605,
+ "pageLengthInViewports": 27.3,
+ "title": "ERA Residence — Contemporary Mediterranean Residences in Estepona",
+ "metaDescription": "Boutique residences on the New Golden Mile combining contemporary architecture, natural materials and resort-style living near Marbella and Estepona.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "Maison Neue Extended 400 normal",
+   "Maison Neue Extended 700 normal",
+   "ambroise-francois-std 400 normal",
+   "sloop-script-three 400 normal"
+  ],
+  "families": [
+   [
+    "Maison Neue Extended",
+    230
+   ],
+   [
+    "ambroise-francois-std",
+    112
+   ],
+   [
+    "sloop-script-three",
+    1
+   ]
+  ],
+  "sizes": [
+   [
+    "12px",
+    119
+   ],
+   [
+    "10px",
+    101
+   ],
+   [
+    "36px",
+    73
+   ],
+   [
+    "57px",
+    39
+   ],
+   [
+    "8px",
+    10
+   ],
+   [
+    "173px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    246
+   ],
+   [
+    "700",
+    97
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "-0.024em@12",
+    119
+   ],
+   [
+    "0.048em@10",
+    101
+   ],
+   [
+    "-0.008em@36",
+    73
+   ],
+   [
+    "-0.016em@57",
+    39
+   ],
+   [
+    "0.320em@8",
+    10
+   ],
+   [
+    "normal",
+    1
+   ]
+  ],
+  "uppercaseShare": 0.65,
+  "largest": [
+   {
+    "tag": "div",
+    "text": "Cookies",
+    "family": "sloop-script-three",
+    "size": "172.8px",
+    "weight": "400",
+    "lh": "172.8px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(23, 35, 59)"
+   },
+   {
+    "tag": "textpath",
+    "text": "",
+    "family": "ambroise-francois-std",
+    "size": "56.7px",
+    "weight": "400",
+    "lh": "49.896px",
+    "ls": "-0.9072px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(23, 35, 59)"
+   },
+   {
+    "tag": "span",
+    "text": "ERA",
+    "family": "ambroise-francois-std",
+    "size": "56.7px",
+    "weight": "400",
+    "lh": "49.896px",
+    "ls": "-0.9072px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(23, 35, 59)"
+   },
+   {
+    "tag": "span",
+    "text": "RESIDENCES",
+    "family": "ambroise-francois-std",
+    "size": "56.7px",
+    "weight": "400",
+    "lh": "49.896px",
+    "ls": "-0.9072px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(23, 35, 59)"
+   },
+   {
+    "tag": "span",
+    "text": "IS",
+    "family": "ambroise-francois-std",
+    "size": "56.7px",
+    "weight": "400",
+    "lh": "49.896px",
+    "ls": "-0.9072px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(23, 35, 59)"
+   },
+   {
+    "tag": "span",
+    "text": "BOUTIQUE",
+    "family": "ambroise-francois-std",
+    "size": "56.7px",
+    "weight": "400",
+    "lh": "49.896px",
+    "ls": "-0.9072px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(23, 35, 59)"
+   },
+   {
+    "tag": "span",
+    "text": "GATED",
+    "family": "ambroise-francois-std",
+    "size": "56.7px",
+    "weight": "400",
+    "lh": "49.896px",
+    "ls": "-0.9072px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(23, 35, 59)"
+   },
+   {
+    "tag": "span",
+    "text": "COMMUNITY",
+    "family": "ambroise-francois-std",
+    "size": "56.7px",
+    "weight": "400",
+    "lh": "49.896px",
+    "ls": "-0.9072px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(23, 35, 59)"
+   },
+   {
+    "tag": "span",
+    "text": "OF",
+    "family": "ambroise-francois-std",
+    "size": "56.7px",
+    "weight": "400",
+    "lh": "49.896px",
+    "ls": "-0.9072px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(23, 35, 59)"
+   },
+   {
+    "tag": "span",
+    "text": "ONLY",
+    "family": "ambroise-francois-std",
+    "size": "56.7px",
+    "weight": "400",
+    "lh": "49.896px",
+    "ls": "-0.9072px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(23, 35, 59)"
+   },
+   {
+    "tag": "span",
+    "text": "25",
+    "family": "ambroise-francois-std",
+    "size": "56.7px",
+    "weight": "400",
+    "lh": "49.896px",
+    "ls": "-0.9072px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(23, 35, 59)"
+   },
+   {
+    "tag": "span",
+    "text": "RESIDENCES,",
+    "family": "ambroise-francois-std",
+    "size": "56.7px",
+    "weight": "400",
+    "lh": "49.896px",
+    "ls": "-0.9072px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(23, 35, 59)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgba(0, 0, 0, 0)",
+  "htmlBg": "rgb(243, 243, 236)",
+  "text": [
+   [
+    "rgb(23, 35, 59)",
+    229
+   ],
+   [
+    "rgb(255, 255, 255)",
+    102
+   ],
+   [
+    "rgb(243, 243, 236)",
+    12
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(23, 35, 59)",
+    10
+   ],
+   [
+    "rgb(243, 243, 236)",
+    8
+   ],
+   [
+    "rgb(255, 255, 255)",
+    8
+   ],
+   [
+    "rgb(52, 12, 36)",
+    7
+   ],
+   [
+    "rgb(181, 206, 219)",
+    6
+   ],
+   [
+    "rgba(23, 35, 59, 0.1)",
+    3
+   ],
+   [
+    "rgba(243, 243, 236, 0.1)",
+    1
+   ],
+   [
+    "rgba(255, 255, 255, 0.2)",
+    1
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.3))",
+    14
+   ],
+   [
+    "linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0))",
+    7
+   ],
+   [
+    "linear-gradient(rgb(243, 243, 236), rgba(243, 243, 236, 0))",
+    2
+   ],
+   [
+    "linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, rgb(255, 255, 255) 50%, rgba(255, 255, 255, 0) 100%)",
+    1
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.76,0,0.24,1)",
+    1
+   ],
+   [
+    "cubic-bezier(0.25,1,0.5,1)",
+    1
+   ],
+   [
+    "cubic-bezier(0.5,0,0.75,0)",
+    1
+   ],
+   [
+    "cubic-bezier(0.25,0.1,0.25,1)",
+    1
+   ],
+   [
+    "cubic-bezier(0.333,0,0.667,1)",
+    1
+   ]
+  ],
+  "durations": [
+   [
+    "32s",
+    2
+   ],
+   [
+    "0.1s",
+    1
+   ],
+   [
+    "0.3s",
+    1
+   ],
+   [
+    "0.8s",
+    1
+   ]
+  ],
+  "keyframes": [
+   "spin",
+   "marquee"
+  ]
+ },
+ "cssVarSample": {
+  "--_fonts---font-body": "\"Maison Neue Extended\",Arial,sans-serif",
+  "--_colors---base-1000--primary": "var(--_global-colors---base-1000--100)",
+  "--_fonts---font-display": "ambroise-francois-std,sans-serif",
+  "--_fonts---h1--size": "calc(192rem/var(--_special-units---scale-ratio))",
+  "--_fonts---h1--line-height": "87.5%",
+  "--_fonts---h1--letter-spacing": "-.024em",
+  "--_fonts---h2--size": "calc(136rem/var(--_special-units---scale-ratio))",
+  "--_fonts---h2--line-height": "88.235%",
+  "--_fonts---h2--letter-spacing": "-.024em",
+  "--_fonts---h3--size": "calc(96rem/var(--_special-units---scale-ratio))",
+  "--_fonts---h3--line-height": "91.667%",
+  "--_fonts---h3--letter-spacing": "-.024em",
+  "--_fonts---h4--size": "calc(63rem/var(--_special-units---scale-ratio))",
+  "--_fonts---h4--line-height": "88.889%",
+  "--_fonts---h4--letter-spacing": "-.016em",
+  "--_fonts---h5--size": "calc(40rem/var(--_special-units---scale-ratio))",
+  "--_fonts---h5--line-height": "100%",
+  "--_fonts---h5--letter-spacing": "-.008em",
+  "--_fonts---h6--size": "calc(28rem/var(--_special-units---scale-ratio))",
+  "--_fonts---h6--line-height": "100%",
+  "--_fonts---h6--letter-spacing": "0em",
+  "--_fonts---p1--size": "calc(13rem/var(--_special-units---scale-ratio))",
+  "--_fonts---p1--line-height": "138.462%",
+  "--_fonts---p1--letter-spacing": "-.024em",
+  "--_units---u-0": "var(--0px)",
+  "--_special-units---100vh": "100vh",
+  "--_colors---other--bg": "var(--_global-colors---base-0--100)",
+  "--_special-units---offset-r": "var(--48px)",
+  "--_special-units---offset-l": "var(--48px)",
+  "--_special-units---grid-gap": "var(--16px)",
+  "--_units---u-4": "var(--4px)",
+  "--_units---u-8": "var(--8px)",
+  "--_units---u-12": "var(--12px)",
+  "--_units---u-16": "var(--16px)",
+  "--_units---u-24": "var(--24px)",
+  "--_units---u-32": "var(--32px)",
+  "--_units---u-48": "var(--48px)",
+  "--_units---u-64": "var(--64px)",
+  "--_units---u-96": "var(--96px)",
+  "--_units---u-160": "var(--160px)",
+  "--_colors---base-0--primary": "var(--_global-colors---base-0--100)",
+  "--_colors---base-1000--gray-text": "var(--_global-colors---base-1000--60)",
+  "--_colors---additional--success": "#1ba64b",
+  "--_colors---additional--alert": "#ffa800",
+  "--_colors---additional--error": "#e23d3d",
+  "--_units---u-272": "var(--272px)",
+  "--_fonts---l1--size": "calc(11rem/var(--_special-units---scale-ratio))",
+  "--_fonts---l1--line-height": "145.455%",
+  "--_fonts---l1--letter-spacing": ".048em",
+  "--_colors---other--transparent": "transparent",
+  "--_colors---base-1000--line": "var(--_global-colors---base-1000--10)",
+  "--40px": "calc(40rem/var(--_special-units---scale-ratio))",
+  "--112px": "calc(112rem/var(--_special-units---scale-ratio))",
+  "--_colors---base-1000--disabled": "var(--_global-colors---base-1000--30)",
+  "--_colors---brand-500--primary<deleted|variable-91ff398b-1b86-c83e-9325-f542c634d71f>": "var(--_global-colors---brand-500--powder-sky)",
+  "--_fonts---p2--size": "calc(11rem/var(--_special-units---scale-ratio))",
+  "--_fonts---p2--line-height": "145.455%",
+  "--_fonts---p2--letter-spacing": "-.024em",
+  "--_fonts---l2--size": "calc(9rem/var(--_special-units---scale-ratio))",
+  "--_fonts---l2--line-height": "133.333%",
+  "--_fonts---l2--letter-spacing": ".32em",
+  "--_fonts---c1--size": "calc(25rem/var(--_special-units---scale-ratio))",
+  "--_fonts---c1--line-height": "112%",
+  "--_fonts---c1--letter-spacing": ".8em",
+  "--_fonts---font-accent": "sloop-script-three,sans-serif",
+  "--_fonts---a1--size": "calc(192rem/var(--_special-units---scale-ratio))",
+  "--_fonts---a1--line-height": "100%",
+  "--_fonts---a1--letter-spacing": "0em",
+  "--_fonts---a2--size": "calc(120rem/var(--_special-units---scale-ratio))",
+  "--_fonts---a2--line-height": "100%"
+ },
+ "libs": {
+  "gsap": true,
+  "scrollTrigger": true,
+  "lenis": true,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": true,
+  "swup": false,
+  "framer": false,
+  "webflow": true,
+  "next": false,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": true,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 41,
+  "video": 8,
+  "svg": 86,
+  "picture": 0,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 0,
+  "clipPath": 38,
+  "sticky": 5,
+  "fixed": [
+   "cookies",
+   "header-logo w-inline-block theme_on-color",
+   "header-nav theme_on-color",
+   "s-bar-w theme_on-dark",
+   "floating-tips w-dyn-list",
+   "floating-tips w-dyn-list",
+   "modal show w-dyn-list"
+  ],
+  "customCursor": false,
+  "boxShadows": [
+   [
+    "rgba(0, 0, 0, 0) 0px 224px 63px 0px, rgba(0, 0, 0, 0.01) 0px 143px 57px 0px, rgba(0, 0, 0, 0.04) 0px 81px 48px 0px, rgba(0, 0, 0, 0.07) 0px 36px 36px 0px, rgba(0, 0, 0, 0.08) 0px 9px 20px 0px",
+    1
+   ]
+  ],
+  "filters": [],
+  "transforms3d": 51,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "2px",
+   6
+  ],
+  [
+   "50%",
+   3
+  ],
+  [
+   "720px 720px 0px 0px",
+   2
+  ],
+  [
+   "3.6px",
+   1
+  ],
+  [
+   "36px",
+   1
+  ],
+  [
+   "100%",
+   1
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgb(23, 35, 59)",
+   1
+  ]
+ ],
+ "grids": [
+  [
+   "10cols gap 14.4px",
+   39
+  ],
+  [
+   "8cols gap 14.4px",
+   9
+  ],
+  [
+   "6cols gap 14.4px",
+   4
+  ],
+  [
+   "4cols gap 14.4px",
+   3
+  ],
+  [
+   "5cols gap 14.4px",
+   2
+  ],
+  [
+   "13cols gap 14.4px",
+   1
+  ]
+ ],
+ "containers": [],
+ "sideMargins": [
+  [
+   "317px",
+   5
+  ],
+  [
+   "634px",
+   4
+  ],
+  [
+   "454px",
+   4
+  ],
+  [
+   "180px",
+   3
+  ],
+  [
+   "1001px",
+   3
+  ],
+  [
+   "-489px",
+   2
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "section clip theme_on-color",
+   "h": 5220,
+   "padTop": "0px",
+   "bg": "rgb(52, 12, 36)"
+  },
+  {
+   "cls": "section arch clip theme_on-brand",
+   "h": 720,
+   "padTop": "0px",
+   "bg": "rgb(181, 206, 219)"
+  },
+  {
+   "cls": "section z-2 theme_on-brand",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgb(181, 206, 219)"
+  },
+  {
+   "cls": "section z-2 theme_on-brand",
+   "h": 1080,
+   "padTop": "0px",
+   "bg": "rgb(181, 206, 219)"
+  },
+  {
+   "cls": "section clip",
+   "h": 4514,
+   "padTop": "0px",
+   "bg": "rgb(243, 243, 236)"
+  },
+  {
+   "cls": "section clip theme_on-color",
+   "h": 1260,
+   "padTop": "0px",
+   "bg": "rgb(52, 12, 36)"
+  },
+  {
+   "cls": "section theme_on-brand",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgb(181, 206, 219)"
+  },
+  {
+   "cls": "section clip theme_on-brand",
+   "h": 855,
+   "padTop": "0px",
+   "bg": "rgb(181, 206, 219)"
+  },
+  {
+   "cls": "amen-scroll-area",
+   "h": 2970,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section clip theme_on-color",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgb(52, 12, 36)"
+  },
+  {
+   "cls": "section arch clip",
+   "h": 2979,
+   "padTop": "0px",
+   "bg": "rgb(243, 243, 236)"
+  },
+  {
+   "cls": "section clip",
+   "h": 3379,
+   "padTop": "0px",
+   "bg": "rgb(243, 243, 236)"
+  },
+  {
+   "cls": "section clip",
+   "h": 818,
+   "padTop": "0px",
+   "bg": "rgb(243, 243, 236)"
+  },
+  {
+   "cls": "section theme_on-color",
+   "h": 1579,
+   "padTop": "0px",
+   "bg": "rgb(52, 12, 36)"
+  },
+  {
+   "cls": "section theme_on-dark",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgb(52, 12, 36)"
+  },
+  {
+   "cls": "floating-tips w-dyn-list",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "floating-tips w-dyn-list",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "modal show w-dyn-list",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": null,
+ "ctas": [],
+ "headings": [
+  "ERA RESIDENCE",
+  "Estepona",
+  "A PLACE BY DAY BY DAY BY NIGHT BY NIGHT TO RETURN TO",
+  "REAL-LIFE LOCATION",
+  "Built to stay",
+  "Boutique concept",
+  "THE CONCEPT",
+  "ERA RESIDENCES IS ABOUTIQUE GATEDCOMMUNITY OF ONLY 25RESIDENCES, DESIGNEDAROUND PRIVACY,WELLBEING AND TIMELESSMEDITERRANEAN LIVING",
+  "NEW GOLDEN MILE",
+  "BETWEEN MARBELLAAND ESTEPONA",
+  "THE COAST YOU WANTED yours THIS YEAR",
+  "NEW GOLDEN MILE,ESTEPONA",
+  "GROUND FLOOR + BASEMENT",
+  "Ground Floor",
+  "Penthouse duplex",
+  "RESIDENCES RANGE FROM104 TO 244 SQ.M., OFFERINGSPACIOUS SINGLE LEVELAND DUPLEX LAYOUTS WITHGENEROUS TERRACES ANDROOFTOP SOLARIUMS.",
+  "GATED COMMUNITY",
+  "Swimming Pool",
+  "Parking area",
+  "Spa & gym",
+  "Landscaping",
+  "THE SPACE TO",
+  "Live in",
+  "ARCHITECTURE",
+  "THE ARCHITECTURE OF ERA RESIDENCES BALANCES CLEAN CONTEMPORARY LINES WITH MEDITERRANEAN WARMTH AND TEXTURE"
+ ],
+ "paras": [
+  "Era ResidenceA place to return to.",
+  "A PLACE TO LIVE — TO RETURNYEAR AFTER YEAR",
+  "Nestled between pristine beaches, world-class golf courses and exclusive wellness clubs, EraResidence offers a rare balance of seclusion and seamless access to the finest Mediterraneanlifestyle.",
+  "DESIGNED AS A COMMUNITY,NOT A COMPLEX",
+  "Drawing on the spirit of Marbella's golden age, the design blends modern architecture with natural materials, lush landscaping and thoughtfully crafted spaces.",
+  "Designed as a community, not a complex",
+  "A boutique gated community of 25 residences on Costa del Sol, designed around privacy, wellbeing and timeless Mediterranean living.",
+  "Designed as a community, not a complex",
+  "Inspired by the atmosphere of Marbella’sgolden era, the project combinescontemporary architecture with warmmaterials, natural landscaping and carefullycurated spaces.",
+  "Surrounded by beaches, golf courses, wellness clubs and establishedlifestyle destinations, the project combines privacy with effortlessconnectivity to everything essential for Mediterranean living. Alocation designed not"
+ ],
+ "footer": null,
+ "jsMotion": {
+  "scriptsFetched": 13,
+  "gsapEases": [
+   [
+    "none",
+    1
+   ],
+   [
+    "expo",
+    1
+   ],
+   [
+    "power4",
+    1
+   ]
+  ],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "0",
+    1
+   ],
+   [
+    ".5",
+    1
+   ]
+  ],
+  "staggers": [
+   [
+    "0",
+    2
+   ]
+  ],
+  "lenis": [
+   [
+    "smoothWheel:i",
+    2
+   ],
+   [
+    "wheelMultiplier:1",
+    1
+   ]
+  ],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

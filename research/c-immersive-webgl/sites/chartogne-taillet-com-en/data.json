@@ -1,0 +1,287 @@
+{
+ "url": "https://chartogne-taillet.com/en",
+ "slug": "chartogne-taillet-com-en",
+ "analyzedAt": "2026-10-07T05:22:15.145Z",
+ "scrollHeight": 900,
+ "pageLengthInViewports": 1,
+ "title": "Chartogne-Taillet",
+ "metaDescription": "In the 7th century, the villages' wine growers, situated in Merfy, drew on the heritage of the Benedictine monks from the abbey of Saint Thierry. Generation after generation, Merfy's wine growers, together with the abbey, shaped the viticultural landscapes of our hillsides, meticulously separating each plot according to its geological origins, soils, subsoils, etc. Names were subsequently inscribed on maps of the village, and these became the ",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [],
+  "families": [],
+  "sizes": [],
+  "weights": [],
+  "letterSpacings": [],
+  "uppercaseShare": 0,
+  "largest": []
+ },
+ "color": {
+  "bodyBg": "rgba(0, 0, 0, 0)",
+  "htmlBg": "rgb(253, 252, 245)",
+  "text": [],
+  "backgrounds": [],
+  "gradients": []
+ },
+ "motion": {
+  "cubicBeziers": [],
+  "durations": [
+   [
+    "0.3s",
+    7
+   ],
+   [
+    "0.6s",
+    7
+   ],
+   [
+    "2s",
+    2
+   ],
+   [
+    "1s",
+    2
+   ],
+   [
+    "0.625s",
+    2
+   ],
+   [
+    "0.45s",
+    1
+   ],
+   [
+    "0.5s",
+    1
+   ]
+  ],
+  "keyframes": []
+ },
+ "cssVarSample": {},
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 0,
+  "video": 0,
+  "svg": 0,
+  "picture": 0,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 0,
+  "clipPath": 0,
+  "sticky": 0,
+  "fixed": [],
+  "customCursor": false,
+  "boxShadows": [],
+  "filters": [],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [],
+ "borders": [],
+ "grids": [],
+ "containers": [],
+ "sideMargins": [],
+ "sections": [],
+ "nav": null,
+ "ctas": [],
+ "headings": [],
+ "paras": [],
+ "footer": null,
+ "jsMotion": {
+  "scriptsFetched": 2,
+  "gsapEases": [
+   [
+    "power1.out",
+    17
+   ],
+   [
+    "back.out(2)",
+    17
+   ],
+   [
+    "power1.inOut",
+    15
+   ],
+   [
+    "power1.in",
+    13
+   ],
+   [
+    "power4.inOut",
+    12
+   ],
+   [
+    "power4.out",
+    9
+   ],
+   [
+    "power3.in",
+    7
+   ],
+   [
+    "linear",
+    6
+   ],
+   [
+    "power2.out",
+    5
+   ],
+   [
+    "none",
+    4
+   ],
+   [
+    "power2.inOut",
+    3
+   ],
+   [
+    "power2.in",
+    3
+   ],
+   [
+    "sine.inOut",
+    1
+   ],
+   [
+    "power3.easeOut",
+    1
+   ],
+   [
+    "power3.easeIn",
+    1
+   ]
+  ],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    ".5",
+    47
+   ],
+   [
+    "3",
+    37
+   ],
+   [
+    "2",
+    29
+   ],
+   [
+    ".3",
+    22
+   ],
+   [
+    "1",
+    16
+   ],
+   [
+    ".25",
+    9
+   ],
+   [
+    "2.5",
+    9
+   ],
+   [
+    "1.5",
+    8
+   ],
+   [
+    "4",
+    7
+   ],
+   [
+    "5",
+    6
+   ],
+   [
+    ".625",
+    6
+   ],
+   [
+    ".15",
+    3
+   ],
+   [
+    ".8",
+    3
+   ],
+   [
+    ".7",
+    2
+   ],
+   [
+    "0",
+    1
+   ]
+  ],
+  "staggers": [
+   [
+    "0",
+    2
+   ],
+   [
+    "{from:\"edges\",amount:.2}",
+    1
+   ]
+  ],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [
+   [
+    "top bottom",
+    2
+   ],
+   [
+    "top 90%",
+    2
+   ],
+   [
+    "middle top",
+    1
+   ],
+   [
+    "top top",
+    1
+   ],
+   [
+    "top 80%",
+    1
+   ],
+   [
+    "top top+=1px",
+    1
+   ]
+  ],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

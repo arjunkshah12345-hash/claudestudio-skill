@@ -1,0 +1,968 @@
+{
+ "url": "https://www.scoutmotors.com",
+ "slug": "www-scoutmotors-com",
+ "analyzedAt": "2026-10-07T05:29:27.910Z",
+ "scrollHeight": 17890,
+ "pageLengthInViewports": 19.9,
+ "title": "Scout Motors",
+ "metaDescription": "We're designing, engineering, and building the next generation of electric trucks and rugged SUVs for the doers, makers, and explorers. The new Scout® Traveler™ and Terra™ models are here, born from the original legend, retooled for a new era.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "scout-sans-regular normal normal",
+   "scout-sans-medium normal normal",
+   "scout-sans-semicond-bold normal normal",
+   "scout-sans-wide-medium normal normal",
+   "scout-ibm-plex-mono 400 normal",
+   "scout-ibm-plex-mono 500 normal",
+   "Source Sans Pro 400 normal"
+  ],
+  "families": [
+   [
+    "scout-ibm-plex-mono",
+    37
+   ],
+   [
+    "scout-sans-regular",
+    27
+   ],
+   [
+    "scout-sans-medium",
+    20
+   ],
+   [
+    "scout-sans-wide-medium",
+    7
+   ],
+   [
+    "Source Sans Pro",
+    4
+   ],
+   [
+    "Arial",
+    3
+   ],
+   [
+    "scout-sans-semicond-bold",
+    2
+   ]
+  ],
+  "sizes": [
+   [
+    "14px",
+    28
+   ],
+   [
+    "11px",
+    12
+   ],
+   [
+    "20px",
+    12
+   ],
+   [
+    "16px",
+    11
+   ],
+   [
+    "10px",
+    10
+   ],
+   [
+    "270px",
+    7
+   ],
+   [
+    "12px",
+    5
+   ],
+   [
+    "0px",
+    5
+   ],
+   [
+    "72px",
+    4
+   ],
+   [
+    "28px",
+    4
+   ],
+   [
+    "504px",
+    2
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    72
+   ],
+   [
+    "500",
+    25
+   ],
+   [
+    "600",
+    3
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    78
+   ],
+   [
+    "-0.020em@270",
+    7
+   ],
+   [
+    "-0.020em@72",
+    4
+   ],
+   [
+    "-0.020em@28",
+    4
+   ],
+   [
+    "-0.040em@10",
+    2
+   ],
+   [
+    "-Infinityem@0",
+    2
+   ],
+   [
+    "-0.020em@504",
+    2
+   ],
+   [
+    "-0.020em@20",
+    1
+   ]
+  ],
+  "uppercaseShare": 0.39,
+  "largest": [
+   {
+    "tag": "span",
+    "text": "RESERVE",
+    "family": "scout-sans-semicond-bold",
+    "size": "504px",
+    "weight": "400",
+    "lh": "504px",
+    "ls": "-10.08px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "An Icon",
+    "family": "scout-sans-wide-medium",
+    "size": "270px",
+    "weight": "400",
+    "lh": "270px",
+    "ls": "-5.4px",
+    "tt": "capitalize",
+    "style": "normal",
+    "color": "rgb(17, 35, 47)"
+   },
+   {
+    "tag": "span",
+    "text": "From",
+    "family": "scout-sans-wide-medium",
+    "size": "270px",
+    "weight": "400",
+    "lh": "270px",
+    "ls": "-5.4px",
+    "tt": "capitalize",
+    "style": "normal",
+    "color": "rgb(17, 35, 47)"
+   },
+   {
+    "tag": "span",
+    "text": "Day One",
+    "family": "scout-sans-wide-medium",
+    "size": "270px",
+    "weight": "400",
+    "lh": "270px",
+    "ls": "-5.4px",
+    "tt": "capitalize",
+    "style": "normal",
+    "color": "rgb(255, 84, 50)"
+   },
+   {
+    "tag": "span",
+    "text": "For",
+    "family": "scout-sans-medium",
+    "size": "270px",
+    "weight": "400",
+    "lh": "222.75px",
+    "ls": "-5.4px",
+    "tt": "capitalize",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "The Scout",
+    "family": "scout-sans-medium",
+    "size": "270px",
+    "weight": "400",
+    "lh": "222.75px",
+    "ls": "-5.4px",
+    "tt": "capitalize",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "In All",
+    "family": "scout-sans-medium",
+    "size": "270px",
+    "weight": "400",
+    "lh": "222.75px",
+    "ls": "-5.4px",
+    "tt": "capitalize",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "Of Us.",
+    "family": "scout-sans-medium",
+    "size": "270px",
+    "weight": "400",
+    "lh": "222.75px",
+    "ls": "-5.4px",
+    "tt": "capitalize",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "c-sequence-key",
+    "text": "Scouts always come back.",
+    "family": "scout-sans-wide-medium",
+    "size": "72px",
+    "weight": "400",
+    "lh": "64.8px",
+    "ls": "-1.44px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "h2",
+    "text": "Experience the reveal event.",
+    "family": "scout-sans-wide-medium",
+    "size": "72px",
+    "weight": "400",
+    "lh": "64.8px",
+    "ls": "-1.44px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(28, 28, 26)"
+   },
+   {
+    "tag": "h2",
+    "text": "The duo that does it all.",
+    "family": "scout-sans-wide-medium",
+    "size": "72px",
+    "weight": "400",
+    "lh": "64.8px",
+    "ls": "-1.44px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(28, 28, 26)"
+   },
+   {
+    "tag": "h2",
+    "text": "In it for the long haul.",
+    "family": "scout-sans-wide-medium",
+    "size": "72px",
+    "weight": "400",
+    "lh": "64.8px",
+    "ls": "-1.44px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(28, 28, 26)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(255, 255, 255)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(255, 255, 255)",
+    33
+   ],
+   [
+    "rgb(28, 28, 26)",
+    22
+   ],
+   [
+    "rgb(1, 1, 1)",
+    13
+   ],
+   [
+    "rgb(234, 234, 234)",
+    8
+   ],
+   [
+    "rgb(82, 82, 82)",
+    8
+   ],
+   [
+    "rgb(17, 35, 47)",
+    5
+   ],
+   [
+    "rgb(27, 24, 23)",
+    3
+   ],
+   [
+    "rgb(88, 88, 86)",
+    3
+   ],
+   [
+    "rgb(255, 84, 50)",
+    2
+   ],
+   [
+    "rgb(132, 158, 174)",
+    2
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(255, 255, 255)",
+    23
+   ],
+   [
+    "rgb(128, 128, 128)",
+    13
+   ],
+   [
+    "rgba(0, 0, 0, 0.1)",
+    12
+   ],
+   [
+    "rgb(255, 84, 50)",
+    8
+   ],
+   [
+    "rgb(237, 233, 232)",
+    7
+   ],
+   [
+    "color(srgb 1 1 1 / 0.1)",
+    4
+   ],
+   [
+    "rgb(17, 35, 47)",
+    3
+   ],
+   [
+    "rgb(27, 24, 23)",
+    2
+   ],
+   [
+    "rgb(250, 249, 245)",
+    1
+   ],
+   [
+    "rgb(0, 0, 0)",
+    1
+   ],
+   [
+    "rgb(12, 14, 28)",
+    1
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(rgb(44, 50, 98) 40%, rgb(181, 140, 120) 100%)",
+    1
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.38,0.005,0.215,1)",
+    83
+   ],
+   [
+    "cubic-bezier(0.4,0,0.2,1)",
+    27
+   ],
+   [
+    "cubic-bezier(.38,.005,.215,1)",
+    8
+   ],
+   [
+    "cubic-bezier(0.23,1,0.32,1)",
+    7
+   ],
+   [
+    "cubic-bezier(0.4,0,0.6,1)",
+    1
+   ],
+   [
+    "cubic-bezier(.23,1,.32,1)",
+    1
+   ],
+   [
+    "cubic-bezier(.455,.03,.515,.955)",
+    1
+   ],
+   [
+    "cubic-bezier(0.165,0.84,0.44,1)",
+    1
+   ]
+  ],
+  "durations": [
+   [
+    "0.4s",
+    36
+   ],
+   [
+    "0.3s",
+    32
+   ],
+   [
+    "0.6s",
+    16
+   ],
+   [
+    "0.2s",
+    15
+   ],
+   [
+    "0s",
+    13
+   ],
+   [
+    "1s",
+    11
+   ],
+   [
+    "0.15s",
+    10
+   ],
+   [
+    "0.8s",
+    7
+   ],
+   [
+    "2s",
+    5
+   ],
+   [
+    "0.5s",
+    5
+   ]
+  ],
+  "keyframes": [
+   "u-pulse",
+   "u-spin",
+   "swiper-preloader-spin",
+   "rightFadeIn",
+   "sunRise",
+   "showPreloader",
+   "preloaderSpinner",
+   "marquee",
+   "loading",
+   "strapMarquee",
+   "pulse",
+   "spin",
+   "revolver",
+   "zoom-in-zoom-out-1",
+   "zoom-in-zoom-out-2",
+   "slide-in-fwd",
+   "slide-out-bck",
+   "fadeIn"
+  ]
+ },
+ "cssVarSample": {
+  "--swiper-theme-color": "#007aff",
+  "--swiper-navigation-size": "44px",
+  "--grid-columns": "4",
+  "--grid-gutter": ".25rem",
+  "--grid-margin": "clamp(1rem, -.5rem + 7.5vw, 6.25rem)",
+  "--horizontalGalleryOffset": "160px",
+  "--color": "#010101",
+  "--color-bg": "#fff",
+  "--outline-color": "var(--color)",
+  "--container-margin": "clamp(1rem, -.5rem + 7.5vw, 6.25rem)",
+  "--container-large-margin": "clamp(1rem, .43rem + 2.86vw, 3rem)",
+  "--container-full-margin": "16px",
+  "--btn-hover-clr-20": "#494948",
+  "--btn-hover-clr-85": "color-mix(in srgb, transparent 85%, currentColor)",
+  "--btn-hover-clr-90": "color-mix(in srgb, transparent 90%, currentColor)",
+  "--button-height": "auto",
+  "--button-width": "auto",
+  "--button-radius": "2px",
+  "--button-font-size": "12px",
+  "--button-padding": "14px 24px 12px",
+  "--button-gap": "25px",
+  "--button-color": "#fff",
+  "--button-background": "#010101",
+  "--button-stroke-color": "transparent",
+  "--button-color-active": "#010101",
+  "--button-background-active": "#fff",
+  "--header-max-width": "1240px",
+  "--header-height": "48px",
+  "--header-mt": "clamp(1rem, .86rem + .71vw, 1.5rem)",
+  "--header-shrink-duration": ".2s",
+  "--menu-item-radius": "6px",
+  "--menu-animation-duration": ".4s",
+  "--menu-animation-delay": ".2s",
+  "--toaster-width": "432px",
+  "--toastify-color-success": "#467517",
+  "--toastify-toast-min-height": "48px",
+  "--toastify-z-index": "99",
+  "--tc-bg-color": "#ffffff",
+  "--tc-blue-50": "rgba(245, 249, 255, 1)",
+  "--tc-blue": "#3699f1",
+  "--tc-btn-shadow-color": "#00000033",
+  "--tc-gradient-hover-color": "linear-gradient(360deg, #2025a7 -4.26%, #000579 97.87%)",
+  "--tc-link-color": "rgba(29, 78, 216, 1)",
+  "--tc-main-color": "#000579",
+  "--tc-repop-bg-color": "#e9e9ff",
+  "--tc-repop-color": "#5C2F88",
+  "--tc-surface-600": "rgba(117, 117, 117, 1)",
+  "--tc-text-color": "#1e293b",
+  "--tc-blue-100": "rgba(208, 225, 253, 1)"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": true,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 2,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": false,
+  "astro": true,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": true,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 52,
+  "video": 3,
+  "svg": 21,
+  "picture": 0,
+  "iframes": 4
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 1,
+  "clipPath": 25,
+  "sticky": 4,
+  "fixed": [
+   "u-fixed u-bottom-0 u-z-[99999]"
+  ],
+  "customCursor": true,
+  "boxShadows": [
+   [
+    "rgba(0, 0, 0, 0.25) 0px 2px 12px 2px",
+    1
+   ],
+   [
+    "rgb(255, 255, 255) 0px 0px 0px 2px, rgb(54, 153, 241) 0px 0px 0px 4px",
+    1
+   ],
+   [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.1) 0px 8px 10px -6px",
+    1
+   ]
+  ],
+  "filters": [
+   [
+    "sepia(1) brightness(0.75) hue-rotate(206deg)",
+    1
+   ]
+  ],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "4px",
+   16
+  ],
+  [
+   "2px",
+   13
+  ],
+  [
+   "3px",
+   12
+  ],
+  [
+   "6px",
+   4
+  ],
+  [
+   "9999px",
+   2
+  ],
+  [
+   "8px",
+   2
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgba(0, 0, 0, 0)",
+   11
+  ],
+  [
+   "4px solid rgba(0, 0, 0, 0)",
+   8
+  ],
+  [
+   "1px solid color(srgb 0.00392157 0.00392157 0.00392157 / 0.2)",
+   3
+  ],
+  [
+   "1px solid rgb(243, 244, 246)",
+   2
+  ],
+  [
+   "1px solid rgb(28, 28, 26)",
+   1
+  ],
+  [
+   "1px solid color(srgb 1 1 1 / 0.2)",
+   1
+  ]
+ ],
+ "grids": [
+  [
+   "2cols gap 4px",
+   7
+  ],
+  [
+   "1cols gap normal",
+   2
+  ],
+  [
+   "2cols gap normal",
+   2
+  ],
+  [
+   "8cols gap normal",
+   1
+  ],
+  [
+   "1cols gap 4px",
+   1
+  ],
+  [
+   "12cols gap 4px",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "100%",
+   10
+  ],
+  [
+   "1270px",
+   2
+  ],
+  [
+   "1440px",
+   1
+  ],
+  [
+   "1240px",
+   1
+  ],
+  [
+   "1272px",
+   1
+  ],
+  [
+   "1024px",
+   1
+  ]
+ ],
+ "sideMargins": [
+  [
+   "100px",
+   15
+  ],
+  [
+   "24px",
+   2
+  ],
+  [
+   "728px",
+   2
+  ],
+  [
+   "86px",
+   1
+  ],
+  [
+   "206px",
+   1
+  ],
+  [
+   "864px",
+   1
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "u-min-h-[100vh]",
+   "h": 15914,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-foot-page-cta u-container",
+   "h": 406,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-foot-legal-notes u-container u-anim-scroll is-in",
+   "h": 303,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "reserve-form-drawer u-flex u-flex-col u-rounded-lg",
+   "h": 892,
+   "padTop": "0px",
+   "bg": "rgb(255, 255, 255)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "static",
+  "height": 0,
+  "links": 15,
+  "linkTexts": [
+   "SKIP TO MAIN CONTENT",
+   "TRAVELER SUV",
+   "TERRA TRUCK",
+   "RESERVE"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "SKIP TO MAIN CONTENT",
+   "bg": "rgb(255, 84, 50)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "2px",
+   "pad": "14px 24px 12px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "uppercase",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 45
+  },
+  {
+   "text": "Accept All",
+   "bg": "rgb(27, 24, 23)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "2px",
+   "pad": "3.5px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 44
+  },
+  {
+   "text": "Reject All",
+   "bg": "rgb(27, 24, 23)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "2px",
+   "pad": "3.5px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 44
+  },
+  {
+   "text": "Cookies Settings",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(28, 28, 26)",
+   "radius": "2px",
+   "pad": "2.5px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid rgb(28, 28, 26)",
+   "h": 44
+  },
+  {
+   "text": "TRAVELER SUV",
+   "bg": "color(srgb 1 1 1 / 0.1)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "2px",
+   "pad": "14px 24px 12px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "uppercase",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 45
+  },
+  {
+   "text": "TERRA TRUCK",
+   "bg": "color(srgb 1 1 1 / 0.1)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "2px",
+   "pad": "14px 24px 12px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "uppercase",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 45
+  },
+  {
+   "text": "OUR STORY",
+   "bg": "color(srgb 1 1 1 / 0.1)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "2px",
+   "pad": "14px 24px 12px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "uppercase",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 45
+  },
+  {
+   "text": "OUR STORY",
+   "bg": "rgb(237, 233, 232)",
+   "color": "rgb(17, 35, 47)",
+   "radius": "2px",
+   "pad": "14px 24px 12px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "uppercase",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 45
+  },
+  {
+   "text": "SUBSCRIBE",
+   "bg": "rgb(237, 233, 232)",
+   "color": "rgb(17, 35, 47)",
+   "radius": "2px",
+   "pad": "14px 24px 12px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "uppercase",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 45
+  },
+  {
+   "text": "RESERVE NOW",
+   "bg": "rgb(17, 35, 47)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "2px",
+   "pad": "20px 72px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "uppercase",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 59
+  }
+ ],
+ "headings": [
+  "WE VALUE YOUR PRIVACY",
+  "Scouts always come back.",
+  "An off-road icon reborn.",
+  "The one that started it all.",
+  "An Icon From Day One",
+  "For The Scout In All Of Us.",
+  "Experience the reveal event.",
+  "The duo that does it all.",
+  "Traveler",
+  "Terra",
+  "In it for the long haul.",
+  "Legal notes",
+  "Be one of the pioneers. Stay Connected."
+ ],
+ "paras": [
+  "The new Scout® Traveler™ and Terra™ models are here. Born from an American legend, retooled for a new era. Ready, willing and capable for the road ahead. Or far off it.1",
+  "The original off-road icon. The one that united work with play. The one that made “sport utility” a household term. The one to combine a farm tool with a family hauler, and from which all others have followed since. The ",
+  "Before 1961, International Harvester built tools that helped build, feed, and defend America. Then they shifted gears, producing sport utility vehicles that soon found a place in American driveways. The grit that defined",
+  "Our roots run deep, but they don’t define us. We’re blending DNA from the SUV that started it all with the pulse of modern technology to create something unique, a true original just like the first Scouts. This is more t",
+  "On October 24, 2024, Scout Motors introduced the next era of rugged trucks and SUVs on a sunlit hill in Franklin, Tennessee.",
+  "This is a company as rugged as our vehicles. One that’s built to last, from the dirt up, by passionate people. American-born and American-built, Scout vehicles will be engineered in Detroit, built in South Carolina, and ",
+  "Individual performance and off-road capability varies based on model, trim, equipment, conditions, driving style, vehicle maintenance, and terrain. Drivers should always assess conditions and operate vehicles within thei",
+  "Some features identified are available as options; additional costs may apply. Availability and pricing information will be provided closer to production.",
+  "Capacities and payload may vary by model and trim, and may depend on total weight. Ensure compliance with safety regulations and local laws when transporting passengers and cargo.",
+  "Dimensions provided for the concept vehicle are estimates and may vary in the final production model. The specifications are subject to change and should not be relied upon for exact measurements. Please refer to officia"
+ ],
+ "footer": {
+  "h": 1896,
+  "text": "Our story Community hub Scout Supply Newsroom Events South Carolina resources Careers Support Contact us Traveler SUV Learn more about Traveler Terra TRUCK Learn more about Terra Be one of the pioneers. Stay Connected. SUBSCRIBE LEGAL COOKIES TERMS OF USE PRIVACY VENDOR SETUP BUSINESS ETHICS © 2026 "
+ },
+ "jsMotion": {
+  "scriptsFetched": 16,
+  "gsapEases": [
+   [
+    "power2.out",
+    3
+   ],
+   [
+    "none",
+    1
+   ],
+   [
+    "power4.out",
+    1
+   ],
+   [
+    "sine.inOut",
+    1
+   ]
+  ],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "1",
+    1
+   ]
+  ],
+  "staggers": [
+   [
+    ".2",
+    1
+   ]
+  ],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

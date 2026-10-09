@@ -1,0 +1,686 @@
+{
+ "url": "https://anaiwood.com/en",
+ "slug": "anaiwood-com-en",
+ "analyzedAt": "2026-10-07T05:25:03.129Z",
+ "scrollHeight": 900,
+ "pageLengthInViewports": 1,
+ "title": "ANAI",
+ "metaDescription": "南小国の名産である小国郷の杉や檜を使用した建築材（構造材、内装材）の製造、販売を行っています。物件ごとの細かいサイズにも小ロットで対応しています。小国杉は、江戸時代、熊本を治めていた細川藩から各戸に25本ずつ苗木が渡されたことに始まると言われている杉で、含まれる油分による独特な艶と淡い桜色が特徴です。",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "PP Neue Montreal 400 normal",
+   "PP Eiko 400 normal"
+  ],
+  "families": [
+   [
+    "PP Neue Montreal",
+    22
+   ],
+   [
+    "PP Eiko",
+    9
+   ]
+  ],
+  "sizes": [
+   [
+    "16px",
+    9
+   ],
+   [
+    "28px",
+    6
+   ],
+   [
+    "14px",
+    5
+   ],
+   [
+    "56px",
+    3
+   ],
+   [
+    "160px",
+    2
+   ],
+   [
+    "18px",
+    2
+   ],
+   [
+    "150px",
+    2
+   ],
+   [
+    "90px",
+    2
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    31
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    31
+   ]
+  ],
+  "uppercaseShare": 0.16,
+  "largest": [
+   {
+    "tag": "span",
+    "text": "Cultivate for",
+    "family": "PP Eiko",
+    "size": "160px",
+    "weight": "400",
+    "lh": "160px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(33, 39, 33)"
+   },
+   {
+    "tag": "span",
+    "text": "Posterity",
+    "family": "PP Eiko",
+    "size": "160px",
+    "weight": "400",
+    "lh": "160px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(33, 39, 33)"
+   },
+   {
+    "tag": "h2",
+    "text": "Brands",
+    "family": "PP Eiko",
+    "size": "150px",
+    "weight": "400",
+    "lh": "150px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(33, 39, 33)"
+   },
+   {
+    "tag": "h2",
+    "text": "Oguni-Sugi",
+    "family": "PP Eiko",
+    "size": "150px",
+    "weight": "400",
+    "lh": "150px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "div",
+    "text": "Latest",
+    "family": "PP Eiko",
+    "size": "90px",
+    "weight": "400",
+    "lh": "90px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(33, 39, 33)"
+   },
+   {
+    "tag": "div",
+    "text": "Projects",
+    "family": "PP Eiko",
+    "size": "90px",
+    "weight": "400",
+    "lh": "90px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(33, 39, 33)"
+   },
+   {
+    "tag": "span",
+    "text": "anai[at]fillinglife[dot]co",
+    "family": "PP Eiko",
+    "size": "56px",
+    "weight": "400",
+    "lh": "77.28px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(33, 39, 33)"
+   },
+   {
+    "tag": "span",
+    "text": "Copy to clipboard",
+    "family": "PP Eiko",
+    "size": "56px",
+    "weight": "400",
+    "lh": "77.28px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(33, 39, 33)"
+   },
+   {
+    "tag": "span",
+    "text": "E-mail copied",
+    "family": "PP Eiko",
+    "size": "56px",
+    "weight": "400",
+    "lh": "77.28px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(33, 39, 33)"
+   },
+   {
+    "tag": "h2",
+    "text": "We Cultivate for Posterity",
+    "family": "PP Neue Montreal",
+    "size": "28px",
+    "weight": "400",
+    "lh": "28px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(33, 39, 33)"
+   },
+   {
+    "tag": "a",
+    "text": "About",
+    "family": "PP Neue Montreal",
+    "size": "28px",
+    "weight": "400",
+    "lh": "28px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(33, 39, 33)"
+   },
+   {
+    "tag": "a",
+    "text": "Company",
+    "family": "PP Neue Montreal",
+    "size": "28px",
+    "weight": "400",
+    "lh": "28px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(33, 39, 33)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(255, 255, 255)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(33, 39, 33)",
+    28
+   ],
+   [
+    "rgb(255, 255, 255)",
+    2
+   ],
+   [
+    "rgb(135, 138, 140)",
+    1
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgba(0, 0, 0, 0.25)",
+    8
+   ],
+   [
+    "rgb(255, 255, 255)",
+    7
+   ],
+   [
+    "rgba(64, 64, 64, 0.1)",
+    1
+   ],
+   [
+    "rgba(255, 255, 255, 0.1)",
+    1
+   ],
+   [
+    "rgba(255, 255, 255, 0.3)",
+    1
+   ],
+   [
+    "rgb(33, 39, 33)",
+    1
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(135deg, rgb(33, 39, 33) 40%, rgb(199, 200, 198) 60%)",
+    1
+   ],
+   [
+    "linear-gradient(135deg, rgb(255, 255, 255) 40%, rgba(255, 255, 255, 0.5) 60%)",
+    1
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.104,0.204,0.492,1)",
+    140
+   ],
+   [
+    "cubic-bezier(0.472,0.04,0.526,1)",
+    15
+   ],
+   [
+    "cubic-bezier(0.642,0,0.328,1)",
+    4
+   ],
+   [
+    "cubic-bezier(0.306,0.968,0.632,1)",
+    3
+   ]
+  ],
+  "durations": [
+   [
+    "0.35s",
+    48
+   ],
+   [
+    "0.5s",
+    25
+   ],
+   [
+    "0.25s",
+    18
+   ],
+   [
+    "0s",
+    10
+   ],
+   [
+    "1s",
+    8
+   ],
+   [
+    "0.7s",
+    7
+   ],
+   [
+    "0.75s",
+    6
+   ],
+   [
+    "0.2s",
+    6
+   ],
+   [
+    "0.15s",
+    5
+   ],
+   [
+    "1ms",
+    2
+   ]
+  ],
+  "keyframes": [
+   "anim-arrow-backward-in-visible-6379d273",
+   "anim-arrow-backward-out-visible-6379d273",
+   "anim-arrow-forward-in-visible-6379d273",
+   "anim-arrow-forward-out-visible-6379d273",
+   "loader-12a7d9f2",
+   "anim-arrow-backward-in",
+   "anim-arrow-backward-out",
+   "anim-arrow-forward-in",
+   "anim-arrow-forward-out",
+   "anim-arrow-forward-ex-in",
+   "anim-arrow-forward-ex-out",
+   "anim-arrow-down-in",
+   "anim-arrow-down-out"
+  ]
+ },
+ "cssVarSample": {
+  "--anai-g-var-grid-col": "48",
+  "--anai-g-var-grid-row": "12",
+  "--anai-g-var-grid-col-gap": "0px",
+  "--anai-g-var-grid-row-gap": "0px",
+  "--anai-g-var-grid-h-pad": "0px",
+  "--anai-g-var-grid-v-pad": "0px",
+  "--anai-g-var-vw": "1440",
+  "--anai-g-var-vh": "790",
+  "--anai-g-var-vw-min": "1024",
+  "--anai-g-var-vw-max": "1920",
+  "--anai-g-var-vw-min-unit": "1024px",
+  "--anai-g-var-vw-max-unit": "1920px",
+  "--anai-g-color-primary": "#212721",
+  "--anai-g-color-secondary": "#888b8d",
+  "--anai-g-color-link": "#212721",
+  "--anai-g-color-placeholder": "#c8c9c7",
+  "--anai-g-color-white": "#fff",
+  "--anai-g-color-white-a0": "hsla(0,0%,100%,0)",
+  "--anai-g-color-white-a10": "hsla(0,0%,100%,.1)",
+  "--anai-g-color-white-a15": "hsla(0,0%,100%,.15)",
+  "--anai-g-color-white-a25": "hsla(0,0%,100%,.25)",
+  "--anai-g-color-white-a50": "hsla(0,0%,100%,.5)",
+  "--anai-g-color-white-a75": "hsla(0,0%,100%,.75)",
+  "--anai-g-color-black": "#212721",
+  "--anai-g-color-black-a0": "rgba(33,39,33,0)",
+  "--anai-g-color-black-a10": "rgba(33,39,33,.1)",
+  "--anai-g-color-black-a15": "rgba(33,39,33,.15)",
+  "--anai-g-color-black-a25": "rgba(33,39,33,.25)",
+  "--anai-g-color-black-a50": "rgba(33,39,33,.5)",
+  "--anai-g-color-black-a75": "rgba(33,39,33,.75)",
+  "--anai-g-color-gray-dark": "#878a8c",
+  "--anai-g-color-gray": "#c7c8c6",
+  "--anai-g-color-gray-light": "#ded8de",
+  "--anai-g-color-preload": "#f8f7f8",
+  "--anai-g-font-size-min": "clamp(1.2rem,1/var(--anai-g-var-vw) * 100 * 12vw,1.3rem)",
+  "--anai-g-font-size-xs": "clamp(1.3rem,1/var(--anai-g-var-vw) * 100 * 14vw,1.6rem)",
+  "--anai-g-font-size-s": "clamp(1.4rem,1/var(--anai-g-var-vw) * 100 * 16vw,1.8rem)",
+  "--anai-g-font-size-m": "clamp(2.2rem,1/var(--anai-g-var-vw) * 100 * 28vw,3.6rem)",
+  "--anai-g-font-size-l": "clamp(3.2rem,1/var(--anai-g-var-vw) * 100 * 36vw,4rem)",
+  "--anai-g-font-size-xl": "clamp(4rem,1/var(--anai-g-var-vw) * 100 * 48vw,5.2rem)",
+  "--anai-g-font-size-2xl": "clamp(5.2rem,1/var(--anai-g-var-vw) * 100 * 64vw,6.8rem)",
+  "--anai-g-font-size-3xl": "clamp(6.8rem,1/var(--anai-g-var-vw) * 100 * 72vw,7.6rem)",
+  "--anai-g-font-size-max": "clamp(7.6rem,1/var(--anai-g-var-vw) * 100 * 96vw,10.8rem)",
+  "--anai-g-line-height-xs": "1",
+  "--anai-g-line-height-s": "1.15",
+  "--anai-g-line-height-m": "1.5",
+  "--anai-g-line-height-l": "1.8",
+  "--anai-g-line-height-xl": "2",
+  "--anai-g-spacing-xs": "2rem",
+  "--anai-g-spacing-s": "3rem",
+  "--anai-g-spacing-m": "4rem",
+  "--anai-g-spacing-l": "6rem",
+  "--anai-g-spacing-xl": "12rem",
+  "--anai-g-spacing-2xl": "18rem",
+  "--anai-g-spacing-3xl": "24rem",
+  "--anai-g-radius-s": "max(0px,min(6px, calc(999900vw - 29997px - 999900%) ))",
+  "--anai-g-radius-m": "max(0px,min(12px, calc(999900vw - 59994px - 999900%) ))",
+  "--anai-g-radius-l": "max(0px,min(24px, calc(999900vw - 119988px - 999900%) ))",
+  "--anai-g-header-height": "clamp(80px,calc(100vw/var(--anai-g-var-grid-col )*5),150px)",
+  "--anai-g-footer-height": "clamp(80px,calc(100vw/var(--anai-g-var-grid-col )*5),150px)",
+  "--anai-c-font-size-hero-s": "clamp(6rem,1/var(--anai-g-var-vw) * 100 * 90vw,12rem)",
+  "--anai-c-font-size-hero-m": "clamp(7rem,1/var(--anai-g-var-vw) * 100 * 100vw,13rem)",
+  "--anai-c-font-size-hero-l": "clamp(12rem,1/var(--anai-g-var-vw) * 100 * 160vw,20rem)",
+  "--anai-c-font-size-section-label-s": "clamp(3.6rem,1/var(--anai-g-var-vw) * 100 * 48vw,7.2rem)",
+  "--anai-c-font-size-section-label-m": "clamp(6rem,1/var(--anai-g-var-vw) * 100 * 90vw,12rem)",
+  "--anai-c-font-size-section-label-l": "clamp(12rem,1/var(--anai-g-var-vw) * 100 * 150vw,18rem)",
+  "--anai-c-font-size-link": "clamp(1.6rem,1/var(--anai-g-var-vw) * 100 * 18vw,2rem)",
+  "--anai-c-font-size-footer-email": "clamp(2.8rem,1/var(--anai-g-var-vw) * 100 * 56vw,7.2rem)",
+  "--anai-c-font-size-contact-email": "clamp(2.8rem,1/var(--anai-g-var-vw) * 100 * 36vw,4rem)",
+  "--anai-c-color-preload-gray-from": "#f8f7f8"
+ },
+ "libs": {
+  "gsap": true,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": true,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": true,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": true,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 21,
+  "video": 0,
+  "svg": 17,
+  "picture": 0,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 1,
+  "clipPath": 19,
+  "sticky": 3,
+  "fixed": [
+   "g-menu",
+   "g-loading",
+   "g-mouse"
+  ],
+  "customCursor": false,
+  "boxShadows": [],
+  "filters": [
+   [
+    "blur(2px)",
+    2
+   ],
+   [
+    "blur(0px)",
+    1
+   ]
+  ],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 2
+ },
+ "radii": [
+  [
+   "50%",
+   2
+  ]
+ ],
+ "borders": [],
+ "grids": [
+  [
+   "40cols gap 0px",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "800px",
+   1
+  ]
+ ],
+ "sideMargins": [
+  [
+   "120px",
+   3
+  ],
+  [
+   "840px",
+   2
+  ],
+  [
+   "268px",
+   1
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "l-view",
+   "h": 7626,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "home-hero",
+   "h": 2309,
+   "padTop": "210px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "home-about",
+   "h": 810,
+   "padTop": "180px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "home-brands",
+   "h": 1258,
+   "padTop": "120px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "home-projects",
+   "h": 870,
+   "padTop": "120px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "home-ogunisugi",
+   "h": 1800,
+   "padTop": "0px",
+   "bg": "rgb(33, 39, 33)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "absolute",
+  "height": 150,
+  "links": 1,
+  "linkTexts": [],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [],
+ "headings": [
+  "Cultivate for Posterity",
+  "We Cultivate for Posterity",
+  "Brands",
+  "Latest Projects",
+  "Oguni-Sugi"
+ ],
+ "paras": [
+  "Anai Wood Factory, established in 1964, is a small sawmill with strong roots in the Aso region. We specialize in manufacturing and selling building materials made from the locally inherited Oguni cedar and cypress, and w"
+ ],
+ "footer": {
+  "h": 578,
+  "text": "EN About Brands Projects Company Contact 869-2401 2082 Akababa, Minami-Oguni, Aso-gun, Kumamoto, Japan Facebook Instagram anai[at]fillinglife[dot]co Copy to clipboard E-mail copied Privacy Policy ©"
+ },
+ "jsMotion": {
+  "scriptsFetched": 1,
+  "gsapEases": [
+   [
+    "power1.out",
+    36
+   ],
+   [
+    "power2.inOut",
+    11
+   ],
+   [
+    "power1.inOut",
+    9
+   ],
+   [
+    "power3.inOut",
+    3
+   ],
+   [
+    "power2.out",
+    2
+   ],
+   [
+    "power4.inOut",
+    1
+   ]
+  ],
+  "customEaseDefs": [
+   [
+    "custom",
+    2
+   ]
+  ],
+  "durations": [
+   [
+    "1",
+    16
+   ],
+   [
+    ".5",
+    15
+   ],
+   [
+    ".35",
+    5
+   ],
+   [
+    "3",
+    1
+   ],
+   [
+    ".8",
+    1
+   ],
+   [
+    ".25",
+    1
+   ]
+  ],
+  "staggers": [
+   [
+    "{amount:.2,from:\"center\"}",
+    3
+   ],
+   [
+    ".05",
+    3
+   ],
+   [
+    ".1",
+    2
+   ],
+   [
+    "{amount:.25,from:\"random\"}",
+    2
+   ],
+   [
+    "{amount:.5,from:\"random\"}",
+    1
+   ],
+   [
+    "{amount:s,from:\"random\"}",
+    1
+   ],
+   [
+    "{amount:.1,from:\"random\"}",
+    1
+   ],
+   [
+    ".015",
+    1
+   ],
+   [
+    "{amount:.15,from:\"random\"}",
+    1
+   ]
+  ],
+  "lenis": [
+   [
+    "lerp:0",
+    2
+   ]
+  ],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

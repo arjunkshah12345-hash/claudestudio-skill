@@ -1,0 +1,931 @@
+{
+ "url": "https://diabrowser.com",
+ "slug": "diabrowser-com",
+ "analyzedAt": "2026-10-07T05:15:05.001Z",
+ "scrollHeight": 6323,
+ "pageLengthInViewports": 7,
+ "title": "Dia | The browser for better days at work.",
+ "metaDescription": "Dia is the browser for better days at work. Get answers without having to ask, produce beautiful ready-to-share outputs, and stay focused in the best browser for your work day.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "ABC Oracle 300 normal",
+   "ABC Oracle 350 normal",
+   "ABC Oracle 400 normal",
+   "ABC Oracle Triple 400 normal",
+   "ABC Favorit Mono 400 normal",
+   "Exposure VAR 500 normal"
+  ],
+  "families": [
+   [
+    "ABC Oracle Triple",
+    100
+   ],
+   [
+    "ABC Favorit Mono",
+    27
+   ],
+   [
+    "ABC Oracle",
+    26
+   ],
+   [
+    "Exposure VAR",
+    9
+   ]
+  ],
+  "sizes": [
+   [
+    "16px",
+    105
+   ],
+   [
+    "13px",
+    24
+   ],
+   [
+    "20px",
+    7
+   ],
+   [
+    "12px",
+    6
+   ],
+   [
+    "48px",
+    5
+   ],
+   [
+    "14px",
+    4
+   ],
+   [
+    "11px",
+    3
+   ],
+   [
+    "24px",
+    3
+   ],
+   [
+    "54px",
+    2
+   ],
+   [
+    "22px",
+    2
+   ],
+   [
+    "39px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    144
+   ],
+   [
+    "500",
+    9
+   ],
+   [
+    "350",
+    7
+   ],
+   [
+    "300",
+    2
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    115
+   ],
+   [
+    "0.100em@13",
+    24
+   ],
+   [
+    "0.060em@12",
+    6
+   ],
+   [
+    "-0.020em@20",
+    6
+   ],
+   [
+    "-0.050em@48",
+    5
+   ],
+   [
+    "-0.030em@24",
+    3
+   ],
+   [
+    "-0.040em@54",
+    2
+   ],
+   [
+    "-0.040em@39",
+    1
+   ]
+  ],
+  "uppercaseShare": 0.19,
+  "largest": [
+   {
+    "tag": "h2",
+    "text": "Built for how you actually work",
+    "family": "ABC Oracle",
+    "size": "54px",
+    "weight": "300",
+    "lh": "60px",
+    "ls": "-2.16px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgba(0, 0, 0, 0.85)"
+   },
+   {
+    "tag": "h2",
+    "text": "Privacy first with you in control",
+    "family": "ABC Oracle",
+    "size": "54px",
+    "weight": "300",
+    "lh": "60px",
+    "ls": "-2.16px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgba(0, 0, 0, 0.85)"
+   },
+   {
+    "tag": "h2",
+    "text": "Dia reads between the tabs",
+    "family": "Exposure VAR",
+    "size": "48px",
+    "weight": "500",
+    "lh": "56px",
+    "ls": "-2.4px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgba(0, 0, 0, 0.85)"
+   },
+   {
+    "tag": "p",
+    "text": "Privacy first",
+    "family": "Exposure VAR",
+    "size": "48px",
+    "weight": "500",
+    "lh": "56px",
+    "ls": "-2.4px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgba(0, 0, 0, 0.85)"
+   },
+   {
+    "tag": "p",
+    "text": "with you in control",
+    "family": "Exposure VAR",
+    "size": "48px",
+    "weight": "500",
+    "lh": "56px",
+    "ls": "-2.4px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgba(0, 0, 0, 0.85)"
+   },
+   {
+    "tag": "h2",
+    "text": "Ready for a better day?",
+    "family": "Exposure VAR",
+    "size": "48px",
+    "weight": "500",
+    "lh": "56px",
+    "ls": "-2.4px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "h1",
+    "text": "More than a browser. A better workday.",
+    "family": "Exposure VAR",
+    "size": "38.793px",
+    "weight": "500",
+    "lh": "42.6723px",
+    "ls": "-1.55172px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "Start your day two steps ahead",
+    "family": "Exposure VAR",
+    "size": "24px",
+    "weight": "500",
+    "lh": "30px",
+    "ls": "-0.72px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgba(0, 0, 0, 0.45)"
+   },
+   {
+    "tag": "span",
+    "text": "Synthesis you'll actually use",
+    "family": "Exposure VAR",
+    "size": "24px",
+    "weight": "500",
+    "lh": "30px",
+    "ls": "-0.72px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgba(0, 0, 0, 0.45)"
+   },
+   {
+    "tag": "span",
+    "text": "Find the answer without hunting it down",
+    "family": "Exposure VAR",
+    "size": "24px",
+    "weight": "500",
+    "lh": "30px",
+    "ls": "-0.72px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgba(0, 0, 0, 0.85)"
+   },
+   {
+    "tag": "p",
+    "text": "You control whether Dia remembers your preferences and which tools connect to your workflo",
+    "family": "ABC Oracle",
+    "size": "22px",
+    "weight": "400",
+    "lh": "30px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgba(0, 0, 0, 0.6)"
+   },
+   {
+    "tag": "p",
+    "text": "Dia for Work adds the guardrails that your team needs, like SSO and admin tools, so your t",
+    "family": "ABC Oracle",
+    "size": "22px",
+    "weight": "400",
+    "lh": "30px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgba(0, 0, 0, 0.6)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(251, 250, 246)",
+  "htmlBg": "rgb(251, 250, 246)",
+  "text": [
+   [
+    "rgba(0, 0, 0, 0.85)",
+    117
+   ],
+   [
+    "rgba(0, 0, 0, 0.424)",
+    16
+   ],
+   [
+    "rgba(0, 0, 0, 0.55)",
+    6
+   ],
+   [
+    "rgba(0, 0, 0, 0.7)",
+    6
+   ],
+   [
+    "rgba(0, 0, 0, 0.6)",
+    5
+   ],
+   [
+    "rgb(0, 0, 0)",
+    4
+   ],
+   [
+    "rgba(0, 0, 0, 0.45)",
+    3
+   ],
+   [
+    "rgba(0, 0, 0, 0.2)",
+    2
+   ],
+   [
+    "rgb(255, 255, 255)",
+    1
+   ],
+   [
+    "rgb(248, 248, 248)",
+    1
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(255, 255, 255)",
+    56
+   ],
+   [
+    "rgba(235, 235, 235, 0.7)",
+    50
+   ],
+   [
+    "rgb(242, 252, 179)",
+    30
+   ],
+   [
+    "rgb(255, 220, 92)",
+    20
+   ],
+   [
+    "rgb(248, 248, 248)",
+    2
+   ],
+   [
+    "rgb(251, 250, 246)",
+    2
+   ],
+   [
+    "rgb(255, 203, 48)",
+    1
+   ],
+   [
+    "rgba(0, 0, 0, 0.08)",
+    1
+   ],
+   [
+    "rgb(0, 0, 0)",
+    1
+   ],
+   [
+    "rgba(0, 0, 0, 0.85)",
+    1
+   ],
+   [
+    "rgb(239, 239, 239)",
+    1
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(0deg, rgba(91, 63, 8, 0.08), rgba(0, 0, 0, 0))",
+    1
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.4,0,0.2,1)",
+    16
+   ],
+   [
+    "cubic-bezier(0.77,0,0.175,1)",
+    11
+   ],
+   [
+    "cubic-bezier(0.22,1,0.36,1)",
+    4
+   ],
+   [
+    "cubic-bezier(0.87,0,0.13,1)",
+    3
+   ],
+   [
+    "cubic-bezier(0.5,1,0.9,1)",
+    3
+   ],
+   [
+    "cubic-bezier(0.215,0.61,0.355,1)",
+    2
+   ],
+   [
+    "cubic-bezier(0.25,0.46,0.45,0.94)",
+    2
+   ],
+   [
+    "cubic-bezier(0.23,1,0.32,1)",
+    1
+   ],
+   [
+    "cubic-bezier(0.76,0,0.24,1)",
+    1
+   ],
+   [
+    "cubic-bezier(0,0,0.2,1)",
+    1
+   ]
+  ],
+  "durations": [
+   [
+    "0.15s",
+    16
+   ],
+   [
+    "0.25s",
+    9
+   ],
+   [
+    "0.2s",
+    8
+   ],
+   [
+    "0s",
+    8
+   ],
+   [
+    "0.4s",
+    4
+   ],
+   [
+    "1s",
+    2
+   ],
+   [
+    "0.35s",
+    2
+   ],
+   [
+    "0.1s",
+    1
+   ],
+   [
+    "0.3s",
+    1
+   ],
+   [
+    "0.28s",
+    1
+   ]
+  ],
+  "keyframes": [
+   "spin",
+   "marqueeL",
+   "marqueeR",
+   "marqueeU",
+   "marqueeD",
+   "diaMarqueeL",
+   "diaMarqueeR",
+   "pulse",
+   "pulse-scale",
+   "chroma-sweep",
+   "chroma-expand-bidirectional",
+   "fade-to-black-sweep",
+   "app-tour-caret-blink",
+   "page-enter"
+  ]
+ },
+ "cssVarSample": {
+  "--current": "currentColor",
+  "--transparent": "transparent",
+  "--black": "#000000",
+  "--black-50": "#00000080",
+  "--black-10": "#0000001A",
+  "--black-8": "rgba(0,0,0,0.08)",
+  "--header-background": "#dddddd77",
+  "--white": "#F8F8F8",
+  "--white-50": "#F8F8F880",
+  "--white-10": "#F8F8F81A",
+  "--red": "#FA3D1D",
+  "--red-50": "#FA3D1D80",
+  "--red-10": "#FA3D1D1A",
+  "--blue": "#0358F7",
+  "--blue-50": "#0358F780",
+  "--blue-10": "#0358F71A",
+  "--pink": "#FD02F5",
+  "--pink-50": "#FD02F580",
+  "--pink-10": "#FD02F51A",
+  "--yellow": "#FFB005",
+  "--yellow-50": "#FFB00580",
+  "--yellow-10": "#FFB0051A",
+  "--brown": "#340B05",
+  "--brown-50": "#340B0580",
+  "--brown-10": "#340B051A",
+  "--grey": "#D9D9D9",
+  "--primary": "rgba(0,0,0,0.85)",
+  "--secondary": "rgba(0,0,0,0.60)",
+  "--tertiary": "rgba(0,0,0,0.45)",
+  "--quaternary": "rgba(0,0,0,0.20)",
+  "--fill-primary": "rgba(0,0,0,0.9)",
+  "--fill-secondary": "rgba(0,0,0,0.08)",
+  "--fill-secondary-hover": "rgba(0,0,0,0.12)",
+  "--fill-tertiary": "rgba(0,0,0,0.04)",
+  "--stroke-light": "rgba(0,0,0,0.06)",
+  "--stroke-medium": "rgba(0,0,0,0.12)",
+  "--get-dia-button-hover": "rgba(0,0,0,0.90)",
+  "--primary-50": "rgba(0,0,0,0.425)",
+  "--primary-10": "rgba(0,0,0,0.085)",
+  "--background": "#FBFAF6",
+  "--creamsicle-gradient": "linear-gradient(180deg,#FFF1AC 60%,#FF6F3C)",
+  "--grapefruit-gradient": "linear-gradient(180deg,#FFADA0 60%,#96D0FF)",
+  "--cotton-candy-gradient": "linear-gradient(180deg,#96D0FF 60%,#FFC1FD)",
+  "--sunshine-gradient": "linear-gradient(180deg,#5092C7 60%,#FFB005)",
+  "--twilight-gradient": "linear-gradient(180deg,#C679C4 60%,#FFADA0)",
+  "--midnight-gradient": "linear-gradient(180deg,#340B05 60%,#5092C7)",
+  "--student-gradient": "linear-gradient(180deg,#FD02F5 -10.07%,#FA3D1D 6.81%,#FFB005 35.18%,#E1E1FE 66.6",
+  "--student-marquee": "linear-gradient(270deg,#FD02F5,#FA3D1D 15.94%,#FFB005 42.76%,#E1E1FE 72.48%,#035"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": true,
+  "webglCanvas": 0,
+  "canvases": 1,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": true,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 10,
+  "video": 4,
+  "svg": 11,
+  "picture": 3,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 4,
+  "clipPath": 0,
+  "sticky": 2,
+  "fixed": [
+   "print:hidden fixed top-14 800:top-28 left-10 right-10 flex f"
+  ],
+  "customCursor": true,
+  "boxShadows": [
+   [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.04) 0px 1px 2px 0px, rgba(0, 0, 0, 0.1) 0px 12px 28px -12px, rgba(0, 0, 0, 0.12) 0px 28px 56px -28px",
+    3
+   ],
+   [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.06) 0px 2px 8px 0px, rgba(0, 0, 0, 0.04) 0px 0px 2px 0px",
+    2
+   ],
+   [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(45, 35, 24, 0.09) 0px -1px 2px -1px, rgba(73, 54, 34, 0.09) 0px -7px 18px -8px, rgba(101, 76, 47, 0.1) 0px -20px 44px -20px",
+    1
+   ],
+   [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(255, 255, 255, 0.18) 0px 1px 0px 0px inset, rgba(0, 0, 0, 0.16) 0px 2px 4px 0px, rgba(0, 0, 0, 0.34) 0px 18px 40px -10px",
+    1
+   ]
+  ],
+  "filters": [
+   [
+    "drop-shadow(rgba(0, 0, 0, 0.04) 0px 2px 4px) drop-shadow(rgba(0, 0, 0, 0.05) 0px 18px 24px) drop-shadow(rgba(0, 0, 0, 0.07) 0px 40px 64px)",
+    6
+   ],
+   [
+    "blur(5px)",
+    5
+   ],
+   [
+    "blur(40px)",
+    1
+   ]
+  ],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "20px",
+   57
+  ],
+  [
+   "9999px",
+   53
+  ],
+  [
+   "16px",
+   6
+  ],
+  [
+   "50%",
+   1
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgba(0, 0, 0, 0.3)",
+   6
+  ],
+  [
+   "1px solid rgba(0, 0, 0, 0.08)",
+   2
+  ],
+  [
+   "bottom:1px solid rgba(0, 0, 0, 0.086)",
+   1
+  ]
+ ],
+ "grids": [
+  [
+   "12cols gap 20px",
+   5
+  ],
+  [
+   "1cols gap normal",
+   3
+  ],
+  [
+   "10cols gap 20px",
+   3
+  ]
+ ],
+ "containers": [
+  [
+   "100%",
+   5
+  ],
+  [
+   "760px",
+   4
+  ],
+  [
+   "1440px",
+   2
+  ],
+  [
+   "1400px",
+   1
+  ]
+ ],
+ "sideMargins": [
+  [
+   "54px",
+   3
+  ],
+  [
+   "161px",
+   3
+  ],
+  [
+   "881px",
+   2
+  ],
+  [
+   "382px",
+   2
+  ],
+  [
+   "0px",
+   1
+  ],
+  [
+   "609px",
+   1
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "relative isolate [--stack-shift:clamp(0px,calc(100",
+   "h": 6308,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "relative z-1 -mb-200 h-[100svh] min-h-[640px] over",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "mt-60 800:mt-80 mb-80 800:mb-100 max-w-1400 mx-aut",
+   "h": 1953,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "my-80 800:my-120 max-w-1440 mx-auto site-grid",
+   "h": 2077,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "my-80 800:my-120 max-w-1440 mx-auto site-grid",
+   "h": 600,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "fixed",
+  "height": 52,
+  "links": 8,
+  "linkTexts": [
+   "What's New",
+   "Apps",
+   "Security",
+   "Download Dia",
+   "Watch the trailer video",
+   "What's New",
+   "Apps",
+   "Security",
+   "Download Dia"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "Download Dia",
+   "bg": "rgb(248, 248, 248)",
+   "color": "rgba(0, 0, 0, 0.85)",
+   "radius": "16px",
+   "pad": "0px 24px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0.08)",
+   "h": 48
+  },
+  {
+   "text": "Learn more about privacy in Dia →",
+   "bg": "rgb(239, 239, 239)",
+   "color": "rgba(0, 0, 0, 0.85)",
+   "radius": "20px",
+   "pad": "0px 24px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 35
+  }
+ ],
+ "headings": [
+  "More than a browser. A better workday.",
+  "Dia reads between the tabs",
+  "Start your day two steps ahead",
+  "Synthesis you'll actually use",
+  "Find the answer without hunting it down",
+  "Dia reads between the tabs",
+  "Built for how you actually work",
+  "Create clean lines between work, freelance, and personal life, with separate tabs, logins, and AI. Context switch between them in just a swipe.",
+  "Dia pulls together the places where work is actually happening (like GitHub and Notion) in your tab bar. Click once and land directly in the right PR, spec, or draft.",
+  "Every call starts with the right meeting page, agenda, notes, and related docs open, with a gentle countdown so you’re on time. All you have to do is show up.",
+  "See a meeting on one side and a doc on the other without juggling windows. Dia remembers your layout, so your favorite setup for recurring 1:1s or focus time is one click away.",
+  "Ask Dia for a deck and your scattered context becomes real slides — headers, layout, and flow you can present without a redesign.",
+  "Keep your workspace tidy by grouping related tabs with appropriate naming, so you see “Design Review” or “Q2 Planning” instead of a long strip of unnamed pages.",
+  "Privacy first with you in control",
+  "Ready for a better day?",
+  "PRODUCT",
+  "RESOURCES",
+  "COMPANY",
+  "CONNECT"
+ ],
+ "paras": [
+  "Available for macOS and Windows",
+  "Before the day kicks in, Dia's Morning Brief lays it all out (calendar, inbox, key links) so you know exactly what you're walking into.",
+  "Instead of bouncing between tools, just ask Dia. It gathers what's scattered across your tools (Slack, Notion, Teams, and many more!) and turns it into a report worth sharing.",
+  "Ask once. Dia digs into your full context, across GSuite, Teams, tabs, and more, and answers like someone who's seen every thread.",
+  "Before the day kicks in, Dia's Morning Brief lays it all out (calendar, inbox, key links) so you know exactly what you're walking into.",
+  "Instead of bouncing between tools, just ask Dia. It gathers what's scattered across your tools (Slack, Notion, Teams, and many more!) and turns it into a report worth sharing.",
+  "Ask once. Dia digs into your full context, across GSuite, Teams, tabs, and more, and answers like someone who's seen every thread.",
+  "Built for how you actually work",
+  "You control whether Dia remembers your preferences and which tools connect to your workflow. Your data is never sold or used to build ad profiles — and with Sync, it's end-to-end encrypted.",
+  "Dia for Work adds the guardrails that your team needs, like SSO and admin tools, so your team can stay secure."
+ ],
+ "footer": {
+  "h": 266,
+  "text": "PRODUCT FOR WORK RELEASE NOTES CHANGELOG WINDOWS RESOURCES HELP STATUS PRIVACY TERMS OF USE SECURITY TRUST CENTER COMPANY ABOUT US CAREERS NEWSLETTER EARLY BIRDS PROGRAM CONNECT X LINKEDIN INSTAGRAM COPYRIGHT © 2026 DESIGNED AND BUILT BY THE BROWSER COMPANY OF NEW YORK"
+ },
+ "jsMotion": {
+  "scriptsFetched": 23,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    ".4",
+    5
+   ],
+   [
+    ".2",
+    3
+   ],
+   [
+    ".7",
+    3
+   ],
+   [
+    "1",
+    2
+   ],
+   [
+    ".3",
+    2
+   ],
+   [
+    ".6",
+    2
+   ],
+   [
+    "1.4",
+    2
+   ],
+   [
+    "800",
+    1
+   ],
+   [
+    ".5",
+    1
+   ],
+   [
+    ".45",
+    1
+   ],
+   [
+    ".35",
+    1
+   ],
+   [
+    ".8",
+    1
+   ],
+   [
+    "1.6",
+    1
+   ]
+  ],
+  "staggers": [],
+  "lenis": [],
+  "springs": [
+   [
+    "type:\"spring\",...t",
+    2
+   ],
+   [
+    "type:\"spring\",stiffness:500,damping:25,restSpeed:10",
+    1
+   ],
+   [
+    "type:\"spring\",stiffness:550,damping:0===e[1]?2*Math.sqrt(550):30,restSpee",
+    1
+   ],
+   [
+    "stiffness:100,damping:10",
+    1
+   ],
+   [
+    "stiffness:100,damping:30",
+    1
+   ],
+   [
+    "type:\"spring\",restDelta:.001,restSpeed:.01,...a,onUpdate:l",
+    1
+   ],
+   [
+    "type:\"spring\",restDelta:.001,restSpeed:.01,...n,onUpdate:o",
+    1
+   ]
+  ],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": [
+   [
+    "[.25,.46,.45,.94]",
+    5
+   ],
+   [
+    "[.87,0,.13,1]",
+    3
+   ],
+   [
+    "[.4,0,.1,1]",
+    1
+   ],
+   [
+    "[.88,.01,.11,.98]",
+    1
+   ],
+   [
+    "[.25,.1,.35,1]",
+    1
+   ]
+  ]
+ }
+}

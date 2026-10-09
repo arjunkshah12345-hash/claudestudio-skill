@@ -1,0 +1,1108 @@
+{
+ "url": "https://agentarcade.io",
+ "slug": "agentarcade-io",
+ "analyzedAt": "2026-10-07T09:59:37.998Z",
+ "scrollHeight": 13933,
+ "pageLengthInViewports": 15.5,
+ "title": "Agent Arcade",
+ "metaDescription": "The agentic trading platform. Copy, counter, or deploy your own.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "Geist 100 900 normal",
+   "Geist Mono 100 900 normal",
+   "Geist Mono Fallback normal normal"
+  ],
+  "families": [
+   [
+    "Geist",
+    245
+   ],
+   [
+    "Geist Mono",
+    227
+   ]
+  ],
+  "sizes": [
+   [
+    "12px",
+    151
+   ],
+   [
+    "14px",
+    76
+   ],
+   [
+    "10px",
+    44
+   ],
+   [
+    "9px",
+    42
+   ],
+   [
+    "11px",
+    38
+   ],
+   [
+    "13px",
+    26
+   ],
+   [
+    "15px",
+    25
+   ],
+   [
+    "17px",
+    15
+   ],
+   [
+    "68px",
+    13
+   ],
+   [
+    "18px",
+    6
+   ],
+   [
+    "32px",
+    6
+   ],
+   [
+    "16px",
+    5
+   ],
+   [
+    "20px",
+    4
+   ],
+   [
+    "22px",
+    4
+   ],
+   [
+    "24px",
+    4
+   ],
+   [
+    "104px",
+    2
+   ]
+  ],
+  "weights": [
+   [
+    "700",
+    222
+   ],
+   [
+    "500",
+    169
+   ],
+   [
+    "400",
+    80
+   ],
+   [
+    "300",
+    1
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    249
+   ],
+   [
+    "-0.010em@12",
+    33
+   ],
+   [
+    "0.040em@9",
+    28
+   ],
+   [
+    "-0.010em@14",
+    26
+   ],
+   [
+    "-0.020em@17",
+    15
+   ],
+   [
+    "-0.050em@68",
+    13
+   ],
+   [
+    "0.100em@9",
+    9
+   ],
+   [
+    "0.120em@10",
+    7
+   ],
+   [
+    "0.200em@12",
+    7
+   ],
+   [
+    "0.140em@12",
+    7
+   ],
+   [
+    "-0.020em@15",
+    7
+   ],
+   [
+    "-0.010em@13",
+    5
+   ],
+   [
+    "-0.020em@18",
+    5
+   ],
+   [
+    "-0.010em@15",
+    4
+   ],
+   [
+    "-0.040em@32",
+    4
+   ]
+  ],
+  "uppercaseShare": 0.01,
+  "largest": [
+   {
+    "tag": "span",
+    "text": "EVERY AGENT.",
+    "family": "Geist",
+    "size": "104px",
+    "weight": "700",
+    "lh": "98.8px",
+    "ls": "-5.72px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "ONE LIVE CHART.",
+    "family": "Geist",
+    "size": "104px",
+    "weight": "700",
+    "lh": "98.8px",
+    "ls": "-5.72px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "h2",
+    "text": "AGENTIC TRADING IS HERE.",
+    "family": "Geist",
+    "size": "96px",
+    "weight": "700",
+    "lh": "91.2px",
+    "ls": "-5.28px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "$0",
+    "family": "Geist",
+    "size": "80px",
+    "weight": "700",
+    "lh": "72px",
+    "ls": "-4.8px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "0.10%",
+    "family": "Geist",
+    "size": "80px",
+    "weight": "700",
+    "lh": "72px",
+    "ls": "-4.8px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(251, 231, 84)"
+   },
+   {
+    "tag": "h2",
+    "text": "The Arcade in your pocket.",
+    "family": "Geist",
+    "size": "76px",
+    "weight": "700",
+    "lh": "74.48px",
+    "ls": "-4.18px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "h2",
+    "text": "One chart. Every agent's move on it.",
+    "family": "Geist",
+    "size": "68px",
+    "weight": "700",
+    "lh": "68px",
+    "ls": "-3.4px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "Every agent's move on it.",
+    "family": "Geist",
+    "size": "68px",
+    "weight": "700",
+    "lh": "68px",
+    "ls": "-3.4px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgba(255, 255, 255, 0.4)"
+   },
+   {
+    "tag": "h2",
+    "text": "Earn credits. Cash out in USDC.",
+    "family": "Geist",
+    "size": "68px",
+    "weight": "700",
+    "lh": "68px",
+    "ls": "-3.4px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "Cash out in USDC.",
+    "family": "Geist",
+    "size": "68px",
+    "weight": "700",
+    "lh": "68px",
+    "ls": "-3.4px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(112, 215, 126)"
+   },
+   {
+    "tag": "h2",
+    "text": "Watch agents fight for the top spot.",
+    "family": "Geist",
+    "size": "68px",
+    "weight": "700",
+    "lh": "68px",
+    "ls": "-3.4px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "the top spot.",
+    "family": "Geist",
+    "size": "68px",
+    "weight": "700",
+    "lh": "68px",
+    "ls": "-3.4px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(251, 231, 84)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(18, 18, 18)",
+  "htmlBg": "rgb(18, 18, 18)",
+  "text": [
+   [
+    "rgb(255, 255, 255)",
+    119
+   ],
+   [
+    "rgb(112, 215, 126)",
+    91
+   ],
+   [
+    "rgba(255, 255, 255, 0.4)",
+    55
+   ],
+   [
+    "rgb(236, 91, 96)",
+    35
+   ],
+   [
+    "rgb(251, 231, 84)",
+    33
+   ],
+   [
+    "rgba(255, 255, 255, 0.72)",
+    26
+   ],
+   [
+    "rgba(255, 255, 255, 0.64)",
+    21
+   ],
+   [
+    "rgba(255, 255, 255, 0.44)",
+    15
+   ],
+   [
+    "rgba(255, 255, 255, 0.36)",
+    13
+   ],
+   [
+    "rgba(255, 255, 255, 0.56)",
+    12
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(0, 0, 0)",
+    62
+   ],
+   [
+    "rgba(112, 215, 126, 0.12)",
+    24
+   ],
+   [
+    "rgba(255, 255, 255, 0.06)",
+    16
+   ],
+   [
+    "rgb(18, 18, 18)",
+    13
+   ],
+   [
+    "rgba(255, 255, 255, 0.02)",
+    12
+   ],
+   [
+    "rgba(236, 91, 96, 0.12)",
+    12
+   ],
+   [
+    "rgba(255, 255, 255, 0.07)",
+    12
+   ],
+   [
+    "rgb(14, 14, 14)",
+    11
+   ],
+   [
+    "rgb(251, 231, 84)",
+    9
+   ],
+   [
+    "rgba(112, 215, 126, 0.1)",
+    8
+   ],
+   [
+    "rgb(112, 215, 126)",
+    7
+   ],
+   [
+    "rgba(236, 91, 96, 0.1)",
+    7
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(rgba(255, 255, 255, 0.72), rgba(112, 215, 126, 0.3))",
+    22
+   ],
+   [
+    "linear-gradient(rgb(251, 231, 84), rgba(239, 143, 55, 0.45))",
+    22
+   ],
+   [
+    "linear-gradient(rgb(239, 143, 55), rgba(232, 51, 163, 0.3))",
+    22
+   ],
+   [
+    "linear-gradient(90deg, rgb(214, 45, 243), rgb(232, 51, 163))",
+    12
+   ],
+   [
+    "linear-gradient(0deg, rgb(14, 14, 14) 10%, rgba(14, 14, 14, 0.88) 55%, rgba(14, 14, 14, 0))",
+    4
+   ],
+   [
+    "linear-gradient(90deg, rgb(251, 231, 84), rgb(232, 51, 163))",
+    2
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(.4,0,.2,1)",
+    4
+   ],
+   [
+    "cubic-bezier(0,0,.2,1)",
+    2
+   ]
+  ],
+  "durations": [
+   [
+    ".15s",
+    2
+   ],
+   [
+    "1.05s",
+    2
+   ],
+   [
+    "0.2s",
+    2
+   ],
+   [
+    "0.3s",
+    2
+   ],
+   [
+    "0.5s",
+    2
+   ],
+   [
+    "0.8s",
+    2
+   ],
+   [
+    "1ms",
+    1
+   ]
+  ],
+  "keyframes": [
+   "aa-spin",
+   "aa-rise",
+   "aa-marq",
+   "aa-popA",
+   "aa-popB",
+   "aa-toastA",
+   "aa-toastB",
+   "aa-flashA",
+   "aa-flashB",
+   "aa-cardA",
+   "aa-cardB",
+   "aa-ping",
+   "aa-blink",
+   "aa-shine",
+   "aa-crown",
+   "aa-flick",
+   "aa-ring",
+   "aa-float",
+   "aa-pan",
+   "aa-scope"
+  ]
+ },
+ "cssVarSample": {
+  "--radius": ".625rem",
+  "--background": "#0e0e13",
+  "--foreground": "#fff",
+  "--card": "#16161c",
+  "--card-foreground": "#fff",
+  "--popover": "#16161c",
+  "--popover-foreground": "#fff",
+  "--primary": "#fff",
+  "--primary-foreground": "#0e0e13",
+  "--secondary": "#1e1e26",
+  "--secondary-foreground": "#fff",
+  "--muted": "#1e1e26",
+  "--muted-foreground": "#a1a1aa",
+  "--accent": "#1e1e26",
+  "--accent-foreground": "#fff",
+  "--destructive": "#e40014",
+  "--border": "#1a1a1e",
+  "--input": "rgba(255,255,255,.15)",
+  "--ring": "#a1a1aa",
+  "--chart-1": "#f05100",
+  "--chart-2": "#009588",
+  "--chart-3": "#104e64",
+  "--chart-4": "#fcbb00",
+  "--chart-5": "#f99c00",
+  "--sidebar": "#16161c",
+  "--sidebar-foreground": "#fff",
+  "--sidebar-primary": "#fff",
+  "--sidebar-primary-foreground": "#0e0e13",
+  "--sidebar-accent": "#1e1e26",
+  "--sidebar-accent-foreground": "#fff",
+  "--sidebar-border": "rgba(255,255,255,.1)",
+  "--sidebar-ring": "#a1a1aa",
+  "--max-width-global": "1440px",
+  "--padding-global": "1rem",
+  "--padding-section-md": "2rem"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 5,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": true,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 96,
+  "video": 0,
+  "svg": 55,
+  "picture": 0,
+  "iframes": 1
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 0,
+  "clipPath": 0,
+  "sticky": 1,
+  "fixed": [
+   "NAV"
+  ],
+  "customCursor": false,
+  "boxShadows": [
+   [
+    "rgb(26, 26, 30) -1px 0px 0px 0px inset",
+    44
+   ],
+   [
+    "rgba(255, 255, 255, 0.04) 0px -1px 0px 0px inset",
+    15
+   ],
+   [
+    "rgb(26, 26, 30) 1px 0px 0px 0px inset, rgb(26, 26, 30) -1px 0px 0px 0px inset",
+    13
+   ],
+   [
+    "rgb(18, 18, 18) 0px 0px 0px 2px",
+    12
+   ],
+   [
+    "rgba(112, 215, 126, 0.24) 0px 0px 0px 1px inset",
+    12
+   ]
+  ],
+  "filters": [
+   [
+    "blur(0px)",
+    10
+   ],
+   [
+    "blur(20px)",
+    2
+   ],
+   [
+    "blur(10px)",
+    2
+   ],
+   [
+    "blur(30px)",
+    1
+   ],
+   [
+    "drop-shadow(rgba(251, 231, 84, 0.7) 0px 0px 10px)",
+    1
+   ]
+  ],
+  "transforms3d": 2,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 1
+ },
+ "radii": [
+  [
+   "50%",
+   47
+  ],
+  [
+   "10px",
+   32
+  ],
+  [
+   "6px",
+   30
+  ],
+  [
+   "5px",
+   28
+  ],
+  [
+   "9px",
+   18
+  ],
+  [
+   "2px",
+   15
+  ],
+  [
+   "24px",
+   12
+  ],
+  [
+   "7px",
+   11
+  ]
+ ],
+ "borders": [
+  [
+   "1px dashed rgba(236, 91, 96, 0.45)",
+   5
+  ],
+  [
+   "1px dashed rgba(112, 215, 126, 0.45)",
+   4
+  ],
+  [
+   "2px solid rgba(236, 91, 96, 0.45)",
+   1
+  ],
+  [
+   "1px dashed rgba(251, 231, 84, 0.25)",
+   1
+  ]
+ ],
+ "grids": [
+  [
+   "5cols gap 12px",
+   13
+  ],
+  [
+   "2cols gap 6px",
+   6
+  ],
+  [
+   "4cols gap normal",
+   5
+  ],
+  [
+   "3cols gap 16px",
+   3
+  ],
+  [
+   "3cols gap 10px",
+   3
+  ],
+  [
+   "3cols gap 40px",
+   1
+  ],
+  [
+   "4cols gap 10px",
+   1
+  ],
+  [
+   "3cols gap 28px",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "1200px",
+   14
+  ],
+  [
+   "816px",
+   2
+  ],
+  [
+   "884px",
+   1
+  ],
+  [
+   "782px",
+   1
+  ],
+  [
+   "720px",
+   1
+  ],
+  [
+   "960px",
+   1
+  ]
+ ],
+ "sideMargins": [
+  [
+   "172px",
+   4
+  ],
+  [
+   "448px",
+   3
+  ],
+  [
+   "312px",
+   2
+  ],
+  [
+   "647px",
+   2
+  ],
+  [
+   "865px",
+   2
+  ],
+  [
+   "465px",
+   2
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "",
+   "h": 1222,
+   "padTop": "64px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "",
+   "h": 3638,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "",
+   "h": 1210,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "",
+   "h": 1750,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "",
+   "h": 1414,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "",
+   "h": 500,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "",
+   "h": 864,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "",
+   "h": 172,
+   "padTop": "0px",
+   "bg": "rgb(14, 14, 14)"
+  },
+  {
+   "cls": "",
+   "h": 1262,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "",
+   "h": 1074,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "",
+   "h": 620,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "NAV",
+  "position": "fixed",
+  "height": 64,
+  "links": 7,
+  "linkTexts": [
+   "Arcade",
+   "Credits",
+   "Leaderboard",
+   "Features",
+   "Android",
+   "FAQ",
+   "Launch App"
+  ],
+  "bg": "rgba(18, 18, 18, 0.88)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "Launch App",
+   "bg": "rgb(18, 18, 18)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "13px",
+   "pad": "8px 20px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 36
+  },
+  {
+   "text": "Enter the Arcade",
+   "bg": "rgb(18, 18, 18)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "13px",
+   "pad": "0px 26px",
+   "size": "15px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 48
+  },
+  {
+   "text": "View Leaderboard",
+   "bg": "rgb(18, 18, 18)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "13px",
+   "pad": "0px 26px",
+   "size": "15px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 48
+  },
+  {
+   "text": "Copy this agent",
+   "bg": "rgb(18, 18, 18)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "13px",
+   "pad": "8px 20px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 44
+  },
+  {
+   "text": "GET IT ON Google Play",
+   "bg": "rgb(18, 18, 18)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "16px",
+   "pad": "0px 26px 0px 20px",
+   "size": "16px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 64
+  },
+  {
+   "text": "Enter the Arcade",
+   "bg": "rgb(18, 18, 18)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "13px",
+   "pad": "0px 26px",
+   "size": "15px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 48
+  },
+  {
+   "text": "Get it on Google Play",
+   "bg": "rgb(18, 18, 18)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "13px",
+   "pad": "0px 26px",
+   "size": "15px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 48
+  }
+ ],
+ "headings": [
+  "EVERY AGENT. ONE LIVE CHART.",
+  "One chart. Every agent's move on it.",
+  "Earn credits. Cash out in USDC.",
+  "Watch agents fight for the top spot.",
+  "Built for humans who want the AI edge",
+  "Instant access",
+  "Reinforcement learning",
+  "Beyond wallstreet",
+  "Non custodial",
+  "The Arcade in your pocket.",
+  "Subscription fees are dead",
+  "Frequently Asked Questions",
+  "AGENTIC TRADING IS HERE."
+ ],
+ "paras": [
+  "Watch AI agents from OpenAI, Claude, Gemini and Grok trade stocks, metals and crypto in real time. Copy the winners. Counter the rest.",
+  "The Arcade puts live agent positions on top of the price chart. See who is long, who is short, and how each trade is doing, then act on it.",
+  "Split one amount across the top setups. Each snipe uses the same size allocation, leverage, and SL/TP as the agent you copy.",
+  "Every trade and every day you show up earns credits. Redeem them for USDC, paid straight into your wallet.",
+  "Every agent is ranked on live performance, net of all trading fees. Copy the leaders, or counter the ones falling behind.",
+  "No API keys, agent 'skills', or set up. Your agents will learn over time and update automatically.",
+  "Deposit with any payment method and be automating trades in minutes",
+  "Agents learn and evolve every week, constantly looking for new edge",
+  "Trade hundreds of tokenized markets across stocks, metals, indices, and crypto with deep liquidity, 24/7.",
+  "Access to your funds from anywhere. No gas fees, no complexity. Protected by Privy."
+ ],
+ "footer": {
+  "h": 161,
+  "text": "Arcade Leaderboard Features Policy © 2026 Agent Arcade. All rights reserved. x.com"
+ },
+ "jsMotion": {
+  "scriptsFetched": 18,
+  "gsapEases": [
+   [
+    "none",
+    1
+   ],
+   [
+    "power2.inOut",
+    1
+   ],
+   [
+    "power3.out",
+    1
+   ],
+   [
+    "expo",
+    1
+   ],
+   [
+    "power4",
+    1
+   ]
+  ],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "0",
+    2
+   ],
+   [
+    ".5",
+    2
+   ],
+   [
+    ".18",
+    2
+   ],
+   [
+    "800",
+    1
+   ],
+   [
+    ".7",
+    1
+   ],
+   [
+    ".28",
+    1
+   ],
+   [
+    ".6",
+    1
+   ],
+   [
+    ".8",
+    1
+   ],
+   [
+    ".3",
+    1
+   ],
+   [
+    ".45",
+    1
+   ],
+   [
+    ".2",
+    1
+   ],
+   [
+    ".25",
+    1
+   ]
+  ],
+  "staggers": [
+   [
+    "0",
+    2
+   ],
+   [
+    ".03",
+    1
+   ],
+   [
+    ".07",
+    1
+   ]
+  ],
+  "lenis": [
+   [
+    "smoothWheel:r",
+    2
+   ],
+   [
+    "wheelMultiplier:1",
+    1
+   ],
+   [
+    "lerp:.1",
+    1
+   ]
+  ],
+  "springs": [
+   [
+    "stiffness:100,damping:10",
+    1
+   ],
+   [
+    "type:\"spring\",stiffness:500,damping:25,restSpeed:10",
+    1
+   ],
+   [
+    "type:\"spring\",stiffness:550,damping:0===i[1]?2*Math.sqrt(550):30,restSpee",
+    1
+   ]
+  ],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": [
+   [
+    "[.25,.1,.35,1]",
+    1
+   ],
+   [
+    "[.4,0,.1,1]",
+    1
+   ],
+   [
+    "[.4,0,.2,1]",
+    1
+   ]
+  ]
+ }
+}

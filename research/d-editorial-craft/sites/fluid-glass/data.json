@@ -1,0 +1,754 @@
+{
+ "url": "https://fluid.glass",
+ "slug": "fluid-glass",
+ "analyzedAt": "2026-10-07T05:20:32.410Z",
+ "scrollHeight": 900,
+ "pageLengthInViewports": 1,
+ "title": "Bespoke Architectural & Structural Glazing UK | Fluid Glass",
+ "metaDescription": "UK specialist in bespoke architectural and structural glazing — minimal sliding doors, steel-look windows, glass extensions and rooflights, made in-house.",
+ "lang": "en-GB",
+ "type": {
+  "loadedFonts": [
+   "Aeonik Mono 500 normal",
+   "Aeonik Mono 600 normal",
+   "Aeonik Pro 700 normal",
+   "Aeonik Pro 400 normal"
+  ],
+  "families": [
+   [
+    "Aeonik Mono",
+    273
+   ],
+   [
+    "Aeonik Pro",
+    257
+   ]
+  ],
+  "sizes": [
+   [
+    "11px",
+    265
+   ],
+   [
+    "14px",
+    224
+   ],
+   [
+    "13px",
+    15
+   ],
+   [
+    "58px",
+    10
+   ],
+   [
+    "36px",
+    6
+   ],
+   [
+    "22px",
+    5
+   ],
+   [
+    "16px",
+    3
+   ],
+   [
+    "18px",
+    1
+   ],
+   [
+    "43px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "500",
+    265
+   ],
+   [
+    "400",
+    146
+   ],
+   [
+    "600",
+    118
+   ],
+   [
+    "700",
+    1
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "0.080em@11",
+    265
+   ],
+   [
+    "normal",
+    240
+   ],
+   [
+    "-0.030em@58",
+    10
+   ],
+   [
+    "0.100em@13",
+    8
+   ],
+   [
+    "-0.020em@36",
+    6
+   ],
+   [
+    "-0.030em@43",
+    1
+   ]
+  ],
+  "uppercaseShare": 0.52,
+  "largest": [
+   {
+    "tag": "div",
+    "text": "Exceptional glazing for those",
+    "family": "Aeonik Pro",
+    "size": "57.6px",
+    "weight": "400",
+    "lh": "57.6px",
+    "ls": "-1.728px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "div",
+    "text": "who build with vision.",
+    "family": "Aeonik Pro",
+    "size": "57.6px",
+    "weight": "400",
+    "lh": "57.6px",
+    "ls": "-1.728px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "div",
+    "text": "We bring architecture to life through",
+    "family": "Aeonik Pro",
+    "size": "57.6px",
+    "weight": "400",
+    "lh": "57.6px",
+    "ls": "-1.728px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(33, 35, 37)"
+   },
+   {
+    "tag": "div",
+    "text": "craft and innovation. Trusted by",
+    "family": "Aeonik Pro",
+    "size": "57.6px",
+    "weight": "400",
+    "lh": "57.6px",
+    "ls": "-1.728px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(33, 35, 37)"
+   },
+   {
+    "tag": "div",
+    "text": "architects who demand precision,",
+    "family": "Aeonik Pro",
+    "size": "57.6px",
+    "weight": "400",
+    "lh": "57.6px",
+    "ls": "-1.728px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(33, 35, 37)"
+   },
+   {
+    "tag": "div",
+    "text": "beauty, and care.",
+    "family": "Aeonik Pro",
+    "size": "57.6px",
+    "weight": "400",
+    "lh": "57.6px",
+    "ls": "-1.728px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(33, 35, 37)"
+   },
+   {
+    "tag": "div",
+    "text": "Each project tells its own story",
+    "family": "Aeonik Pro",
+    "size": "57.6px",
+    "weight": "400",
+    "lh": "57.6px",
+    "ls": "-1.728px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(33, 35, 37)"
+   },
+   {
+    "tag": "div",
+    "text": "of collaboration and precision.",
+    "family": "Aeonik Pro",
+    "size": "57.6px",
+    "weight": "400",
+    "lh": "57.6px",
+    "ls": "-1.728px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(33, 35, 37)"
+   },
+   {
+    "tag": "div",
+    "text": "Every great build begins",
+    "family": "Aeonik Pro",
+    "size": "57.6px",
+    "weight": "400",
+    "lh": "57.6px",
+    "ls": "-1.728px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(33, 35, 37)"
+   },
+   {
+    "tag": "div",
+    "text": "with understanding",
+    "family": "Aeonik Pro",
+    "size": "57.6px",
+    "weight": "400",
+    "lh": "57.6px",
+    "ls": "-1.728px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(33, 35, 37)"
+   },
+   {
+    "tag": "p",
+    "text": "What our Clients say about us",
+    "family": "Aeonik Pro",
+    "size": "43.2px",
+    "weight": "400",
+    "lh": "43.2px",
+    "ls": "-1.296px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(33, 35, 37)"
+   },
+   {
+    "tag": "h3",
+    "text": "Doors",
+    "family": "Aeonik Pro",
+    "size": "36px",
+    "weight": "400",
+    "lh": "36px",
+    "ls": "-0.72px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgba(0, 0, 0, 0)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(33, 35, 37)",
+    380
+   ],
+   [
+    "color(srgb 0.129412 0.137255 0.145098 / 0.8)",
+    112
+   ],
+   [
+    "rgb(255, 255, 255)",
+    29
+   ],
+   [
+    "color(srgb 1 1 1 / 0.6)",
+    7
+   ],
+   [
+    "color(srgb 1 1 1 / 0.8)",
+    1
+   ],
+   [
+    "color(srgb 0.129412 0.137255 0.145098 / 0.4)",
+    1
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(11, 16, 18)",
+    6
+   ],
+   [
+    "rgb(33, 35, 37)",
+    3
+   ],
+   [
+    "rgb(243, 240, 236)",
+    2
+   ],
+   [
+    "color(srgb 0.0431373 0.0627451 0.0705882 / 0.8)",
+    1
+   ],
+   [
+    "color(srgb 1 1 1 / 0.2)",
+    1
+   ],
+   [
+    "color(srgb 1 1 1)",
+    1
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0.2))",
+    1
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(1,0,0,1)",
+    12
+   ],
+   [
+    "cubic-bezier(.77,0,.175,1)",
+    1
+   ],
+   [
+    "cubic-bezier(.645,.045,.355,1)",
+    1
+   ],
+   [
+    "cubic-bezier(.455,.03,.515,.955)",
+    1
+   ],
+   [
+    "cubic-bezier(.165,.84,.44,1)",
+    1
+   ],
+   [
+    "cubic-bezier(.215,.61,.355,1)",
+    1
+   ],
+   [
+    "cubic-bezier(.25,.46,.45,.94)",
+    1
+   ],
+   [
+    "cubic-bezier(.25,.25,.75,.75)",
+    1
+   ]
+  ],
+  "durations": [
+   [
+    "0.5s",
+    18
+   ],
+   [
+    "1.5s",
+    2
+   ],
+   [
+    "0.2s",
+    2
+   ],
+   [
+    "0.25s",
+    2
+   ],
+   [
+    "0.3s",
+    2
+   ],
+   [
+    "1s",
+    1
+   ]
+  ],
+  "keyframes": [
+   "cube-rotate-fc7c0bb1"
+  ]
+ },
+ "cssVarSample": {
+  "--size": "1600",
+  "--color-black": "#0b1012",
+  "--color-white": "#fff",
+  "--color-cream": "#f3f0ec",
+  "--color-taupe": "#d4cec6",
+  "--color-grey": "#212325",
+  "--color-yellow": "#f1a400",
+  "--ease-in-out-quart": "cubic-bezier(.77, 0, .175, 1)",
+  "--ease-in-out-cubic": "cubic-bezier(.645, .045, .355, 1)",
+  "--ease-in-out-quad": "cubic-bezier(.455, .03, .515, .955)",
+  "--ease-out-quart": "cubic-bezier(.165, .84, .44, 1)",
+  "--ease-out-cubic": "cubic-bezier(.215, .61, .355, 1)",
+  "--ease-out-quad": "cubic-bezier(.25, .46, .45, .94)",
+  "--ease-none": "cubic-bezier(.25, .25, .75, .75)",
+  "--font-s": "calc((100vw/var(--size))*10)",
+  "--font-f-aeonik-mono": "\"Aeonik Mono\"",
+  "--font-f-aeonik-pro": "\"Aeonik Pro\""
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": true,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": true,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": true,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 127,
+  "video": 2,
+  "svg": 836,
+  "picture": 0,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 4,
+  "clipPath": 2,
+  "sticky": 1,
+  "fixed": [
+   "cookies",
+   "cursor is-visible",
+   "header",
+   "scroll lenis"
+  ],
+  "customCursor": true,
+  "boxShadows": [],
+  "filters": [],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "50%",
+   112
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid color(srgb 0.129412 0.137255 0.145098 / 0.2)",
+   135
+  ],
+  [
+   "bottom:1px solid color(srgb 0.129412 0.137255 0.145098 / 0.1)",
+   5
+  ],
+  [
+   "1px solid color(srgb 0.952941 0.941176 0.92549 / 0.2)",
+   1
+  ],
+  [
+   "1px solid color(srgb 0.129412 0.137255 0.145098 / 0.1)",
+   1
+  ]
+ ],
+ "grids": [
+  [
+   "24cols gap 18px",
+   5
+  ]
+ ],
+ "containers": [],
+ "sideMargins": [
+  [
+   "36px",
+   10
+  ],
+  [
+   "77px",
+   2
+  ],
+  [
+   "720px",
+   1
+  ],
+  [
+   "325px",
+   1
+  ],
+  [
+   "626px",
+   1
+  ],
+  [
+   "1133px",
+   1
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "scroll lenis",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgb(243, 240, 236)"
+  },
+  {
+   "cls": "page-header is-white",
+   "h": 54,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "home-header",
+   "h": 1319,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "text-cta",
+   "h": 338,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "product-collection",
+   "h": 1364,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "banner-showroom",
+   "h": 1800,
+   "padTop": "36px",
+   "bg": "rgb(33, 35, 37)"
+  },
+  {
+   "cls": "featured-projects",
+   "h": 658,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "assets-duo",
+   "h": 1013,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "google-reviews",
+   "h": 961,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "banner-cta",
+   "h": 548,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "fixed",
+  "height": 45,
+  "links": 1,
+  "linkTexts": [],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "ACCEPT ACCEPT",
+   "bg": "rgb(11, 16, 18)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "0px",
+   "pad": "13.5px 21.6px",
+   "size": "10.8px",
+   "weight": "500",
+   "tt": "uppercase",
+   "border": "none",
+   "h": 37
+  },
+  {
+   "text": "WHO WE ARE WHO WE ARE",
+   "bg": "rgb(11, 16, 18)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "0px",
+   "pad": "13.5px 21.6px",
+   "size": "10.8px",
+   "weight": "500",
+   "tt": "uppercase",
+   "border": "none",
+   "h": 37
+  },
+  {
+   "text": "PRODUCT OVERVIEW PRODUCT OVERVIEW",
+   "bg": "rgb(11, 16, 18)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "0px",
+   "pad": "13.5px 21.6px",
+   "size": "10.8px",
+   "weight": "500",
+   "tt": "uppercase",
+   "border": "none",
+   "h": 37
+  },
+  {
+   "text": "SHOWROOM SHOWROOM",
+   "bg": "color(srgb 1 1 1 / 0.2)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "0px",
+   "pad": "13.5px 21.6px",
+   "size": "10.8px",
+   "weight": "500",
+   "tt": "uppercase",
+   "border": "none",
+   "h": 37
+  },
+  {
+   "text": "VIEW PROJECTS VIEW PROJECTS",
+   "bg": "rgb(11, 16, 18)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "0px",
+   "pad": "13.5px 21.6px",
+   "size": "10.8px",
+   "weight": "500",
+   "tt": "uppercase",
+   "border": "none",
+   "h": 37
+  },
+  {
+   "text": "OUR APPROACH OUR APPROACH",
+   "bg": "rgb(11, 16, 18)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "0px",
+   "pad": "13.5px 21.6px",
+   "size": "10.8px",
+   "weight": "500",
+   "tt": "uppercase",
+   "border": "none",
+   "h": 37
+  }
+ ],
+ "headings": [
+  "COOKIES",
+  "Exceptional glazing for those who build with vision",
+  "GLAZING SPECIALISTS",
+  "ABOUT FLUID GLASS",
+  "PRODUCT COLLECTION",
+  "Doors",
+  "Windows",
+  "Additional",
+  "Structural",
+  "SHOWROOM",
+  "FEATURED PROJECTS",
+  "Orchard House",
+  "Ashmead Barn",
+  "Keepers Cottage",
+  "Sea Breeze",
+  "Rusty House",
+  "CLIENT STORIES",
+  "WHERE VISION MEETS EXECUTION"
+ ],
+ "paras": [
+  "Exceptional glazing for those who build with vision.",
+  "We design and install bespoke glass systems for ambitious architectural projects. Every pane reflects our commitment to clarity, quality, and collaboration.",
+  "We bring architecture to life through craft and innovation. Trusted by architects who demand precision, beauty, and care.",
+  "Our glazing collection is defined by exceptional craftsmanship, refined design, and enduring quality. Made for bold architecture and uncompromising vision.",
+  "A place where precision and creativity connect.",
+  "Orbital 25 Business Park, Unit 11 Watford WD18 9DA, UK",
+  "Each project tells its own story of collaboration and precision.",
+  "Every great build begins with understanding"
+ ],
+ "footer": {
+  "h": 900,
+  "text": "©2026, Fluid Glass Instagram YouTube LinkedIn X Privacy policy Terms & conditions Crafted by Exo Ape"
+ },
+ "jsMotion": {
+  "scriptsFetched": 1,
+  "gsapEases": [
+   [
+    "power3.inOut",
+    18
+   ],
+   [
+    "power3.out",
+    7
+   ],
+   [
+    "linear",
+    1
+   ],
+   [
+    "power3.in",
+    1
+   ]
+  ],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    ".6",
+    6
+   ],
+   [
+    "1.2",
+    5
+   ],
+   [
+    "1",
+    4
+   ],
+   [
+    ".3",
+    2
+   ],
+   [
+    "1.5",
+    1
+   ],
+   [
+    ".8",
+    1
+   ]
+  ],
+  "staggers": [
+   [
+    ".05",
+    2
+   ],
+   [
+    ".02",
+    1
+   ]
+  ],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

@@ -1,0 +1,751 @@
+{
+ "url": "https://floema.com/en",
+ "slug": "floema-com-en",
+ "analyzedAt": "2026-10-07T05:26:56.785Z",
+ "scrollHeight": 14381,
+ "pageLengthInViewports": 16,
+ "title": "Floema® — Spaces for people, made for life.",
+ "metaDescription": "Signage, furniture, and equipment for building functional and sustainable spaces that are open to communities and promote a fulfilling way of life.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "Zimula normal normal"
+  ],
+  "families": [
+   [
+    "Zimula",
+    138
+   ]
+  ],
+  "sizes": [
+   [
+    "51px",
+    41
+   ],
+   [
+    "57px",
+    32
+   ],
+   [
+    "14px",
+    20
+   ],
+   [
+    "12px",
+    13
+   ],
+   [
+    "19px",
+    12
+   ],
+   [
+    "18px",
+    6
+   ],
+   [
+    "44px",
+    5
+   ],
+   [
+    "16px",
+    5
+   ],
+   [
+    "15px",
+    2
+   ],
+   [
+    "23px",
+    1
+   ],
+   [
+    "11px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    138
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "-0.040em@51",
+    41
+   ],
+   [
+    "-0.040em@57",
+    32
+   ],
+   [
+    "-0.020em@14",
+    20
+   ],
+   [
+    "-0.020em@12",
+    13
+   ],
+   [
+    "-0.020em@19",
+    12
+   ],
+   [
+    "-0.020em@18",
+    6
+   ],
+   [
+    "-0.040em@44",
+    5
+   ],
+   [
+    "-0.020em@16",
+    5
+   ],
+   [
+    "-0.020em@15",
+    2
+   ],
+   [
+    "-0.040em@23",
+    1
+   ],
+   [
+    "normal",
+    1
+   ]
+  ],
+  "uppercaseShare": 0.06,
+  "largest": [
+   {
+    "tag": "div",
+    "text": "Spaces",
+    "family": "Zimula",
+    "size": "57.2px",
+    "weight": "400",
+    "lh": "60.06px",
+    "ls": "-2.288px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(36, 31, 33)"
+   },
+   {
+    "tag": "div",
+    "text": "for",
+    "family": "Zimula",
+    "size": "57.2px",
+    "weight": "400",
+    "lh": "60.06px",
+    "ls": "-2.288px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(36, 31, 33)"
+   },
+   {
+    "tag": "div",
+    "text": "people,",
+    "family": "Zimula",
+    "size": "57.2px",
+    "weight": "400",
+    "lh": "60.06px",
+    "ls": "-2.288px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(36, 31, 33)"
+   },
+   {
+    "tag": "div",
+    "text": "made",
+    "family": "Zimula",
+    "size": "57.2px",
+    "weight": "400",
+    "lh": "60.06px",
+    "ls": "-2.288px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(36, 31, 33)"
+   },
+   {
+    "tag": "div",
+    "text": "life.",
+    "family": "Zimula",
+    "size": "57.2px",
+    "weight": "400",
+    "lh": "60.06px",
+    "ls": "-2.288px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(36, 31, 33)"
+   },
+   {
+    "tag": "h3",
+    "text": "Urban",
+    "family": "Zimula",
+    "size": "57.2px",
+    "weight": "400",
+    "lh": "60.06px",
+    "ls": "-2.288px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(36, 31, 33)"
+   },
+   {
+    "tag": "h3",
+    "text": "(51)",
+    "family": "Zimula",
+    "size": "57.2px",
+    "weight": "400",
+    "lh": "60.06px",
+    "ls": "-2.288px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(36, 31, 33)"
+   },
+   {
+    "tag": "h3",
+    "text": "Nature",
+    "family": "Zimula",
+    "size": "57.2px",
+    "weight": "400",
+    "lh": "60.06px",
+    "ls": "-2.288px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(36, 31, 33)"
+   },
+   {
+    "tag": "h3",
+    "text": "(41)",
+    "family": "Zimula",
+    "size": "57.2px",
+    "weight": "400",
+    "lh": "60.06px",
+    "ls": "-2.288px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(36, 31, 33)"
+   },
+   {
+    "tag": "h3",
+    "text": "RePlastic",
+    "family": "Zimula",
+    "size": "57.2px",
+    "weight": "400",
+    "lh": "60.06px",
+    "ls": "-2.288px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(36, 31, 33)"
+   },
+   {
+    "tag": "h3",
+    "text": "(73)",
+    "family": "Zimula",
+    "size": "57.2px",
+    "weight": "400",
+    "lh": "60.06px",
+    "ls": "-2.288px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(36, 31, 33)"
+   },
+   {
+    "tag": "h3",
+    "text": "Golf",
+    "family": "Zimula",
+    "size": "57.2px",
+    "weight": "400",
+    "lh": "60.06px",
+    "ls": "-2.288px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(36, 31, 33)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(242, 239, 234)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(36, 31, 33)",
+    101
+   ],
+   [
+    "rgb(233, 231, 120)",
+    19
+   ],
+   [
+    "rgb(255, 255, 255)",
+    9
+   ],
+   [
+    "rgb(152, 143, 139)",
+    6
+   ],
+   [
+    "rgb(235, 231, 223)",
+    2
+   ],
+   [
+    "rgba(36, 31, 33, 0.5)",
+    1
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(36, 31, 33)",
+    6
+   ],
+   [
+    "rgb(233, 231, 120)",
+    6
+   ],
+   [
+    "rgb(255, 255, 255)",
+    2
+   ],
+   [
+    "rgb(195, 188, 187)",
+    2
+   ],
+   [
+    "rgb(235, 231, 223)",
+    2
+   ],
+   [
+    "rgba(0, 0, 0, 0.1)",
+    1
+   ],
+   [
+    "rgb(242, 239, 234)",
+    1
+   ],
+   [
+    "rgba(255, 255, 255, 0.2)",
+    1
+   ],
+   [
+    "rgb(210, 205, 196)",
+    1
+   ],
+   [
+    "rgb(247, 108, 70)",
+    1
+   ],
+   [
+    "rgb(49, 59, 64)",
+    1
+   ],
+   [
+    "rgb(252, 177, 49)",
+    1
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(rgba(242, 239, 234, 0), rgb(242, 239, 234))",
+    1
+   ],
+   [
+    "linear-gradient(rgba(242, 239, 234, 0), rgb(242, 239, 234) 60%)",
+    1
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.19,1,0.22,1)",
+    53
+   ],
+   [
+    "cubic-bezier(.19,1,.22,1)",
+    17
+   ],
+   [
+    "cubic-bezier(0.175,0.885,0.32,1.275)",
+    9
+   ],
+   [
+    "cubic-bezier(0.34,1.56,0.64,1)",
+    6
+   ],
+   [
+    "cubic-bezier(0.12,1.2,0.16,2.35)",
+    6
+   ],
+   [
+    "cubic-bezier(0.075,0.82,0.165,1)",
+    4
+   ],
+   [
+    "cubic-bezier(0.215,0.61,0.355,1)",
+    2
+   ],
+   [
+    "cubic-bezier(.075,.82,.165,1)",
+    2
+   ],
+   [
+    "cubic-bezier(1,0,0,1)",
+    2
+   ]
+  ],
+  "durations": [
+   [
+    "0.5s",
+    52
+   ],
+   [
+    "1s",
+    10
+   ],
+   [
+    "0.3s",
+    9
+   ],
+   [
+    "0s",
+    6
+   ],
+   [
+    "0.25s",
+    5
+   ],
+   [
+    "0.7s",
+    3
+   ],
+   [
+    "0.15s",
+    2
+   ],
+   [
+    "0.35s",
+    2
+   ],
+   [
+    "60s",
+    2
+   ],
+   [
+    "2s",
+    2
+   ]
+  ],
+  "keyframes": [
+   "orbit-068e8402",
+   "scrollLabelBob-1c96ed47",
+   "imageLoading",
+   "wishlistTimer-9cce6942",
+   "leafShadowDrift-4d1adb8d"
+  ]
+ },
+ "cssVarSample": {
+  "--initial-100vh": "100vh",
+  "--native-scrollbar-width": "0px",
+  "--computed-100vh": "100vh",
+  "--computed-100vw": "calc(100vw - var(--native-scrollbar-width))",
+  "--grid-columns": "24",
+  "--grid-gap": "clamp(14px, 9.71px + 100vw * .011, 28px)",
+  "--grid-half-gap": "calc(var(--grid-gap)*.5)",
+  "--grid-margin": "clamp(16px, 10.15px + 100vw * .015, 36px)",
+  "--grid-padding": "calc(var(--grid-margin) - var(--grid-gap)*.5)",
+  "--grid-width": "calc(var(--100vw) - var(--grid-margin)*2)",
+  "--modal-row-width": "calc((var(--100vw) - 2*var(--grid-padding))/1.333 - var(--grid-gap) + var(--grid",
+  "--modal-width": "calc(var(--modal-row-width) + var(--grid-half-gap))",
+  "--100vw": "100vw",
+  "--lvh": "1lvh",
+  "--dvh": "1dvh",
+  "--svh": "1svh"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": true,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 3,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": true,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": true,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 57,
+  "video": 0,
+  "svg": 51,
+  "picture": 0,
+  "iframes": 2
+ },
+ "effects": {
+  "mixBlend": [
+   [
+    "difference",
+    1
+   ]
+  ],
+  "backdropFilter": 1,
+  "clipPath": 24,
+  "sticky": 2,
+  "fixed": [
+   "dark",
+   "DIV",
+   "DIV"
+  ],
+  "customCursor": false,
+  "boxShadows": [],
+  "filters": [],
+  "transforms3d": 5,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "12px",
+   7
+  ],
+  [
+   "30px",
+   3
+  ],
+  [
+   "100%",
+   2
+  ],
+  [
+   "50%",
+   2
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgba(36, 31, 33, 0.1)",
+   2
+  ],
+  [
+   "1px solid rgb(36, 31, 33)",
+   2
+  ]
+ ],
+ "grids": [
+  [
+   "1cols gap normal",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "100%",
+   10
+  ],
+  [
+   "50%",
+   3
+  ],
+  [
+   "58.3333%",
+   2
+  ],
+  [
+   "1440px",
+   1
+  ],
+  [
+   "66.6667%",
+   1
+  ],
+  [
+   "62.5%",
+   1
+  ]
+ ],
+ "sideMargins": [
+  [
+   "32px",
+   9
+  ],
+  [
+   "369px",
+   6
+  ],
+  [
+   "966px",
+   2
+  ],
+  [
+   "978px",
+   2
+  ],
+  [
+   "207px",
+   2
+  ],
+  [
+   "499px",
+   2
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "",
+   "h": 8100,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "",
+   "h": 844,
+   "padTop": "34px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "",
+   "h": 764,
+   "padTop": "34px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "",
+   "h": 1049,
+   "padTop": "80px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "",
+   "h": 668,
+   "padTop": "38px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section-bg",
+   "h": 668,
+   "padTop": "0px",
+   "bg": "rgb(4, 45, 43)"
+  },
+  {
+   "cls": "bottomGroup",
+   "h": 896,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "",
+   "h": 418,
+   "padTop": "34px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "",
+   "h": 236,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "NAV",
+  "position": "fixed",
+  "height": 86,
+  "links": 6,
+  "linkTexts": [
+   "PRODUCTS",
+   "ABOUT",
+   "SUSTAINABILITY",
+   "JOURNAL"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "Details Catalogue Download Now",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "12px",
+   "pad": "0px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 143
+  }
+ ],
+ "headings": [
+  "Spaces for people, made for life.",
+  "Going beyond the expected is our calling. True sustainability demands creativity to be aligned with strict principles and answer to the highest standards. It keeps us on a journey of innovation, meticulously crafting each project to keep the environment on our side.",
+  "Urban",
+  "(51)",
+  "Nature",
+  "(41)",
+  "RePlastic",
+  "(73)",
+  "Golf",
+  "(62)",
+  "Details",
+  "(00)",
+  "\"We think outdoor furniture should look and feel good while doing good for our planet\"",
+  "Made to last, designed to endure."
+ ],
+ "paras": [
+  "How does ecotourism improve communities, traditions, spaces and territories?",
+  "Floema® produces sustainable signage and equipment and offers durable, low maintenance solutions that integrate perfectly into the landscape, based on ecological raw materials. Our products are an important resource to e",
+  "Our products are designed to guarantee functionality and viability",
+  "Ensuring the technical and aesthetic aspects stay unaltered",
+  "Every solution is crafted to endure, with minimal environmental impact",
+  "Join our community Sign up for news, updates and more.",
+  "By submitting your email you agree to our Privacy Policy.",
+  "Terras Velhas, s/n, Alcabideque 3150-211 Condeixa-a-Velha, Portugal info@floema.pt +351 239 561 392 Call to a national landline",
+  "Zona Industrial de Condeixa-a-Nova, Lote 41 3150-194 Sebal, Portugal",
+  "San Martin de Borines 33583 Borines Asturias, España info@floema.es"
+ ],
+ "footer": {
+  "h": 1160,
+  "text": "Headquarters Terras Velhas, s/n, Alcabideque 3150-211 Condeixa-a-Velha, Portugal info@floema.pt +351 239 561 392 Call to a national landline Production Zona Industrial de Condeixa-a-Nova, Lote 41 3150-194 Sebal, Portugal Floema Spain San Martin de Borines 33583 Borines Asturias, España info@floema.e"
+ },
+ "jsMotion": {
+  "scriptsFetched": 5,
+  "gsapEases": [
+   [
+    "expo.inOut",
+    5
+   ]
+  ],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    ".6",
+    3
+   ],
+   [
+    ".7",
+    1
+   ],
+   [
+    ".9",
+    1
+   ]
+  ],
+  "staggers": [],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

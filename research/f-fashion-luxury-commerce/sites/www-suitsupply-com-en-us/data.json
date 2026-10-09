@@ -1,0 +1,578 @@
+{
+ "url": "https://www.suitsupply.com/en-us/",
+ "slug": "www-suitsupply-com-en-us",
+ "analyzedAt": "2026-10-07T05:27:38.201Z",
+ "scrollHeight": 6615,
+ "pageLengthInViewports": 7.3,
+ "title": "Men's Suits | Wedding, Formal & Custom Suits | SUITSUPPLY",
+ "metaDescription": "Discover our wedding, formal suits, tuxedos, and custom suits crafted from premium Italian fabrics. Shop In-Store or Online.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "GT America 300 normal",
+   "GT America 400 normal",
+   "GT America 500 normal"
+  ],
+  "families": [
+   [
+    "GT America",
+    86
+   ]
+  ],
+  "sizes": [
+   [
+    "14px",
+    53
+   ],
+   [
+    "30px",
+    18
+   ],
+   [
+    "16px",
+    7
+   ],
+   [
+    "18px",
+    7
+   ],
+   [
+    "7px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "300",
+    40
+   ],
+   [
+    "500",
+    36
+   ],
+   [
+    "400",
+    10
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    65
+   ],
+   [
+    "-0.015em@30",
+    12
+   ],
+   [
+    "-0.015em@18",
+    7
+   ],
+   [
+    "-0.025em@30",
+    1
+   ],
+   [
+    "0.057em@7",
+    1
+   ]
+  ],
+  "uppercaseShare": 0.01,
+  "largest": [
+   {
+    "tag": "a",
+    "text": "New Arrivals",
+    "family": "GT America",
+    "size": "30px",
+    "weight": "500",
+    "lh": "36px",
+    "ls": "-0.45px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "a",
+    "text": "Suits",
+    "family": "GT America",
+    "size": "30px",
+    "weight": "500",
+    "lh": "36px",
+    "ls": "-0.45px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "a",
+    "text": "Knitwear & Sweaters",
+    "family": "GT America",
+    "size": "30px",
+    "weight": "500",
+    "lh": "36px",
+    "ls": "-0.45px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "a",
+    "text": "Pants",
+    "family": "GT America",
+    "size": "30px",
+    "weight": "500",
+    "lh": "36px",
+    "ls": "-0.45px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "a",
+    "text": "Polos & T‑Shirts",
+    "family": "GT America",
+    "size": "30px",
+    "weight": "500",
+    "lh": "36px",
+    "ls": "-0.45px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "a",
+    "text": "Shirts",
+    "family": "GT America",
+    "size": "30px",
+    "weight": "500",
+    "lh": "36px",
+    "ls": "-0.45px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "a",
+    "text": "Coats & Vests",
+    "family": "GT America",
+    "size": "30px",
+    "weight": "500",
+    "lh": "36px",
+    "ls": "-0.45px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "a",
+    "text": "Jackets & Blazers",
+    "family": "GT America",
+    "size": "30px",
+    "weight": "500",
+    "lh": "36px",
+    "ls": "-0.45px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "a",
+    "text": "Tuxedos",
+    "family": "GT America",
+    "size": "30px",
+    "weight": "500",
+    "lh": "36px",
+    "ls": "-0.45px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "a",
+    "text": "Shoes",
+    "family": "GT America",
+    "size": "30px",
+    "weight": "500",
+    "lh": "36px",
+    "ls": "-0.45px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "a",
+    "text": "Accessories",
+    "family": "GT America",
+    "size": "30px",
+    "weight": "500",
+    "lh": "36px",
+    "ls": "-0.45px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "p",
+    "text": "Don't just fit in, find your own perfect fit.",
+    "family": "GT America",
+    "size": "30px",
+    "weight": "500",
+    "lh": "36px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(255, 255, 255)",
+  "htmlBg": "rgb(255, 255, 255)",
+  "text": [
+   [
+    "rgb(255, 255, 255)",
+    76
+   ],
+   [
+    "rgb(45, 46, 44)",
+    10
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(0, 0, 0)",
+    5
+   ],
+   [
+    "rgb(255, 255, 255)",
+    4
+   ],
+   [
+    "rgb(45, 46, 44)",
+    3
+   ],
+   [
+    "rgb(32, 32, 32)",
+    2
+   ],
+   [
+    "oklab(0 0 0 / 0.2)",
+    1
+   ],
+   [
+    "rgba(0, 0, 0, 0.5)",
+    1
+   ]
+  ],
+  "gradients": []
+ },
+ "motion": {
+  "cubicBeziers": [],
+  "durations": [
+   [
+    "0.1s",
+    4
+   ],
+   [
+    "300ms",
+    3
+   ],
+   [
+    "0.3s",
+    2
+   ],
+   [
+    "0.2s",
+    2
+   ],
+   [
+    "0.25s",
+    2
+   ],
+   [
+    "400ms",
+    1
+   ],
+   [
+    "0.4s",
+    1
+   ],
+   [
+    "150ms",
+    1
+   ],
+   [
+    "800ms",
+    1
+   ],
+   [
+    "0.6s",
+    1
+   ]
+  ],
+  "keyframes": [
+   "onetrust-fade-in",
+   "otFloatingBtnIntro",
+   "otFloatingBtnImageIntro"
+  ]
+ },
+ "cssVarSample": {},
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": true,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 9,
+  "video": 0,
+  "svg": 61,
+  "picture": 7,
+  "iframes": 2
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 0,
+  "clipPath": 38,
+  "sticky": 5,
+  "fixed": [
+   "right-scroll-bar-position group/header fixed top-0 right-0 l",
+   "onetrust-pc-dark-filter ot-fade-in",
+   "otCenterRounded default"
+  ],
+  "customCursor": true,
+  "boxShadows": [
+   [
+    "rgba(0, 0, 0, 0.2) 0px 0px 18px 0px",
+    1
+   ]
+  ],
+  "filters": [],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "4px",
+   6
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgb(45, 46, 44)",
+   6
+  ],
+  [
+   "1px solid rgba(45, 46, 44, 0.8)",
+   1
+  ]
+ ],
+ "grids": [
+  [
+   "1cols gap normal",
+   9
+  ],
+  [
+   "4cols gap 20px",
+   4
+  ],
+  [
+   "1cols gap 20px",
+   3
+  ],
+  [
+   "2cols gap normal",
+   2
+  ],
+  [
+   "3cols gap 20px",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "100%",
+   7
+  ],
+  [
+   "1440px",
+   1
+  ]
+ ],
+ "sideMargins": [
+  [
+   "541px",
+   5
+  ],
+  [
+   "20px",
+   3
+  ],
+  [
+   "-1px",
+   1
+  ],
+  [
+   "740px",
+   1
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "relative isolate min-h-dvh",
+   "h": 1424,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "relative h-screen",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "lg:flex",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "lg:flex",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "flex w-full items-center justify-center overflow-h",
+   "h": 984,
+   "padTop": "0px",
+   "bg": "rgb(0, 0, 0)"
+  },
+  {
+   "cls": "border-t border-border-inverse-secondary",
+   "h": 407,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "fixed",
+  "height": 52,
+  "links": 2,
+  "linkTexts": [
+   "Open menu",
+   "Search",
+   "Account",
+   "Cart"
+  ],
+  "bg": "rgb(255, 255, 255)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "Settings",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(45, 46, 44)",
+   "radius": "4px",
+   "pad": "12px 10px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 44
+  },
+  {
+   "text": "Only necessary cookies",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(45, 46, 44)",
+   "radius": "4px",
+   "pad": "12px 10px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(45, 46, 44)",
+   "h": 46
+  },
+  {
+   "text": "Accept All",
+   "bg": "rgb(45, 46, 44)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "4px",
+   "pad": "12px 10px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(45, 46, 44)",
+   "h": 46
+  }
+ ],
+ "headings": [
+  "Tailored Suits & Custom Suits for Men",
+  "Find your nearest store",
+  "Get the latest on products and styling",
+  "Cookie settings",
+  "Privacy Preference Center",
+  "Your Privacy",
+  "Strictly Necessary Cookies",
+  "Functional Cookies",
+  "Targeting Cookies",
+  "Performance Cookies",
+  "Cookie List"
+ ],
+ "paras": [
+  "Don't just fit in, find your own perfect fit.",
+  "Get personalized styling and fit advice.",
+  "The most comprehensive Custom Made program.",
+  "Skip the fitting room with Size Passport.",
+  "Alterations by our expert in-store tailors.",
+  "Visit one of our 150 stores worldwide",
+  "for customizations, fittings & styling advice.",
+  "Have a style or fit question? Chat online or book an appointment in our store.",
+  "Enjoy free shipping on every order.",
+  "Or pick-up in your nearest store."
+ ],
+ "footer": {
+  "h": 1507,
+  "text": "Find your nearest store Visit one of our 150 stores worldwide for customizations, fittings & styling advice. Find store Get personal style advice Have a style or fit question? Chat online or book an appointment in our store. Ask a style expert Free shipping & returns Enjoy free shipping on every ord"
+ },
+ "jsMotion": {
+  "scriptsFetched": 5,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "0",
+    2
+   ]
+  ],
+  "staggers": [],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

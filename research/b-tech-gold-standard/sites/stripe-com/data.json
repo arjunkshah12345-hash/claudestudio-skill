@@ -1,0 +1,1176 @@
+{
+ "url": "https://stripe.com",
+ "slug": "stripe-com",
+ "analyzedAt": "2026-10-07T05:13:15.582Z",
+ "scrollHeight": 15241,
+ "pageLengthInViewports": 16.9,
+ "title": "Stripe | Financial Infrastructure to Grow Your Revenue",
+ "metaDescription": "Stripe is a financial services platform that helps all types of businesses accept payments, build flexible billing models, and manage money movement.",
+ "lang": "en-US",
+ "type": {
+  "loadedFonts": [
+   "sohne-var 1 1000 normal",
+   "SourceCodePro 500 normal"
+  ],
+  "families": [
+   [
+    "sohne-var",
+    677
+   ],
+   [
+    "SourceCodePro",
+    29
+   ]
+  ],
+  "sizes": [
+   [
+    "16px",
+    200
+   ],
+   [
+    "10px",
+    193
+   ],
+   [
+    "11px",
+    89
+   ],
+   [
+    "12px",
+    45
+   ],
+   [
+    "9px",
+    44
+   ],
+   [
+    "26px",
+    27
+   ],
+   [
+    "8px",
+    23
+   ],
+   [
+    "22px",
+    20
+   ],
+   [
+    "14px",
+    19
+   ],
+   [
+    "48px",
+    12
+   ],
+   [
+    "18px",
+    12
+   ],
+   [
+    "32px",
+    11
+   ],
+   [
+    "13px",
+    5
+   ],
+   [
+    "15px",
+    3
+   ],
+   [
+    "56px",
+    1
+   ],
+   [
+    "21px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "300",
+    429
+   ],
+   [
+    "400",
+    247
+   ],
+   [
+    "500",
+    29
+   ],
+   [
+    "700",
+    1
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    485
+   ],
+   [
+    "-0.030em@10",
+    56
+   ],
+   [
+    "0.010em@10",
+    42
+   ],
+   [
+    "-0.030em@11",
+    23
+   ],
+   [
+    "-0.010em@26",
+    22
+   ],
+   [
+    "-0.010em@22",
+    20
+   ],
+   [
+    "-0.020em@48",
+    12
+   ],
+   [
+    "-0.020em@32",
+    11
+   ],
+   [
+    "-0.016em@11",
+    6
+   ],
+   [
+    "-0.030em@26",
+    4
+   ],
+   [
+    "-0.030em@9",
+    4
+   ],
+   [
+    "-0.011em@12",
+    4
+   ],
+   [
+    "-0.009em@9",
+    3
+   ],
+   [
+    "-0.016em@13",
+    3
+   ],
+   [
+    "-0.030em@12",
+    2
+   ]
+  ],
+  "uppercaseShare": 0,
+  "largest": [
+   {
+    "tag": "h2",
+    "text": "The backbone of global commerce",
+    "family": "sohne-var",
+    "size": "56px",
+    "weight": "300",
+    "lh": "57.68px",
+    "ls": "-1.4px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(6, 27, 49)"
+   },
+   {
+    "tag": "em",
+    "text": "Financial infrastructure to grow your revenue.",
+    "family": "sohne-var",
+    "size": "48px",
+    "weight": "300",
+    "lh": "55.2px",
+    "ls": "-0.96px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(6, 27, 49)"
+   },
+   {
+    "tag": "span",
+    "text": "Accept payments, handle business banking,1 and implement custom revenue models—from your f",
+    "family": "sohne-var",
+    "size": "48px",
+    "weight": "300",
+    "lh": "55.2px",
+    "ls": "-0.96px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(129, 184, 26)"
+   },
+   {
+    "tag": "span",
+    "text": "Building the economic infrastructure for AI",
+    "family": "sohne-var",
+    "size": "48px",
+    "weight": "300",
+    "lh": "49.44px",
+    "ls": "-0.96px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "p",
+    "text": "135+",
+    "family": "sohne-var",
+    "size": "48px",
+    "weight": "300",
+    "lh": "48px",
+    "ls": "-0.96px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(6, 27, 49)"
+   },
+   {
+    "tag": "p",
+    "text": "$1.9T",
+    "family": "sohne-var",
+    "size": "48px",
+    "weight": "300",
+    "lh": "48px",
+    "ls": "-0.96px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(125, 139, 164)"
+   },
+   {
+    "tag": "p",
+    "text": "99.999%",
+    "family": "sohne-var",
+    "size": "48px",
+    "weight": "300",
+    "lh": "48px",
+    "ls": "-0.96px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(125, 139, 164)"
+   },
+   {
+    "tag": "p",
+    "text": "200M+",
+    "family": "sohne-var",
+    "size": "48px",
+    "weight": "300",
+    "lh": "48px",
+    "ls": "-0.96px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(125, 139, 164)"
+   },
+   {
+    "tag": "h4",
+    "text": "500M+",
+    "family": "sohne-var",
+    "size": "48px",
+    "weight": "300",
+    "lh": "49.44px",
+    "ls": "-0.96px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "h4",
+    "text": "10K+",
+    "family": "sohne-var",
+    "size": "48px",
+    "weight": "300",
+    "lh": "49.44px",
+    "ls": "-0.96px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "h4",
+    "text": "150K+",
+    "family": "sohne-var",
+    "size": "48px",
+    "weight": "300",
+    "lh": "49.44px",
+    "ls": "-0.96px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "h2",
+    "text": "Flexible solutions for every business model.",
+    "family": "sohne-var",
+    "size": "32px",
+    "weight": "300",
+    "lh": "35.2px",
+    "ls": "-0.64px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(6, 27, 49)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgba(0, 0, 0, 0)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(6, 27, 49)",
+    214
+   ],
+   [
+    "rgb(80, 97, 122)",
+    207
+   ],
+   [
+    "rgb(100, 116, 141)",
+    57
+   ],
+   [
+    "rgb(255, 255, 255)",
+    44
+   ],
+   [
+    "rgb(83, 58, 253)",
+    41
+   ],
+   [
+    "rgb(0, 0, 0)",
+    24
+   ],
+   [
+    "rgb(39, 57, 81)",
+    16
+   ],
+   [
+    "rgb(26, 44, 68)",
+    14
+   ],
+   [
+    "rgb(60, 79, 105)",
+    14
+   ],
+   [
+    "rgb(255, 97, 24)",
+    12
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(255, 255, 255)",
+    42
+   ],
+   [
+    "rgb(127, 125, 252)",
+    31
+   ],
+   [
+    "rgb(229, 237, 245)",
+    19
+   ],
+   [
+    "rgb(248, 250, 253)",
+    15
+   ],
+   [
+    "rgb(83, 58, 253)",
+    12
+   ],
+   [
+    "rgba(255, 255, 255, 0)",
+    12
+   ],
+   [
+    "rgba(21, 190, 83, 0.2)",
+    7
+   ],
+   [
+    "rgb(255, 250, 253)",
+    4
+   ],
+   [
+    "rgb(18, 32, 84)",
+    4
+   ],
+   [
+    "rgba(248, 250, 253, 0.45)",
+    3
+   ],
+   [
+    "rgba(255, 255, 255, 0.38)",
+    3
+   ],
+   [
+    "rgb(226, 228, 255)",
+    3
+   ]
+  ],
+  "gradients": [
+   [
+    "radial-gradient(circle, rgb(127, 125, 252), rgb(244, 75, 204) 33%, rgb(229, 237, 245) 66%)",
+    6
+   ],
+   [
+    "conic-gradient(rgb(255, 215, 239) 0%, rgb(255, 215, 239) 25%, rgb(165, 29, 133) 50%, rgb(255, 215, 239) 75%, rgb(255, 215, 239) 100%)",
+    5
+   ],
+   [
+    "conic-gradient(from 360deg, rgb(255, 215, 239) 0%, rgb(255, 215, 239) 25%, rgb(165, 29, 133) 50%, rgb(255, 215, 239) 75%, rgb(255, 215, 239)",
+    3
+   ],
+   [
+    "linear-gradient(90deg, rgba(0, 0, 0, 0) 0px, rgb(67, 4, 234) 50%, rgba(0, 0, 0, 0) 100%)",
+    2
+   ],
+   [
+    "radial-gradient(66.35% 66.35%, rgba(255, 255, 255, 0.9) 0px, rgba(255, 255, 255, 0) 100%), none",
+    1
+   ],
+   [
+    "radial-gradient(50% 50%, rgba(83, 58, 253, 0.8) 62.5%, rgba(83, 58, 253, 0) 100%)",
+    1
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [],
+  "durations": [],
+  "keyframes": []
+ },
+ "cssVarSample": {},
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": true,
+  "webglCanvas": 0,
+  "canvases": 13,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": true,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": true,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 44,
+  "video": 0,
+  "svg": 276,
+  "picture": 44,
+  "iframes": 2
+ },
+ "effects": {
+  "mixBlend": [
+   [
+    "multiply",
+    4
+   ],
+   [
+    "hard-light",
+    1
+   ]
+  ],
+  "backdropFilter": 3,
+  "clipPath": 91,
+  "sticky": 1,
+  "fixed": [
+   "NotificationsShell_notifications-shell__1maaD"
+  ],
+  "customCursor": false,
+  "boxShadows": [
+   [
+    "rgba(50, 50, 93, 0.25) 0px 30px 45px -30px, rgba(0, 0, 0, 0.1) 0px 18px 36px -18px",
+    4
+   ],
+   [
+    "rgba(23, 23, 23, 0.08) 0px 15px 35px 0px",
+    3
+   ],
+   [
+    "rgba(23, 23, 23, 0.06) 0px 3px 6px 0px",
+    3
+   ],
+   [
+    "rgba(0, 0, 0, 0.1) 0px 20.187px 40.374px -20.187px",
+    3
+   ],
+   [
+    "rgba(50, 50, 93, 0.12) 0px 16px 32px 0px",
+    2
+   ]
+  ],
+  "filters": [
+   [
+    "blur(10px)",
+    3
+   ],
+   [
+    "blur(15px)",
+    1
+   ],
+   [
+    "url(\"#:R51qnnmr6l6:-1\")",
+    1
+   ],
+   [
+    "url(\"#:R51qnnmr6l6:-2\")",
+    1
+   ],
+   [
+    "url(\"#:R51qnnmr6l6:-3\")",
+    1
+   ]
+  ],
+  "transforms3d": 9,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "4px",
+   69
+  ],
+  [
+   "6px",
+   62
+  ],
+  [
+   "1px",
+   31
+  ],
+  [
+   "0px 0px 6px 6px",
+   4
+  ],
+  [
+   "16px",
+   3
+  ],
+  [
+   "6px 6px 0px 0px",
+   2
+  ],
+  [
+   "4.51px",
+   2
+  ],
+  [
+   "10px",
+   1
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgb(229, 237, 245)",
+   42
+  ],
+  [
+   "bottom:1px solid rgb(229, 237, 245)",
+   22
+  ],
+  [
+   "1px dashed rgb(54, 43, 170)",
+   12
+  ],
+  [
+   "1px solid rgb(185, 185, 249)",
+   10
+  ],
+  [
+   "bottom:1px solid rgb(255, 230, 245)",
+   10
+  ],
+  [
+   "1px solid rgb(214, 217, 252)",
+   9
+  ]
+ ],
+ "grids": [
+  [
+   "4cols gap normal",
+   21
+  ],
+  [
+   "1cols gap normal",
+   13
+  ],
+  [
+   "3cols gap normal",
+   10
+  ],
+  [
+   "6cols gap normal",
+   10
+  ],
+  [
+   "12cols gap 16px",
+   8
+  ],
+  [
+   "2cols gap 32px",
+   8
+  ],
+  [
+   "3cols gap 16px",
+   6
+  ],
+  [
+   "2cols gap 10px",
+   5
+  ]
+ ],
+ "containers": [
+  [
+   "1266px",
+   16
+  ],
+  [
+   "817.778px",
+   8
+  ],
+  [
+   "100%",
+   7
+  ],
+  [
+   "876.259px",
+   4
+  ],
+  [
+   "856px",
+   3
+  ],
+  [
+   "752px",
+   3
+  ]
+ ],
+ "sideMargins": [
+  [
+   "104px",
+   42
+  ],
+  [
+   "128px",
+   4
+  ],
+  [
+   "160px",
+   4
+  ],
+  [
+   "520px",
+   4
+  ],
+  [
+   "936px",
+   4
+  ],
+  [
+   "832px",
+   3
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "hds-color-mode navigation section section--white h",
+   "h": 76,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section-container navigation__layout",
+   "h": 76,
+   "padTop": "6px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "hds-color-mode hero-section-container section sect",
+   "h": 685,
+   "padTop": "0px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "section-container hero-section__layout",
+   "h": 612,
+   "padTop": "36px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "hero-section__layout-grid",
+   "h": 370,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "hero-section__eyebrow",
+   "h": 21,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "hero-section__eyebrow-label",
+   "h": 18,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "hero-section__eyebrow-value tabular-nums--tight",
+   "h": 18,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "hero-section__eyebrow-value__content-outgoing",
+   "h": 18,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "hero-section__eyebrow-value__content-incoming hero",
+   "h": 18,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "hds-heading hero-section__title hero-section__titl",
+   "h": 221,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "hero-section__title-main",
+   "h": 61,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "hero-section__title-copy",
+   "h": 171,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "hds-heading hero-section__title hero-section__titl",
+   "h": 221,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "hero-section__title-main",
+   "h": 61,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "hero-section__title-copy",
+   "h": 171,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "hds-button-group hero-section__actions",
+   "h": 48,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "hds-button hero-section__button--google hds-button",
+   "h": 48,
+   "padTop": "14.5px",
+   "bg": "rgba(255, 255, 255, 0.65)"
+  },
+  {
+   "cls": "section-background hero-section__background",
+   "h": 761,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "hero-section__fullbleed-line hero-section__fullble",
+   "h": 1,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "hero-section__fullbleed-line hero-section__fullble",
+   "h": 1,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section-container hero-logo-section",
+   "h": 73,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "hds-color-mode section section--white hds-mode--li",
+   "h": 2196,
+   "padTop": "0px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "section-background modular-solutions-bg",
+   "h": 2196,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section-container section-row modular-solutions-se",
+   "h": 2196,
+   "padTop": "96px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section-title section-title--span-8",
+   "h": 106,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "hds-heading modular-solutions-section__description",
+   "h": 110,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "hds-color-mode section section--white hds-mode--li",
+   "h": 438,
+   "padTop": "0px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "section-container personalize-section",
+   "h": 438,
+   "padTop": "96px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "hds-color-mode section section--white hds-mode--li",
+   "h": 560,
+   "padTop": "0px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "section-container sessions-section",
+   "h": 560,
+   "padTop": "80px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "hds-heading sessions-section__header-text hds-head",
+   "h": 99,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "hds-button sessions-section__cta-button hds-button",
+   "h": 48,
+   "padTop": "15.5px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "hds-color-mode stats-section stats-section--time-s",
+   "h": 977,
+   "padTop": "0px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "stats-section__border",
+   "h": 977,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "stats-section__border-inline-graphic",
+   "h": 519,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "stats-section__active-indicator-container",
+   "h": 977,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "stats-section__active-indicator-graphic",
+   "h": 519,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "stats-section__active-indicator stats-section__act",
+   "h": 1,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "stats-section__active-indicator stats-section__act",
+   "h": 1,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "relative",
+  "height": 76,
+  "links": 10,
+  "linkTexts": [
+   "Products",
+   "Solutions",
+   "Developers",
+   "Resources",
+   "Pricing",
+   "Guide me",
+   "Sign in",
+   "Get recommendationsTell us about your business",
+   "See all productsExplore our full product catalog",
+   "Start now",
+   "Contact sales",
+   "Back",
+   "Sign in\nSign in",
+   "Contact sales"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "Sign in Sign in",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(83, 58, 253)",
+   "radius": "4px",
+   "pad": "10.5px 20px 13.5px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(255, 255, 255)",
+   "h": 40
+  },
+  {
+   "text": "Contact sales",
+   "bg": "rgb(83, 58, 253)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "4px",
+   "pad": "11.5px 20px 12.5px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 40
+  },
+  {
+   "text": "Get started",
+   "bg": "rgb(83, 58, 253)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "4px",
+   "pad": "15.5px 24px 16.5px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 48
+  },
+  {
+   "text": "Sign up with Google",
+   "bg": "rgba(255, 255, 255, 0.65)",
+   "color": "rgb(83, 58, 253)",
+   "radius": "4px",
+   "pad": "14.5px 24px 15.5px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(185, 185, 249)",
+   "h": 48
+  },
+  {
+   "text": "Watch now",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(83, 58, 253)",
+   "radius": "4px",
+   "pad": "15.5px 24px 16.5px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 48
+  },
+  {
+   "text": "Stripe for enterprises",
+   "bg": "rgb(83, 58, 253)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "4px",
+   "pad": "15.5px 24px 16.5px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 48
+  },
+  {
+   "text": "Read the story",
+   "bg": "rgba(255, 255, 255, 0)",
+   "color": "rgb(83, 58, 253)",
+   "radius": "4px",
+   "pad": "0px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(214, 217, 252)",
+   "h": 40
+  },
+  {
+   "text": "Read the story",
+   "bg": "rgb(226, 228, 255)",
+   "color": "rgb(83, 58, 253)",
+   "radius": "4px",
+   "pad": "0px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(226, 228, 255)",
+   "h": 40
+  },
+  {
+   "text": "Read the story",
+   "bg": "rgb(226, 228, 255)",
+   "color": "rgb(83, 58, 253)",
+   "radius": "4px",
+   "pad": "0px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(226, 228, 255)",
+   "h": 40
+  },
+  {
+   "text": "Read the story",
+   "bg": "rgb(226, 228, 255)",
+   "color": "rgb(83, 58, 253)",
+   "radius": "4px",
+   "pad": "0px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(226, 228, 255)",
+   "h": 40
+  }
+ ],
+ "headings": [
+  "Financial infrastructure to grow your revenue. Accept payments, handle business banking,1 and implement custom revenue models—from your first transaction to your billionth.",
+  "Financial infrastructure to grow your revenue. Accept payments, handle business banking,1 and implement custom revenue models—from your first transaction to your billionth.",
+  "Flexible solutions for every business model.",
+  "Accept and optimize payments globally—online and in person",
+  "Enable any billing model",
+  "Monetize through agentic commerce",
+  "Create a card issuing program",
+  "Access borderless money movement with stablecoins and crypto",
+  "Embed payments in your platform",
+  "Get Stripe product recommendations",
+  "The backbone of global commerce",
+  "Powering businesses of all sizes.",
+  "Transform your enterprise with agile financial infrastructure",
+  "Hertz unifies commerce with Stripe.",
+  "URBN consolidates $5 billion in online and in-store revenue onto Stripe.",
+  "Instacart powers online grocery delivery with Stripe.",
+  "Le Monde improves local and international payments with Stripe.",
+  "Build a foundation for your startup that enables faster growth",
+  "Make your SaaS platform a complete financial operating system",
+  "Reliable, extensible infrastructure for every stack.",
+  "Connect to existing systems.",
+  "Scale with confidence.",
+  "Choose an integration path.",
+  "What’s happening",
+  "Businesses on Stripe generated $1.9T in 2025."
+ ],
+ "paras": [
+  "Grow your business with a comprehensive set of payments and financial tools⁠—⁠designed to work individually or together.",
+  "Grow your business with the most comprehensive set of payments and financial tools.",
+  "Enter your company's URL, or tell us what you sell and how you sell it.",
+  "By messaging, you understand how Stripe uses AI and acknowledge our Privacy Policy.",
+  "currencies and payment methods supported",
+  "in payments volume processed in 2025",
+  "historical uptime for Stripe services",
+  "active subscriptions managed on Stripe Billing",
+  "Run your business on a reliable platform that adapts to your needs.",
+  "50% of Fortune 100 companies have used Stripe to grow their businesses—from expanding internationally to reimagining the customer experience."
+ ],
+ "footer": {
+  "h": 1102,
+  "text": "Products and pricing Pricing Atlas Authorization Boost Billing Capital Capital for platforms Checkout Climate Connect Crypto Crypto Onramp Data Pipeline Elements Financial Connections Global Payouts Identity Invoicing Issuing Link Managed Payments Payment links Payment methods Payments Radar Revenue"
+ },
+ "jsMotion": {
+  "scriptsFetched": 25,
+  "gsapEases": [
+   [
+    "linear",
+    2
+   ]
+  ],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "0",
+    4
+   ],
+   [
+    "1",
+    2
+   ],
+   [
+    ".2",
+    2
+   ],
+   [
+    ".25",
+    2
+   ],
+   [
+    ".45",
+    1
+   ],
+   [
+    ".6",
+    1
+   ]
+  ],
+  "staggers": [],
+  "lenis": [],
+  "springs": [
+   [
+    "type:\"spring\",stiffness:400,damping:25",
+    1
+   ]
+  ],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": [
+   [
+    "[.4,0,.1,1]",
+    1
+   ]
+  ]
+ }
+}

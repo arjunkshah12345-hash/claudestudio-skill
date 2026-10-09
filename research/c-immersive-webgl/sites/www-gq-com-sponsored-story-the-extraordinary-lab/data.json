@@ -1,0 +1,436 @@
+{
+ "url": "https://www.gq.com/sponsored/story/the-extraordinary-lab",
+ "slug": "www-gq-com-sponsored-story-the-extraordinary-lab",
+ "analyzedAt": "2026-10-07T05:29:25.546Z",
+ "scrollHeight": 900,
+ "pageLengthInViewports": 1,
+ "title": "The Extraordinary Lab | GQ",
+ "metaDescription": "GQ x AP: Discover the RD5 with J Balvin and Cam Wolf",
+ "lang": "en-US",
+ "type": {
+  "loadedFonts": [
+   "Adobe Garamond Pro 400 normal",
+   "GT-America 500 normal"
+  ],
+  "families": [
+   [
+    "Inter",
+    2
+   ],
+   [
+    "GT-America",
+    1
+   ]
+  ],
+  "sizes": [
+   [
+    "16px",
+    1
+   ],
+   [
+    "14px",
+    1
+   ],
+   [
+    "11px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "600",
+    2
+   ],
+   [
+    "500",
+    1
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    2
+   ],
+   [
+    "0.003em@16",
+    1
+   ]
+  ],
+  "uppercaseShare": 0.33,
+  "largest": [
+   {
+    "tag": "div",
+    "text": "GPC Detected",
+    "family": "Inter",
+    "size": "16px",
+    "weight": "600",
+    "lh": "24px",
+    "ls": "0.05px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(74, 85, 104)"
+   },
+   {
+    "tag": "span",
+    "text": "Close",
+    "family": "Inter",
+    "size": "14px",
+    "weight": "600",
+    "lh": "19.6px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "button",
+    "text": "SOUND",
+    "family": "GT-America",
+    "size": "11px",
+    "weight": "500",
+    "lh": "13.2px",
+    "ls": "normal",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(255, 255, 255)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(255, 255, 255)",
+    2
+   ],
+   [
+    "rgb(74, 85, 104)",
+    1
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgba(0, 0, 0, 0.25)",
+    1
+   ],
+   [
+    "rgb(247, 250, 252)",
+    1
+   ],
+   [
+    "rgb(43, 46, 53)",
+    1
+   ],
+   [
+    "rgb(0, 0, 0)",
+    1
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(90deg, rgb(255, 255, 255), rgb(255, 255, 255) 25%, rgba(255, 255, 255, 0.4) 50%, rgba(255, 255, 255, 0.4) 75%, rgb(255, 255,",
+    1
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.445,0.05,0.55,0.95)",
+    5
+   ],
+   [
+    "cubic-bezier(0.29,0,0.34,1)",
+    2
+   ],
+   [
+    "cubic-bezier(0,0,1,1)",
+    1
+   ],
+   [
+    "cubic-bezier(.25,.1,.25,1)",
+    1
+   ],
+   [
+    "cubic-bezier(.37,0,.63,1)",
+    1
+   ],
+   [
+    "cubic-bezier(.12,0,.39,0)",
+    1
+   ],
+   [
+    "cubic-bezier(.61,1,.88,1)",
+    1
+   ],
+   [
+    "cubic-bezier(.65,0,.35,1)",
+    1
+   ],
+   [
+    "cubic-bezier(.32,0,.67,0)",
+    1
+   ],
+   [
+    "cubic-bezier(.33,1,.68,1)",
+    1
+   ],
+   [
+    "cubic-bezier(.83,0,.17,1)",
+    1
+   ],
+   [
+    "cubic-bezier(.64,0,.78,0)",
+    1
+   ]
+  ],
+  "durations": [
+   [
+    "0.3s",
+    26
+   ],
+   [
+    "0.2s",
+    17
+   ],
+   [
+    "1s",
+    12
+   ],
+   [
+    "0.5s",
+    6
+   ],
+   [
+    "0.8s",
+    4
+   ],
+   [
+    "0.25s",
+    3
+   ],
+   [
+    "1.3s",
+    3
+   ],
+   [
+    "0ms",
+    2
+   ],
+   [
+    "0.12s",
+    2
+   ],
+   [
+    "0.6s",
+    2
+   ]
+  ],
+  "keyframes": [
+   "spin",
+   "fides-skeleton-loading",
+   "cssLoadingSafeFade-818be014"
+  ]
+ },
+ "cssVarSample": {
+  "--fides-overlay-primary-color": "#2b2e35",
+  "--fides-overlay-background-color": "#f7fafc",
+  "--fides-overlay-embed-background-color": "transparent",
+  "--fides-overlay-font-color": "#4a5568",
+  "--fides-overlay-font-color-dark": "#2d3748",
+  "--fides-overlay-hover-color": "#edf2f7",
+  "--fides-overlay-gpc-applied-background-color": "#38a169",
+  "--fides-overlay-gpc-applied-text-color": "#fff",
+  "--fides-overlay-gpc-overridden-background-color": "#e53e3e",
+  "--fides-overlay-gpc-overridden-text-color": "#fff",
+  "--fides-overlay-brand-link-logo-color": "#2b2e35",
+  "--fides-overlay-background-dark-color": "#e2e8f0",
+  "--fides-overlay-background-error-color": "#f7c2c2",
+  "--fides-overlay-error-color": "#e53e3e",
+  "--fides-overlay-success-color": "#38a169",
+  "--fides-overlay-skeleton-gradient-from-color": "rgba(0,0,0,.06)",
+  "--fides-overlay-skeleton-gradient-to-color": "rgba(0,0,0,.15)",
+  "--fides-overlay-inactive-font-color": "#a0aec0",
+  "--fides-overlay-primary-button-background-color": "var(\n    --fides-overlay-primary-color\n  )",
+  "--fides-overlay-primary-button-background-hover-color": "#4f525b",
+  "--fides-overlay-primary-button-text-color": "#fff",
+  "--fides-overlay-primary-button-border-color": "transparent",
+  "--fides-overlay-secondary-button-background-color": "var(\n    --fides-overlay-background-color\n  )",
+  "--fides-overlay-secondary-button-background-hover-color": "var(\n    --fides-overlay-hover-color\n  )",
+  "--fides-overlay-neutral-background-color": "#edf2f7",
+  "--fides-overlay-secondary-button-text-color": "#2d3748",
+  "--fides-overlay-secondary-button-border-color": "var(\n    --fides-overlay-primary-color\n  )",
+  "--fides-overlay-secondary-button-border-color-disabled": "#a0aec0",
+  "--fides-overlay-title-font-color": "var(--fides-overlay-font-color)",
+  "--fides-overlay-body-font-color": "var(--fides-overlay-font-color)",
+  "--fides-overlay-link-font-color": "var(--fides-overlay-font-color-dark)",
+  "--fides-overlay-line-height": "1.4em",
+  "--fides-overlay-primary-active-color": "var(--fides-overlay-primary-color)",
+  "--fides-overlay-inactive-color": "#e2e8f0",
+  "--fides-overlay-disabled-color": "#e1e7ee",
+  "--fides-overlay-row-divider-color": "#e2e8f0",
+  "--fides-overlay-row-hover-color": "var(--fides-overlay-hover-color)",
+  "--fides-overlay-badge-background-color": "#718096",
+  "--fides-overlay-badge-border-radius": "4px",
+  "--fides-overlay-select-border-color": "#e2e8f0",
+  "--fides-overlay-language-button-border-radius": "4px",
+  "--fides-overlay-form-label-color": "var(--fides-overlay-font-color)",
+  "--fides-overlay-form-input-background-color": "var(\n    --fides-overlay-background-color\n  )",
+  "--fides-overlay-form-input-border-radius": "var(\n    --fides-overlay-component-border-radius\n  )",
+  "--fides-overlay-form-input-border-color": "var(\n    --fides-overlay-select-border-color\n  )",
+  "--fides-overlay-form-input-font-color": "var(--fides-overlay-body-font-color)",
+  "--fides-overlay-width": "850px",
+  "--fides-overlay-font-family": "Inter,sans-serif",
+  "--fides-base-font-size": "16px",
+  "--8px": "calc(var(--fides-base-font-size)*0.5)",
+  "--11px": "calc(var(--fides-base-font-size)*0.6875)",
+  "--12px": "calc(var(--fides-base-font-size)*0.75)",
+  "--14px": "calc(var(--fides-base-font-size)*0.875)",
+  "--16px": "calc(var(--fides-base-font-size)*1)",
+  "--fides-overlay-font-size-body-xs": "var(--8px)",
+  "--fides-overlay-font-size-body-small": "var(--12px)",
+  "--fides-overlay-font-size-body": "var(--14px)",
+  "--fides-overlay-font-size-title": "var(--16px)",
+  "--fides-overlay-font-size-buttons": "var(--14px)",
+  "--fides-overlay-padding": "24px",
+  "--fides-overlay-button-border-radius": "6px",
+  "--fides-overlay-button-padding": "8px 16px",
+  "--fides-overlay-link-v-padding": "4px",
+  "--fides-overlay-link-h-padding": "4px",
+  "--fides-overlay-link-padding": "var(--fides-overlay-link-v-padding) var(--fides-overlay-link-h-padding)",
+  "--fides-overlay-container-border-radius": "12px",
+  "--fides-overlay-container-border-width": "1px",
+  "--fides-overlay-component-border-radius": "4px",
+  "--fides-overlay-banner-offset": "48px",
+  "--fides-banner-font-size-title": "var(--16px)"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 1,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 4,
+  "video": 0,
+  "svg": 14,
+  "picture": 0,
+  "iframes": 9
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 0,
+  "clipPath": 0,
+  "sticky": 0,
+  "fixed": [
+   "fides-banner fides-banner-bottom fides-gpc-prompt-banner fid",
+   "splashScreen"
+  ],
+  "customCursor": true,
+  "boxShadows": [
+   [
+    "rgba(0, 0, 0, 0.12) 0px 2px 8px 0px",
+    1
+   ]
+  ],
+  "filters": [],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 1
+ },
+ "radii": [
+  [
+   "6px",
+   1
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgb(43, 46, 53)",
+   1
+  ],
+  [
+   "1px solid rgba(255, 255, 255, 0.3)",
+   1
+  ]
+ ],
+ "grids": [],
+ "containers": [],
+ "sideMargins": [],
+ "sections": [
+  {
+   "cls": "ad ad-body ad-slot ad-content ad-frame ad-item ad-",
+   "h": 1,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "absolute",
+  "height": 16,
+  "links": 1,
+  "linkTexts": [
+   "BACK",
+   "SOUND"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "Close",
+   "bg": "rgb(43, 46, 53)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "6px",
+   "pad": "8px 16px",
+   "size": "14px",
+   "weight": "600",
+   "tt": "none",
+   "border": "none",
+   "h": 36
+  }
+ ],
+ "headings": [
+  "Audemars Piguet DNA"
+ ],
+ "paras": [
+  "If you are a resident of California, you have the right to opt out of targeted advertising, including the “sale” or “sharing” of your personal information, by following the steps below. We and our partners use personal i",
+  "If you have created an account to log into our websites or mobile applications, we will make reasonable efforts to apply your opt-out request to each of those websites and mobile applications. Targeted Advertising: Selec"
+ ],
+ "footer": null,
+ "jsMotion": {
+  "scriptsFetched": 16,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [],
+  "staggers": [],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

@@ -1,0 +1,538 @@
+{
+ "url": "https://www.seventeenagency.com",
+ "slug": "www-seventeenagency-com",
+ "analyzedAt": "2026-10-07T10:00:47.474Z",
+ "scrollHeight": 900,
+ "pageLengthInViewports": 1,
+ "title": "A Creative Agency.",
+ "metaDescription": "A collective of Odd Minds bringing new angles underpinned with meaning.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "Bagosscondensed 400 normal"
+  ],
+  "families": [
+   [
+    "Bagosscondensed",
+    14
+   ]
+  ],
+  "sizes": [
+   [
+    "14px",
+    13
+   ],
+   [
+    "18px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    14
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    14
+   ]
+  ],
+  "uppercaseShare": 0,
+  "largest": [
+   {
+    "tag": "div",
+    "text": "Beauty beneath the surface",
+    "family": "Bagosscondensed",
+    "size": "18px",
+    "weight": "400",
+    "lh": "21.6px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "span",
+    "text": "About",
+    "family": "Bagosscondensed",
+    "size": "14px",
+    "weight": "400",
+    "lh": "16.8px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "span",
+    "text": "Contact",
+    "family": "Bagosscondensed",
+    "size": "14px",
+    "weight": "400",
+    "lh": "16.8px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "p",
+    "text": "A Creative Agency",
+    "family": "Bagosscondensed",
+    "size": "14px",
+    "weight": "400",
+    "lh": "16.8px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(175, 174, 167)"
+   },
+   {
+    "tag": "span",
+    "text": "Watch Showreel",
+    "family": "Bagosscondensed",
+    "size": "14px",
+    "weight": "400",
+    "lh": "16.8px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "div",
+    "text": "Campaign",
+    "family": "Bagosscondensed",
+    "size": "14px",
+    "weight": "400",
+    "lh": "16.8px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "div",
+    "text": "Branding",
+    "family": "Bagosscondensed",
+    "size": "14px",
+    "weight": "400",
+    "lh": "16.8px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(175, 174, 167)"
+   },
+   {
+    "tag": "div",
+    "text": "Strategy",
+    "family": "Bagosscondensed",
+    "size": "14px",
+    "weight": "400",
+    "lh": "16.8px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(175, 174, 167)"
+   },
+   {
+    "tag": "div",
+    "text": "Design",
+    "family": "Bagosscondensed",
+    "size": "14px",
+    "weight": "400",
+    "lh": "16.8px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(175, 174, 167)"
+   },
+   {
+    "tag": "div",
+    "text": "Motion",
+    "family": "Bagosscondensed",
+    "size": "14px",
+    "weight": "400",
+    "lh": "16.8px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "div",
+    "text": "Live Action",
+    "family": "Bagosscondensed",
+    "size": "14px",
+    "weight": "400",
+    "lh": "16.8px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(175, 174, 167)"
+   },
+   {
+    "tag": "div",
+    "text": "Experience",
+    "family": "Bagosscondensed",
+    "size": "14px",
+    "weight": "400",
+    "lh": "16.8px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(255, 255, 255)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(0, 0, 0)",
+    8
+   ],
+   [
+    "rgb(175, 174, 167)",
+    5
+   ],
+   [
+    "rgb(255, 255, 255)",
+    1
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(175, 174, 167)",
+    6
+   ],
+   [
+    "rgb(255, 255, 255)",
+    2
+   ],
+   [
+    "rgb(0, 0, 0)",
+    2
+   ],
+   [
+    "rgb(193, 52, 55)",
+    2
+   ],
+   [
+    "rgb(39, 93, 130)",
+    2
+   ],
+   [
+    "rgb(4, 148, 53)",
+    2
+   ],
+   [
+    "rgb(166, 246, 100)",
+    2
+   ],
+   [
+    "rgb(147, 105, 0)",
+    2
+   ],
+   [
+    "rgb(0, 164, 168)",
+    2
+   ],
+   [
+    "rgb(247, 127, 176)",
+    2
+   ],
+   [
+    "rgb(1, 104, 201)",
+    2
+   ],
+   [
+    "rgb(97, 79, 67)",
+    2
+   ]
+  ],
+  "gradients": []
+ },
+ "motion": {
+  "cubicBeziers": [],
+  "durations": [
+   [
+    "0.2s",
+    4
+   ],
+   [
+    "0.1s",
+    1
+   ],
+   [
+    "0.3s",
+    1
+   ],
+   [
+    "0.8s",
+    1
+   ]
+  ],
+  "keyframes": [
+   "spin"
+  ]
+ },
+ "cssVarSample": {
+  "--swatch--white": "white",
+  "--_text-style---font-family": "var(--_typography---font--primary-family)",
+  "--swatch--black": "black",
+  "--_text-style---font-size": "var(--_typography---font-size--text-main)",
+  "--_text-style---line-height": "var(--_typography---line-height--1-2)",
+  "--_text-style---font-weight": "var(--_typography---font--primary-regular)",
+  "--_text-style---letter-spacing": "var(--_typography---letter-spacing--normal)",
+  "--_text-style---text-wrap": "pretty",
+  "--_gap---size": "clamp(0 * 1rem, ((1 - ((0 - 1) / (90 - 20) * 20)) * 1rem + ((0 - 1) / (90 - 20))",
+  "--_column-count---value": "1",
+  "--_theme---background<deleted|variable-3c7a6c5d-b346-0958-69b9-1a443ea05d8c>": "var(--swatch--white)",
+  "--_theme---text<deleted|variable-7b07ac88-d28a-5c0a-7534-a6752a88d588>": "var(--swatch--dark-900\\<deleted\\|variable-b6de3dc8-5520-0236-77cd-d665fd586e64\\>",
+  "--_text-style---margin-top": "var(--_spacing---space--4)",
+  "--_text-style---margin-bottom": "var(--_spacing---space--4)",
+  "--_spacing---space--6": "clamp(2 * 1rem, ((2 - ((2.5 - 2) / (var(--site--viewport-max)  - var(--site--vie",
+  "--_spacing---space--7": "clamp(2.25 * 1rem, ((2.25 - ((3 - 2.25) / (var(--site--viewport-max)  - var(--si",
+  "--max-width--main": "calc(100% - 2.5rem)",
+  "--site--margin": "clamp(.65 * 1rem, ((.65 - ((1.25 - .65) / (var(--site--viewport-max)  - var(--si",
+  "--max-width--small": "50rem",
+  "--max-width--full": "100%",
+  "--_spacing---section-space--none": "0px",
+  "--_theme---heading-accent<deleted|variable-25bd0d95-1867-08bf-9f2f-eabc649f971e>": "var(--swatch--brand-600\\<deleted\\|variable-f4848f9a-e1c5-5c7a-9707-4fe0d1542434\\",
+  "--_spacing---space--2": "clamp(.625 * 1rem, ((.625 - ((.75 - .625) / (var(--site--viewport-max)  - var(--",
+  "--site--gutter": ".3125rem",
+  "--_theme---background-2<deleted|variable-89fdd2f8-9862-956e-a344-f522b46626b6>": "var(--swatch--light-200\\<deleted\\|variable-5e09e268-4000-b2d4-33b1-0ba18f1060c2\\",
+  "--_spacing---space--1": "clamp(.375 * 1rem, ((.375 - ((.5 - .375) / (var(--site--viewport-max)  - var(--s",
+  "--_spacing---space--3": "clamp(.875 * 1rem, ((.875 - ((1 - .875) / (var(--site--viewport-max)  - var(--si",
+  "--_spacing---space--4": "clamp(1.25 * 1rem, ((1.25 - ((1.5 - 1.25) / (var(--site--viewport-max)  - var(--",
+  "--_spacing---space--5": "clamp(1.75 * 1rem, ((1.75 - ((2 - 1.75) / (var(--site--viewport-max)  - var(--si",
+  "--_spacing---space--8": "clamp(2.5 * 1rem, ((2.5 - ((4 - 2.5) / (var(--site--viewport-max)  - var(--site-",
+  "--_typography---font--primary-family": "Bagosscondensed, Arial, sans-serif",
+  "--_typography---font--primary-regular": "400",
+  "--_typography---font--primary-medium": "400",
+  "--_typography---font--primary-bold<deleted|variable-e1e2311b-a015-23c9-f2d7-7d185e6e1fba>": "700",
+  "--radius--small": ".5rem",
+  "--radius--main": "1rem",
+  "--radius--round": "100vw",
+  "--border-width--main": ".094rem",
+  "--_theme---border<deleted|variable-375c0552-4fe6-af3e-8135-4c691ee51697>": "var(--swatch--dark-900-o20\\<deleted\\|variable-557e4305-722f-6eb9-d262-0c2d58b51a",
+  "--_typography---line-height--1-2": "1.2",
+  "--swatch--transparent": "transparent",
+  "--_button-style---border<deleted|variable-b97ddfb4-6d90-27d3-8b87-e0f32bec874e>": "var(--_theme---button-primary--border\\<deleted\\|variable-d1c20890-b9bf-52c5-153d",
+  "--_button-style---background<deleted|variable-83505492-b545-85a4-57db-bb991b835926>": "var(--_theme---button-primary--background)",
+  "--_button-style---text<deleted|variable-73f4c8f4-8155-13ae-2af0-a226c74961f3>": "var(--_theme---button-primary--text)",
+  "--_button-style---border-hover<deleted|variable-fa723e17-bdd1-ac4a-2de8-c62ccf489001>": "var(--_theme---button-primary--border-hover\\<deleted\\|variable-04513061-eb75-c41",
+  "--_button-style---background-hover<deleted|variable-4a5c6562-0a94-836e-aa8d-6ae2c8dd30a4>": "var(--_theme---button-primary--background-hover\\<deleted\\|variable-bc220867-fcc4",
+  "--_button-style---text-hover<deleted|variable-123f8bbc-f52c-6a6c-04f5-192a992c1cde>": "var(--_theme---button-primary--text-hover\\<deleted\\|variable-d1a0fdd8-56f7-a08b-",
+  "--_spacing---section-space--small": "clamp(3 * 1rem, ((3 - ((5 - 3) / (var(--site--viewport-max)  - var(--site--viewp",
+  "--swatch--slate": "#afaea7",
+  "--_theme---text-link--border<deleted|variable-d69c2b9d-7fc0-2e47-1cf9-0bef27b97617>": "var(--_theme---border\\<deleted\\|variable-375c0552-4fe6-af3e-8135-4c691ee51697\\>)",
+  "--_theme---text-link--text": "var(--swatch--slate)",
+  "--_theme---text-link--border-hover<deleted|variable-c4d20a9e-07c7-2a14-6b17-5c78c59ec09b>": "var(--_theme---text\\<deleted\\|variable-7b07ac88-d28a-5c0a-7534-a6752a88d588\\>)",
+  "--_theme---text-link--text-hover": "var(--swatch--black)",
+  "--swatch--theme-white": "white",
+  "--swatch--theme-black": "black",
+  "--_theme---selection--background": "var(--swatch--black)",
+  "--_theme---selection--text": "var(--swatch--white)",
+  "--sizes--1-25rem": "clamp(.65 * 1rem, ((.65 - ((1.25 - .65) / (var(--site--viewport-max)  - var(--si",
+  "--0-3rem": ".3rem",
+  "--5-5rem": "5.5rem",
+  "--0-5625rem": ".5625rem",
+  "--2-5rem": "2.5rem",
+  "--3-75rem": "3.75rem",
+  "--_typography---line-height--1-4": "1.4",
+  "--7-25rem": "7.25rem",
+  "--0-62rem": ".62rem",
+  "--4rem": "4rem",
+  "--_typography---line-height--1-1": "1.1",
+  "--1-125rem": "1.125rem",
+  "--1-5625rem": "1.5625rem"
+ },
+ "libs": {
+  "gsap": true,
+  "scrollTrigger": true,
+  "lenis": true,
+  "locomotive": false,
+  "three": true,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": true,
+  "swup": false,
+  "framer": false,
+  "webflow": true,
+  "next": false,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": true,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 26,
+  "video": 3,
+  "svg": 12,
+  "picture": 0,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 0,
+  "clipPath": 1,
+  "sticky": 0,
+  "fixed": [
+   "nav-component is-desktop",
+   "work-ui",
+   "home-infinite_component",
+   "work-item_info visible"
+  ],
+  "customCursor": true,
+  "boxShadows": [],
+  "filters": [],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [],
+ "borders": [],
+ "grids": [
+  [
+   "1cols gap normal",
+   5
+  ],
+  [
+   "1cols gap 10px",
+   5
+  ],
+  [
+   "17cols gap 5px",
+   1
+  ],
+  [
+   "18cols gap 5px",
+   1
+  ],
+  [
+   "3cols gap 5px",
+   1
+  ],
+  [
+   "8cols gap 5px",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "calc(100% - 40px)",
+   3
+  ]
+ ],
+ "sideMargins": [],
+ "sections": [
+  {
+   "cls": "work-ui",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "home-infinite_component",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": null,
+ "ctas": [
+  {
+   "text": "About",
+   "bg": "rgb(175, 174, 167)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "0px 5px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 19
+  },
+  {
+   "text": "Contact",
+   "bg": "rgb(175, 174, 167)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "0px 5px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 19
+  }
+ ],
+ "headings": [],
+ "paras": [],
+ "footer": null,
+ "jsMotion": {
+  "scriptsFetched": 16,
+  "gsapEases": [
+   [
+    "none",
+    2
+   ],
+   [
+    "expo",
+    1
+   ],
+   [
+    "power4",
+    1
+   ]
+  ],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "0",
+    3
+   ],
+   [
+    ".5",
+    2
+   ],
+   [
+    "1",
+    1
+   ]
+  ],
+  "staggers": [
+   [
+    "0",
+    4
+   ]
+  ],
+  "lenis": [
+   [
+    "smoothWheel:o",
+    2
+   ],
+   [
+    "wheelMultiplier:1",
+    1
+   ]
+  ],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

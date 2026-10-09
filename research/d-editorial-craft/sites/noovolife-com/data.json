@@ -1,0 +1,962 @@
+{
+ "url": "https://noovolife.com",
+ "slug": "noovolife-com",
+ "analyzedAt": "2026-10-07T05:29:06.737Z",
+ "scrollHeight": 11434,
+ "pageLengthInViewports": 12.7,
+ "title": "Noovo Camper Vans | the Luxury of Home in a Class B RV",
+ "metaDescription": "Welcome to Noovo—offering premium camper van conversions in the US. Design your dream van today and enjoy adventures with comfort and safety.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "generalFont 600 normal",
+   "generalFont 500 normal",
+   "generalFont 400 normal",
+   "generalFont Fallback normal normal"
+  ],
+  "families": [
+   [
+    "generalFont",
+    150
+   ],
+   [
+    "GeneralSans",
+    42
+   ]
+  ],
+  "sizes": [
+   [
+    "14px",
+    83
+   ],
+   [
+    "20px",
+    42
+   ],
+   [
+    "15px",
+    11
+   ],
+   [
+    "12px",
+    9
+   ],
+   [
+    "16px",
+    9
+   ],
+   [
+    "70px",
+    8
+   ],
+   [
+    "60px",
+    8
+   ],
+   [
+    "30px",
+    7
+   ],
+   [
+    "36px",
+    7
+   ],
+   [
+    "46px",
+    6
+   ],
+   [
+    "40px",
+    1
+   ],
+   [
+    "11px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    119
+   ],
+   [
+    "500",
+    73
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    70
+   ],
+   [
+    "-0.020em@20",
+    19
+   ],
+   [
+    "-0.036em@14",
+    16
+   ],
+   [
+    "-0.020em@14",
+    12
+   ],
+   [
+    "-0.025em@20",
+    11
+   ],
+   [
+    "-0.050em@20",
+    11
+   ],
+   [
+    "-0.023em@14",
+    9
+   ],
+   [
+    "-0.040em@70",
+    8
+   ],
+   [
+    "-0.050em@14",
+    8
+   ],
+   [
+    "-0.033em@30",
+    7
+   ],
+   [
+    "-0.040em@46",
+    6
+   ],
+   [
+    "-0.040em@36",
+    4
+   ],
+   [
+    "-0.040em@60",
+    3
+   ],
+   [
+    "-0.042em@60",
+    3
+   ],
+   [
+    "-0.069em@36",
+    3
+   ]
+  ],
+  "uppercaseShare": 0,
+  "largest": [
+   {
+    "tag": "p",
+    "text": "Welcome to the",
+    "family": "generalFont",
+    "size": "70px",
+    "weight": "400",
+    "lh": "63px",
+    "ls": "-2.8px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "p",
+    "text": "great indoors.",
+    "family": "generalFont",
+    "size": "70px",
+    "weight": "400",
+    "lh": "63px",
+    "ls": "-2.8px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "p",
+    "text": "Introducing the",
+    "family": "generalFont",
+    "size": "70px",
+    "weight": "400",
+    "lh": "63px",
+    "ls": "-2.8px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "Noovo Next",
+    "family": "generalFont",
+    "size": "70px",
+    "weight": "400",
+    "lh": "63px",
+    "ls": "-2.8px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "AWD",
+    "family": "generalFont",
+    "size": "70px",
+    "weight": "400",
+    "lh": "63px",
+    "ls": "-2.8px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "Noovo Lite",
+    "family": "generalFont",
+    "size": "70px",
+    "weight": "400",
+    "lh": "63px",
+    "ls": "-2.8px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "p",
+    "text": "Essentials, Perfected.",
+    "family": "generalFont",
+    "size": "70px",
+    "weight": "400",
+    "lh": "63px",
+    "ls": "-2.8px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "p",
+    "text": "Come meet us!",
+    "family": "generalFont",
+    "size": "70px",
+    "weight": "400",
+    "lh": "63px",
+    "ls": "-2.8px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(23, 23, 23)"
+   },
+   {
+    "tag": "h1",
+    "text": "Vans built for life on the road. Comfort and freedom, without compromise",
+    "family": "generalFont",
+    "size": "60px",
+    "weight": "400",
+    "lh": "60px",
+    "ls": "-2.4px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(19, 18, 17)"
+   },
+   {
+    "tag": "p",
+    "text": "US-crafted camper vans, inspired by European design.",
+    "family": "generalFont",
+    "size": "60px",
+    "weight": "400",
+    "lh": "60px",
+    "ls": "-2.5px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(19, 18, 17)"
+   },
+   {
+    "tag": "span",
+    "text": "+0",
+    "family": "generalFont",
+    "size": "60px",
+    "weight": "500",
+    "lh": "60px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(19, 18, 17)"
+   },
+   {
+    "tag": "h2",
+    "text": "Vanlife made easy. Support when you need it.",
+    "family": "generalFont",
+    "size": "60px",
+    "weight": "400",
+    "lh": "60px",
+    "ls": "-2.5px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(19, 18, 17)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgba(0, 0, 0, 0)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(19, 18, 17)",
+    89
+   ],
+   [
+    "rgb(255, 255, 255)",
+    34
+   ],
+   [
+    "rgb(51, 51, 51)",
+    15
+   ],
+   [
+    "rgb(0, 0, 0)",
+    14
+   ],
+   [
+    "rgba(19, 18, 17, 0.6)",
+    13
+   ],
+   [
+    "rgb(111, 110, 108)",
+    12
+   ],
+   [
+    "rgb(112, 110, 107)",
+    11
+   ],
+   [
+    "rgba(23, 23, 23, 0.6)",
+    2
+   ],
+   [
+    "rgb(250, 247, 241)",
+    1
+   ],
+   [
+    "rgb(23, 23, 23)",
+    1
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(255, 179, 26)",
+    53
+   ],
+   [
+    "rgb(255, 255, 255)",
+    39
+   ],
+   [
+    "rgb(249, 247, 244)",
+    18
+   ],
+   [
+    "rgb(19, 18, 17)",
+    9
+   ],
+   [
+    "rgb(255, 172, 0)",
+    6
+   ],
+   [
+    "rgba(255, 255, 255, 0.2)",
+    4
+   ],
+   [
+    "rgba(0, 0, 0, 0.15)",
+    3
+   ],
+   [
+    "rgba(255, 255, 255, 0.4)",
+    3
+   ],
+   [
+    "rgb(196, 198, 199)",
+    3
+   ],
+   [
+    "rgb(110, 158, 70)",
+    3
+   ],
+   [
+    "rgba(255, 255, 255, 0.8)",
+    2
+   ],
+   [
+    "rgba(19, 18, 17, 0.1)",
+    2
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6))",
+    5
+   ],
+   [
+    "linear-gradient(rgba(0, 0, 0, 0) 40%, rgba(0, 0, 0, 0.7) 100%)",
+    3
+   ],
+   [
+    "linear-gradient(45deg, rgb(0, 0, 0) 0%, rgba(0, 0, 0, 0) 30%)",
+    3
+   ],
+   [
+    "linear-gradient(0deg, rgba(0, 0, 0, 0.7) 0%, rgba(0, 0, 0, 0) 50%)",
+    3
+   ],
+   [
+    "linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.3))",
+    3
+   ],
+   [
+    "linear-gradient(rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.5) 100%)",
+    3
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.4,0,0.2,1)",
+    14
+   ],
+   [
+    "cubic-bezier(0.33,0.07,0.22,0.93)",
+    1
+   ],
+   [
+    "cubic-bezier(0,0,0.2,1)",
+    1
+   ],
+   [
+    "cubic-bezier(0.16,1,0.3,1)",
+    1
+   ],
+   [
+    "cubic-bezier(0.32,0.72,0,1)",
+    1
+   ],
+   [
+    "cubic-bezier(0.22,1,0.36,1)",
+    1
+   ]
+  ],
+  "durations": [
+   [
+    "0.15s",
+    15
+   ],
+   [
+    "0s",
+    11
+   ],
+   [
+    "1s",
+    5
+   ],
+   [
+    "0.3s",
+    3
+   ],
+   [
+    "1.6s",
+    2
+   ],
+   [
+    "0.2s",
+    2
+   ],
+   [
+    "0.5s",
+    2
+   ],
+   [
+    "0.7s",
+    2
+   ],
+   [
+    "0.4s",
+    2
+   ],
+   [
+    "5s",
+    2
+   ]
+  ],
+  "keyframes": [
+   "live-pulse",
+   "progress",
+   "spin",
+   "fadeIn",
+   "fadeOut",
+   "navPanelOut",
+   "videoFullscreenIn",
+   "onAutoFillStart",
+   "onAutoFillCancel",
+   "animation-sn6kuh",
+   "animation-580wcl"
+  ]
+ },
+ "cssVarSample": {
+  "--header-bottom": "0px"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": true,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 93,
+  "video": 0,
+  "svg": 129,
+  "picture": 27,
+  "iframes": 1
+ },
+ "effects": {
+  "mixBlend": [
+   [
+    "plus-lighter",
+    48
+   ]
+  ],
+  "backdropFilter": 11,
+  "clipPath": 15,
+  "sticky": 0,
+  "fixed": [
+   "fixed inset-x-0 top-0 z-[500] flex flex-col gap-[13px] px-[2",
+   "fixed inset-0 overflow-y-scroll z-[900] bg-black bg-opacity-",
+   "go2933276541 go2369186930"
+  ],
+  "customCursor": true,
+  "boxShadows": [
+   [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 1px 2px 0px",
+    16
+   ],
+   [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.04) 0px 2px 16px 0px",
+    13
+   ],
+   [
+    "rgb(229, 153, 0) 0px -1px 0px 0px inset",
+    8
+   ],
+   [
+    "rgba(0, 0, 0, 0.15) 0px 1px 0px 0px",
+    3
+   ],
+   [
+    "rgba(0, 0, 0, 0.08) 0px 0px 20px 0px inset",
+    3
+   ]
+  ],
+  "filters": [],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "50%",
+   51
+  ],
+  [
+   "9999px",
+   36
+  ],
+  [
+   "20px",
+   22
+  ],
+  [
+   "30px",
+   11
+  ],
+  [
+   "15px",
+   8
+  ],
+  [
+   "100px",
+   5
+  ],
+  [
+   "10px",
+   5
+  ],
+  [
+   "16.944px",
+   4
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgb(236, 233, 226)",
+   11
+  ],
+  [
+   "1px solid rgba(0, 0, 0, 0.1)",
+   11
+  ],
+  [
+   "1px solid rgb(255, 172, 0)",
+   3
+  ],
+  [
+   "1px solid rgba(255, 255, 255, 0.4)",
+   3
+  ],
+  [
+   "1px solid rgba(19, 18, 17, 0.4)",
+   3
+  ],
+  [
+   "1px solid rgba(180, 180, 180, 0.45)",
+   3
+  ]
+ ],
+ "grids": [
+  [
+   "2cols gap normal",
+   2
+  ],
+  [
+   "2cols gap 40px",
+   1
+  ],
+  [
+   "1cols gap normal",
+   1
+  ],
+  [
+   "4cols gap 30px",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "1200px",
+   10
+  ],
+  [
+   "100%",
+   8
+  ],
+  [
+   "720px",
+   4
+  ]
+ ],
+ "sideMargins": [
+  [
+   "720px",
+   14
+  ],
+  [
+   "165px",
+   9
+  ],
+  [
+   "120px",
+   8
+  ],
+  [
+   "1163px",
+   7
+  ],
+  [
+   "123px",
+   6
+  ],
+  [
+   "1015px",
+   6
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "relative h-[100svh] overflow-hidden",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "relative h-[100svh] w-screen flex transition-trans",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "px-[20px] md:px-[40px] xl:px-[120px] flex flex-col",
+   "h": 1462,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "pt-[50px] md:pt-[60px] lg:pt-[100px] pb-0 self-str",
+   "h": 1113,
+   "padTop": "100px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "bg-white px-0 md:px-[20px] lg:px-[30px] 2xl:px-[50",
+   "h": 715,
+   "padTop": "0px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "pt-[50px] md:pt-[40px] lg:pt-[30px] px-[20px] lg:p",
+   "h": 324,
+   "padTop": "30px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "w-full px-[20px] md:px-[40px] xl:px-[120px]",
+   "h": 1257,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "w-full px-[20px] md:px-[40px] xl:px-[120px]",
+   "h": 1292,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "flex flex-col items-center bg-[#F9F7F4] lg:rounded",
+   "h": 1200,
+   "padTop": "0px",
+   "bg": "rgb(249, 247, 244)"
+  },
+  {
+   "cls": "w-full px-[20px] lg:px-[30px] xl:px-[120px] py-0 f",
+   "h": 545,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "bg-white",
+   "h": 600,
+   "padTop": "0px",
+   "bg": "rgb(255, 255, 255)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "fixed",
+  "height": 90,
+  "links": 6,
+  "linkTexts": [
+   "Vehicles",
+   "Meet us",
+   "Company",
+   "Service",
+   "Demo & Drive",
+   "Speak with an Expert",
+   "Demo & Drive"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "Demo & Drive",
+   "bg": "rgb(255, 172, 0)",
+   "color": "rgb(19, 18, 17)",
+   "radius": "30px",
+   "pad": "15px 25px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 45
+  },
+  {
+   "text": "Speak with an Expert",
+   "bg": "rgb(249, 247, 244)",
+   "color": "rgb(19, 18, 17)",
+   "radius": "30px",
+   "pad": "15px 25px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid rgb(249, 247, 244)",
+   "h": 45
+  },
+  {
+   "text": "Discover Noovo Plus",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(19, 18, 17)",
+   "radius": "9999px",
+   "pad": "0px 25px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 55
+  },
+  {
+   "text": "Reserve your Plus",
+   "bg": "rgb(255, 172, 0)",
+   "color": "rgb(19, 18, 17)",
+   "radius": "9999px",
+   "pad": "0px 25px 0px 20px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(255, 172, 0)",
+   "h": 55
+  },
+  {
+   "text": "Explore Noovo Next",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(19, 18, 17)",
+   "radius": "9999px",
+   "pad": "0px 25px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 55
+  },
+  {
+   "text": "Reserve Your Build",
+   "bg": "rgb(19, 18, 17)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "9999px",
+   "pad": "0px 25px 0px 20px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 55
+  },
+  {
+   "text": "Explore the Noovo Lite",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(19, 18, 17)",
+   "radius": "9999px",
+   "pad": "0px 25px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 55
+  },
+  {
+   "text": "Reserve Your Build",
+   "bg": "rgb(19, 18, 17)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "9999px",
+   "pad": "0px 25px 0px 20px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 55
+  },
+  {
+   "text": "Explore the Lite",
+   "bg": "rgb(19, 18, 17)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "9999px",
+   "pad": "0px 25px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 55
+  },
+  {
+   "text": "Build Your Van",
+   "bg": "rgba(255, 255, 255, 0.4)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "9999px",
+   "pad": "0px 25px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgba(255, 255, 255, 0.4)",
+   "h": 55
+  }
+ ],
+ "headings": [
+  "Vans built for life on the road. Comfort and freedom, without compromise",
+  "Noovo Lite",
+  "Noovo Plus",
+  "Made by you, for you",
+  "Los Angeles Boutique",
+  "Meet Owners on the Road",
+  "Come Tour the Factory",
+  "Vanlife made easy. Support when you need it.",
+  "Financing for up to 20 years.",
+  "Mobile repair in all 50 states.",
+  "Enjoyment comes with a 3-year warranty.",
+  "Enjoyment comes with a 3-year warranty.",
+  "Enjoyment comes with a 3-year warranty.",
+  "Loved by those who believe adventure is mandatory",
+  "Frequently Asked Questions",
+  "Why should I choose a Noovo camper van?",
+  "What are the layouts currently available?",
+  "What van chassis do you work on?",
+  "Do you offer financing?",
+  "Subscribe to Noovo's newsletter"
+ ],
+ "paras": [
+  "Reserve your Noovo Plus today and get ready to hit the",
+  "road in comfort, design and grid freedom.",
+  "Adventure Without Limits. Comfort Without Sacrifice.",
+  "The basics done right: comfort, connection, and",
+  "freedom for solo travelers and couples.",
+  "Three models tailored to your lifestyle with the aesthetic of a real home. Your adventure, your choice.",
+  "US-crafted camper vans, inspired by European design.",
+  "Live off-grid seamlessly with premium camper vans designed with smart, intuitive features.",
+  "Built to last.Designed to feel calm.",
+  "Thoughtful materials, clean finishes, and a layout that feels natural, because comfort isn’t optional when you live inside."
+ ],
+ "footer": {
+  "h": 1226,
+  "text": "Subscribe to learn about our latest news, updates, and adventures. Your First Name* Your Email* Username* Zip Code* Subscribe 4.9/5 on “I love your build because you made it for people like us who don't know what we're doing. It just works.” Jane, Traveling nurse Over 2700 miles traveled from Las Ve"
+ },
+ "jsMotion": {
+  "scriptsFetched": 21,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "0",
+    3
+   ]
+  ],
+  "staggers": [],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

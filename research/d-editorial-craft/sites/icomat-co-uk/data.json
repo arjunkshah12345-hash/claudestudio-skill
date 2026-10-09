@@ -1,0 +1,1220 @@
+{
+ "url": "https://icomat.co.uk",
+ "slug": "icomat-co-uk",
+ "analyzedAt": "2026-10-07T05:18:36.615Z",
+ "scrollHeight": 21117,
+ "pageLengthInViewports": 23.5,
+ "title": "ICOMAT - Engineer Without Limits™",
+ "metaDescription": "Transformational lightweighting solutions. We design and produce the world's lightest structures for the aerospace and automotive.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "LayGrotesk-Semibold normal normal",
+   "AkkuratMono normal normal",
+   "Doto-VariableFont-opti normal normal"
+  ],
+  "families": [
+   [
+    "LayGrotesk-Semibold",
+    145
+   ],
+   [
+    "AkkuratMono",
+    43
+   ],
+   [
+    "Doto-VariableFont-opti",
+    7
+   ]
+  ],
+  "sizes": [
+   [
+    "18px",
+    81
+   ],
+   [
+    "48px",
+    44
+   ],
+   [
+    "12px",
+    23
+   ],
+   [
+    "11px",
+    21
+   ],
+   [
+    "73px",
+    13
+   ],
+   [
+    "30px",
+    7
+   ],
+   [
+    "59px",
+    3
+   ],
+   [
+    "24px",
+    3
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    188
+   ],
+   [
+    "463",
+    7
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    64
+   ],
+   [
+    "-0.010em@48",
+    44
+   ],
+   [
+    "0.011em@18",
+    25
+   ],
+   [
+    "0.020em@12",
+    23
+   ],
+   [
+    "0.020em@11",
+    20
+   ],
+   [
+    "-0.015em@73",
+    13
+   ],
+   [
+    "-0.015em@59",
+    3
+   ],
+   [
+    "-0.005em@24",
+    3
+   ]
+  ],
+  "uppercaseShare": 0.22,
+  "largest": [
+   {
+    "tag": "div",
+    "text": "ICOMAT",
+    "family": "LayGrotesk-Semibold",
+    "size": "73.3457px",
+    "weight": "400",
+    "lh": "70.4118px",
+    "ls": "-1.10018px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(8, 8, 8)"
+   },
+   {
+    "tag": "div",
+    "text": "invented",
+    "family": "LayGrotesk-Semibold",
+    "size": "73.3457px",
+    "weight": "400",
+    "lh": "70.4118px",
+    "ls": "-1.10018px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(8, 8, 8)"
+   },
+   {
+    "tag": "div",
+    "text": "RTS.",
+    "family": "LayGrotesk-Semibold",
+    "size": "73.3457px",
+    "weight": "400",
+    "lh": "70.4118px",
+    "ls": "-1.10018px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(8, 8, 8)"
+   },
+   {
+    "tag": "div",
+    "text": "Rapid",
+    "family": "LayGrotesk-Semibold",
+    "size": "73.3457px",
+    "weight": "400",
+    "lh": "70.4118px",
+    "ls": "-1.10018px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(8, 8, 8)"
+   },
+   {
+    "tag": "div",
+    "text": "Tow",
+    "family": "LayGrotesk-Semibold",
+    "size": "73.3457px",
+    "weight": "400",
+    "lh": "70.4118px",
+    "ls": "-1.10018px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(8, 8, 8)"
+   },
+   {
+    "tag": "div",
+    "text": "Shearing.",
+    "family": "LayGrotesk-Semibold",
+    "size": "73.3457px",
+    "weight": "400",
+    "lh": "70.4118px",
+    "ls": "-1.10018px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(8, 8, 8)"
+   },
+   {
+    "tag": "div",
+    "text": "End-to-end",
+    "family": "LayGrotesk-Semibold",
+    "size": "73.3457px",
+    "weight": "400",
+    "lh": "70.4118px",
+    "ls": "-1.10018px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(207, 217, 224)"
+   },
+   {
+    "tag": "div",
+    "text": "production",
+    "family": "LayGrotesk-Semibold",
+    "size": "73.3457px",
+    "weight": "400",
+    "lh": "70.4118px",
+    "ls": "-1.10018px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(207, 217, 224)"
+   },
+   {
+    "tag": "div",
+    "text": "Unlocking",
+    "family": "LayGrotesk-Semibold",
+    "size": "73.3457px",
+    "weight": "400",
+    "lh": "70.4118px",
+    "ls": "-1.10018px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(8, 8, 8)"
+   },
+   {
+    "tag": "div",
+    "text": "radically",
+    "family": "LayGrotesk-Semibold",
+    "size": "73.3457px",
+    "weight": "400",
+    "lh": "70.4118px",
+    "ls": "-1.10018px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(8, 8, 8)"
+   },
+   {
+    "tag": "div",
+    "text": "more",
+    "family": "LayGrotesk-Semibold",
+    "size": "73.3457px",
+    "weight": "400",
+    "lh": "70.4118px",
+    "ls": "-1.10018px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(8, 8, 8)"
+   },
+   {
+    "tag": "div",
+    "text": "efficient",
+    "family": "LayGrotesk-Semibold",
+    "size": "73.3457px",
+    "weight": "400",
+    "lh": "70.4118px",
+    "ls": "-1.10018px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(8, 8, 8)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(248, 248, 248)",
+  "htmlBg": "rgb(248, 248, 248)",
+  "text": [
+   [
+    "rgb(207, 217, 224)",
+    86
+   ],
+   [
+    "rgb(28, 28, 28)",
+    25
+   ],
+   [
+    "rgb(248, 248, 248)",
+    20
+   ],
+   [
+    "rgb(8, 8, 8)",
+    16
+   ],
+   [
+    "rgba(207, 217, 224, 0.5)",
+    11
+   ],
+   [
+    "rgb(40, 39, 40)",
+    9
+   ],
+   [
+    "rgba(207, 217, 224, 0.27)",
+    7
+   ],
+   [
+    "rgba(8, 8, 8, 0.41)",
+    5
+   ],
+   [
+    "rgb(255, 255, 255)",
+    4
+   ],
+   [
+    "rgba(248, 248, 248, 0.44)",
+    3
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(77, 77, 77)",
+    23
+   ],
+   [
+    "rgb(248, 248, 248)",
+    16
+   ],
+   [
+    "rgba(0, 0, 0, 0.7)",
+    15
+   ],
+   [
+    "rgb(8, 8, 8)",
+    14
+   ],
+   [
+    "rgba(0, 0, 0, 0.3)",
+    8
+   ],
+   [
+    "rgb(207, 217, 224)",
+    7
+   ],
+   [
+    "rgba(255, 255, 255, 0.11)",
+    5
+   ],
+   [
+    "rgb(241, 241, 241)",
+    5
+   ],
+   [
+    "rgba(255, 255, 255, 0.06)",
+    4
+   ],
+   [
+    "rgba(255, 255, 255, 0.1)",
+    2
+   ],
+   [
+    "rgba(255, 255, 255, 0.19)",
+    2
+   ],
+   [
+    "rgb(255, 255, 255)",
+    1
+   ]
+  ],
+  "gradients": [
+   [
+    "radial-gradient(150% 70% at 50% 80%, rgb(255, 255, 255) 0px, rgb(255, 255, 255) 20%, rgba(0, 0, 0, 0) 50%, rgb(255, 255, 255) 80%, rgb(255, ",
+    4
+   ],
+   [
+    "radial-gradient(355.13% 125.17% at 50% 130.96%, rgb(220, 220, 220) 9.21%, rgb(94, 93, 105) 69.76%, rgb(8, 18, 37) 150%)",
+    2
+   ],
+   [
+    "conic-gradient(from 90deg at 40% -25%, rgb(218, 244, 247), rgba(218, 244, 247, 0.75), rgba(218, 244, 247, 0.5), rgba(218, 244, 247, 0.25), r",
+    2
+   ],
+   [
+    "radial-gradient(355.13% 125.17% at 50% 130.96%, rgb(220, 220, 220) 9.21%, rgb(94, 93, 105) 29.76%, rgb(8, 18, 37) 90%)",
+    1
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.645,0.045,0.355,1)",
+    8
+   ],
+   [
+    "cubic-bezier(0.445,0.05,0.55,0.95)",
+    4
+   ],
+   [
+    "cubic-bezier(0.55,0.085,0.68,0.53)",
+    4
+   ],
+   [
+    "cubic-bezier(0.215,0.61,0.355,1)",
+    2
+   ],
+   [
+    "cubic-bezier(0.165,0.84,0.44,1)",
+    1
+   ]
+  ],
+  "durations": [
+   [
+    "0.3s",
+    24
+   ],
+   [
+    "0.6s",
+    6
+   ],
+   [
+    "0.7s",
+    4
+   ],
+   [
+    "0s",
+    3
+   ],
+   [
+    "0.8s",
+    3
+   ],
+   [
+    "1s",
+    3
+   ],
+   [
+    "0.5s",
+    3
+   ],
+   [
+    "0.25s",
+    3
+   ],
+   [
+    "0.1s",
+    2
+   ],
+   [
+    "2s",
+    2
+   ]
+  ],
+  "keyframes": [
+   "DialogTriggerButton_dialogtrigger-glow__Cf_MW"
+  ]
+ },
+ "cssVarSample": {
+  "--breakpoint-mobile": "375px",
+  "--breakpoint-tablet": "768px",
+  "--breakpoint-desktop": "1440px",
+  "--color-black": "#080808",
+  "--color-white": "#f8f8f8",
+  "--color-bg-dark-transparent": "rgba(0,0,0,0.7)",
+  "--color-bg-light-transparent": "rgba(50,50,50,0.7)",
+  "--color-bg-white-light-transparent": "rgba(255,255,255,0.1)",
+  "--color-bg-white-transparent": "rgba(255,255,255,0.1)",
+  "--color-text-white": "white",
+  "--color-text-black": "black",
+  "--color-text-light-blue-transparent": "rgba(207,217,224,0.85)",
+  "--color-text-light-blue-transparent-2": "rgba(207,217,224,0.5)",
+  "--color-light-blue": "#cfd9e0",
+  "--color-light-gray": "#dcdcdc",
+  "--color-gray-purple": "#5e5d69",
+  "--color-dark-blue": "#081225",
+  "--color-black-2": "#1c1c1c",
+  "--svh": "1vh",
+  "--real-vh": "1vh",
+  "--vw-ratio": "0.5",
+  "--vh-ratio": "0.5",
+  "--size-width": "393",
+  "--size-height": "812",
+  "--scroll-bar-width": "calc(100vw - 100cqw)",
+  "--viewport-width": "calc(100vw - var(--scroll-bar-width))",
+  "--margins": "calc(var(--grid-margin-left) + var(--grid-margin-right))",
+  "--gutters": "calc(var(--grid-gutter-width) * (var(--grid-column-number) - 1))",
+  "--grid-column-width": "calc((var(--viewport-width) - var(--margins) - var(--gutters)) / var(--grid-colu",
+  "--grid-total-width": "calc(var(--grid-column-width) * var(--grid-column-number) + var(--gutters))",
+  "--grid-column-number": "6",
+  "--grid-gutter-width": "calc(10 * var(--vr))",
+  "--grid-margin-left": "calc(20 * var(--vr))",
+  "--grid-margin-right": "calc(20 * var(--vr))",
+  "--grid-margin-width": "calc(20 * var(--vr))",
+  "--grid-column-width-value": "51",
+  "--grid-gutter-width-value": "10",
+  "--z-index-contact-section": "16",
+  "--z-index-contact-section-mobile": "6",
+  "--z-index-burger-btn": "5",
+  "--z-index-logo": "15",
+  "--z-index-nav": "14",
+  "--z-index-nav-mobile": "4",
+  "--z-index-canvas": "11",
+  "--z-index-overlay": "9",
+  "--z-index-loader": "8",
+  "--z-index-dialog": "7",
+  "--z-index-page-content": "2",
+  "--z-index-footer": "1",
+  "--z-index-canvas-footer": "0",
+  "--vr": "calc((100vw / var(--size-width) * 16 * var(--vw-ratio, 1) + (1 - var(--vw-ratio,"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": true,
+  "locomotive": false,
+  "three": true,
+  "webglCanvas": 0,
+  "canvases": 5,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": true,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": true,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 39,
+  "video": 5,
+  "svg": 51,
+  "picture": 0,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [
+   [
+    "difference",
+    3
+   ]
+  ],
+  "backdropFilter": 38,
+  "clipPath": 29,
+  "sticky": 4,
+  "fixed": [
+   "Loader_loader__xEUdY Loader_hidden__30han",
+   "Scene_canvas__Mbt3I",
+   "Header_topBar__t3Nfy",
+   "Header_header__qBw1J"
+  ],
+  "customCursor": true,
+  "boxShadows": [
+   [
+    "rgba(0, 0, 0, 0.3) 0px 0px 0px 1px inset",
+    2
+   ]
+  ],
+  "filters": [
+   [
+    "invert(0)",
+    4
+   ],
+   [
+    "blur(5px)",
+    2
+   ]
+  ],
+  "transforms3d": 3,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "7.92926px",
+   14
+  ],
+  [
+   "50%",
+   7
+  ],
+  [
+   "9.91158px",
+   6
+  ],
+  [
+   "35.6817px",
+   5
+  ],
+  [
+   "13px",
+   4
+  ],
+  [
+   "4.95579px",
+   2
+  ],
+  [
+   "10px",
+   2
+  ],
+  [
+   "6.9381px",
+   1
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgba(0, 0, 0, 0)",
+   2
+  ],
+  [
+   "1px solid rgb(0, 0, 0)",
+   1
+  ]
+ ],
+ "grids": [
+  [
+   "2cols gap normal",
+   2
+  ],
+  [
+   "1cols gap normal",
+   1
+  ],
+  [
+   "2cols gap 729.912px",
+   1
+  ],
+  [
+   "2cols gap 374.867px",
+   1
+  ],
+  [
+   "4cols gap normal",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "100%",
+   7
+  ],
+  [
+   "812.749px",
+   2
+  ]
+ ],
+ "sideMargins": [
+  [
+   "967px",
+   24
+  ],
+  [
+   "20px",
+   9
+  ],
+  [
+   "493px",
+   5
+  ],
+  [
+   "42px",
+   4
+  ],
+  [
+   "515px",
+   4
+  ],
+  [
+   "988px",
+   4
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "Header_topBar__t3Nfy",
+   "h": 51,
+   "padTop": "21.8055px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "page page- page-appear-done page-enter-done",
+   "h": 21117,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Hero_wrapper__IwaED",
+   "h": 902,
+   "padTop": "0px",
+   "bg": "rgb(51, 51, 51)"
+  },
+  {
+   "cls": "styles_space__Spo9r styles_light__0s2DD",
+   "h": 50,
+   "padTop": "0px",
+   "bg": "rgb(248, 248, 248)"
+  },
+  {
+   "cls": "CenterHeading_wrapper__giVOe CenterHeading_light__",
+   "h": 736,
+   "padTop": "297.347px",
+   "bg": "rgb(248, 248, 248)"
+  },
+  {
+   "cls": "styles_space__Spo9r styles_light__0s2DD",
+   "h": 50,
+   "padTop": "0px",
+   "bg": "rgb(248, 248, 248)"
+  },
+  {
+   "cls": "CompositeDual_wrapper___t1OQ",
+   "h": 918,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "LargeComposite_wrapper__y9NAa",
+   "h": 943,
+   "padTop": "0px",
+   "bg": "rgb(8, 8, 8)"
+  },
+  {
+   "cls": "ImageSideBySide_wrapper__N31Fm ImageSideBySide_tex",
+   "h": 964,
+   "padTop": "0px",
+   "bg": "rgb(8, 8, 8)"
+  },
+  {
+   "cls": "ImageSideBySide_imageSection__6dxpf",
+   "h": 690,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "AdvantageSection_wrapper__BpBQT",
+   "h": 640,
+   "padTop": "198.232px",
+   "bg": "rgb(8, 8, 8)"
+  },
+  {
+   "cls": "AdvantageSection_leftColumn__4EgRa",
+   "h": 442,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "AdvantageSection_subtitle__aOZWD",
+   "h": 18,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "AdvantageSection_title__t0aKf",
+   "h": 140,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "AdvantageSection_description__SXUHB",
+   "h": 144,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "AdvantageSection_advantagesList__UanKq",
+   "h": 247,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "AdvantageSection_advantageItem__IiLHz",
+   "h": 74,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "AdvantageSection_advantageDescription__ertgM",
+   "h": 55,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "AdvantageSection_advantageItem__IiLHz",
+   "h": 55,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "AdvantageSection_advantageDescription__ertgM",
+   "h": 37,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "AdvantageSection_advantageItem__IiLHz",
+   "h": 55,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "AdvantageSection_advantageDescription__ertgM",
+   "h": 37,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "styles_space__Spo9r styles_dark__e4m60",
+   "h": 99,
+   "padTop": "0px",
+   "bg": "rgb(8, 8, 8)"
+  },
+  {
+   "cls": "Timeline_wrapper__PwQUW Timeline_dark__4yW2Z Timel",
+   "h": 4500,
+   "padTop": "0px",
+   "bg": "rgb(8, 8, 8)"
+  },
+  {
+   "cls": "AccordionSection_accordionSection__xXClX",
+   "h": 4500,
+   "padTop": "0px",
+   "bg": "rgb(8, 8, 8)"
+  },
+  {
+   "cls": "AccordionSection_wrapper__vBmpo",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "AccordionSection_progressBar__gv3yg",
+   "h": 2,
+   "padTop": "0px",
+   "bg": "rgba(255, 255, 255, 0.15)"
+  },
+  {
+   "cls": "AccordionSection_progressBarFill__AFGEa",
+   "h": 2,
+   "padTop": "0px",
+   "bg": "rgb(248, 248, 248)"
+  },
+  {
+   "cls": "AccordionSection_left___jPIf",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "AccordionSection_title__cJwJ_",
+   "h": 140,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "AccordionSection_right__9KtrI",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "AccordionSection_accordionTitle__rrUUn",
+   "h": 19,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "AccordionSection_arrowIcon__CqT7X",
+   "h": 18,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "AccordionSection_accordion__EjLo6",
+   "h": 66,
+   "padTop": "19.8232px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "AccordionSection_backgroundContainer__Qan3a",
+   "h": 66,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "AccordionSection_accordionBackgroundWrapper__cGcDt",
+   "h": 66,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "AccordionSection_accordionBackgroundBlur__yhrNg",
+   "h": 66,
+   "padTop": "0px",
+   "bg": "rgba(255, 255, 255, 0.06)"
+  },
+  {
+   "cls": "AccordionSection_button__r2Cp_",
+   "h": 26,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "AccordionSection_logo__DVH1F",
+   "h": 23,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "AccordionSection_bodyContent__3Q0Rt",
+   "h": 222,
+   "padTop": "74.3368px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "fixed",
+  "height": 59,
+  "links": 10,
+  "linkTexts": [
+   "home",
+   "SOLUTIONS",
+   "TECH",
+   "INDUSTRIES",
+   "THE COMPANY",
+   "manifesto",
+   "careers",
+   "whitepapers",
+   "BUILD W/ ICOMAT",
+   "manifesto",
+   "careers",
+   "whitepapers"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "BUILD WITH ICOMAT",
+   "bg": "rgb(8, 8, 8)",
+   "color": "rgb(230, 239, 233)",
+   "radius": "35.6817px",
+   "pad": "43.6109px 54.5137px",
+   "size": "17.8408px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 107
+  }
+ ],
+ "headings": [
+  "Engineer Without Limits™",
+  "ICOMAT invented RTS. Rapid Tow Shearing.",
+  "CONVENTIONAL / STRAIGHT FIBER COMPOSITES",
+  "RTS / STEERED FIBER COMPOSITES",
+  "Unlocking innovation for all.",
+  "Better products",
+  "Faster timelines",
+  "Scale-as-you-go",
+  "End-to-end production",
+  "O1",
+  "O2",
+  "O3",
+  "O4",
+  "O5",
+  "O6",
+  "O7",
+  "Our customers have no margin for error.",
+  "We don't sell machines. We unlock a new way to build.",
+  "No CapEx.",
+  "Fully integrated system.",
+  "Scalable from day one.",
+  "The ICOMAT solution",
+  "Automated high-speed production",
+  "From design to parts",
+  "Tailored to your needs"
+ ],
+ "paras": [
+  "For 50 years, composites were limited to straight lines. Our patented RTS process removes that constraint. Fibers can now flow along curves to build lighter, stronger, more efficient parts.",
+  "Up to 65% lighter, 10x faster production",
+  "How we operate.We build fully integrated factories for composite parts. Using proprietary hardware and software, we automate and control the entire process. From a roll of carbon fiber through a finished, painted, and in",
+  "We built the only fully integrated system in the world that produces steered fiber composites, defect-free and at industrial scale.",
+  "Our proprietary hardware, software, and production facilities work as one end-to-end platform.",
+  "Steering unlocks unprecedented freedom that delivers the lightest, strongest parts possible.",
+  "10x faster production via forming workflows, only possible with steering.",
+  "With automation, no defects, no delays, no excuses.",
+  "END-TO-END DIGITAL THREAD (STRUCTURAL & PRODUCTION OPTIMISATION)",
+  "TOOLING PRODUCTION (METALLIC, COMPOSITE)"
+ ],
+ "footer": {
+  "h": 0,
+  "text": "Company Reg No. 11771620VAT Reg. no. 326574685"
+ },
+ "jsMotion": {
+  "scriptsFetched": 22,
+  "gsapEases": [
+   [
+    "power2.out",
+    46
+   ],
+   [
+    "power3.out",
+    21
+   ],
+   [
+    "power1.out",
+    16
+   ],
+   [
+    "power2.inOut",
+    12
+   ],
+   [
+    "none",
+    10
+   ],
+   [
+    "back.out(2)",
+    10
+   ],
+   [
+    "power2.in",
+    10
+   ],
+   [
+    "power1.in",
+    7
+   ],
+   [
+    "power1.inOut",
+    6
+   ],
+   [
+    "linear",
+    6
+   ],
+   [
+    "expo.out",
+    5
+   ],
+   [
+    "power3.inOut",
+    2
+   ],
+   [
+    "power3.in",
+    2
+   ],
+   [
+    "expo",
+    1
+   ],
+   [
+    "power4",
+    1
+   ]
+  ],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "1",
+    40
+   ],
+   [
+    ".5",
+    31
+   ],
+   [
+    ".8",
+    15
+   ],
+   [
+    ".7",
+    14
+   ],
+   [
+    ".3",
+    10
+   ],
+   [
+    "1.2",
+    8
+   ],
+   [
+    ".4",
+    8
+   ],
+   [
+    "0",
+    7
+   ],
+   [
+    "1.7",
+    7
+   ],
+   [
+    "2",
+    6
+   ],
+   [
+    "1.4",
+    4
+   ],
+   [
+    "1.5",
+    4
+   ],
+   [
+    ".6",
+    4
+   ],
+   [
+    "2.4",
+    4
+   ],
+   [
+    "1.12",
+    2
+   ]
+  ],
+  "staggers": [
+   [
+    ".05",
+    9
+   ],
+   [
+    ".03",
+    5
+   ],
+   [
+    "{amount:1}",
+    3
+   ],
+   [
+    ".1",
+    3
+   ],
+   [
+    "0",
+    2
+   ],
+   [
+    "{each:.045,ease:\"power3.in\"}",
+    2
+   ],
+   [
+    ".06",
+    2
+   ],
+   [
+    ".02",
+    2
+   ],
+   [
+    "{amount:-1}",
+    1
+   ],
+   [
+    ".08",
+    1
+   ]
+  ],
+  "lenis": [
+   [
+    "smoothWheel:s",
+    2
+   ],
+   [
+    "wheelMultiplier:1",
+    1
+   ],
+   [
+    "smoothWheel:!1",
+    1
+   ]
+  ],
+  "springs": [],
+  "scrollTriggerStarts": [
+   [
+    "top bottom",
+    24
+   ],
+   [
+    "top top",
+    3
+   ],
+   [
+    "top center",
+    3
+   ],
+   [
+    "down",
+    2
+   ],
+   [
+    "start",
+    2
+   ],
+   [
+    "left right",
+    2
+   ],
+   [
+    "end",
+    1
+   ],
+   [
+    "top ",
+    1
+   ]
+  ],
+  "splitTypes": [
+   [
+    "lines",
+    38
+   ],
+   [
+    "words",
+    24
+   ],
+   [
+    "lines, words",
+    2
+   ]
+  ],
+  "bezierArrays": []
+ }
+}

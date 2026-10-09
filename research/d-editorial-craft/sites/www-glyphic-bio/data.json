@@ -1,0 +1,793 @@
+{
+ "url": "https://www.glyphic.bio",
+ "slug": "www-glyphic-bio",
+ "analyzedAt": "2026-10-07T05:17:50.250Z",
+ "scrollHeight": 14130,
+ "pageLengthInViewports": 15.7,
+ "title": "Glyphic Biotechnologies – Next Generation Protein Sequencing Company",
+ "metaDescription": "We sequence proteins. Glyphic Biotechnologies is decoding the human proteome through full coverage, de novo protein sequencing at single molecule resolution to enable the development of novel therapeutics and diagnostics and, ultimately, a deeper understanding of life itself.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "fontPrimary 500 normal",
+   "fontPrimary 400 normal",
+   "fontPrimary Fallback normal normal"
+  ],
+  "families": [
+   [
+    "fontPrimary",
+    197
+   ]
+  ],
+  "sizes": [
+   [
+    "15px",
+    71
+   ],
+   [
+    "14px",
+    54
+   ],
+   [
+    "70px",
+    41
+   ],
+   [
+    "22px",
+    19
+   ],
+   [
+    "34px",
+    11
+   ],
+   [
+    "190px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    155
+   ],
+   [
+    "500",
+    42
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    138
+   ],
+   [
+    "-0.040em@70",
+    41
+   ],
+   [
+    "-0.020em@34",
+    11
+   ],
+   [
+    "-0.020em@22",
+    6
+   ],
+   [
+    "-0.050em@190",
+    1
+   ]
+  ],
+  "uppercaseShare": 0.08,
+  "largest": [
+   {
+    "tag": "span",
+    "text": "Glyphic Biotechnologies",
+    "family": "fontPrimary",
+    "size": "190px",
+    "weight": "500",
+    "lh": "180.5px",
+    "ls": "-9.5px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "h1",
+    "text": "Protein Sequencing by Expansion (ProSE™)",
+    "family": "fontPrimary",
+    "size": "70px",
+    "weight": "500",
+    "lh": "70px",
+    "ls": "-2.8px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(44, 45, 50)"
+   },
+   {
+    "tag": "span",
+    "text": "Protein",
+    "family": "fontPrimary",
+    "size": "70px",
+    "weight": "500",
+    "lh": "70px",
+    "ls": "-2.8px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(44, 45, 50)"
+   },
+   {
+    "tag": "span",
+    "text": "Sequencing",
+    "family": "fontPrimary",
+    "size": "70px",
+    "weight": "500",
+    "lh": "70px",
+    "ls": "-2.8px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(44, 45, 50)"
+   },
+   {
+    "tag": "span",
+    "text": "by",
+    "family": "fontPrimary",
+    "size": "70px",
+    "weight": "500",
+    "lh": "70px",
+    "ls": "-2.8px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(44, 45, 50)"
+   },
+   {
+    "tag": "span",
+    "text": "Expansion",
+    "family": "fontPrimary",
+    "size": "70px",
+    "weight": "500",
+    "lh": "70px",
+    "ls": "-2.8px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(44, 45, 50)"
+   },
+   {
+    "tag": "span",
+    "text": "(ProSE™)",
+    "family": "fontPrimary",
+    "size": "70px",
+    "weight": "500",
+    "lh": "70px",
+    "ls": "-2.8px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(44, 45, 50)"
+   },
+   {
+    "tag": "span",
+    "text": "Introducing ProSE™",
+    "family": "fontPrimary",
+    "size": "70px",
+    "weight": "500",
+    "lh": "70px",
+    "ls": "-2.8px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(44, 45, 50)"
+   },
+   {
+    "tag": "span",
+    "text": "leverages",
+    "family": "fontPrimary",
+    "size": "70px",
+    "weight": "500",
+    "lh": "70px",
+    "ls": "-2.8px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(44, 45, 50)"
+   },
+   {
+    "tag": "span",
+    "text": "spatial",
+    "family": "fontPrimary",
+    "size": "70px",
+    "weight": "500",
+    "lh": "70px",
+    "ls": "-2.8px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(44, 45, 50)"
+   },
+   {
+    "tag": "span",
+    "text": "expansion",
+    "family": "fontPrimary",
+    "size": "70px",
+    "weight": "500",
+    "lh": "70px",
+    "ls": "-2.8px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(44, 45, 50)"
+   },
+   {
+    "tag": "span",
+    "text": "of",
+    "family": "fontPrimary",
+    "size": "70px",
+    "weight": "500",
+    "lh": "70px",
+    "ls": "-2.8px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(44, 45, 50)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(255, 255, 255)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(44, 45, 50)",
+    98
+   ],
+   [
+    "rgb(105, 106, 111)",
+    28
+   ],
+   [
+    "rgb(164, 164, 164)",
+    27
+   ],
+   [
+    "rgb(232, 233, 245)",
+    19
+   ],
+   [
+    "rgba(0, 0, 0, 0)",
+    16
+   ],
+   [
+    "rgb(255, 255, 255)",
+    7
+   ],
+   [
+    "rgb(0, 0, 0)",
+    2
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgba(56, 59, 62, 0.1)",
+    51
+   ],
+   [
+    "rgb(44, 45, 50)",
+    32
+   ],
+   [
+    "rgb(255, 255, 255)",
+    12
+   ],
+   [
+    "rgba(44, 45, 50, 0.1)",
+    3
+   ],
+   [
+    "rgb(243, 244, 247)",
+    2
+   ],
+   [
+    "rgba(56, 59, 62, 0.05)",
+    2
+   ],
+   [
+    "rgb(232, 233, 245)",
+    2
+   ],
+   [
+    "rgb(0, 0, 0)",
+    1
+   ],
+   [
+    "rgb(56, 59, 62)",
+    1
+   ],
+   [
+    "rgba(56, 59, 62, 0.8)",
+    1
+   ],
+   [
+    "rgb(242, 242, 242)",
+    1
+   ],
+   [
+    "rgb(197, 205, 201)",
+    1
+   ]
+  ],
+  "gradients": []
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.68,-0.55,0.27,1.55)",
+    30
+   ],
+   [
+    "cubic-bezier(0.77,0,0.18,1)",
+    12
+   ],
+   [
+    "cubic-bezier(0.4,0,0.2,1)",
+    4
+   ],
+   [
+    "cubic-bezier(0.785,0.135,0.15,0.86)",
+    4
+   ]
+  ],
+  "durations": [
+   [
+    "0.5s",
+    7
+   ],
+   [
+    "0.55s",
+    6
+   ],
+   [
+    "0.15s",
+    6
+   ],
+   [
+    "0.8s",
+    5
+   ],
+   [
+    "0.35s",
+    4
+   ],
+   [
+    "0.7s",
+    4
+   ],
+   [
+    "0.9s",
+    4
+   ],
+   [
+    "0.3s",
+    3
+   ],
+   [
+    "0.45s",
+    2
+   ],
+   [
+    "2s",
+    1
+   ]
+  ],
+  "keyframes": [
+   "link",
+   "link-test",
+   "rotateFull",
+   "scrollDownAnimation",
+   "arrowRoll",
+   "arrowRollDown",
+   "arrowRollRight",
+   "arrowRollLeft",
+   "arrowBounce",
+   "float",
+   "rotation",
+   "rotate"
+  ]
+ },
+ "cssVarSample": {
+  "--header-h": "5rem"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": true,
+  "locomotive": false,
+  "three": true,
+  "webglCanvas": 0,
+  "canvases": 2,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": true,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": true,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 4,
+  "video": 1,
+  "svg": 23,
+  "picture": 0,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 28,
+  "clipPath": 120,
+  "sticky": 5,
+  "fixed": [
+   "fixed left-0 top-0 bottom-0 w-full !pointer-events-auto z-[1",
+   "fixed right-0 top-0 container pt-20 lg:pt-10 pb-10 flex just",
+   "fixed left-0 top-0 z-4 pointer-events-none",
+   "h-screen fixed z-[52] inset-0 text-gray-900  pointer-events-"
+  ],
+  "customCursor": true,
+  "boxShadows": [
+   [
+    "rgb(44, 45, 50) 0px 0px 0px 1px inset",
+    4
+   ],
+   [
+    "rgb(0, 0, 0) 0px 0px 0px 1px inset",
+    1
+   ]
+  ],
+  "filters": [],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "4px",
+   49
+  ],
+  [
+   "5px",
+   17
+  ],
+  [
+   "100%",
+   3
+  ],
+  [
+   "9999px",
+   3
+  ],
+  [
+   "10px",
+   3
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgba(255, 255, 255, 0.1)",
+   12
+  ],
+  [
+   "2px solid rgb(56, 59, 62)",
+   3
+  ],
+  [
+   "1px solid rgba(255, 255, 255, 0.3)",
+   3
+  ],
+  [
+   "bottom:1px solid rgba(0, 0, 0, 0.2)",
+   3
+  ],
+  [
+   "bottom:1px solid rgb(21, 22, 25)",
+   1
+  ],
+  [
+   "bottom:1px solid rgba(255, 255, 255, 0.2)",
+   1
+  ]
+ ],
+ "grids": [
+  [
+   "1cols gap 1.5px",
+   15
+  ],
+  [
+   "6cols gap 20px",
+   9
+  ],
+  [
+   "2cols gap 20px",
+   6
+  ],
+  [
+   "1cols gap normal",
+   4
+  ],
+  [
+   "12cols gap 20px",
+   3
+  ]
+ ],
+ "containers": [
+  [
+   "100%",
+   3
+  ],
+  [
+   "1200px",
+   1
+  ]
+ ],
+ "sideMargins": [
+  [
+   "20px",
+   7
+  ],
+  [
+   "730px",
+   6
+  ],
+  [
+   "267px",
+   4
+  ],
+  [
+   "19px",
+   3
+  ],
+  [
+   "766px",
+   3
+  ],
+  [
+   "256px",
+   2
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "relative site-section h-[110vh] lg:h-[113.1rem] ov",
+   "h": 1131,
+   "padTop": "50px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "site-section bg-white relative overflow-clip",
+   "h": 4050,
+   "padTop": "0px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "site-section bg-white",
+   "h": 558,
+   "padTop": "0px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "site-section  text-white overflow-clip grid",
+   "h": 2700,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "site-section bg-white relative overflow-clip",
+   "h": 2094,
+   "padTop": "0px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "site-section relative bg-gray-200 overflow-clip md",
+   "h": 890,
+   "padTop": "0px",
+   "bg": "rgb(242, 242, 242)"
+  },
+  {
+   "cls": "site-section h-screen text-white overflow-clip",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "site-section bg-white overflow-clip relative",
+   "h": 907,
+   "padTop": "0px",
+   "bg": "rgb(255, 255, 255)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "absolute",
+  "height": 0,
+  "links": 5,
+  "linkTexts": [
+   "Technology\nTechnology",
+   "About Us\nAbout Us",
+   "Careers\nCareers",
+   "Contact Us\nContact Us"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "11,499,979 Jan 8, 2019",
+   "bg": "rgba(56, 59, 62, 0.1)",
+   "color": "rgb(105, 106, 111)",
+   "radius": "4px",
+   "pad": "8px 12px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 57
+  },
+  {
+   "text": "11,346,842 Jun 20, 2019",
+   "bg": "rgba(56, 59, 62, 0.1)",
+   "color": "rgb(105, 106, 111)",
+   "radius": "4px",
+   "pad": "8px 12px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 57
+  },
+  {
+   "text": "11,906,525 Jun 20, 2019",
+   "bg": "rgba(56, 59, 62, 0.1)",
+   "color": "rgb(105, 106, 111)",
+   "radius": "4px",
+   "pad": "8px 12px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 57
+  },
+  {
+   "text": "11,971,417 Jan 8, 2019",
+   "bg": "rgba(56, 59, 62, 0.1)",
+   "color": "rgb(105, 106, 111)",
+   "radius": "4px",
+   "pad": "8px 12px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 57
+  },
+  {
+   "text": "12,259,393 Aug 2, 2022",
+   "bg": "rgba(56, 59, 62, 0.1)",
+   "color": "rgb(105, 106, 111)",
+   "radius": "4px",
+   "pad": "8px 12px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 57
+  },
+  {
+   "text": "12,259,394 Aug 2, 2022",
+   "bg": "rgba(56, 59, 62, 0.1)",
+   "color": "rgb(105, 106, 111)",
+   "radius": "4px",
+   "pad": "8px 12px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 57
+  },
+  {
+   "text": "12,379,380 Jan 8, 2019",
+   "bg": "rgba(56, 59, 62, 0.1)",
+   "color": "rgb(105, 106, 111)",
+   "radius": "4px",
+   "pad": "8px 12px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 57
+  },
+  {
+   "text": "12,399,180 Aug 2, 2022",
+   "bg": "rgba(56, 59, 62, 0.1)",
+   "color": "rgb(105, 106, 111)",
+   "radius": "4px",
+   "pad": "8px 12px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 57
+  },
+  {
+   "text": "12,399,181 Aug 2, 2022",
+   "bg": "rgba(56, 59, 62, 0.1)",
+   "color": "rgb(105, 106, 111)",
+   "radius": "4px",
+   "pad": "8px 12px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 57
+  },
+  {
+   "text": "11,499,979 Jan 8, 2019",
+   "bg": "rgba(56, 59, 62, 0.1)",
+   "color": "rgb(105, 106, 111)",
+   "radius": "4px",
+   "pad": "8px 12px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 57
+  }
+ ],
+ "headings": [
+  "Protein Sequencing by Expansion (ProSE™)",
+  "Introducing ProSE™",
+  "Sample Preparation",
+  "Molecular Expansion",
+  "Amino Acid Sequencing",
+  "Glyphic Biotechnologies",
+  "Protein Sequencing by Expansion (ProSE™)",
+  "Careers",
+  "Scientist / Senior Scientist, Assay Integration (Reagents)",
+  "Staff / Senior Scientist, Assay Development (Chemistry)",
+  "Staff / Senior Scientist, Bioconjugation Chemistry",
+  "Contact",
+  "Get in Touch!"
+ ],
+ "paras": [
+  "ProSE™ will revolutionize proteomics by delivering unprecedented precision, scalability, and accessibility. ProSE™ will revolutionize proteomics by delivering unprecedented precision, scalability, and accessibility.",
+  "REAGENT KITS FUNCTIONALIZE PEPTIDES",
+  "ORDERED EXPANSION OF AMINO ACIDS",
+  "UNBIASED DISCRIMINATION OF ALL 20 AAS + PTMS",
+  "Glyphic Biotechnologies, Inc. is developing the first truly de novo high-throughput proteome sequencing technology capable of discriminating all 20 AAs and PTMs accurately with single molecule sensitivity. Glyphic Biotec",
+  "Founded in 2021 and headquartered in Berkeley (CA), Glyphic Biotechnologies exists to fundamentally rewrite the rules of proteomics.",
+  "We believe proteome sequencing will be one of the defining technologies of the 21st century. The precision, scalability, and accessibility of Glyphic’s Protein Sequencing by Expansion (ProSE™) will enable the development",
+  "Glyphic pioneers innovation and holds seminal IP in protein sequencing.",
+  "THE NEXT GREAT CHAPTER OF SCIENTIFIC DISCOVERY WILL BE WRITTEN IN PROSE™",
+  "3100 San Pablo Ave. #201 Berkeley, CA 94702"
+ ],
+ "footer": {
+  "h": 900,
+  "text": "JOIN OUR MAIL LIST Subscribe Subscribe Thank you! INFORMATION Technology About Us Careers Contact Us SOCIAL MEDIA Linkedin X CONTACTS 3100 San Pablo Ave. #201 Berkeley, CA 94702 letschat@glyphic.bio Designed by Obys FAQs Privacy Policy Terms of Use FCOI Policy ©2026. glyphic//bio. All right reserved"
+ },
+ "jsMotion": {
+  "scriptsFetched": 6,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "0",
+    3
+   ]
+  ],
+  "staggers": [],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

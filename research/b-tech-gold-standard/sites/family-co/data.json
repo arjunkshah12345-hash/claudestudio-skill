@@ -1,0 +1,1242 @@
+{
+ "url": "https://family.co",
+ "slug": "family-co",
+ "analyzedAt": "2026-10-07T05:16:14.807Z",
+ "scrollHeight": 11315,
+ "pageLengthInViewports": 12.6,
+ "title": "Family",
+ "metaDescription": "Your favorite crypto wallet.",
+ "lang": "",
+ "type": {
+  "loadedFonts": [
+   "Family 500 normal",
+   "LFE Sans 400 normal",
+   "LFE Sans 600 normal",
+   "Inter 400 normal",
+   "Inter 500 normal",
+   "Inter 600 normal"
+  ],
+  "families": [
+   [
+    "Inter",
+    209
+   ],
+   [
+    "LFE Sans",
+    30
+   ],
+   [
+    "Family",
+    22
+   ]
+  ],
+  "sizes": [
+   [
+    "17px",
+    74
+   ],
+   [
+    "15px",
+    69
+   ],
+   [
+    "14px",
+    50
+   ],
+   [
+    "44px",
+    18
+   ],
+   [
+    "13px",
+    18
+   ],
+   [
+    "19px",
+    17
+   ],
+   [
+    "68px",
+    4
+   ],
+   [
+    "16px",
+    4
+   ],
+   [
+    "20px",
+    3
+   ],
+   [
+    "12px",
+    2
+   ],
+   [
+    "23px",
+    2
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    110
+   ],
+   [
+    "500",
+    93
+   ],
+   [
+    "600",
+    58
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "-0.013em@17",
+    70
+   ],
+   [
+    "-0.009em@15",
+    56
+   ],
+   [
+    "-0.006em@14",
+    42
+   ],
+   [
+    "-0.031em@44",
+    18
+   ],
+   [
+    "-0.010em@13",
+    17
+   ],
+   [
+    "-0.016em@19",
+    13
+   ],
+   [
+    "normal",
+    9
+   ],
+   [
+    "-0.016em@15",
+    8
+   ],
+   [
+    "-0.020em@68",
+    4
+   ],
+   [
+    "-0.026em@19",
+    4
+   ],
+   [
+    "-0.020em@16",
+    4
+   ],
+   [
+    "-0.011em@14",
+    4
+   ],
+   [
+    "-0.020em@20",
+    3
+   ],
+   [
+    "-0.026em@17",
+    3
+   ],
+   [
+    "-0.006em@15",
+    2
+   ]
+  ],
+  "uppercaseShare": 0,
+  "largest": [
+   {
+    "tag": "span",
+    "text": "Your",
+    "family": "Family",
+    "size": "68px",
+    "weight": "500",
+    "lh": "74.8px",
+    "ls": "-1.36px",
+    "tt": "none",
+    "style": "normal",
+    "color": "color(display-p3 0.203922 0.203922 0.2)"
+   },
+   {
+    "tag": "span",
+    "text": "favorite",
+    "family": "Family",
+    "size": "68px",
+    "weight": "500",
+    "lh": "74.8px",
+    "ls": "-1.36px",
+    "tt": "none",
+    "style": "normal",
+    "color": "color(display-p3 0.203922 0.203922 0.2)"
+   },
+   {
+    "tag": "span",
+    "text": "crypto",
+    "family": "Family",
+    "size": "68px",
+    "weight": "500",
+    "lh": "74.8px",
+    "ls": "-1.36px",
+    "tt": "none",
+    "style": "normal",
+    "color": "color(display-p3 0.203922 0.203922 0.2)"
+   },
+   {
+    "tag": "span",
+    "text": "wallet.",
+    "family": "Family",
+    "size": "68px",
+    "weight": "500",
+    "lh": "74.8px",
+    "ls": "-1.36px",
+    "tt": "none",
+    "style": "normal",
+    "color": "color(display-p3 0.203922 0.203922 0.2)"
+   },
+   {
+    "tag": "h1",
+    "text": "Explore Ethereum in a whole new way.",
+    "family": "Family",
+    "size": "44px",
+    "weight": "500",
+    "lh": "48px",
+    "ls": "-1.35px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(18, 18, 18)"
+   },
+   {
+    "tag": "span",
+    "text": "in a whole new way.",
+    "family": "Family",
+    "size": "44px",
+    "weight": "500",
+    "lh": "48px",
+    "ls": "-1.35px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(18, 18, 18)"
+   },
+   {
+    "tag": "h1",
+    "text": "Send, receive, swap. All in one place.",
+    "family": "Family",
+    "size": "44px",
+    "weight": "500",
+    "lh": "48px",
+    "ls": "-1.35px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(18, 18, 18)"
+   },
+   {
+    "tag": "span",
+    "text": "Send, receive, swap.",
+    "family": "Family",
+    "size": "44px",
+    "weight": "500",
+    "lh": "48px",
+    "ls": "-1.35px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(18, 18, 18)"
+   },
+   {
+    "tag": "h1",
+    "text": "The best way to experience NFTs.",
+    "family": "Family",
+    "size": "44px",
+    "weight": "500",
+    "lh": "48px",
+    "ls": "-1.35px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(18, 18, 18)"
+   },
+   {
+    "tag": "h1",
+    "text": "Watch the wallets you care about.",
+    "family": "Family",
+    "size": "44px",
+    "weight": "500",
+    "lh": "48px",
+    "ls": "-1.35px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(18, 18, 18)"
+   },
+   {
+    "tag": "span",
+    "text": "you care about.",
+    "family": "Family",
+    "size": "44px",
+    "weight": "500",
+    "lh": "48px",
+    "ls": "-1.35px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(18, 18, 18)"
+   },
+   {
+    "tag": "h1",
+    "text": "Wallet activity you can understand.",
+    "family": "Family",
+    "size": "44px",
+    "weight": "500",
+    "lh": "48px",
+    "ls": "-1.35px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(18, 18, 18)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgba(0, 0, 0, 0)",
+  "htmlBg": "rgb(255, 255, 255)",
+  "text": [
+   [
+    "rgb(71, 70, 69)",
+    110
+   ],
+   [
+    "rgb(18, 18, 18)",
+    38
+   ],
+   [
+    "color(display-p3 0.517647 0.509804 0.505882)",
+    32
+   ],
+   [
+    "color(display-p3 0.215686 0.517647 0.956863)",
+    17
+   ],
+   [
+    "rgba(34, 34, 34, 0.4)",
+    11
+   ],
+   [
+    "color(display-p3 0.203922 0.203922 0.2)",
+    9
+   ],
+   [
+    "color(display-p3 0.792157 0.572549 0.188235)",
+    7
+   ],
+   [
+    "color(display-p3 0.286275 0.266667 0.25098)",
+    6
+   ],
+   [
+    "color(display-p3 1 0.32549 0.0627451)",
+    6
+   ],
+   [
+    "rgba(71, 70, 69, 0.7)",
+    5
+   ]
+  ],
+  "backgrounds": [
+   [
+    "color(display-p3 1 1 1)",
+    30
+   ],
+   [
+    "color(display-p3 0.984314 0.980392 0.976471)",
+    20
+   ],
+   [
+    "color(display-p3 0.94902 0.941176 0.929412)",
+    11
+   ],
+   [
+    "color(display-p3 0.00392157 0.552941 1)",
+    9
+   ],
+   [
+    "rgb(255, 255, 255)",
+    7
+   ],
+   [
+    "color(display-p3 1 0.32549 0.0627451)",
+    7
+   ],
+   [
+    "color(display-p3 0.203922 0.780392 0.34902)",
+    4
+   ],
+   [
+    "color(display-p3 1 0.745098 0.298039)",
+    4
+   ],
+   [
+    "color(display-p3 0.584314 0.32549 0.976471)",
+    3
+   ],
+   [
+    "color(display-p3 0.937255 0.266667 0.266667)",
+    3
+   ],
+   [
+    "rgb(249, 115, 22)",
+    3
+   ],
+   [
+    "color(display-p3 0.976471 0.4 0.67451)",
+    3
+   ]
+  ],
+  "gradients": []
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.19,1,0.22,1)",
+    2
+   ]
+  ],
+  "durations": [
+   [
+    "200ms",
+    19
+   ],
+   [
+    "100ms",
+    14
+   ],
+   [
+    "120s",
+    3
+   ],
+   [
+    "220ms",
+    2
+   ],
+   [
+    "1200ms",
+    2
+   ],
+   [
+    "0.2s",
+    2
+   ],
+   [
+    "1s",
+    2
+   ],
+   [
+    "140ms",
+    1
+   ],
+   [
+    "0.1s",
+    1
+   ],
+   [
+    "0.5s",
+    1
+   ]
+  ],
+  "keyframes": [
+   "hr",
+   "dLwxQl",
+   "hBaPda",
+   "WxNdC",
+   "fEWCgj",
+   "hdKGda"
+  ]
+ },
+ "cssVarSample": {
+  "--scrollbar-width": "var(--ck-scrollbar-width)",
+  "--app-green": "#34C759",
+  "--app-gray": "#747484",
+  "--app-blue": "#018DFF",
+  "--app-pink": "#F966AC",
+  "--graphic-green": "#44C67F",
+  "--graphic-blue": "#7DC4FF",
+  "--graphic-blue-alt": "#4DAFFF",
+  "--graphic-blue-pale": "#8ECCFF",
+  "--graphic-blue-pale-alt": "#6DBDFF",
+  "--graphic-purple": "#5F5DE7",
+  "--graphic-yellow": "#FFCF7B",
+  "--graphic-gold": "#F5B442",
+  "--graphic-gold-alt": "#FFA620",
+  "--graphic-yellow-pale": "#F6F4EF",
+  "--graphic-black": "#343433",
+  "--graphic-gray": "#E2D6C5",
+  "--graphic-stone": "#F2EBE0",
+  "--graphic-orange": "#FF5310",
+  "--graphic-outline": "#B2A79A",
+  "--pocket": "#52CB58",
+  "--heading": "#343433",
+  "--body": "#494440",
+  "--body-muted": "#848281",
+  "--gray": "#747484",
+  "--gray-light": "#f2f0ed",
+  "--beige": "#FBFAF9",
+  "--beige-dark": "#EAEAEA",
+  "--focus": "#848281",
+  "--white": "#FFFFFF",
+  "--blue": "#3784F4",
+  "--blue-light": "#EEFBFD",
+  "--green": "#44C67F",
+  "--yellow": "#FFBE4C",
+  "--gold": "#CA9230",
+  "--orange": "#FF5310",
+  "--orange-dark": "#ff2b00",
+  "--red": "#EF4444",
+  "--purple": "#9553F9",
+  "--twitter-blue": "#343433",
+  "--color-anchor": "#6187FE",
+  "--color-primary": "#343433",
+  "--color-text": "#343433",
+  "--color-border": "#E8E8E8",
+  "--color-valid": "#00C454",
+  "--background-valid": "rgba(0,196,84,0.1)",
+  "--color-invalid": "#FF4E4E",
+  "--background-invalid": "#fff0f0",
+  "--color-warning": "#F6C30F",
+  "--background-warning": "#fefae6"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": true,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 74,
+  "video": 9,
+  "svg": 94,
+  "picture": 0,
+  "iframes": 2
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 0,
+  "clipPath": 7,
+  "sticky": 2,
+  "fixed": [],
+  "customCursor": true,
+  "boxShadows": [
+   [
+    "color(display-p3 0.94902 0.941176 0.929412) 0px 0px 0px 1px inset",
+    30
+   ],
+   [
+    "color(display-p3 0.94902 0.941176 0.929412) 0px 0px 0px 0px inset",
+    3
+   ],
+   [
+    "rgba(0, 0, 0, 0.04) 0px 0px 0px 1px",
+    2
+   ],
+   [
+    "rgba(0, 0, 0, 0.15) 0px 0px 24px 0px",
+    1
+   ],
+   [
+    "rgba(0, 0, 0, 0.04) 0px 1px 6px 0px, rgba(0, 0, 0, 0.05) 0px 0px 24px 0px",
+    1
+   ]
+  ],
+  "filters": [
+   [
+    "url(\"#filter0_d_2891_17209\")",
+    3
+   ],
+   [
+    "url(\"#filter2_i_3511_17558\")",
+    1
+   ],
+   [
+    "url(\"#__lottie_element_14\")",
+    1
+   ]
+  ],
+  "transforms3d": 3,
+  "noiseOrGrain": false,
+  "textStroke": 48,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "10px",
+   30
+  ],
+  [
+   "40px",
+   30
+  ],
+  [
+   "72px",
+   27
+  ],
+  [
+   "12px",
+   25
+  ],
+  [
+   "6px",
+   10
+  ],
+  [
+   "4px",
+   6
+  ],
+  [
+   "2px",
+   6
+  ],
+  [
+   "32px",
+   4
+  ]
+ ],
+ "borders": [
+  [
+   "bottom:1px solid color(display-p3 0.94902 0.941176 0.929412)",
+   3
+  ]
+ ],
+ "grids": [
+  [
+   "2cols gap 92px",
+   4
+  ],
+  [
+   "3cols gap 32px",
+   2
+  ],
+  [
+   "1cols gap 48px",
+   2
+  ],
+  [
+   "3cols gap 34px",
+   1
+  ],
+  [
+   "2cols gap 80px",
+   1
+  ],
+  [
+   "2cols gap 20px",
+   1
+  ],
+  [
+   "2cols gap 48px",
+   1
+  ],
+  [
+   "2cols gap 36px",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "1072px",
+   24
+  ],
+  [
+   "1024px",
+   1
+  ],
+  [
+   "2400px",
+   1
+  ]
+ ],
+ "sideMargins": [
+  [
+   "208px",
+   20
+  ],
+  [
+   "766px",
+   9
+  ],
+  [
+   "734px",
+   8
+  ],
+  [
+   "760px",
+   3
+  ],
+  [
+   "758px",
+   3
+  ],
+  [
+   "583px",
+   2
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "",
+   "h": 1356,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionIntro__Section-sc-1nhl813-0 hcdKOK",
+   "h": 554,
+   "padTop": "120px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "",
+   "h": 338,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionIntro__Title-sc-1nhl813-1 geYPoR",
+   "h": 166,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionIntro__ButtonContainer-sc-1nhl813-3 OJwrO",
+   "h": 64,
+   "padTop": "16px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionIntro__Button-sc-1nhl813-4 dQyCQZ",
+   "h": 48,
+   "padTop": "0px",
+   "bg": "rgb(23, 23, 23)"
+  },
+  {
+   "cls": "SectionIntro__Button-sc-1nhl813-4 cxKtcG",
+   "h": 48,
+   "padTop": "0px",
+   "bg": "rgb(246, 244, 239)"
+  },
+  {
+   "cls": "SectionIntro__GraphicContainer-sc-1nhl813-2 hlukle",
+   "h": 522,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionExplore__Section-sc-1nsvpxz-0 kVnmLA",
+   "h": 802,
+   "padTop": "74px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionExplore__Graphics-sc-1nsvpxz-2 bdsLl",
+   "h": 533,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionExplore__Panel-sc-1nsvpxz-1 iibnYw",
+   "h": 533,
+   "padTop": "0px",
+   "bg": "color(display-p3 0.984314 0.980392 0.976471)"
+  },
+  {
+   "cls": "SectionExplore__Panel-sc-1nsvpxz-1 iibnYw",
+   "h": 249,
+   "padTop": "0px",
+   "bg": "color(display-p3 0.984314 0.980392 0.976471)"
+  },
+  {
+   "cls": "SectionExplore__Panel-sc-1nsvpxz-1 iibnYw",
+   "h": 249,
+   "padTop": "0px",
+   "bg": "color(display-p3 0.984314 0.980392 0.976471)"
+  },
+  {
+   "cls": "SectionExplore__Panel-sc-1nsvpxz-1 iibnYw",
+   "h": 249,
+   "padTop": "0px",
+   "bg": "color(display-p3 0.984314 0.980392 0.976471)"
+  },
+  {
+   "cls": "SectionExplore__Panel-sc-1nsvpxz-1 iibnYw",
+   "h": 249,
+   "padTop": "0px",
+   "bg": "color(display-p3 0.984314 0.980392 0.976471)"
+  },
+  {
+   "cls": "InnerContainer__Container-sc-oy047e-0 hKlZHw",
+   "h": 1,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "InnerContainer__Container-sc-oy047e-0 hKlZHw",
+   "h": 708,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionSendReceiveSwap__Section-sc-16pohfu-0 cCrAF",
+   "h": 708,
+   "padTop": "102px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionSendReceiveSwap__Columns-sc-16pohfu-2 kMPFr",
+   "h": 414,
+   "padTop": "51px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionSendReceiveSwap__Panel-sc-16pohfu-1 gikGhv",
+   "h": 321,
+   "padTop": "24px",
+   "bg": "color(display-p3 0.984314 0.980392 0.976471)"
+  },
+  {
+   "cls": "SectionSendReceiveSwap__IconContainer-sc-16pohfu-3",
+   "h": 16,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionSendReceiveSwap__Panel-sc-16pohfu-1 gikGhv",
+   "h": 321,
+   "padTop": "24px",
+   "bg": "color(display-p3 0.984314 0.980392 0.976471)"
+  },
+  {
+   "cls": "SectionSendReceiveSwap__IconContainer-sc-16pohfu-3",
+   "h": 16,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionSendReceiveSwap__Panel-sc-16pohfu-1 gikGhv",
+   "h": 321,
+   "padTop": "24px",
+   "bg": "color(display-p3 0.984314 0.980392 0.976471)"
+  },
+  {
+   "cls": "SectionSendReceiveSwap__IconContainer-sc-16pohfu-3",
+   "h": 16,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionFeatures__Section-sc-188t8tm-0 lcJJmu",
+   "h": 778,
+   "padTop": "104px",
+   "bg": "color(display-p3 0.984314 0.980392 0.976471)"
+  },
+  {
+   "cls": "SectionFeatures__Content-sc-188t8tm-1 llintP",
+   "h": 570,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "InnerContainer__Container-sc-oy047e-0 hKlZHw",
+   "h": 694,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionNFTs__Section-sc-igm0kh-0 iSKXBS",
+   "h": 694,
+   "padTop": "90px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionNFTs__Text-sc-igm0kh-2 iWutAh",
+   "h": 26,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionNFTs__Text-sc-igm0kh-2 iWutAh",
+   "h": 26,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionNFTs__Text-sc-igm0kh-2 iWutAh",
+   "h": 26,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionNFTs__Text-sc-igm0kh-2 iWutAh",
+   "h": 26,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionNFTs__Text-sc-igm0kh-2 iWutAh",
+   "h": 26,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionNFTs__Text-sc-igm0kh-2 iWutAh",
+   "h": 26,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionNFTs__Panel-sc-igm0kh-1 drInpi",
+   "h": 532,
+   "padTop": "0px",
+   "bg": "color(display-p3 0.984314 0.980392 0.976471)"
+  },
+  {
+   "cls": "InnerContainer__Container-sc-oy047e-0 hKlZHw",
+   "h": 1,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "InnerContainer__Container-sc-oy047e-0 hKlZHw",
+   "h": 708,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionAccessible__Section-sc-1tnsku5-0 cmwFAF",
+   "h": 708,
+   "padTop": "96px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionAccessible__Panel-sc-1tnsku5-1 dJsqhI",
+   "h": 532,
+   "padTop": "0px",
+   "bg": "color(display-p3 0.984314 0.980392 0.976471)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "relative",
+  "height": 94,
+  "links": 11,
+  "linkTexts": [
+   "Developers",
+   "ConnectKit\n\nConnecting a wallet, made simple.",
+   "Family\n\nDedicated self-custody account.",
+   "Resources",
+   "Blog",
+   "Changelog",
+   "Help & Support",
+   "FAQs",
+   "X (Twitter)",
+   "Log In",
+   "Log In",
+   "Get Started"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "Developers",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(40, 38, 36)",
+   "radius": "6px",
+   "pad": "11px 10px",
+   "size": "15px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 33
+  },
+  {
+   "text": "Resources",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(40, 38, 36)",
+   "radius": "6px",
+   "pad": "11px 10px",
+   "size": "15px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 33
+  },
+  {
+   "text": "X (Twitter)",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(40, 38, 36)",
+   "radius": "6px",
+   "pad": "11px 10px",
+   "size": "15px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 32
+  },
+  {
+   "text": "Log In",
+   "bg": "rgb(246, 244, 239)",
+   "color": "rgb(18, 18, 18)",
+   "radius": "32px",
+   "pad": "0px 14px",
+   "size": "15px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 32
+  },
+  {
+   "text": "Get Started",
+   "bg": "rgb(23, 23, 23)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "32px",
+   "pad": "0px 14px",
+   "size": "15px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 32
+  },
+  {
+   "text": "Download on iOS",
+   "bg": "rgb(23, 23, 23)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "32px",
+   "pad": "0px 24px 0px 22px",
+   "size": "17px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 48
+  },
+  {
+   "text": "Watch the Video",
+   "bg": "rgb(246, 244, 239)",
+   "color": "rgb(18, 18, 18)",
+   "radius": "32px",
+   "pad": "0px 20px 0px 19px",
+   "size": "17px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 48
+  }
+ ],
+ "headings": [
+  "Your favorite crypto wallet.",
+  "Explore Ethereum in a whole new way.",
+  "Send, receive, swap. All in one place.",
+  "The best way to experience NFTs.",
+  "Watch the wallets you care about.",
+  "Wallet activity you can understand.",
+  "Relentless protection. Restful ease.",
+  "Effortless onboarding. Masterful management.",
+  "The latest from Family",
+  "Details that matter.",
+  "Friends of Family",
+  "Frequently Asked Questions",
+  "Explore Family"
+ ],
+ "paras": [
+  "Connecting a wallet, made simple.",
+  "Dedicated self-custody account.",
+  "Explore Ethereum with the best wallet for iOS. Interacting with crypto has never been so simple.",
+  "Whether you’re a beginner or seasoned pro, Family makes it easy.",
+  "Your crypto, your control. Security at every stage.",
+  "Uncompromising speed. Optimal performance, all the time.",
+  "Experience the full power of Ethereum with advanced features.",
+  "Family takes fun seriously. Delightful interactions with every tap.",
+  "Flawless essentials. Easily send tokens and collectibles with the fewest taps, or share your wallet address by simply scanning a personalized QR code to receive new assets.",
+  "Trade thousands of tokens with minimal fees, 24/7. Family ensures optimal prices from various exchanges so you can acquire the tokens you want, whenever you want them."
+ ],
+ "footer": {
+  "h": 316,
+  "text": "Developers Documentation ConnectKit GitHub Resources Audit Report Changelog Blog FAQs Press Kit Company Contact X (Twitter) Legal © 2026"
+ },
+ "jsMotion": {
+  "scriptsFetched": 25,
+  "gsapEases": [
+   [
+    "linear",
+    27
+   ],
+   [
+    "circOut",
+    1
+   ]
+  ],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "3",
+    35
+   ],
+   [
+    "4",
+    32
+   ],
+   [
+    "1",
+    28
+   ],
+   [
+    ".4",
+    28
+   ],
+   [
+    "2",
+    26
+   ],
+   [
+    "6",
+    15
+   ],
+   [
+    "10",
+    13
+   ],
+   [
+    ".1",
+    13
+   ],
+   [
+    "5",
+    12
+   ],
+   [
+    ".5",
+    10
+   ],
+   [
+    "0",
+    9
+   ],
+   [
+    ".75",
+    7
+   ],
+   [
+    ".2",
+    6
+   ],
+   [
+    ".3",
+    6
+   ],
+   [
+    ".25",
+    6
+   ]
+  ],
+  "staggers": [],
+  "lenis": [],
+  "springs": [
+   [
+    "type:\"spring\",mass:4,stiffness:800,damping:80,restDelta:1e-4",
+    12
+   ],
+   [
+    "type:\"spring\",mass:.5,damping:20,stiffness:220",
+    6
+   ],
+   [
+    "type:\"spring\",stiffness:150,damping:19,mass:1.2",
+    5
+   ],
+   [
+    "type:\"spring\",mass:.2,damping:18,stiffness:280",
+    3
+   ],
+   [
+    "type:\"spring\",mass:.5,damping:18,stiffness:200",
+    3
+   ],
+   [
+    "stiffness:100,damping:10",
+    2
+   ],
+   [
+    "type:\"spring\",stiffness:.95,damping:.65,mass:10",
+    1
+   ],
+   [
+    "type:\"spring\",damping:.6,mass:7",
+    1
+   ]
+  ],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": [
+   [
+    "[.25,.1,.5,1]",
+    6
+   ],
+   [
+    "[.19,1,.22,1]",
+    6
+   ],
+   [
+    "[.25,1,.5,1]",
+    6
+   ],
+   [
+    "[.76,0,.24,1]",
+    1
+   ],
+   [
+    "[.25,.1,.25,1]",
+    1
+   ],
+   [
+    "[.45,0,.55,1]",
+    1
+   ],
+   [
+    "[.87,0,.13,1]",
+    1
+   ],
+   [
+    "[.4,0,.1,1]",
+    1
+   ],
+   [
+    "[.63,.01,.54,1.03]",
+    1
+   ],
+   [
+    "[.175,.885,.32,1]",
+    1
+   ]
+  ]
+ }
+}

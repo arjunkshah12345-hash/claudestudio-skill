@@ -1,0 +1,578 @@
+{
+ "url": "https://everswap.com",
+ "slug": "everswap-com",
+ "analyzedAt": "2026-10-07T05:23:09.717Z",
+ "scrollHeight": 18675,
+ "pageLengthInViewports": 20.8,
+ "title": "EverSwap - Trade, Lend, Borrow.",
+ "metaDescription": "EverSwap is the unified DeFi protocol for decentralised trading, permissionless lending, and zero-interest borrowing on single-sided liquidity pools, powered by relayers for more efficient yield and liquidity.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "Feature Display 200 normal",
+   "Feature Display 400 normal",
+   "Britti Sans 400 normal",
+   "Britti Sans 300 normal",
+   "Britti Sans 600 normal"
+  ],
+  "families": [
+   [
+    "Feature Display",
+    13
+   ],
+   [
+    "Britti Sans",
+    9
+   ]
+  ],
+  "sizes": [
+   [
+    "104px",
+    5
+   ],
+   [
+    "15px",
+    5
+   ],
+   [
+    "76px",
+    4
+   ],
+   [
+    "16px",
+    2
+   ],
+   [
+    "19px",
+    2
+   ],
+   [
+    "17px",
+    2
+   ],
+   [
+    "18px",
+    1
+   ],
+   [
+    "43px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "200",
+    10
+   ],
+   [
+    "400",
+    8
+   ],
+   [
+    "300",
+    2
+   ],
+   [
+    "600",
+    2
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    22
+   ]
+  ],
+  "uppercaseShare": 0,
+  "largest": [
+   {
+    "tag": "span",
+    "text": "One",
+    "family": "Feature Display",
+    "size": "103.889px",
+    "weight": "200",
+    "lh": "83.1111px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(251, 255, 244)"
+   },
+   {
+    "tag": "span",
+    "text": "Pool",
+    "family": "Feature Display",
+    "size": "103.889px",
+    "weight": "200",
+    "lh": "83.1111px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(251, 255, 244)"
+   },
+   {
+    "tag": "span",
+    "text": "Flows",
+    "family": "Feature Display",
+    "size": "103.889px",
+    "weight": "200",
+    "lh": "83.1111px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(251, 255, 244)"
+   },
+   {
+    "tag": "span",
+    "text": "One Pool",
+    "family": "Feature Display",
+    "size": "103.889px",
+    "weight": "200",
+    "lh": "103.889px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(251, 255, 244)"
+   },
+   {
+    "tag": "span",
+    "text": "Every Function",
+    "family": "Feature Display",
+    "size": "103.889px",
+    "weight": "200",
+    "lh": "103.889px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(251, 255, 244)"
+   },
+   {
+    "tag": "h3",
+    "text": "LPs",
+    "family": "Feature Display",
+    "size": "75.5556px",
+    "weight": "200",
+    "lh": "75.5556px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(251, 255, 244)"
+   },
+   {
+    "tag": "h3",
+    "text": "Borrowers",
+    "family": "Feature Display",
+    "size": "75.5556px",
+    "weight": "200",
+    "lh": "75.5556px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(251, 255, 244)"
+   },
+   {
+    "tag": "h3",
+    "text": "Traders",
+    "family": "Feature Display",
+    "size": "75.5556px",
+    "weight": "200",
+    "lh": "75.5556px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(251, 255, 244)"
+   },
+   {
+    "tag": "span",
+    "text": "DeFi",
+    "family": "Feature Display",
+    "size": "75.5556px",
+    "weight": "200",
+    "lh": "75.5556px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(251, 255, 244)"
+   },
+   {
+    "tag": "div",
+    "text": "35%",
+    "family": "Feature Display",
+    "size": "42.5px",
+    "weight": "200",
+    "lh": "59.5px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "p",
+    "text": "EverSwap unifies trading, lending, and borrowing through single-sided liquidity pools.",
+    "family": "Britti Sans",
+    "size": "18.8889px",
+    "weight": "300",
+    "lh": "26.4444px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(251, 255, 244)"
+   },
+   {
+    "tag": "p",
+    "text": "Smoother execution, more efficient markets, and better capital use across the system.",
+    "family": "Britti Sans",
+    "size": "18.8889px",
+    "weight": "300",
+    "lh": "26.4444px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(251, 255, 244)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgba(0, 0, 0, 0)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(251, 255, 244)",
+    18
+   ],
+   [
+    "rgb(32, 55, 39)",
+    3
+   ],
+   [
+    "rgb(255, 255, 255)",
+    1
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(251, 255, 244)",
+    1
+   ]
+  ],
+  "gradients": []
+ },
+ "motion": {
+  "cubicBeziers": [],
+  "durations": [
+   [
+    "0.25s",
+    6
+   ],
+   [
+    "0.18s",
+    2
+   ],
+   [
+    "0.5s",
+    1
+   ]
+  ],
+  "keyframes": [
+   "logo-list-animA",
+   "logo-list-animB"
+  ]
+ },
+ "cssVarSample": {
+  "--vh": "1vh",
+  "--default-font": "\"Britti Sans\"",
+  "--header-font": "\"Feature Display\"",
+  "--is-mobile": "0",
+  "--ref-screen-width": "1440",
+  "--site-padding-x": "min(60px, calc(40 * 100vw / var(--ref-screen-width)))",
+  "--site-padding-y": "var(--site-padding-x)",
+  "--grid-columns": "16",
+  "--grid-rows": "1",
+  "--grid-gap-scale": ".15",
+  "--grid-gap-width": "calc((100vw - var(--site-padding-x) * 2) / ((var(--grid-columns) / var(--grid-ga",
+  "--grid-column-width": "calc(var(--grid-gap-width) / var(--grid-gap-scale))",
+  "--grid-span-width": "calc(var(--grid-gap-width) + var(--grid-column-width))",
+  "--grid-span-1": "calc(var(--grid-span-width) * 1 + var(--grid-column-width))",
+  "--grid-span-2": "calc(var(--grid-span-width) * 2 + var(--grid-column-width))",
+  "--grid-span-3": "calc(var(--grid-span-width) * 3 + var(--grid-column-width))",
+  "--grid-span-4": "calc(var(--grid-span-width) * 4 + var(--grid-column-width))",
+  "--grid-span-5": "calc(var(--grid-span-width) * 5 + var(--grid-column-width))",
+  "--grid-span-6": "calc(var(--grid-span-width) * 6 + var(--grid-column-width))",
+  "--grid-span-7": "calc(var(--grid-span-width) * 7 + var(--grid-column-width))",
+  "--grid-span-8": "calc(var(--grid-span-width) * 8 + var(--grid-column-width))",
+  "--grid-span-9": "calc(var(--grid-span-width) * 9 + var(--grid-column-width))",
+  "--grid-span-10": "calc(var(--grid-span-width) * 10 + var(--grid-column-width))",
+  "--grid-span-11": "calc(var(--grid-span-width) * 11 + var(--grid-column-width))",
+  "--grid-span-12": "calc(var(--grid-span-width) * 12 + var(--grid-column-width))",
+  "--grid-span-13": "calc(var(--grid-span-width) * 13 + var(--grid-column-width))",
+  "--grid-span-14": "calc(var(--grid-span-width) * 14 + var(--grid-column-width))",
+  "--grid-span-15": "calc(var(--grid-span-width) * 15 + var(--grid-column-width))",
+  "--grid-span-16": "calc(var(--grid-span-width) * 16 + var(--grid-column-width))",
+  "--color-white": "#fbfff4",
+  "--color-black": "#333338",
+  "--color-pure-white": "#fff",
+  "--color-pure-black": "#000",
+  "--color-dark-link": "#516e5a",
+  "--color-dark-link-2": "#62866d",
+  "--color-dark-green": "#203727",
+  "--color-light-green": "#e0ffab",
+  "--color-light-green2": "#bccca2",
+  "--content-width": "calc(100vw - var(--site-padding-x) * 2)",
+  "--content-unit": "calc(var(--content-width) / var(--ref-screen-width))",
+  "--h1": "max(80px, calc(var(--content-unit) * 200))",
+  "--h2": "max(65px, calc(var(--content-unit) * 110))",
+  "--h3": "max(55px, calc(var(--content-unit) * 80))",
+  "--sub1": "max(16px, calc(var(--content-unit) * 22))",
+  "--sub2": "max(18px, calc(var(--content-unit) * 18))",
+  "--body1": "max(16px, calc(var(--content-unit) * 20))",
+  "--body2": "max(14px, calc(var(--content-unit) * 16))",
+  "--btn1": "max(16px, calc(var(--content-unit) * 16))",
+  "--btn2": "max(16px, calc(var(--content-unit) * 18))",
+  "--preloader": "max(30px, calc(var(--content-unit) * 45))",
+  "--link-footer": "max(14px, calc(var(--content-unit) * 16))",
+  "--default": "calc(var(--content-unit) * 16)",
+  "--site-header": "24px"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": true,
+  "webglCanvas": 0,
+  "canvases": 6,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": false,
+  "astro": true,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 0,
+  "video": 0,
+  "svg": 14,
+  "picture": 0,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 0,
+  "clipPath": 0,
+  "sticky": 0,
+  "fixed": [
+   "CANVAS",
+   "DIV",
+   "DIV",
+   "NAV",
+   "DIV"
+  ],
+  "customCursor": false,
+  "boxShadows": [],
+  "filters": [
+   [
+    "blur(4.5px)",
+    6
+   ],
+   [
+    "blur(5.19444px)",
+    3
+   ],
+   [
+    "blur(18.8889px)",
+    3
+   ]
+  ],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "24px",
+   1
+  ],
+  [
+   "3px",
+   1
+  ]
+ ],
+ "borders": [],
+ "grids": [],
+ "containers": [],
+ "sideMargins": [
+  [
+   "504px",
+   1
+  ],
+  [
+   "462px",
+   1
+  ],
+  [
+   "600px",
+   1
+  ],
+  [
+   "483px",
+   1
+  ],
+  [
+   "573px",
+   1
+  ],
+  [
+   "464px",
+   1
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "section",
+   "h": 1800,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section__content",
+   "h": 900,
+   "padTop": "40px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section",
+   "h": 5400,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section__content",
+   "h": 900,
+   "padTop": "40px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section",
+   "h": 1575,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section__content",
+   "h": 900,
+   "padTop": "40px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section",
+   "h": 4500,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section__content",
+   "h": 900,
+   "padTop": "40px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section",
+   "h": 1800,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section__content",
+   "h": 900,
+   "padTop": "40px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section",
+   "h": 2700,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section__content",
+   "h": 900,
+   "padTop": "40px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section__content",
+   "h": 900,
+   "padTop": "40px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "NAV",
+  "position": "fixed",
+  "height": 137,
+  "links": 5,
+  "linkTexts": [],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [],
+ "headings": [
+  "One Pool",
+  "Flows",
+  "LPs",
+  "Borrowers",
+  "Traders",
+  "ReDeFined",
+  "One Pool Every Function",
+  "Climb with EverSwap"
+ ],
+ "paras": [
+  "EverSwap unifies trading, lending, and borrowing through single-sided liquidity pools.",
+  "Smoother execution, more efficient markets, and better capital use across the system.",
+  "A new model for deeper, cleaner, and more efficient liquidity.",
+  "Building a more capital-efficient foundation for on-chain markets."
+ ],
+ "footer": {
+  "h": 900,
+  "text": "Stay close to the summit Climb with EverSwap Telegram Twitter (X)"
+ },
+ "jsMotion": {
+  "scriptsFetched": 2,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "0",
+    1
+   ]
+  ],
+  "staggers": [],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [
+   [
+    "lines",
+    5
+   ]
+  ],
+  "bezierArrays": []
+ }
+}

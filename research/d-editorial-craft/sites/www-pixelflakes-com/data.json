@@ -1,0 +1,544 @@
+{
+ "url": "https://www.pixelflakes.com",
+ "slug": "www-pixelflakes-com",
+ "analyzedAt": "2026-10-07T05:28:42.559Z",
+ "scrollHeight": 900,
+ "pageLengthInViewports": 1,
+ "title": "Pixelflakes - Pixelflakes",
+ "metaDescription": null,
+ "lang": "nl-NL",
+ "type": {
+  "loadedFonts": [
+   "At Hauss Std 500 normal",
+   "At Hauss Std 400 normal",
+   "At Hauss Std Retina 400 normal"
+  ],
+  "families": [
+   [
+    "At Hauss Std",
+    20
+   ],
+   [
+    "At Hauss Std Retina",
+    6
+   ]
+  ],
+  "sizes": [
+   [
+    "16px",
+    8
+   ],
+   [
+    "64px",
+    7
+   ],
+   [
+    "32px",
+    5
+   ],
+   [
+    "15px",
+    4
+   ],
+   [
+    "20px",
+    2
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    21
+   ],
+   [
+    "500",
+    5
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    8
+   ],
+   [
+    "-0.039em@64",
+    7
+   ],
+   [
+    "-0.031em@32",
+    5
+   ],
+   [
+    "0.013em@15",
+    4
+   ],
+   [
+    "-0.025em@20",
+    2
+   ]
+  ],
+  "uppercaseShare": 0.15,
+  "largest": [
+   {
+    "tag": "div",
+    "text": "We specialise in",
+    "family": "At Hauss Std",
+    "size": "64px",
+    "weight": "400",
+    "lh": "70px",
+    "ls": "-2.5px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(36, 35, 32)"
+   },
+   {
+    "tag": "div",
+    "text": "architectural visualisation,",
+    "family": "At Hauss Std",
+    "size": "64px",
+    "weight": "400",
+    "lh": "70px",
+    "ls": "-2.5px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(36, 35, 32)"
+   },
+   {
+    "tag": "div",
+    "text": "animation and interactive.",
+    "family": "At Hauss Std",
+    "size": "64px",
+    "weight": "400",
+    "lh": "70px",
+    "ls": "-2.5px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(36, 35, 32)"
+   },
+   {
+    "tag": "a",
+    "text": "Gallery",
+    "family": "At Hauss Std",
+    "size": "64px",
+    "weight": "400",
+    "lh": "70px",
+    "ls": "-2.5px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(36, 35, 32)"
+   },
+   {
+    "tag": "a",
+    "text": "Case Studies",
+    "family": "At Hauss Std",
+    "size": "64px",
+    "weight": "400",
+    "lh": "70px",
+    "ls": "-2.5px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(36, 35, 32)"
+   },
+   {
+    "tag": "a",
+    "text": "About",
+    "family": "At Hauss Std",
+    "size": "64px",
+    "weight": "400",
+    "lh": "70px",
+    "ls": "-2.5px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(36, 35, 32)"
+   },
+   {
+    "tag": "a",
+    "text": "Contact",
+    "family": "At Hauss Std",
+    "size": "64px",
+    "weight": "400",
+    "lh": "70px",
+    "ls": "-2.5px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(36, 35, 32)"
+   },
+   {
+    "tag": "div",
+    "text": "We champion →",
+    "family": "At Hauss Std",
+    "size": "32px",
+    "weight": "400",
+    "lh": "40px",
+    "ls": "-1px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(36, 35, 32)"
+   },
+   {
+    "tag": "div",
+    "text": "Creativity",
+    "family": "At Hauss Std",
+    "size": "32px",
+    "weight": "400",
+    "lh": "40px",
+    "ls": "-1px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(36, 35, 32)"
+   },
+   {
+    "tag": "div",
+    "text": "Experience",
+    "family": "At Hauss Std",
+    "size": "32px",
+    "weight": "400",
+    "lh": "40px",
+    "ls": "-1px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(36, 35, 32)"
+   },
+   {
+    "tag": "div",
+    "text": "Expertise",
+    "family": "At Hauss Std",
+    "size": "32px",
+    "weight": "400",
+    "lh": "40px",
+    "ls": "-1px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(36, 35, 32)"
+   },
+   {
+    "tag": "div",
+    "text": "Artistic value",
+    "family": "At Hauss Std",
+    "size": "32px",
+    "weight": "400",
+    "lh": "40px",
+    "ls": "-1px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(36, 35, 32)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(4, 5, 8)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(36, 35, 32)",
+    22
+   ],
+   [
+    "rgb(228, 221, 212)",
+    3
+   ],
+   [
+    "rgba(36, 35, 32, 0.5)",
+    1
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(36, 35, 32)",
+    8
+   ],
+   [
+    "rgb(228, 221, 212)",
+    4
+   ],
+   [
+    "rgb(235, 234, 237)",
+    1
+   ]
+  ],
+  "gradients": []
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(1,0,0,1)",
+    21
+   ],
+   [
+    "cubic-bezier(0.25,0.25,0.75,0.75)",
+    4
+   ],
+   [
+    "cubic-bezier(0.19,1,0.22,1)",
+    4
+   ]
+  ],
+  "durations": [
+   [
+    "0.5s",
+    28
+   ],
+   [
+    "0.75s",
+    5
+   ],
+   [
+    "0.25s",
+    4
+   ]
+  ],
+  "keyframes": []
+ },
+ "cssVarSample": {
+  "--color-white": "#fff",
+  "--color-white-02": "hsla(0,0%,100%,.2)",
+  "--color-black": "#040508",
+  "--color-sand": "#e4ddd4",
+  "--color-sand-02": "hsla(34,23%,86%,.2)",
+  "--color-sand-06": "hsla(34,23%,86%,.6)",
+  "--color-sand-light": "#faf9f5",
+  "--color-grey-dark": "#242320",
+  "--color-grey-dark-02": "rgba(36,35,32,.2)",
+  "--color-grey-dark-04": "rgba(36,35,32,.4)",
+  "--color-grey-dark-05": "rgba(36,35,32,.5)",
+  "--color-grey-dark-06": "rgba(36,35,32,.6)",
+  "--color-grey-dark-08": "rgba(36,35,32,.8)",
+  "--font-f-at-hauss-std": "\"At Hauss Std\"",
+  "--font-f-at-hauss-std-retina": "\"At Hauss Std Retina\"",
+  "--font-s-h1": "25.6vw",
+  "--font-lh-h1": "25.6vw",
+  "--font-ls-h1": "-1.2vw",
+  "--font-s-h2": "17.0666666667vw",
+  "--font-lh-h2": "18.6666666667vw",
+  "--font-ls-h2": "-.6666666667vw",
+  "--font-s-h3": "8.5333333333vw",
+  "--font-lh-h3": "10.6666666667vw",
+  "--font-ls-h3": "-.2666666667vw",
+  "--font-s-h3-m": "12.8vw",
+  "--font-lh-h3-m": "14.9333333333vw",
+  "--font-ls-h3-m": "-.5333333333vw",
+  "--font-s-h4": "5.3333333333vw",
+  "--font-lh-h4": "6.9333333333vw",
+  "--font-ls-h4": "-.1333333333vw",
+  "--font-s-p1": "4.2666666667vw",
+  "--font-lh-p1": "5.8666666667vw",
+  "--font-ls-p1": "0vw",
+  "--font-s-p2": "4.2666666667vw",
+  "--font-lh-p2": "5.3333333333vw",
+  "--font-ls-p2": "0vw",
+  "--font-s-label": "4vw",
+  "--font-lh-label": "4vw",
+  "--font-ls-label": ".0533333333vw",
+  "--font-s-nav": "4.2666666667vw",
+  "--font-lh-nav": "5.8666666667vw",
+  "--font-ls-nav": "0vw",
+  "--font-s-button": "5.3333333333vw",
+  "--font-lh-button": "6.9333333333vw",
+  "--font-ls-button": "-.1333333333vw"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": true,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": true,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": true,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 45,
+  "video": 4,
+  "svg": 13,
+  "picture": 0,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 0,
+  "clipPath": 9,
+  "sticky": 2,
+  "fixed": [
+   "is-active is-exact-active logo is-brandmark",
+   "burger",
+   "scroll lenis"
+  ],
+  "customCursor": true,
+  "boxShadows": [],
+  "filters": [],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [],
+ "borders": [
+  [
+   "bottom:1px solid rgba(36, 35, 32, 0.2)",
+   2
+  ],
+  [
+   "1px solid rgba(36, 35, 32, 0.2)",
+   1
+  ]
+ ],
+ "grids": [
+  [
+   "15cols gap 20px",
+   7
+  ]
+ ],
+ "containers": [],
+ "sideMargins": [
+  [
+   "30px",
+   2
+  ],
+  [
+   "963px",
+   2
+  ],
+  [
+   "870px",
+   2
+  ],
+  [
+   "310px",
+   1
+  ],
+  [
+   "1057px",
+   1
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "scroll lenis",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgb(235, 234, 237)"
+  },
+  {
+   "cls": "selected-work",
+   "h": 2233,
+   "padTop": "180px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "the-sketch-approach",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgb(36, 35, 32)"
+  },
+  {
+   "cls": "partners-clients",
+   "h": 844,
+   "padTop": "180px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "relative",
+  "height": 0,
+  "links": 5,
+  "linkTexts": [],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [],
+ "headings": [
+  "SELECTED WORK",
+  "Gonio",
+  "PARTNERS & CLIENTS",
+  "NEWSLETTER"
+ ],
+ "paras": [
+  "We specialise in architectural visualisation, animation and interactive.",
+  "Sketches are photographs, in the digital sense, of fleeting moments, preserved in order to capture the essence of your design.",
+  "Sign up for our newsletter to receive updates and content."
+ ],
+ "footer": {
+  "h": 1077,
+  "text": "If you’d like to discuss a potential project or just say hello, please get in touch. We’d love to jump on a call or swing by if you’re local. We also offer a range of different workshops, CPDs and supplier presentations - please ask us for more information if you’re interested! ↗ Work with us ↗ Gall"
+ },
+ "jsMotion": {
+  "scriptsFetched": 2,
+  "gsapEases": [
+   [
+    "expo.inOut",
+    32
+   ],
+   [
+    "expo.out",
+    25
+   ],
+   [
+    "none",
+    1
+   ],
+   [
+    "expo",
+    1
+   ],
+   [
+    "power4",
+    1
+   ]
+  ],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "1",
+    30
+   ],
+   [
+    ".5",
+    21
+   ],
+   [
+    ".75",
+    13
+   ],
+   [
+    "0",
+    1
+   ]
+  ],
+  "staggers": [
+   [
+    "0",
+    2
+   ],
+   [
+    ".05",
+    2
+   ],
+   [
+    ".1",
+    2
+   ]
+  ],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

@@ -1,0 +1,886 @@
+{
+ "url": "https://populous.com",
+ "slug": "populous-com",
+ "analyzedAt": "2026-10-07T05:14:19.635Z",
+ "scrollHeight": 11117,
+ "pageLengthInViewports": 12.4,
+ "title": "Global Architectural Design – Stadiums, Arenas, Events | Populous",
+ "metaDescription": "Populous is a global architectural design firm specializing in creating environments & venues that draw communities and people together.",
+ "lang": "en-US",
+ "type": {
+  "loadedFonts": [
+   "SuisseIntl 400 normal",
+   "SuisseIntl 500 normal",
+   "TiemposFine 300 normal",
+   "TiemposFine 200 normal"
+  ],
+  "families": [
+   [
+    "SuisseIntl",
+    139
+   ]
+  ],
+  "sizes": [
+   [
+    "16px",
+    49
+   ],
+   [
+    "12px",
+    30
+   ],
+   [
+    "21px",
+    25
+   ],
+   [
+    "36px",
+    17
+   ],
+   [
+    "80px",
+    6
+   ],
+   [
+    "27px",
+    6
+   ],
+   [
+    "10px",
+    6
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    113
+   ],
+   [
+    "500",
+    26
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    76
+   ],
+   [
+    "-0.050em@21",
+    25
+   ],
+   [
+    "-0.050em@36",
+    16
+   ],
+   [
+    "0.040em@12",
+    10
+   ],
+   [
+    "-0.050em@80",
+    6
+   ],
+   [
+    "0.040em@10",
+    6
+   ]
+  ],
+  "uppercaseShare": 0.04,
+  "largest": [
+   {
+    "tag": "span",
+    "text": "We design the",
+    "family": "SuisseIntl",
+    "size": "80px",
+    "weight": "400",
+    "lh": "80px",
+    "ls": "-4px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "places where people",
+    "family": "SuisseIntl",
+    "size": "80px",
+    "weight": "400",
+    "lh": "80px",
+    "ls": "-4px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "love to be together.",
+    "family": "SuisseIntl",
+    "size": "80px",
+    "weight": "400",
+    "lh": "80px",
+    "ls": "-4px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "Have a question?",
+    "family": "SuisseIntl",
+    "size": "80px",
+    "weight": "400",
+    "lh": "80px",
+    "ls": "-4px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(1, 1, 1)"
+   },
+   {
+    "tag": "span",
+    "text": "Want to work with",
+    "family": "SuisseIntl",
+    "size": "80px",
+    "weight": "400",
+    "lh": "80px",
+    "ls": "-4px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(1, 1, 1)"
+   },
+   {
+    "tag": "span",
+    "text": "us?",
+    "family": "SuisseIntl",
+    "size": "80px",
+    "weight": "400",
+    "lh": "80px",
+    "ls": "-4px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(1, 1, 1)"
+   },
+   {
+    "tag": "span",
+    "text": "Explore some of our best work",
+    "family": "SuisseIntl",
+    "size": "36px",
+    "weight": "400",
+    "lh": "43.2px",
+    "ls": "-1.8px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "around the world",
+    "family": "SuisseIntl",
+    "size": "36px",
+    "weight": "400",
+    "lh": "43.2px",
+    "ls": "-1.8px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "Sphere",
+    "family": "SuisseIntl",
+    "size": "36px",
+    "weight": "400",
+    "lh": "43.2px",
+    "ls": "-1.8px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "Disciplines",
+    "family": "SuisseIntl",
+    "size": "36px",
+    "weight": "400",
+    "lh": "54px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(1, 1, 1)"
+   },
+   {
+    "tag": "span",
+    "text": "Architecture",
+    "family": "SuisseIntl",
+    "size": "36px",
+    "weight": "400",
+    "lh": "43.2px",
+    "ls": "-1.8px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(1, 1, 1)"
+   },
+   {
+    "tag": "span",
+    "text": "Audiovisual Consultancy",
+    "family": "SuisseIntl",
+    "size": "36px",
+    "weight": "400",
+    "lh": "43.2px",
+    "ls": "-1.8px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(1, 1, 1)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgba(0, 0, 0, 0)",
+  "htmlBg": "rgb(255, 255, 255)",
+  "text": [
+   [
+    "rgb(1, 1, 1)",
+    97
+   ],
+   [
+    "rgb(255, 255, 255)",
+    42
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(255, 255, 255)",
+    16
+   ],
+   [
+    "rgb(230, 230, 230)",
+    10
+   ],
+   [
+    "rgb(1, 1, 1)",
+    7
+   ],
+   [
+    "rgba(0, 0, 0, 0.1)",
+    5
+   ],
+   [
+    "color(srgb 0.900392 0.900392 0.900392)",
+    3
+   ],
+   [
+    "rgb(28, 25, 181)",
+    3
+   ]
+  ],
+  "gradients": []
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.215,0.61,0.355,1)",
+    842
+   ],
+   [
+    "cubic-bezier(0.55,0.055,0.675,0.19)",
+    10
+   ],
+   [
+    "cubic-bezier(0.77,0,0.175,1)",
+    2
+   ],
+   [
+    "cubic-bezier(0.76,0,0.24,1)",
+    1
+   ]
+  ],
+  "durations": [
+   [
+    "0.9s",
+    293
+   ],
+   [
+    "0.3s",
+    82
+   ],
+   [
+    "0.75s",
+    50
+   ],
+   [
+    "0.6s",
+    42
+   ],
+   [
+    "0s",
+    39
+   ],
+   [
+    "0.15s",
+    31
+   ],
+   [
+    "0.198s",
+    8
+   ],
+   [
+    "0.45s",
+    8
+   ],
+   [
+    "1.5s",
+    6
+   ],
+   [
+    "0.25s",
+    5
+   ]
+  ],
+  "keyframes": [
+   "splide-loading",
+   "transitionDefaultOut",
+   "transitionDefaultIn",
+   "sortOut",
+   "revealMediaHeroBackground",
+   "homeHeroEntry",
+   "listPreview",
+   "listPreviewOut",
+   "revealSelectClear",
+   "loaderSpinner",
+   "spin",
+   "scaleIn",
+   "slideInLeft",
+   "slideInUp",
+   "slideInUpTiny",
+   "slideInUpCentered",
+   "slideOutLeftTiny"
+  ]
+ },
+ "cssVarSample": {
+  "--wp--preset--aspect-ratio--square": "1",
+  "--wp--preset--aspect-ratio--4-3": "4/3",
+  "--wp--preset--aspect-ratio--3-4": "3/4",
+  "--wp--preset--aspect-ratio--3-2": "3/2",
+  "--wp--preset--aspect-ratio--2-3": "2/3",
+  "--wp--preset--aspect-ratio--16-9": "16/9",
+  "--wp--preset--aspect-ratio--9-16": "9/16",
+  "--wp--preset--color--black": "#000000",
+  "--wp--preset--color--cyan-bluish-gray": "#abb8c3",
+  "--wp--preset--color--white": "#ffffff",
+  "--wp--preset--color--pale-pink": "#f78da7",
+  "--wp--preset--color--vivid-red": "#cf2e2e",
+  "--wp--preset--color--luminous-vivid-orange": "#ff6900",
+  "--wp--preset--color--luminous-vivid-amber": "#fcb900",
+  "--wp--preset--color--light-green-cyan": "#7bdcb5",
+  "--wp--preset--color--vivid-green-cyan": "#00d084",
+  "--wp--preset--color--pale-cyan-blue": "#8ed1fc",
+  "--wp--preset--color--vivid-cyan-blue": "#0693e3",
+  "--wp--preset--color--vivid-purple": "#9b51e0",
+  "--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple": "linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%)",
+  "--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan": "linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%)",
+  "--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange": "linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%)",
+  "--wp--preset--gradient--luminous-vivid-orange-to-vivid-red": "linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%)",
+  "--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray": "linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%)",
+  "--wp--preset--gradient--cool-to-warm-spectrum": "linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 4",
+  "--wp--preset--gradient--blush-light-purple": "linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%)",
+  "--wp--preset--gradient--blush-bordeaux": "linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%",
+  "--wp--preset--gradient--luminous-dusk": "linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 10",
+  "--wp--preset--gradient--pale-ocean": "linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) ",
+  "--wp--preset--gradient--electric-grass": "linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%)",
+  "--wp--preset--gradient--midnight": "linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%)",
+  "--wp--preset--font-size--small": "13px",
+  "--wp--preset--font-size--medium": "20px",
+  "--wp--preset--font-size--large": "36px",
+  "--wp--preset--font-size--x-large": "42px",
+  "--wp--preset--spacing--20": "0.44rem",
+  "--wp--preset--spacing--30": "0.67rem",
+  "--wp--preset--spacing--40": "1rem",
+  "--wp--preset--spacing--50": "1.5rem",
+  "--wp--preset--spacing--60": "2.25rem",
+  "--wp--preset--spacing--70": "3.38rem",
+  "--wp--preset--spacing--80": "5.06rem",
+  "--wp--preset--shadow--natural": "6px 6px 9px rgba(0, 0, 0, 0.2)",
+  "--wp--preset--shadow--deep": "12px 12px 50px rgba(0, 0, 0, 0.4)",
+  "--wp--preset--shadow--sharp": "6px 6px 0px rgba(0, 0, 0, 0.2)",
+  "--wp--preset--shadow--outlined": "6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0)",
+  "--wp--preset--shadow--crisp": "6px 6px 0px rgb(0, 0, 0)",
+  "--animation-duration-factor": "1",
+  "--color": "#010101",
+  "--color-bg": "white",
+  "--color-accent": "#1c19b5",
+  "--container-margin": "var(--grid-margin)",
+  "--container-large-margin": "calc(var(--grid-margin) + calc(0.1666666667 * (calc(100 * var(--vw, 1vw)) - 2 * ",
+  "--container-medium-margin": "calc(var(--grid-margin) + calc(0.25 * (calc(100 * var(--vw, 1vw)) - 2 * var(--gr",
+  "--font-size-body": "clamp(14px, 0.0111111111 * calc(100 * var(--vw, 1vw)), 16px)",
+  "--font-size-body-tiny": "clamp(10px, 0.0069444444 * calc(100 * var(--vw, 1vw)), 10px)",
+  "--font-size-body-small": "clamp(12px, 0.0083333333 * calc(100 * var(--vw, 1vw)), 12px)",
+  "--font-size-body-medium": "clamp(21px, 0.0145833333 * calc(100 * var(--vw, 1vw)), 21px)",
+  "--font-size-body-large": "clamp(26px, 0.01875 * calc(100 * var(--vw, 1vw)), 27px)",
+  "--font-size-huge": "clamp(56px, 0.0972222222 * calc(100 * var(--vw, 1vw)), 140px)",
+  "--font-size-h1": "clamp(36px, 0.0555555556 * calc(100 * var(--vw, 1vw)), 80px)",
+  "--font-size-h2": "clamp(34px, 0.0423611111 * calc(100 * var(--vw, 1vw)), 61px)",
+  "--font-size-h3": "clamp(32px, 0.0326388889 * calc(100 * var(--vw, 1vw)), 47px)",
+  "--font-size-h4": "clamp(28px, 0.025 * calc(100 * var(--vw, 1vw)), 36px)",
+  "--font-size-h5": "var(--font-size-body-large)",
+  "--font-size-h6": "var(--font-size-body-medium)",
+  "--spacing-micro-mobile": "5",
+  "--spacing-micro": "10",
+  "--spacing-tiny-mobile": "20",
+  "--spacing-tiny": "20"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": true,
+  "locomotive": true,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": false,
+  "swup": true,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 17,
+  "video": 2,
+  "svg": 12,
+  "picture": 17,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [
+   [
+    "difference",
+    1
+   ]
+  ],
+  "backdropFilter": 2,
+  "clipPath": 133,
+  "sticky": 9,
+  "fixed": [
+   "c-cursor"
+  ],
+  "customCursor": true,
+  "boxShadows": [],
+  "filters": [],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "4px",
+   21
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgb(1, 1, 1)",
+   6
+  ],
+  [
+   "1px solid rgb(255, 255, 255)",
+   3
+  ],
+  [
+   "1px solid rgb(28, 25, 181)",
+   1
+  ]
+ ],
+ "grids": [
+  [
+   "2cols gap 20px",
+   9
+  ],
+  [
+   "4cols gap 20px",
+   4
+  ],
+  [
+   "1cols gap normal",
+   2
+  ],
+  [
+   "2cols gap 40px",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "100%",
+   2
+  ],
+  [
+   "1440px",
+   2
+  ],
+  [
+   "708px",
+   1
+  ]
+ ],
+ "sideMargins": [
+  [
+   "106px",
+   12
+  ],
+  [
+   "730px",
+   4
+  ],
+  [
+   "1354px",
+   2
+  ],
+  [
+   "1978px",
+   2
+  ],
+  [
+   "2602px",
+   2
+  ],
+  [
+   "3226px",
+   2
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "c-media-hero u-anim-parent c-home-hero",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "u-margin-small-top u-margin-enormous-bottom ",
+   "h": 184,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "u-margin-big-top u-margin-big-bottom",
+   "h": 546,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "u-margin-big-top u-margin-big-bottom",
+   "h": 1440,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "u-margin-big-top u-margin-big-bottom",
+   "h": 1638,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "u-margin-big-top u-margin-big-bottom",
+   "h": 1440,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-disciplines-list -disciplines || c-list-preview_",
+   "h": 524,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "u-margin-big-top u-margin-big-bottom",
+   "h": 755,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "u-margin-big-top u-margin-big-bottom",
+   "h": 755,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "static",
+  "height": 0,
+  "links": 17,
+  "linkTexts": [
+   "↳\nGo to main content",
+   "Explore",
+   "Sustainability",
+   "Projects",
+   "Digital Future",
+   "Disciplines",
+   "Careers",
+   "Search"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "↳ Go to main content",
+   "bg": "rgb(1, 1, 1)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "4px",
+   "pad": "6px 12px 4.8px",
+   "size": "12px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid rgb(1, 1, 1)",
+   "h": 35
+  },
+  {
+   "text": "← Previous",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(1, 1, 1)",
+   "radius": "4px",
+   "pad": "6px 12px 4.8px",
+   "size": "12px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid rgb(1, 1, 1)",
+   "h": 35
+  },
+  {
+   "text": "→ Next",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(1, 1, 1)",
+   "radius": "4px",
+   "pad": "6px 12px 4.8px",
+   "size": "12px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid rgb(1, 1, 1)",
+   "h": 35
+  },
+  {
+   "text": "↳ View all",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(1, 1, 1)",
+   "radius": "4px",
+   "pad": "6px 12px 4.8px",
+   "size": "12px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid rgb(255, 255, 255)",
+   "h": 35
+  },
+  {
+   "text": "↳ Start",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(1, 1, 1)",
+   "radius": "4px",
+   "pad": "6px 12px 4.8px",
+   "size": "12px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid rgb(255, 255, 255)",
+   "h": 35
+  },
+  {
+   "text": "↳ View Project",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(1, 1, 1)",
+   "radius": "4px",
+   "pad": "6px 12px 4.8px",
+   "size": "12px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid rgb(255, 255, 255)",
+   "h": 35
+  },
+  {
+   "text": "↳ Sustainability",
+   "bg": "rgb(1, 1, 1)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "4px",
+   "pad": "6px 12px 4.8px",
+   "size": "12px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid rgb(1, 1, 1)",
+   "h": 35
+  },
+  {
+   "text": "↳ Careers",
+   "bg": "rgb(1, 1, 1)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "4px",
+   "pad": "6px 12px 4.8px",
+   "size": "12px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid rgb(1, 1, 1)",
+   "h": 35
+  },
+  {
+   "text": "↳ Contact",
+   "bg": "rgb(1, 1, 1)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "4px",
+   "pad": "6px 12px 4.8px",
+   "size": "12px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid rgb(1, 1, 1)",
+   "h": 35
+  }
+ ],
+ "headings": [
+  "We design the places where people love to be together.",
+  "News & Perspectives",
+  "Populous Awarded Design of Rach Chiec National Sports Complex’s 70,000-Seat Stadium and 18,000-Seat Arena",
+  "Populous’ Jonathan Mallie Named a 2026 VenuesNow All-Star",
+  "Highmark Stadium Makes Regular Season Debut",
+  "New Philadelphia Arena Poised to Shape the Future of Philadelphia Sports and Entertainment",
+  "Venezia FC Reveals New Images of Populous-Designed Bosco Dello Sport Stadium",
+  "A Stadium Shaped by Its Fans: How Brand Activation Brings Buffalo’s Culture into Highmark Stadium",
+  "Populous-Designed ONT Field Named 2026 Ballpark of the Year by BaseballParks.com",
+  "Populous Strengthens Aviation Design Practice, Adds Nikolas Dando-Haenisch as Head of Aviation, Eastern U.S.",
+  "Baseball’s Biggest Moments: The Unseen Work That Makes Iconic Events Possible",
+  "Populous Appointed as Lead Designer for New Frankfurt Multi-Purpose Arena",
+  "Explore some of our best work around the world",
+  "Featured Projects",
+  "Kai Tak Sports Park",
+  "Tottenham Hotspur Stadium",
+  "BMO Centre",
+  "Sphere",
+  "Disciplines",
+  "Crafting a Sustainable Future",
+  "We Can’t Do It Without You",
+  "Have a question? Want to work with us?",
+  "WHAT",
+  "WHO",
+  "IMPACT"
+ ],
+ "paras": [
+  "We’re a global design firm with colleagues spanning four continents creating experiences that amplify the joy felt in shared human moments.",
+  "Discover how we transform ideas into reality, fostering connections that bridge cultures and celebrate the beauty of human interaction.",
+  "Populous has been at the forefront of environmentally sustainable design solutions for public assembly venues since the formation of our practice.",
+  "Populous is all about people — it’s in our name. Attracting and retaining talented people who are passionate about their work is what makes us thrive. Learn more about working at Populous, and view our open positions."
+ ],
+ "footer": {
+  "h": 900,
+  "text": "WHAT Explore Projects Disciplines WHO About Team Careers IMPACT Sustainability Digital Future News Contact SOCIAL LinkedIn Instagram Facebook X YouTube Privacy Policy Terms of Use Transparency Statement Manage Cookies Copyright © 2026 Populous"
+ },
+ "jsMotion": {
+  "scriptsFetched": 5,
+  "gsapEases": [
+   [
+    "none",
+    2
+   ],
+   [
+    "power4.out",
+    1
+   ],
+   [
+    "power4.in",
+    1
+   ],
+   [
+    "power3.out",
+    1
+   ]
+  ],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "1",
+    3
+   ],
+   [
+    "2",
+    2
+   ],
+   [
+    "0",
+    1
+   ],
+   [
+    "4",
+    1
+   ],
+   [
+    ".5",
+    1
+   ],
+   [
+    ".1",
+    1
+   ],
+   [
+    ".25",
+    1
+   ],
+   [
+    ".75",
+    1
+   ]
+  ],
+  "staggers": [
+   [
+    "0",
+    2
+   ]
+  ],
+  "lenis": [
+   [
+    "smoothWheel:r",
+    2
+   ],
+   [
+    "lerp:.1",
+    1
+   ],
+   [
+    "smoothWheel:!0",
+    1
+   ],
+   [
+    "wheelMultiplier:1",
+    1
+   ],
+   [
+    "smoothWheel:this",
+    1
+   ],
+   [
+    "lerp:.2",
+    1
+   ]
+  ],
+  "springs": [],
+  "scrollTriggerStarts": [
+   [
+    "start",
+    1
+   ]
+  ],
+  "splitTypes": [
+   [
+    "lines",
+    1
+   ]
+  ],
+  "bezierArrays": []
+ }
+}

@@ -1,0 +1,831 @@
+{
+ "url": "https://www.cartier.com/en-fr/watchesandwonders",
+ "slug": "www-cartier-com-en-fr-watchesandwonders",
+ "analyzedAt": "2026-10-07T05:26:40.148Z",
+ "scrollHeight": 900,
+ "pageLengthInViewports": 1,
+ "title": "Watches & Wonders",
+ "metaDescription": null,
+ "lang": "en-FR",
+ "type": {
+  "loadedFonts": [
+   "Brilliant Cut Pro Regular 400 normal",
+   "Brilliant Cut Pro Medium 600 normal",
+   "Fancy Cut Pro Regular 400 normal",
+   "Helvetica Neue 400 normal",
+   "BrilliantCutProWW2026 500 normal",
+   "FancyCutCondProWW2026 300 normal"
+  ],
+  "families": [
+   [
+    "Brilliant Cut Pro Regular",
+    98
+   ],
+   [
+    "Brilliant Cut Pro Medium",
+    12
+   ],
+   [
+    "Fancy Cut Pro Regular",
+    6
+   ],
+   [
+    "BrilliantCutProWW2026",
+    4
+   ],
+   [
+    "FancyCutCondProWW2026",
+    2
+   ]
+  ],
+  "sizes": [
+   [
+    "12px",
+    98
+   ],
+   [
+    "16px",
+    14
+   ],
+   [
+    "14px",
+    4
+   ],
+   [
+    "13px",
+    2
+   ],
+   [
+    "24px",
+    1
+   ],
+   [
+    "54px",
+    1
+   ],
+   [
+    "9px",
+    1
+   ],
+   [
+    "8px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    95
+   ],
+   [
+    "600",
+    21
+   ],
+   [
+    "500",
+    4
+   ],
+   [
+    "300",
+    2
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "0.067em@12",
+    72
+   ],
+   [
+    "0.042em@12",
+    24
+   ],
+   [
+    "0.031em@16",
+    12
+   ],
+   [
+    "normal",
+    4
+   ],
+   [
+    "0.036em@14",
+    4
+   ],
+   [
+    "0.050em@16",
+    1
+   ],
+   [
+    "0.100em@9",
+    1
+   ],
+   [
+    "0.100em@8",
+    1
+   ],
+   [
+    "0.050em@12",
+    1
+   ],
+   [
+    "0.005em@12",
+    1
+   ],
+   [
+    "0.005em@16",
+    1
+   ]
+  ],
+  "uppercaseShare": 0.93,
+  "largest": [
+   {
+    "tag": "div",
+    "text": "WATCHES & WONDERS",
+    "family": "FancyCutCondProWW2026",
+    "size": "54px",
+    "weight": "300",
+    "lh": "54px",
+    "ls": "normal",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "div",
+    "text": "WATCHMAKER OF SHAPES, MASTER OF CRAFTS",
+    "family": "FancyCutCondProWW2026",
+    "size": "24px",
+    "weight": "300",
+    "lh": "27.6px",
+    "ls": "normal",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "p",
+    "text": "BE INSPIRED",
+    "family": "Brilliant Cut Pro Medium",
+    "size": "16px",
+    "weight": "600",
+    "lh": "24px",
+    "ls": "0.5px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "li",
+    "text": "STORIES",
+    "family": "Brilliant Cut Pro Regular",
+    "size": "16px",
+    "weight": "600",
+    "lh": "18px",
+    "ls": "0.8px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(33, 37, 41)"
+   },
+   {
+    "tag": "h4",
+    "text": "SUBSCRIBE TO OUR NEWSLETTER",
+    "family": "Brilliant Cut Pro Regular",
+    "size": "16px",
+    "weight": "600",
+    "lh": "28px",
+    "ls": "0.5px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "h4",
+    "text": "CUSTOMER",
+    "family": "Brilliant Cut Pro Medium",
+    "size": "16px",
+    "weight": "600",
+    "lh": "24px",
+    "ls": "0.5px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "h4",
+    "text": "OUR COMPANY",
+    "family": "Brilliant Cut Pro Medium",
+    "size": "16px",
+    "weight": "600",
+    "lh": "24px",
+    "ls": "0.5px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "h4",
+    "text": "LEGAL AND PRIVACY",
+    "family": "Brilliant Cut Pro Medium",
+    "size": "16px",
+    "weight": "600",
+    "lh": "24px",
+    "ls": "0.5px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "h4",
+    "text": "FOLLOW US",
+    "family": "Brilliant Cut Pro Regular",
+    "size": "16px",
+    "weight": "600",
+    "lh": "28px",
+    "ls": "0.5px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(29, 28, 28)"
+   },
+   {
+    "tag": "li",
+    "text": "Change Location",
+    "family": "Fancy Cut Pro Regular",
+    "size": "16px",
+    "weight": "400",
+    "lh": "22px",
+    "ls": "0.5px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "WELCOME",
+    "family": "Brilliant Cut Pro Regular",
+    "size": "16px",
+    "weight": "600",
+    "lh": "24px",
+    "ls": "0.5px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "span",
+    "text": "Choose your location",
+    "family": "Fancy Cut Pro Regular",
+    "size": "16px",
+    "weight": "400",
+    "lh": "22px",
+    "ls": "0.08px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(124, 103, 88)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(0, 0, 0)",
+    71
+   ],
+   [
+    "rgb(33, 37, 41)",
+    38
+   ],
+   [
+    "rgb(255, 255, 255)",
+    12
+   ],
+   [
+    "rgb(29, 28, 28)",
+    1
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(255, 255, 255)",
+    5
+   ],
+   [
+    "rgb(124, 103, 88)",
+    2
+   ],
+   [
+    "rgb(0, 0, 0)",
+    2
+   ],
+   [
+    "rgb(193, 0, 22)",
+    1
+   ],
+   [
+    "rgba(0, 0, 0, 0.5)",
+    1
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(rgb(0, 0, 0), rgb(0, 0, 0))",
+    202
+   ],
+   [
+    "linear-gradient(rgb(33, 37, 41), rgb(33, 37, 41))",
+    2
+   ],
+   [
+    "linear-gradient(rgba(255, 0, 0, 0.7) 0px, rgba(255, 0, 0, 0.2) 60%, rgba(255, 0, 0, 0))",
+    1
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.4,0.9,0.3,1)",
+    24
+   ],
+   [
+    "cubic-bezier(0.4,0,0.2,1)",
+    3
+   ],
+   [
+    "cubic-bezier(0.22,1,0.36,1)",
+    2
+   ],
+   [
+    "cubic-bezier(0.04,0.015,0,0.15)",
+    2
+   ]
+  ],
+  "durations": [
+   [
+    "0.3s",
+    120
+   ],
+   [
+    "0.5s",
+    31
+   ],
+   [
+    "0.2s",
+    28
+   ],
+   [
+    "0.4s",
+    25
+   ],
+   [
+    "0.15s",
+    14
+   ],
+   [
+    "1.5s",
+    11
+   ],
+   [
+    "0.6s",
+    7
+   ],
+   [
+    "1s",
+    4
+   ],
+   [
+    "888ms",
+    4
+   ],
+   [
+    "0.1s",
+    3
+   ]
+  ],
+  "keyframes": [
+   "progress-bar-stripes",
+   "spinner-border",
+   "spinner-grow",
+   "placeholder-glow",
+   "placeholder-wave",
+   "eye-blink-red",
+   "red-sweep-down",
+   "gradient-move",
+   "spin"
+  ]
+ },
+ "cssVarSample": {
+  "--bs-breakpoint-xs": "0",
+  "--bs-breakpoint-sm": "576px",
+  "--bs-breakpoint-md": "768px",
+  "--bs-breakpoint-lg": "992px",
+  "--bs-breakpoint-xl": "1200px",
+  "--bs-breakpoint-x1280": "1280px",
+  "--bs-breakpoint-xxl": "1440px"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 1,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 212,
+  "video": 1,
+  "svg": 15,
+  "picture": 369,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [
+   [
+    "multiply",
+    1
+   ]
+  ],
+  "backdropFilter": 0,
+  "clipPath": 0,
+  "sticky": 1,
+  "fixed": [
+   "background-page-asset",
+   "mainLoader shown",
+   "modal car__LocationSelector--modal"
+  ],
+  "customCursor": true,
+  "boxShadows": [
+   [
+    "rgba(0, 0, 0, 0.04) 0px -4px 10px 0px",
+    1
+   ]
+  ],
+  "filters": [
+   [
+    "invert(0)",
+    7
+   ]
+  ],
+  "transforms3d": 0,
+  "noiseOrGrain": true,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [],
+ "borders": [
+  [
+   "bottom:1px solid rgb(223, 223, 223)",
+   8
+  ],
+  [
+   "1px solid rgb(223, 223, 223)",
+   7
+  ],
+  [
+   "bottom:1px solid rgb(0, 0, 0)",
+   2
+  ],
+  [
+   "1px solid rgb(33, 37, 41)",
+   2
+  ],
+  [
+   "1px solid rgb(0, 0, 0)",
+   2
+  ],
+  [
+   "1px solid rgba(255, 255, 255, 0.35)",
+   1
+  ]
+ ],
+ "grids": [
+  [
+   "12cols gap 16px",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "1024px",
+   10
+  ],
+  [
+   "910px",
+   8
+  ],
+  [
+   "1440px",
+   5
+  ],
+  [
+   "100%",
+   1
+  ],
+  [
+   "768px",
+   1
+  ]
+ ],
+ "sideMargins": [
+  [
+   "313px",
+   8
+  ],
+  [
+   "666px",
+   3
+  ],
+  [
+   "1224px",
+   1
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "base-wrapper",
+   "h": 2106,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "mega-menu__submenu-section mega-menu__submenu-leve",
+   "h": 60,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "mega-menu__submenu-section mega-menu__submenu-insp",
+   "h": 65,
+   "padTop": "16px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "mega-menu__submenu-section mega-menu__submenu-leve",
+   "h": 60,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "mega-menu__submenu-section mega-menu__submenu-insp",
+   "h": 125,
+   "padTop": "16px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "mega-menu__submenu-section mega-menu__submenu-leve",
+   "h": 60,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "mega-menu__submenu-section mega-menu__submenu-insp",
+   "h": 125,
+   "padTop": "16px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "mega-menu__submenu-section mega-menu__submenu-leve",
+   "h": 60,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "mega-menu__submenu-section mega-menu__submenu-insp",
+   "h": 125,
+   "padTop": "16px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "mega-menu__submenu-section mega-menu__submenu-leve",
+   "h": 60,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "mega-menu__submenu-section mega-menu__submenu-insp",
+   "h": 107,
+   "padTop": "16px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "mega-menu__submenu-section mega-menu__submenu-leve",
+   "h": 60,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "mega-menu__submenu-section mega-menu__submenu-insp",
+   "h": 125,
+   "padTop": "16px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "mega-menu__submenu-section mega-menu__submenu-leve",
+   "h": 60,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "mega-menu__submenu-section mega-menu__submenu-insp",
+   "h": 65,
+   "padTop": "16px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "mega-menu__submenu-section mega-menu__submenu-leve",
+   "h": 178,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "mega-menu__submenu-section mega-menu__submenu-insp",
+   "h": 64,
+   "padTop": "16px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "relative",
+  "height": 135,
+  "links": 258,
+  "linkTexts": [
+   "ENGLISH",
+   "English",
+   "Français",
+   "CONTACT US",
+   "SERVICES",
+   "HIGH JEWELLERY",
+   "JEWELLERY",
+   "WATCHES",
+   "BAGS AND ACCESSORIES",
+   "HOME & STATIONERY",
+   "FRAGRANCES",
+   "THE MAISON",
+   "NEWS",
+   "Le Choeur des Pierres"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "PROCEED",
+   "bg": "rgb(0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "0px",
+   "pad": "8px 24px",
+   "size": "12px",
+   "weight": "600",
+   "tt": "uppercase",
+   "border": "none",
+   "h": 38
+  },
+  {
+   "text": "SHOP IN UNITED STATES",
+   "bg": "rgb(0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "0px",
+   "pad": "8px 5px",
+   "size": "12px",
+   "weight": "600",
+   "tt": "uppercase",
+   "border": "1px solid rgb(0, 0, 0)",
+   "h": 36
+  },
+  {
+   "text": "CONTINUE IN FRANCE",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "8px 5px",
+   "size": "12px",
+   "weight": "600",
+   "tt": "uppercase",
+   "border": "1px solid rgb(0, 0, 0)",
+   "h": 36
+  }
+ ],
+ "headings": [
+  "France",
+  "Le Chœur des Pierres",
+  "Panthère de Cartier",
+  "Clash de Cartier",
+  "Panthère de Cartier",
+  "SUBSCRIBE TO OUR NEWSLETTER",
+  "SUBSCRIBE TO OUR NEWSLETTER"
+ ],
+ "paras": [
+  "Les Nécessaires à Parfum Cartier",
+  "Currently shipping to ${currentCountryName} and your order will be billed in ${currencySymbol} .",
+  "Currently shipping to ${currentCountryName} and your order will be billed in ${currencySymbol} .",
+  "Receive exclusive information from Cartier",
+  "I agree in being contacted by Cartier to receive marketing information about Cartier’s products or services. We may also use your information to deliver personalised messages or advertising on social media or other digit",
+  "For further information about how we use your personal information, please see our Privacy Policy."
+ ],
+ "footer": {
+  "h": 1071,
+  "text": "SUBSCRIBE TO OUR NEWSLETTER PROCEED CUSTOMER CONTACT US CALL NOW: +33 (0)1 42 18 43 83 SHOPPING ONLINE TRACK YOUR ORDER SHIPPING & DELIVERY ORDERS & PAYMENT REQUEST A RETURN HELP ACCESSIBILITY SITEMAP OUR COMPANY FIND A BOUTIQUE CAREERS CARTIER AND CORPORATE RESPONSIBILITY LEGAL AND PRIVACY YOUR LEG"
+ },
+ "jsMotion": {
+  "scriptsFetched": 23,
+  "gsapEases": [
+   [
+    "none",
+    1
+   ]
+  ],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "0",
+    3
+   ],
+   [
+    ".3",
+    2
+   ],
+   [
+    "800",
+    1
+   ],
+   [
+    ".8",
+    1
+   ],
+   [
+    ".45",
+    1
+   ],
+   [
+    ".4",
+    1
+   ],
+   [
+    ".5",
+    1
+   ]
+  ],
+  "staggers": [
+   [
+    "0",
+    2
+   ]
+  ],
+  "lenis": [],
+  "springs": [
+   [
+    "stiffness:100,damping:10",
+    1
+   ],
+   [
+    "type:\"spring\",stiffness:500,damping:25,restSpeed:10",
+    1
+   ],
+   [
+    "type:\"spring\",stiffness:550,damping:a===0?2*Math.sqrt(550):30,restSpeed:1",
+    1
+   ]
+  ],
+  "scrollTriggerStarts": [
+   [
+    "start",
+    1
+   ],
+   [
+    "restart",
+    1
+   ]
+  ],
+  "splitTypes": [],
+  "bezierArrays": [
+   [
+    "[.25,.1,.35,1]",
+    1
+   ],
+   [
+    "[.4,0,.1,1]",
+    1
+   ]
+  ]
+ }
+}

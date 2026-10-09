@@ -1,0 +1,626 @@
+{
+ "url": "https://www.makersfund.com",
+ "slug": "www-makersfund-com",
+ "analyzedAt": "2026-10-07T05:20:43.632Z",
+ "scrollHeight": 6598,
+ "pageLengthInViewports": 7.3,
+ "title": "Makers Fund - Funding the next generation of creators and innovators.",
+ "metaDescription": "Encourage industry innovation by providing capital, access to our global network and strategic guidance, especially in Asia.",
+ "lang": "en-US",
+ "type": {
+  "loadedFonts": [
+   "Styrene A Web 700 normal",
+   "Styrene A Web 500 normal",
+   "HKGrotesk 400 normal"
+  ],
+  "families": [
+   [
+    "Styrene A Web",
+    32
+   ],
+   [
+    "HKGrotesk",
+    21
+   ]
+  ],
+  "sizes": [
+   [
+    "20px",
+    36
+   ],
+   [
+    "70px",
+    11
+   ],
+   [
+    "30px",
+    3
+   ],
+   [
+    "16px",
+    3
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    21
+   ],
+   [
+    "700",
+    18
+   ],
+   [
+    "500",
+    14
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    31
+   ],
+   [
+    "-0.030em@70",
+    11
+   ],
+   [
+    "-0.030em@20",
+    8
+   ],
+   [
+    "-0.030em@30",
+    3
+   ]
+  ],
+  "uppercaseShare": 0.34,
+  "largest": [
+   {
+    "tag": "span",
+    "text": "BACKING BUILDERS",
+    "family": "Styrene A Web",
+    "size": "70px",
+    "weight": "700",
+    "lh": "70px",
+    "ls": "-2.1px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(35, 35, 43)"
+   },
+   {
+    "tag": "span",
+    "text": "BUILDERS",
+    "family": "Styrene A Web",
+    "size": "70px",
+    "weight": "700",
+    "lh": "70px",
+    "ls": "-2.1px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(35, 35, 43)"
+   },
+   {
+    "tag": "span",
+    "text": "OF THE FUTURE",
+    "family": "Styrene A Web",
+    "size": "70px",
+    "weight": "700",
+    "lh": "70px",
+    "ls": "-2.1px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(35, 35, 43)"
+   },
+   {
+    "tag": "span",
+    "text": "OF INTERACTIVE",
+    "family": "Styrene A Web",
+    "size": "70px",
+    "weight": "700",
+    "lh": "70px",
+    "ls": "-2.1px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(35, 35, 43)"
+   },
+   {
+    "tag": "span",
+    "text": "ENTERTAINMENT",
+    "family": "Styrene A Web",
+    "size": "70px",
+    "weight": "700",
+    "lh": "70px",
+    "ls": "-2.1px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(35, 35, 43)"
+   },
+   {
+    "tag": "span",
+    "text": "INNOVATIVE, AMBITIOUS FOUNDERS",
+    "family": "Styrene A Web",
+    "size": "70px",
+    "weight": "700",
+    "lh": "70px",
+    "ls": "-2.1px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(35, 35, 43)"
+   },
+   {
+    "tag": "span",
+    "text": "AMBITIOUS",
+    "family": "Styrene A Web",
+    "size": "70px",
+    "weight": "700",
+    "lh": "70px",
+    "ls": "-2.1px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(35, 35, 43)"
+   },
+   {
+    "tag": "span",
+    "text": "OUR CULTURE AND VALUES",
+    "family": "Styrene A Web",
+    "size": "70px",
+    "weight": "700",
+    "lh": "70px",
+    "ls": "-2.1px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(35, 35, 43)"
+   },
+   {
+    "tag": "span",
+    "text": "OUR",
+    "family": "Styrene A Web",
+    "size": "70px",
+    "weight": "700",
+    "lh": "70px",
+    "ls": "-2.1px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(35, 35, 43)"
+   },
+   {
+    "tag": "span",
+    "text": "VALUES",
+    "family": "Styrene A Web",
+    "size": "70px",
+    "weight": "700",
+    "lh": "70px",
+    "ls": "-2.1px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(35, 35, 43)"
+   },
+   {
+    "tag": "span",
+    "text": "ECOSYSTEM",
+    "family": "Styrene A Web",
+    "size": "70px",
+    "weight": "700",
+    "lh": "70px",
+    "ls": "-2.1px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(35, 35, 43)"
+   },
+   {
+    "tag": "h3",
+    "text": "EMBRACING THE INDUSTRY",
+    "family": "Styrene A Web",
+    "size": "30px",
+    "weight": "700",
+    "lh": "30px",
+    "ls": "-0.9px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(35, 35, 43)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(252, 252, 252)",
+  "htmlBg": "rgb(252, 252, 252)",
+  "text": [
+   [
+    "rgb(35, 35, 43)",
+    46
+   ],
+   [
+    "rgb(57, 58, 220)",
+    4
+   ],
+   [
+    "rgb(252, 252, 252)",
+    3
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(252, 252, 252)",
+    2
+   ],
+   [
+    "rgb(57, 58, 220)",
+    2
+   ],
+   [
+    "rgb(0, 0, 0)",
+    1
+   ]
+  ],
+  "gradients": [
+   [
+    "-webkit-linear-gradient(0deg, rgb(0, 0, 0), rgb(0, 0, 0) 0px)",
+    3
+   ],
+   [
+    "-webkit-linear-gradient(0deg, rgb(255, 79, 82) 0%, rgb(57, 58, 220) 100%)",
+    2
+   ],
+   [
+    "radial-gradient(closest-side, rgb(255, 230, 245) 0%, rgba(0, 0, 0, 0) 100%)",
+    1
+   ],
+   [
+    "radial-gradient(closest-side, rgb(220, 225, 255) 0%, rgba(0, 0, 0, 0) 100%)",
+    1
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [],
+  "durations": [
+   [
+    "0.4s",
+    12
+   ],
+   [
+    "0.2s",
+    4
+   ],
+   [
+    "0.6s",
+    1
+   ],
+   [
+    "0.3s",
+    1
+   ]
+  ],
+  "keyframes": []
+ },
+ "cssVarSample": {},
+ "libs": {
+  "gsap": true,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": true,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 1,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": true,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": true,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 17,
+  "video": 3,
+  "svg": 26,
+  "picture": 0,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [
+   [
+    "darken",
+    2
+   ]
+  ],
+  "backdropFilter": 0,
+  "clipPath": 6,
+  "sticky": 1,
+  "fixed": [
+   "fixed top-0 left-0 z-50 flex justify-between items-center",
+   "r3f",
+   "fixed z-50 flex justify-center cookie"
+  ],
+  "customCursor": false,
+  "boxShadows": [],
+  "filters": [
+   [
+    "blur(0px)",
+    1
+   ]
+  ],
+  "transforms3d": 5,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 5
+ },
+ "radii": [
+  [
+   "9999px",
+   1
+  ],
+  [
+   "7px",
+   1
+  ],
+  [
+   "10px",
+   1
+  ]
+ ],
+ "borders": [
+  [
+   "bottom:2px solid rgb(241, 241, 241)",
+   3
+  ]
+ ],
+ "grids": [],
+ "containers": [
+  [
+   "100%",
+   2
+  ],
+  [
+   "1152px",
+   1
+  ]
+ ],
+ "sideMargins": [
+  [
+   "166px",
+   4
+  ],
+  [
+   "366px",
+   3
+  ],
+  [
+   "40px",
+   2
+  ],
+  [
+   "673px",
+   2
+  ],
+  [
+   "432px",
+   1
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "h-screen section",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section md:min-h-screen justify-start md:justify-c",
+   "h": 1486,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "flex flex-col w-full section2 lg:flex-row",
+   "h": 1486,
+   "padTop": "520px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "fixed",
+  "height": 140,
+  "links": 8,
+  "linkTexts": [
+   "Home",
+   "Team",
+   "Portfolio",
+   "News",
+   "Jobs",
+   "Linkedin",
+   "Twitter"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [],
+ "headings": [
+  "BACKING BUILDERS OF THE FUTURE OF INTERACTIVE ENTERTAINMENT",
+  "We Support INNOVATIVE, AMBITIOUS FOUNDERS",
+  "We Embrace OUR CULTURE AND VALUES",
+  "EMBRACING THE INDUSTRY",
+  "FAITH IN OUR FOUNDERS",
+  "CHARGING FORWARD, TOGETHER",
+  "We Empower ECOSYSTEM",
+  "News",
+  "MAKERS FUND RAISES $250M FUND IV",
+  "TÜRKIYE STUDIO BOLD GAMES RAISES $6M",
+  "CHANCE STUDIOS RAISES $3.2M TO UNIFY TRADING CARD GAME COLLECTORS",
+  "CHEER GAMES RAISES $4.5 MILLION FOR ‘NEXT GEN’ MOBILE PUZZLES"
+ ],
+ "paras": [
+  "Makers Fund is a global venture capital fund dedicated to games and interactive entertainment",
+  "Our fund helps visionary entrepreneurs create their initial foundation and support them as they navigate the waters of early-stage business.",
+  "Our passion for interactive entertainment drives our desire for industry growth and innovation.",
+  "The past, present, and future of the industry is powered by visionaries. We trust and support our founders by providing capital, strategic guidance, and access to our global network of allies.",
+  "Our knowledge, experience, and global network keep us attuned to the industry’s shifting landscape. We seize opportunities and support our founders through ever-uncertain times."
+ ],
+ "footer": {
+  "h": 120,
+  "text": "© 2022—MakersFund News Portfolio Team Linkedin Twitter Jobs"
+ },
+ "jsMotion": {
+  "scriptsFetched": 11,
+  "gsapEases": [
+   [
+    "power2.easeOut",
+    28
+   ],
+   [
+    "power2.inOut",
+    17
+   ],
+   [
+    "power1.out",
+    7
+   ],
+   [
+    "power4.out",
+    5
+   ],
+   [
+    "back.out(3.5)",
+    4
+   ],
+   [
+    "power2.out",
+    4
+   ],
+   [
+    "power1.in",
+    4
+   ],
+   [
+    "power3.out",
+    3
+   ],
+   [
+    "none",
+    2
+   ],
+   [
+    "power3.inOut",
+    2
+   ],
+   [
+    "expo.out",
+    2
+   ],
+   [
+    "power4.inOut",
+    2
+   ],
+   [
+    "power4.in",
+    2
+   ],
+   [
+    "power2.in",
+    1
+   ]
+  ],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    ".4",
+    49
+   ],
+   [
+    ".25",
+    28
+   ],
+   [
+    ".6",
+    11
+   ],
+   [
+    ".2",
+    11
+   ],
+   [
+    "1",
+    6
+   ],
+   [
+    ".3",
+    6
+   ],
+   [
+    "0",
+    3
+   ],
+   [
+    "2",
+    2
+   ],
+   [
+    ".9",
+    2
+   ],
+   [
+    ".1",
+    2
+   ],
+   [
+    "4",
+    1
+   ],
+   [
+    ".5",
+    1
+   ],
+   [
+    ".8",
+    1
+   ],
+   [
+    "1.7",
+    1
+   ],
+   [
+    "1.4",
+    1
+   ]
+  ],
+  "staggers": [
+   [
+    "0",
+    2
+   ],
+   [
+    "{from:0,amount:.6,grid:[9,0],axis:\"y\"}",
+    1
+   ],
+   [
+    "{from:\"start\",grid:[4,0],each:.05}",
+    1
+   ]
+  ],
+  "lenis": [
+   [
+    "lerp:.1",
+    1
+   ],
+   [
+    "lerp:.05",
+    1
+   ]
+  ],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

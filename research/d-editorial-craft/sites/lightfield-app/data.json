@@ -1,0 +1,1255 @@
+{
+ "url": "https://lightfield.app",
+ "slug": "lightfield-app",
+ "analyzedAt": "2026-10-07T05:19:43.766Z",
+ "scrollHeight": 10482,
+ "pageLengthInViewports": 11.6,
+ "title": "Lightfield — AI-native CRM",
+ "metaDescription": "Lightfield is an AI-native CRM for companies to capture, analyze, and understand everything about their customers.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "untitledSans 400 normal",
+   "DM Mono 500 normal",
+   "Inter 100 900 normal"
+  ],
+  "families": [
+   [
+    "Inter",
+    368
+   ],
+   [
+    "untitledSans",
+    126
+   ],
+   [
+    "DM Mono",
+    13
+   ]
+  ],
+  "sizes": [
+   [
+    "12px",
+    166
+   ],
+   [
+    "11px",
+    147
+   ],
+   [
+    "13px",
+    53
+   ],
+   [
+    "10px",
+    53
+   ],
+   [
+    "19px",
+    23
+   ],
+   [
+    "15px",
+    16
+   ],
+   [
+    "14px",
+    15
+   ],
+   [
+    "17px",
+    11
+   ],
+   [
+    "28px",
+    8
+   ],
+   [
+    "9px",
+    7
+   ],
+   [
+    "20px",
+    5
+   ],
+   [
+    "21px",
+    2
+   ],
+   [
+    "24px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    430
+   ],
+   [
+    "500",
+    77
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    456
+   ],
+   [
+    "-0.010em@19",
+    23
+   ],
+   [
+    "0.100em@10",
+    13
+   ],
+   [
+    "-0.030em@28",
+    8
+   ],
+   [
+    "-0.016em@12",
+    2
+   ],
+   [
+    "-0.020em@20",
+    2
+   ],
+   [
+    "-0.015em@21",
+    2
+   ],
+   [
+    "-0.020em@24",
+    1
+   ]
+  ],
+  "uppercaseShare": 0.03,
+  "largest": [
+   {
+    "tag": "h1",
+    "text": "CRM engineered for the future",
+    "family": "untitledSans",
+    "size": "28px",
+    "weight": "400",
+    "lh": "33.6px",
+    "ls": "-0.84px",
+    "tt": "none",
+    "style": "normal",
+    "color": "lab(0 0 0 / 0.85)"
+   },
+   {
+    "tag": "h2",
+    "text": "What customers do with Lightfield",
+    "family": "untitledSans",
+    "size": "28px",
+    "weight": "400",
+    "lh": "33.6px",
+    "ls": "-0.84px",
+    "tt": "none",
+    "style": "normal",
+    "color": "lab(0 0 0 / 0.85)"
+   },
+   {
+    "tag": "h2",
+    "text": "How Lightfield works",
+    "family": "untitledSans",
+    "size": "28px",
+    "weight": "400",
+    "lh": "33.6px",
+    "ls": "-0.84px",
+    "tt": "none",
+    "style": "normal",
+    "color": "lab(0 0 0 / 0.85)"
+   },
+   {
+    "tag": "h2",
+    "text": "Powering thousands of leading companies",
+    "family": "untitledSans",
+    "size": "28px",
+    "weight": "400",
+    "lh": "33.6px",
+    "ls": "-0.84px",
+    "tt": "none",
+    "style": "normal",
+    "color": "lab(0 0 0 / 0.85)"
+   },
+   {
+    "tag": "h2",
+    "text": "Run the entire company on customer ground truth. Lightfield is built for everyone at your ",
+    "family": "untitledSans",
+    "size": "28px",
+    "weight": "400",
+    "lh": "33.6px",
+    "ls": "-0.84px",
+    "tt": "none",
+    "style": "normal",
+    "color": "lab(0 0 0 / 0.5)"
+   },
+   {
+    "tag": "h2",
+    "text": "White glove migration and configuration",
+    "family": "untitledSans",
+    "size": "28px",
+    "weight": "400",
+    "lh": "33.6px",
+    "ls": "-0.84px",
+    "tt": "none",
+    "style": "normal",
+    "color": "lab(0 0 0 / 0.85)"
+   },
+   {
+    "tag": "h2",
+    "text": "Get started",
+    "family": "untitledSans",
+    "size": "28px",
+    "weight": "400",
+    "lh": "33.6px",
+    "ls": "-0.84px",
+    "tt": "none",
+    "style": "normal",
+    "color": "lab(0 0 0 / 0.85)"
+   },
+   {
+    "tag": "p",
+    "text": "Lightfield's agent ingests your legacy CRM data and recreates your data model for you on d",
+    "family": "untitledSans",
+    "size": "24px",
+    "weight": "400",
+    "lh": "30px",
+    "ls": "-0.48px",
+    "tt": "none",
+    "style": "normal",
+    "color": "lab(0 0 0 / 0.5)"
+   },
+   {
+    "tag": "h3",
+    "text": "Switch to Lightfield",
+    "family": "untitledSans",
+    "size": "21px",
+    "weight": "400",
+    "lh": "26.25px",
+    "ls": "-0.315px",
+    "tt": "none",
+    "style": "normal",
+    "color": "lab(100 0 0)"
+   },
+   {
+    "tag": "h3",
+    "text": "Deploy Lightfield alongside your current CRM",
+    "family": "untitledSans",
+    "size": "21px",
+    "weight": "400",
+    "lh": "26.25px",
+    "ls": "-0.315px",
+    "tt": "none",
+    "style": "normal",
+    "color": "lab(100 0 0)"
+   },
+   {
+    "tag": "h1",
+    "text": "Growing data-team outbound",
+    "family": "Inter",
+    "size": "20px",
+    "weight": "500",
+    "lh": "22.5px",
+    "ls": "-0.4px",
+    "tt": "none",
+    "style": "normal",
+    "color": "lab(0 0 0 / 0.85)"
+   },
+   {
+    "tag": "h2",
+    "text": "Deal review",
+    "family": "Inter",
+    "size": "20px",
+    "weight": "500",
+    "lh": "22.5px",
+    "ls": "-0.4px",
+    "tt": "none",
+    "style": "normal",
+    "color": "lab(0 0 0 / 0.85)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "lab(96.5432 -0.0000596046 0)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "lab(0 0 0 / 0.85)",
+    190
+   ],
+   [
+    "lab(0 0 0 / 0.5)",
+    143
+   ],
+   [
+    "lab(0 0 0 / 0.6)",
+    43
+   ],
+   [
+    "lab(22.4274 1.04025 -34.2318)",
+    31
+   ],
+   [
+    "lab(100 0 0)",
+    24
+   ],
+   [
+    "lab(36.8634 6.63269 42.8677)",
+    21
+   ],
+   [
+    "lab(0 0 0 / 0.75)",
+    19
+   ],
+   [
+    "lab(34.1472 -37.1124 36.5368)",
+    13
+   ],
+   [
+    "lab(21.3388 31.8383 -45.9838)",
+    9
+   ],
+   [
+    "oklab(0.999998 -0.00000980496 0.0000234246 / 0.7)",
+    5
+   ]
+  ],
+  "backgrounds": [
+   [
+    "lab(68.9436 -51.6078 46.4638)",
+    59
+   ],
+   [
+    "rgb(249, 249, 249)",
+    55
+   ],
+   [
+    "lab(0 0 0 / 0.04)",
+    54
+   ],
+   [
+    "lab(82.1026 9.49001 72.5637)",
+    42
+   ],
+   [
+    "oklab(0.653992 -0.047093 -0.136805 / 0.1)",
+    31
+   ],
+   [
+    "oklab(0.843203 0.00684878 0.157659 / 0.1)",
+    21
+   ],
+   [
+    "lab(100 0 0)",
+    18
+   ],
+   [
+    "lab(74.9648 -7.76118 -38.4116)",
+    15
+   ],
+   [
+    "oklab(0.713198 -0.151388 0.111299 / 0.1)",
+    13
+   ],
+   [
+    "lab(58.8643 61.4443 52.757)",
+    13
+   ],
+   [
+    "oklab(0 0 0 / 0.034)",
+    12
+   ],
+   [
+    "oklab(0.611494 0.0911699 -0.179327 / 0.1)",
+    9
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(color(srgb 0 0 0 / 0) 0%, color(srgb 0.941506 0.941688 0.941633) 100%)",
+    8
+   ],
+   [
+    "linear-gradient(to right, color(srgb 0 0 0 / 0) 0%, color(srgb 0.941506 0.941688 0.941633) 100%)",
+    8
+   ],
+   [
+    "linear-gradient(to top, oklab(0 0 0 / 0.1) 0%, oklab(0 0 0 / 0.05) 50%, oklab(0 0 0 / 0.05) 100%)",
+    5
+   ],
+   [
+    "linear-gradient(color(srgb 0 0 0 / 0) 60%, color(srgb 0.96072 0.960907 0.96085) 86%, color(srgb 0.96072 0.960907 0.96085) 100%)",
+    1
+   ],
+   [
+    "linear-gradient(to right, color(srgb 0 0 0 / 0) 50%, color(srgb 0.96072 0.960907 0.96085) 100%)",
+    1
+   ],
+   [
+    "radial-gradient(118% 125% at 0% 0%, color(srgb 0 0 0 / 0) 58%, color(srgb 0.96072 0.960907 0.96085) 89%)",
+    1
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(.4,0,.2,1)",
+    4
+   ],
+   [
+    "cubic-bezier(0.16,1,0.3,1)",
+    4
+   ],
+   [
+    "cubic-bezier(0.87,0,0.13,1)",
+    4
+   ],
+   [
+    "cubic-bezier(.4,0,1,1)",
+    2
+   ],
+   [
+    "cubic-bezier(0,0,.2,1)",
+    2
+   ],
+   [
+    "cubic-bezier(.4,0,.6,1)",
+    2
+   ],
+   [
+    "cubic-bezier(.16,1,.3,1)",
+    2
+   ],
+   [
+    "cubic-bezier(.19,1,.22,1)",
+    2
+   ],
+   [
+    "cubic-bezier(0.19,1,0.22,1)",
+    2
+   ]
+  ],
+  "durations": [
+   [
+    ".15s",
+    18
+   ],
+   [
+    "0.1s",
+    10
+   ],
+   [
+    "0.2s",
+    7
+   ],
+   [
+    "0.4s",
+    4
+   ],
+   [
+    "0.15s",
+    4
+   ],
+   [
+    "0.3s",
+    4
+   ],
+   [
+    "1.5s",
+    4
+   ],
+   [
+    "0s",
+    3
+   ],
+   [
+    "1s",
+    2
+   ],
+   [
+    "50ms",
+    2
+   ]
+  ],
+  "keyframes": [
+   "spin",
+   "pulse",
+   "enter",
+   "exit",
+   "hero-block-alt-module__r_bjEG__fade-blur-in",
+   "hero-block-alt-module__r_bjEG__spin",
+   "lf-shimmer",
+   "cursor-blink",
+   "word-fade-in",
+   "home-v3-teams-progress"
+  ]
+ },
+ "cssVarSample": {
+  "--radius": ".25rem",
+  "--content-max-width": "84.375rem",
+  "--button-default-height": "2rem",
+  "--button-default-px": "12px"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": true,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 2,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": true,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 148,
+  "video": 0,
+  "svg": 373,
+  "picture": 0,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [
+   [
+    "multiply",
+    4
+   ]
+  ],
+  "backdropFilter": 1,
+  "clipPath": 17,
+  "sticky": 1,
+  "fixed": [
+   "fixed top-0 left-0 z-50 flex w-full justify-center p-4 trans"
+  ],
+  "customCursor": true,
+  "boxShadows": [
+   [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.04) 0px 4px 48px 0px",
+    6
+   ],
+   [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+    5
+   ],
+   [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.04) 0px 2px 8px 0px",
+    3
+   ],
+   [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.04) 0px 1px 2px 0px, rgba(0, 0, 0, 0.02) 0px 1px 3px 0px",
+    3
+   ],
+   [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(255, 255, 255, 0.2) 0px 0px 0px 1px inset, rgba(0, 0, 0, 0.02) 0px 2px 18px 0px",
+    2
+   ]
+  ],
+  "filters": [
+   [
+    "drop-shadow(rgba(0, 0, 0, 0.18) 0px 1px 1px)",
+    1
+   ]
+  ],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "1px",
+   150
+  ],
+  [
+   "6px",
+   116
+  ],
+  [
+   "3.35544e+07px",
+   67
+  ],
+  [
+   "5px",
+   51
+  ],
+  [
+   "3px",
+   40
+  ],
+  [
+   "12px",
+   8
+  ],
+  [
+   "8px",
+   5
+  ],
+  [
+   "4px",
+   3
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid lab(0 0 0 / 0.06)",
+   118
+  ],
+  [
+   "1px solid rgb(249, 249, 249)",
+   38
+  ],
+  [
+   "1px solid lab(0 0 0 / 0.12)",
+   34
+  ],
+  [
+   "bottom:1px solid lab(0 0 0 / 0.06)",
+   32
+  ],
+  [
+   "1px solid oklab(0 0 0 / 0.06)",
+   7
+  ],
+  [
+   "1px solid lab(0 0 0 / 0.04)",
+   7
+  ]
+ ],
+ "grids": [
+  [
+   "5cols gap normal",
+   34
+  ],
+  [
+   "7cols gap normal",
+   14
+  ],
+  [
+   "2cols gap 24px",
+   11
+  ],
+  [
+   "1cols gap normal",
+   7
+  ],
+  [
+   "2cols gap normal",
+   6
+  ],
+  [
+   "3cols gap normal",
+   3
+  ],
+  [
+   "3cols gap 6px",
+   1
+  ],
+  [
+   "5cols gap 6px",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "2096px",
+   11
+  ],
+  [
+   "2000px",
+   11
+  ],
+  [
+   "1440px",
+   2
+  ],
+  [
+   "100%",
+   1
+  ],
+  [
+   "720px",
+   1
+  ],
+  [
+   "750px",
+   1
+  ]
+ ],
+ "sideMargins": [
+  [
+   "48px",
+   17
+  ],
+  [
+   "864px",
+   12
+  ],
+  [
+   "618px",
+   7
+  ],
+  [
+   "1174px",
+   6
+  ],
+  [
+   "450px",
+   5
+  ],
+  [
+   "919px",
+   5
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "pin-spacer",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "relative z-0 mb-10 h-svh w-full lg:mb-[250px]",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "inter_4dcc20b8-module__E3RIKq__className relative ",
+   "h": 701,
+   "padTop": "0px",
+   "bg": "rgb(249, 249, 249)"
+  },
+  {
+   "cls": "px-2 pt-[var(--lf-section-label-padding-top,0.625r",
+   "h": 35,
+   "padTop": "12px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "px-2 pt-[var(--lf-section-label-padding-top,0.625r",
+   "h": 35,
+   "padTop": "12px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "px-2 pt-[var(--lf-section-label-padding-top,0.625r",
+   "h": 35,
+   "padTop": "12px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "px-2 pt-[var(--lf-section-label-padding-top,0.625r",
+   "h": 35,
+   "padTop": "12px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "px-2 pt-[var(--lf-section-label-padding-top,0.625r",
+   "h": 35,
+   "padTop": "12px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "pt-24 md:pt-32",
+   "h": 198,
+   "padTop": "128px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "py-24 md:pt-36 md:pb-40",
+   "h": 715,
+   "padTop": "144px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "",
+   "h": 756,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "mt-12 pb-40",
+   "h": 3531,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "inter_4dcc20b8-module__E3RIKq__className relative ",
+   "h": 718,
+   "padTop": "0px",
+   "bg": "rgb(249, 249, 249)"
+  },
+  {
+   "cls": "min-h-0 flex-1 px-10",
+   "h": 678,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "mt-3 flex min-h-[16rem] w-full flex-col rounded-[8",
+   "h": 315,
+   "padTop": "0px",
+   "bg": "lab(100 0 0)"
+  },
+  {
+   "cls": "inter_4dcc20b8-module__E3RIKq__className relative ",
+   "h": 718,
+   "padTop": "0px",
+   "bg": "rgb(249, 249, 249)"
+  },
+  {
+   "cls": "inter_4dcc20b8-module__E3RIKq__className relative ",
+   "h": 718,
+   "padTop": "0px",
+   "bg": "rgb(249, 249, 249)"
+  },
+  {
+   "cls": "mt-5",
+   "h": 83,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "mt-5",
+   "h": 90,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "mt-5",
+   "h": 323,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "inter_4dcc20b8-module__E3RIKq__className lf-theme-",
+   "h": 420,
+   "padTop": "0px",
+   "bg": "rgb(249, 249, 249)"
+  },
+  {
+   "cls": "inter_4dcc20b8-module__E3RIKq__className relative ",
+   "h": 718,
+   "padTop": "0px",
+   "bg": "rgb(249, 249, 249)"
+  },
+  {
+   "cls": "min-h-0 flex-1 overflow-hidden",
+   "h": 561,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "mt-5",
+   "h": 69,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "mt-5",
+   "h": 119,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "mt-5 rounded-[8px] border-[0.5px] border-border-mo",
+   "h": 394,
+   "padTop": "16px",
+   "bg": "lab(98.2716 0 0)"
+  },
+  {
+   "cls": "px-3 pb-3",
+   "h": 117,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "inter_4dcc20b8-module__E3RIKq__className lf-theme-",
+   "h": 676,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "lf-theme-ice-1 [--lf-account-column-width-offset:7",
+   "h": 160,
+   "padTop": "0px",
+   "bg": "rgb(249, 249, 249)"
+  },
+  {
+   "cls": "lf-theme-ice-1 [--lf-account-column-width-offset:7",
+   "h": 160,
+   "padTop": "0px",
+   "bg": "rgb(249, 249, 249)"
+  },
+  {
+   "cls": "lf-theme-ice-1 [--lf-account-column-width-offset:7",
+   "h": 160,
+   "padTop": "0px",
+   "bg": "rgb(249, 249, 249)"
+  },
+  {
+   "cls": "lf-theme-ice-1 [--lf-account-column-width-offset:7",
+   "h": 160,
+   "padTop": "0px",
+   "bg": "rgb(249, 249, 249)"
+  },
+  {
+   "cls": "inter_4dcc20b8-module__E3RIKq__className relative ",
+   "h": 718,
+   "padTop": "0px",
+   "bg": "rgb(249, 249, 249)"
+  },
+  {
+   "cls": "pb-40",
+   "h": 1013,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "scroll-mt-24 pb-40",
+   "h": 831,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "pb-40",
+   "h": 1111,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "inter_4dcc20b8-module__E3RIKq__className lf-theme-",
+   "h": 480,
+   "padTop": "0px",
+   "bg": "rgb(249, 249, 249)"
+  },
+  {
+   "cls": "pb-40",
+   "h": 297,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "pb-0",
+   "h": 451,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "fixed",
+  "height": 68,
+  "links": 22,
+  "linkTexts": [
+   "Request demo",
+   "Product",
+   "Customers",
+   "Pricing",
+   "Docs",
+   "Resources",
+   "Log in",
+   "Request demo",
+   "Pipeline generation",
+   "Sales assistant",
+   "CRM data capture",
+   "Meeting recorder",
+   "Customers",
+   "Pricing"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "Request demo",
+   "bg": "lab(3.63782 -0.00000745058 0)",
+   "color": "lab(100 0 0)",
+   "radius": "6px",
+   "pad": "0px 10px",
+   "size": "12px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 28
+  },
+  {
+   "text": "Customers",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "lab(0 0 0 / 0.85)",
+   "radius": "0px",
+   "pad": "16px 0px",
+   "size": "19px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid oklab(0 0 0 / 0.06)",
+   "h": 58
+  },
+  {
+   "text": "Pricing",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "lab(0 0 0 / 0.85)",
+   "radius": "0px",
+   "pad": "16px 0px",
+   "size": "19px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid oklab(0 0 0 / 0.06)",
+   "h": 58
+  },
+  {
+   "text": "Docs",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "lab(0 0 0 / 0.85)",
+   "radius": "0px",
+   "pad": "16px 0px",
+   "size": "19px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid oklab(0 0 0 / 0.06)",
+   "h": 58
+  },
+  {
+   "text": "Log in",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "lab(0 0 0 / 0.85)",
+   "radius": "0px",
+   "pad": "16px 0px",
+   "size": "19px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid oklab(0 0 0 / 0.06)",
+   "h": 58
+  },
+  {
+   "text": "Request demo",
+   "bg": "lab(0 0 0 / 0.04)",
+   "color": "lab(0 0 0 / 0.85)",
+   "radius": "6px",
+   "pad": "0px 10px",
+   "size": "12px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 32
+  },
+  {
+   "text": "Request demo",
+   "bg": "lab(3.63782 -0.00000745058 0)",
+   "color": "lab(100 0 0)",
+   "radius": "6px",
+   "pad": "0px 10px",
+   "size": "12px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 32
+  },
+  {
+   "text": "Try for free",
+   "bg": "lab(0 0 0 / 0.04)",
+   "color": "lab(0 0 0 / 0.85)",
+   "radius": "6px",
+   "pad": "0px 10px",
+   "size": "12px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 32
+  },
+  {
+   "text": "Recent Our $47M Series A, led by a16z",
+   "bg": "lab(0 0 0 / 0.04)",
+   "color": "lab(0 0 0 / 0.6)",
+   "radius": "6px",
+   "pad": "8px 6px 8px 12px",
+   "size": "12px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 28
+  },
+  {
+   "text": "All",
+   "bg": "lab(0 0 0 / 0.02)",
+   "color": "lab(0 0 0 / 0.85)",
+   "radius": "5px",
+   "pad": "0px 6px",
+   "size": "11px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid lab(0 0 0 / 0.06)",
+   "h": 22
+  }
+ ],
+ "headings": [
+  "CRM engineered for the future",
+  "What customers do with Lightfield",
+  "Improve sales execution",
+  "Build high-quality pipeline",
+  "Growing data-team outbound",
+  "Performance",
+  "Description",
+  "Steps",
+  "Ramp new hires faster",
+  "Deal review",
+  "Description",
+  "Files",
+  "Instructions — SKILL.md",
+  "Overview",
+  "Measure, inspect, and forecast",
+  "Historical ARR Growth",
+  "New business ARR",
+  "Expansion ARR",
+  "Total ARR",
+  "Growing data-team outbound",
+  "Performance",
+  "Description",
+  "Steps",
+  "Deal review",
+  "Description"
+ ],
+ "paras": [
+  "Lightfield updates itself from every customer interaction, so its agents can run outbound, flag deals at risk, and tell you where to focus next.",
+  "The companies of the future will run on a world model of their business, not a Salesforce-era database.",
+  "For agents to do customer-facing work, they need to understand how your business actually works. Legacy CRMs weren’t built for that. Layer agents on top and you get low-quality work, because the underlying data lacks the",
+  "Lightfield reimagines the CRM as a world model of your business. It updates itself from every call, email, meeting, and Slack thread, assembling a context graph for agents to work from.",
+  "Our agents find prospects that look like your best customers and book meetings with them. They capture commitments from every conversation and handle the follow-ups, diagnose where your funnel is weak, and learn from you",
+  "And your whole company works from a shared understanding of your customers.",
+  "Run account research, deal qualification, meeting prep, and follow-ups for every opportunity.",
+  "Marcus’s demo last week left open questions on implementation timeline and security review. This follow-up recaps next steps and proposes times so the deal keeps moving.",
+  "Great speaking last week about how Vercel is thinking about GTM tooling as you scale. I pulled together the implementation notes we discussed, including how teams typically sequence security review and rollout.",
+  "Would Thursday or Friday afternoon work for a 20-minute follow-up?"
+ ],
+ "footer": {
+  "h": 35,
+  "text": "Mona Darwish Head of Sales"
+ },
+ "jsMotion": {
+  "scriptsFetched": 22,
+  "gsapEases": [
+   [
+    "expo",
+    1
+   ],
+   [
+    "power4",
+    1
+   ],
+   [
+    "linear",
+    1
+   ],
+   [
+    "power2.out",
+    1
+   ],
+   [
+    "none",
+    1
+   ]
+  ],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "0",
+    5
+   ],
+   [
+    ".5",
+    3
+   ],
+   [
+    ".8",
+    1
+   ],
+   [
+    ".3",
+    1
+   ],
+   [
+    ".45",
+    1
+   ],
+   [
+    ".1",
+    1
+   ],
+   [
+    ".4",
+    1
+   ]
+  ],
+  "staggers": [
+   [
+    "0",
+    2
+   ]
+  ],
+  "lenis": [
+   [
+    "smoothWheel:i",
+    2
+   ],
+   [
+    "wheelMultiplier:1",
+    1
+   ]
+  ],
+  "springs": [
+   [
+    "stiffness:100,damping:10",
+    2
+   ],
+   [
+    "type:\"spring\",stiffness:500,damping:25,restSpeed:10",
+    1
+   ],
+   [
+    "type:\"spring\",stiffness:550,damping:0===t[1]?2*Math.sqrt(550):30,restSpee",
+    1
+   ],
+   [
+    "type:\"spring\",visualDuration:.2,bounce:.25",
+    1
+   ],
+   [
+    "type:\"spring\",visualDuration:R,bounce:.25",
+    1
+   ]
+  ],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": [
+   [
+    "[.25,.1,.35,1]",
+    1
+   ],
+   [
+    "[.4,0,.1,1]",
+    1
+   ]
+  ]
+ }
+}

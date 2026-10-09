@@ -1,0 +1,793 @@
+{
+ "url": "https://studiod.nu/en",
+ "slug": "studiod-nu-en",
+ "analyzedAt": "2026-10-07T05:14:53.589Z",
+ "scrollHeight": 900,
+ "pageLengthInViewports": 1,
+ "title": "Studio D - Home",
+ "metaDescription": "Studio D is a contemporary urban design and landscape architecture studio based in Arnhem. We use design and research to address complex societal challenges.",
+ "lang": "en-US",
+ "type": {
+  "loadedFonts": [
+   "PolySansSlim 300 normal",
+   "NeueHaasUnicaW1GRegular 400 normal",
+   "IvarDisplayRegular 400 normal",
+   "IvarTextItalic 400 italic"
+  ],
+  "families": [
+   [
+    "NeueHaasUnicaW1GRegular",
+    33
+   ],
+   [
+    "PolySansSlim",
+    16
+   ],
+   [
+    "IvarTextItalic",
+    6
+   ],
+   [
+    "IvarDisplayRegular",
+    2
+   ]
+  ],
+  "sizes": [
+   [
+    "16px",
+    25
+   ],
+   [
+    "14px",
+    8
+   ],
+   [
+    "64px",
+    8
+   ],
+   [
+    "40px",
+    3
+   ],
+   [
+    "96px",
+    3
+   ],
+   [
+    "200px",
+    3
+   ],
+   [
+    "36px",
+    2
+   ],
+   [
+    "24px",
+    2
+   ],
+   [
+    "128px",
+    2
+   ],
+   [
+    "22px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    41
+   ],
+   [
+    "300",
+    16
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    39
+   ],
+   [
+    "-0.009em@64",
+    8
+   ],
+   [
+    "-0.031em@96",
+    3
+   ],
+   [
+    "-0.050em@200",
+    3
+   ],
+   [
+    "-0.025em@24",
+    2
+   ],
+   [
+    "-0.031em@128",
+    2
+   ]
+  ],
+  "uppercaseShare": 0,
+  "largest": [
+   {
+    "tag": "div",
+    "text": "Talk to us.",
+    "family": "PolySansSlim",
+    "size": "200px",
+    "weight": "300",
+    "lh": "200px",
+    "ls": "-10px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(242, 237, 228)"
+   },
+   {
+    "tag": "div",
+    "text": "Spatial design",
+    "family": "PolySansSlim",
+    "size": "128px",
+    "weight": "300",
+    "lh": "85px",
+    "ls": "-4px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(30, 29, 28)"
+   },
+   {
+    "tag": "div",
+    "text": "at eye level",
+    "family": "PolySansSlim",
+    "size": "128px",
+    "weight": "300",
+    "lh": "85px",
+    "ls": "-4px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(30, 29, 28)"
+   },
+   {
+    "tag": "h2",
+    "text": "Hoge Bongerd",
+    "family": "PolySansSlim",
+    "size": "96px",
+    "weight": "300",
+    "lh": "96px",
+    "ls": "-3px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "h2",
+    "text": "Smitskamp Gorssel",
+    "family": "PolySansSlim",
+    "size": "96px",
+    "weight": "300",
+    "lh": "96px",
+    "ls": "-3px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "h2",
+    "text": "Cobercokwartier",
+    "family": "PolySansSlim",
+    "size": "96px",
+    "weight": "300",
+    "lh": "96px",
+    "ls": "-3px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "div",
+    "text": "Discover our full",
+    "family": "PolySansSlim",
+    "size": "64px",
+    "weight": "300",
+    "lh": "40px",
+    "ls": "-0.6px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(30, 29, 28)"
+   },
+   {
+    "tag": "div",
+    "text": "portfolio.",
+    "family": "PolySansSlim",
+    "size": "64px",
+    "weight": "300",
+    "lh": "40px",
+    "ls": "-0.6px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(30, 29, 28)"
+   },
+   {
+    "tag": "div",
+    "text": "Raising quality",
+    "family": "PolySansSlim",
+    "size": "64px",
+    "weight": "300",
+    "lh": "40px",
+    "ls": "-0.6px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(30, 29, 28)"
+   },
+   {
+    "tag": "div",
+    "text": "through",
+    "family": "PolySansSlim",
+    "size": "64px",
+    "weight": "300",
+    "lh": "40px",
+    "ls": "-0.6px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(30, 29, 28)"
+   },
+   {
+    "tag": "div",
+    "text": "collaboration.",
+    "family": "PolySansSlim",
+    "size": "64px",
+    "weight": "300",
+    "lh": "40px",
+    "ls": "-0.6px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(30, 29, 28)"
+   },
+   {
+    "tag": "div",
+    "text": "Societal themes",
+    "family": "PolySansSlim",
+    "size": "64px",
+    "weight": "300",
+    "lh": "40px",
+    "ls": "-0.6px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(30, 29, 28)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(255, 255, 255)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(30, 29, 28)",
+    33
+   ],
+   [
+    "rgb(255, 255, 255)",
+    10
+   ],
+   [
+    "rgba(255, 255, 255, 0.4)",
+    5
+   ],
+   [
+    "rgba(255, 255, 255, 0.6)",
+    5
+   ],
+   [
+    "rgb(242, 237, 228)",
+    4
+   ]
+  ],
+  "backgrounds": [
+   [
+    "color(srgb 0 0 0 / 0)",
+    8
+   ],
+   [
+    "rgb(255, 255, 255)",
+    5
+   ],
+   [
+    "rgb(6, 6, 6)",
+    1
+   ],
+   [
+    "rgb(30, 29, 28)",
+    1
+   ]
+  ],
+  "gradients": []
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(.77,0,.175,1)",
+    89
+   ],
+   [
+    "cubic-bezier(.645,.045,.355,1)",
+    89
+   ],
+   [
+    "cubic-bezier(.455,.03,.515,.955)",
+    89
+   ],
+   [
+    "cubic-bezier(.165,.84,.44,1)",
+    89
+   ],
+   [
+    "cubic-bezier(.215,.61,.355,1)",
+    89
+   ],
+   [
+    "cubic-bezier(.25,.46,.45,.94)",
+    89
+   ],
+   [
+    "cubic-bezier(.25,.25,.75,.75)",
+    89
+   ],
+   [
+    "cubic-bezier(1,0,0,1)",
+    17
+   ]
+  ],
+  "durations": [
+   [
+    "0.3s",
+    29
+   ],
+   [
+    "0.5s",
+    22
+   ],
+   [
+    "0.25s",
+    2
+   ],
+   [
+    ".5s",
+    2
+   ]
+  ],
+  "keyframes": []
+ },
+ "cssVarSample": {
+  "--color-white": "#fff",
+  "--color-white-02": "hsla(0,0%,100%,.2)",
+  "--color-white-04": "hsla(0,0%,100%,.4)",
+  "--color-white-06": "hsla(0,0%,100%,.6)",
+  "--color-stone": "#f2ede4",
+  "--color-black-light": "#1e1d1c",
+  "--color-black-light-08": "rgba(30,29,28,.8)",
+  "--color-black-light-06": "rgba(30,29,28,.6)",
+  "--color-black-light-04": "rgba(30,29,28,.4)",
+  "--color-black-light-02": "rgba(30,29,28,.2)",
+  "--color-black": "#060606",
+  "--color-black-04": "rgba(6,6,6,.4)",
+  "--color-black-02": "rgba(6,6,6,.2)",
+  "--color-sand": "#f2ede4",
+  "--color-celeste": "#cdcfc7",
+  "--ease-in-out-quart": "cubic-bezier(.77,0,.175,1)",
+  "--ease-in-out-cubic": "cubic-bezier(.645,.045,.355,1)",
+  "--ease-in-out-quad": "cubic-bezier(.455,.03,.515,.955)",
+  "--ease-out-quart": "cubic-bezier(.165,.84,.44,1)",
+  "--ease-out-cubic": "cubic-bezier(.215,.61,.355,1)",
+  "--ease-out-quad": "cubic-bezier(.25,.46,.45,.94)",
+  "--ease-none": "cubic-bezier(.25,.25,.75,.75)",
+  "--font-f-polysans-slim": "\"PolySansSlim\"",
+  "--font-f-neue-haas-unica-w1g-regular": "\"NeueHaasUnicaW1GRegular\"",
+  "--font-f-ivar-display-regular": "\"IvarDisplayRegular\"",
+  "--font-f-ivar-text-italic": "\"IvarTextItalic\"",
+  "--font-s-h1": "12.8vw",
+  "--font-lh-h1": "13.8666666667vw",
+  "--font-ls-h1": "-.32vw",
+  "--font-s-h2": "9.6vw",
+  "--font-lh-h2": "10.4vw",
+  "--font-ls-h2": "-.1866666667vw",
+  "--font-s-h3": "7.4666666667vw",
+  "--font-lh-h3": "8.5333333333vw",
+  "--font-ls-h3": "0vw",
+  "--font-s-h4": "8.5333333333vw",
+  "--font-lh-h4": "11.7333333333vw",
+  "--font-ls-h4": "0vw",
+  "--font-s-p1": "5.3333333333vw",
+  "--font-lh-p1": "7.4666666667vw",
+  "--font-ls-p1": "0vw",
+  "--font-s-p2": "4.2666666667vw",
+  "--font-lh-p2": "6.4vw",
+  "--font-ls-p2": "0vw",
+  "--font-s-p3": "3.7333333333vw",
+  "--font-lh-p3": "5.3333333333vw",
+  "--font-ls-p3": "0vw",
+  "--font-s-marquee": "32vw",
+  "--font-lh-marquee": "32vw",
+  "--font-ls-marquee": "-1.0666666667vw",
+  "--font-s-q1": "9.6vw",
+  "--font-lh-q1": "10.6666666667vw",
+  "--font-ls-q1": "-.1066666667vw",
+  "--font-s-q2": "5.3333333333vw",
+  "--font-lh-q2": "6.9333333333vw",
+  "--font-ls-q2": "-.1066666667vw",
+  "--font-s-q3": "4.2666666667vw",
+  "--font-lh-q3": "5.8666666667vw",
+  "--font-ls-q3": "-.0266666667vw",
+  "--font-s-q4": "3.7333333333vw",
+  "--font-lh-q4": "5.3333333333vw",
+  "--font-ls-q4": "-.0266666667vw"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": true,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": true,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": true,
+  "motionOne": false
+ },
+ "media": {
+  "img": 13,
+  "video": 2,
+  "svg": 4,
+  "picture": 0,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 0,
+  "clipPath": 2,
+  "sticky": 3,
+  "fixed": [
+   "scroll lenis lenis-stopped",
+   "intro"
+  ],
+  "customCursor": true,
+  "boxShadows": [],
+  "filters": [],
+  "transforms3d": 0,
+  "noiseOrGrain": true,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "42px",
+   8
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgba(30, 29, 28, 0.2)",
+   7
+  ],
+  [
+   "1px solid rgba(255, 255, 255, 0.4)",
+   1
+  ],
+  [
+   "1px solid rgba(255, 255, 255, 0.2)",
+   1
+  ]
+ ],
+ "grids": [
+  [
+   "16cols gap 20px",
+   7
+  ]
+ ],
+ "containers": [],
+ "sideMargins": [
+  [
+   "118px",
+   6
+  ],
+  [
+   "730px",
+   3
+  ],
+  [
+   "555px",
+   2
+  ],
+  [
+   "905px",
+   2
+  ],
+  [
+   "111px",
+   1
+  ],
+  [
+   "205px",
+   1
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "page",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "intro",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "header",
+   "h": 1235,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "services",
+   "h": 1484,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "featured-projects",
+   "h": 2700,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "home-banner",
+   "h": 783,
+   "padTop": "200px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "home-about",
+   "h": 877,
+   "padTop": "150px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "home-banner",
+   "h": 733,
+   "padTop": "150px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "absolute",
+  "height": 42,
+  "links": 1,
+  "linkTexts": [],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "Explore our services",
+   "bg": "color(srgb 0 0 0 / 0)",
+   "color": "rgb(30, 29, 28)",
+   "radius": "42px",
+   "pad": "0px 24px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgba(30, 29, 28, 0.2)",
+   "h": 42
+  },
+  {
+   "text": "Plans",
+   "bg": "color(srgb 0 0 0 / 0)",
+   "color": "rgb(30, 29, 28)",
+   "radius": "42px",
+   "pad": "0px 24px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgba(30, 29, 28, 0.2)",
+   "h": 42
+  },
+  {
+   "text": "Vision & Strategy",
+   "bg": "color(srgb 0 0 0 / 0)",
+   "color": "rgb(30, 29, 28)",
+   "radius": "42px",
+   "pad": "0px 24px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgba(30, 29, 28, 0.2)",
+   "h": 42
+  },
+  {
+   "text": "Research by Design",
+   "bg": "color(srgb 0 0 0 / 0)",
+   "color": "rgb(30, 29, 28)",
+   "radius": "42px",
+   "pad": "0px 24px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgba(30, 29, 28, 0.2)",
+   "h": 42
+  },
+  {
+   "text": "All projects",
+   "bg": "color(srgb 0 0 0 / 0)",
+   "color": "rgb(30, 29, 28)",
+   "radius": "42px",
+   "pad": "0px 24px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgba(30, 29, 28, 0.2)",
+   "h": 42
+  },
+  {
+   "text": "About us",
+   "bg": "color(srgb 0 0 0 / 0)",
+   "color": "rgb(30, 29, 28)",
+   "radius": "42px",
+   "pad": "0px 24px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgba(30, 29, 28, 0.2)",
+   "h": 42
+  },
+  {
+   "text": "Discover themes",
+   "bg": "color(srgb 0 0 0 / 0)",
+   "color": "rgb(30, 29, 28)",
+   "radius": "42px",
+   "pad": "0px 24px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgba(30, 29, 28, 0.2)",
+   "h": 42
+  },
+  {
+   "text": "Get in touch",
+   "bg": "color(srgb 0 0 0 / 0)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "42px",
+   "pad": "0px 24px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgba(255, 255, 255, 0.4)",
+   "h": 42
+  }
+ ],
+ "headings": [
+  "Urbanism, landscape & architecture",
+  "Spatial design at eye level",
+  "Plans",
+  "Vision & strategy",
+  "Research by design",
+  "Hoge Bongerd",
+  "Smitskamp Gorssel",
+  "Cobercokwartier",
+  "Discover our full portfolio.",
+  "Raising quality through collaboration.",
+  "Societal themes that guide our direction."
+ ],
+ "paras": [
+  "As specialists in urbanism, landscape and architecture, we deploy design, vision and research to address societal challenges.",
+  "Spatial plans that set direction, make choices explicit and generate enthusiasm.",
+  "Visions and strategies that bring societal transitions together in one clear narrative.",
+  "Research by design informed by data, parametric design and our eye-level perspective.",
+  "Our team works with agility, maintains short lines of communication and focuses on fully integrated collaboration. Through our commitment and future-oriented outlook, we engage and inspire clients and users alike."
+ ],
+ "footer": {
+  "h": 971,
+  "text": "Talk to us. Talk to us. Talk to us. Daan van den Berg Founder / Urbanist We are dedicated to finding the right solutions for you. Get in touch LinkedIn Instagram Vimeo +31 (0)26 2344 904 mail@studiod.nu © 2026 Studio D Privacy Policy Nederlands Handcrafted by Exo Ape"
+ },
+ "jsMotion": {
+  "scriptsFetched": 2,
+  "gsapEases": [
+   [
+    "expo.out",
+    23
+   ],
+   [
+    "expo.inOut",
+    18
+   ],
+   [
+    "none",
+    1
+   ],
+   [
+    "expo",
+    1
+   ],
+   [
+    "power4",
+    1
+   ]
+  ],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "1",
+    32
+   ],
+   [
+    ".8",
+    6
+   ],
+   [
+    "0",
+    2
+   ],
+   [
+    ".5",
+    2
+   ]
+  ],
+  "staggers": [
+   [
+    "0",
+    2
+   ],
+   [
+    "{each:.1,from:\"end\"}",
+    2
+   ],
+   [
+    "{each:.1,from:\"start\"}",
+    1
+   ],
+   [
+    "{each:.05,from:\"start\"}",
+    1
+   ],
+   [
+    "{each:.05,from:\"end\"}",
+    1
+   ],
+   [
+    "{each:.1,from:\"center\"}",
+    1
+   ],
+   [
+    ".05",
+    1
+   ]
+  ],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [
+   [
+    "top center",
+    1
+   ]
+  ],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

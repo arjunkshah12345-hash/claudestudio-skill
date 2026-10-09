@@ -1,0 +1,893 @@
+{
+ "url": "https://www.pentagram.com/",
+ "slug": "www-pentagram-com",
+ "analyzedAt": "2026-10-07T05:20:52.399Z",
+ "scrollHeight": 25465,
+ "pageLengthInViewports": 28.3,
+ "title": "Pentagram — The world’s largest independent design consultancy",
+ "metaDescription": "Pentagram is the world’s largest independent design consultancy. The firm is owned and run by 24 partners, each of whom are leaders in their individual fields.",
+ "lang": "en-US",
+ "type": {
+  "loadedFonts": [
+   "Plain 400 normal"
+  ],
+  "families": [
+   [
+    "Plain",
+    480
+   ]
+  ],
+  "sizes": [
+   [
+    "16px",
+    324
+   ],
+   [
+    "13px",
+    141
+   ],
+   [
+    "52px",
+    7
+   ],
+   [
+    "32px",
+    5
+   ],
+   [
+    "19px",
+    2
+   ],
+   [
+    "18px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    470
+   ],
+   [
+    "500",
+    9
+   ],
+   [
+    "700",
+    1
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    468
+   ],
+   [
+    "-0.020em@52",
+    7
+   ],
+   [
+    "-0.010em@32",
+    5
+   ]
+  ],
+  "uppercaseShare": 0,
+  "largest": [
+   {
+    "tag": "h3",
+    "text": "The Secret Life of Things",
+    "family": "Plain",
+    "size": "52px",
+    "weight": "400",
+    "lh": "54.6px",
+    "ls": "-1.04px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "h3",
+    "text": "Retrospective: Shakespeare in the Park",
+    "family": "Plain",
+    "size": "52px",
+    "weight": "400",
+    "lh": "54.6px",
+    "ls": "-1.04px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "h3",
+    "text": "Our Future is the Ultimate Project",
+    "family": "Plain",
+    "size": "52px",
+    "weight": "400",
+    "lh": "54.6px",
+    "ls": "-1.04px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "h3",
+    "text": "Retrospective: Saturday Night Live",
+    "family": "Plain",
+    "size": "52px",
+    "weight": "400",
+    "lh": "54.6px",
+    "ls": "-1.04px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "h3",
+    "text": "Past as Prologue",
+    "family": "Plain",
+    "size": "52px",
+    "weight": "400",
+    "lh": "54.6px",
+    "ls": "-1.04px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "h3",
+    "text": "London Calling",
+    "family": "Plain",
+    "size": "52px",
+    "weight": "400",
+    "lh": "54.6px",
+    "ls": "-1.04px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "h3",
+    "text": "Retrospective: London Design Festival",
+    "family": "Plain",
+    "size": "52px",
+    "weight": "400",
+    "lh": "54.6px",
+    "ls": "-1.04px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "p",
+    "text": "Good design is about storytelling. It’s about creating a narrative that resonates with peo",
+    "family": "Plain",
+    "size": "32px",
+    "weight": "400",
+    "lh": "38.4px",
+    "ls": "-0.32px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "p",
+    "text": "Curiosity is essential. Without it, you’ll never break new ground—you won’t discover what’",
+    "family": "Plain",
+    "size": "32px",
+    "weight": "400",
+    "lh": "38.4px",
+    "ls": "-0.32px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "p",
+    "text": "We have a responsibility whilst filling the world with our creativity. We are deeply affec",
+    "family": "Plain",
+    "size": "32px",
+    "weight": "400",
+    "lh": "38.4px",
+    "ls": "-0.32px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "p",
+    "text": "Does the world really need any more logos? The answer is definitely a qualified ‘yes’. As ",
+    "family": "Plain",
+    "size": "32px",
+    "weight": "400",
+    "lh": "38.4px",
+    "ls": "-0.32px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "button",
+    "text": "Subscribe",
+    "family": "Plain",
+    "size": "32px",
+    "weight": "400",
+    "lh": "60px",
+    "ls": "-0.32px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(140, 140, 140)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgba(0, 0, 0, 0)",
+  "htmlBg": "rgb(255, 255, 255)",
+  "text": [
+   [
+    "rgb(26, 26, 26)",
+    121
+   ],
+   [
+    "rgb(255, 255, 255)",
+    97
+   ],
+   [
+    "rgba(0, 0, 0, 0.56)",
+    85
+   ],
+   [
+    "rgb(118, 118, 118)",
+    75
+   ],
+   [
+    "rgba(255, 255, 255, 0.56)",
+    59
+   ],
+   [
+    "rgb(140, 140, 140)",
+    41
+   ],
+   [
+    "rgb(0, 0, 0)",
+    2
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgba(0, 0, 0, 0.07)",
+    138
+   ],
+   [
+    "rgb(255, 255, 255)",
+    78
+   ],
+   [
+    "rgb(34, 34, 34)",
+    12
+   ],
+   [
+    "rgb(0, 0, 0)",
+    11
+   ],
+   [
+    "rgba(255, 255, 255, 0.12)",
+    7
+   ],
+   [
+    "rgba(40, 40, 40, 0.75)",
+    1
+   ],
+   [
+    "rgba(255, 255, 255, 0.97)",
+    1
+   ],
+   [
+    "rgb(227, 228, 229)",
+    1
+   ],
+   [
+    "rgba(232, 232, 232, 0.8)",
+    1
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(rgba(255, 255, 255, 0) 0%, rgb(0, 0, 0) 100%)",
+    1
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.59,0.01,0.28,1)",
+    27
+   ],
+   [
+    "cubic-bezier(0.4,0,0.2,1)",
+    18
+   ],
+   [
+    "cubic-bezier(0.25,0.46,0.45,0.94)",
+    7
+   ],
+   [
+    "cubic-bezier(0.46,0.03,0.52,0.96)",
+    3
+   ],
+   [
+    "cubic-bezier(0,0,0.65,1)",
+    1
+   ]
+  ],
+  "durations": [
+   [
+    "0.3s",
+    39
+   ],
+   [
+    "0.4s",
+    16
+   ],
+   [
+    "0.25s",
+    15
+   ],
+   [
+    "0.15s",
+    12
+   ],
+   [
+    "0.5s",
+    8
+   ],
+   [
+    "0.6s",
+    8
+   ],
+   [
+    "0s",
+    6
+   ],
+   [
+    "0.2s",
+    5
+   ],
+   [
+    "1s",
+    4
+   ],
+   [
+    "0.35s",
+    4
+   ]
+  ],
+  "keyframes": [
+   "fadeIn",
+   "slideInTop",
+   "scaleIn",
+   "fadeinout",
+   "updown",
+   "updownNumber1",
+   "updownNumber2",
+   "updownNumber3",
+   "swiper-preloader-spin"
+  ]
+ },
+ "cssVarSample": {
+  "--breakpoint": "\"xs\"",
+  "--container-width": "unset",
+  "--inner-gutter": "12px",
+  "--outer-gutter": "12px",
+  "--grid-columns": "6",
+  "--env": "\"production\"",
+  "--grid-column-bg": "rgba(127, 255, 255, .25)",
+  "--spacing-header": "3.75rem",
+  "--spacing-spacing-1": ".25rem",
+  "--spacing-spacing-2": ".5rem",
+  "--spacing-spacing-3": ".75rem",
+  "--spacing-spacing-4": ".75rem",
+  "--spacing-spacing-5": "1rem",
+  "--spacing-spacing-6": "1.5rem",
+  "--spacing-spacing-7": "2rem",
+  "--spacing-spacing-8": "2.5rem",
+  "--spacing-spacing-9": "3rem",
+  "--spacing-spacing-10": "4rem",
+  "--spacing-spacing-11": "6rem",
+  "--spacing-spacing-12": "8rem",
+  "--sans": "-apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue",
+  "--serif": "Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Time",
+  "--mono": "ui-monospace, Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospac",
+  "--plain": "Plain, Arial, Sans-Serif",
+  "--f-display-1-font-family": "var(--plain)",
+  "--f-display-1-font-size": "3.625rem",
+  "--f-display-1-font-stretch": "initial",
+  "--f-display-1-font-style": "initial",
+  "--f-display-1-font-variant": "initial",
+  "--f-display-1-font-weight": "375",
+  "--f-display-1-line-height": "1.05",
+  "--f-display-1-letter-spacing": "-.02em",
+  "--f-display-1-font-feature-settings": "\"case\" on",
+  "--f-display-1--moz-osx-font-smoothing": "grayscale",
+  "--f-display-1--webkit-font-smoothing": "antialiased",
+  "--f-display-1---bold-weight": "initial",
+  "--f-heading-1-font-family": "var(--plain)",
+  "--f-heading-1-font-size": "2.25rem",
+  "--f-heading-1-font-stretch": "initial",
+  "--f-heading-1-font-style": "initial",
+  "--f-heading-1-font-variant": "initial",
+  "--f-heading-1-font-weight": "400",
+  "--f-heading-1-line-height": "1.05",
+  "--f-heading-1-letter-spacing": "-.01em",
+  "--f-heading-1-font-feature-settings": "\"case\" on",
+  "--f-heading-1--moz-osx-font-smoothing": "grayscale",
+  "--f-heading-1--webkit-font-smoothing": "antialiased",
+  "--f-heading-1---bold-weight": "initial",
+  "--f-heading-2-font-family": "var(--plain)",
+  "--f-heading-2-font-size": "2rem",
+  "--f-heading-2-font-stretch": "initial",
+  "--f-heading-2-font-style": "initial",
+  "--f-heading-2-font-variant": "initial",
+  "--f-heading-2-font-weight": "400",
+  "--f-heading-2-line-height": "1.2",
+  "--f-heading-2-letter-spacing": "-.02em",
+  "--f-heading-2-font-feature-settings": "\"case\" on",
+  "--f-heading-2--moz-osx-font-smoothing": "grayscale",
+  "--f-heading-2--webkit-font-smoothing": "antialiased",
+  "--f-heading-2---bold-weight": "initial",
+  "--f-heading-3-font-family": "var(--plain)",
+  "--f-heading-3-font-size": "1.75rem",
+  "--f-heading-3-font-stretch": "initial",
+  "--f-heading-3-font-style": "initial",
+  "--f-heading-3-font-variant": "initial",
+  "--f-heading-3-font-weight": "400",
+  "--f-heading-3-line-height": "1.2",
+  "--f-heading-3-letter-spacing": "-.02em",
+  "--f-heading-3-font-feature-settings": "\"case\" on",
+  "--f-heading-3--moz-osx-font-smoothing": "grayscale"
+ },
+ "libs": {
+  "gsap": true,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 189,
+  "video": 21,
+  "svg": 129,
+  "picture": 202,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 7,
+  "clipPath": 21,
+  "sticky": 3,
+  "fixed": [
+   "cky-consent-container cky-box-bottom-left",
+   "stickyTop stickyTop--portfolio"
+  ],
+  "customCursor": true,
+  "boxShadows": [],
+  "filters": [
+   [
+    "brightness(0) invert(1)",
+    1
+   ]
+  ],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "4px",
+   153
+  ],
+  [
+   "9999px",
+   12
+  ],
+  [
+   "8px",
+   6
+  ],
+  [
+   "20px",
+   1
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgb(51, 51, 51)",
+   4
+  ],
+  [
+   "1px solid rgb(255, 255, 255)",
+   3
+  ],
+  [
+   "bottom:1px solid rgb(51, 51, 51)",
+   1
+  ]
+ ],
+ "grids": [
+  [
+   "2cols gap 12px",
+   5
+  ],
+  [
+   "4cols gap 12px",
+   3
+  ]
+ ],
+ "containers": [
+  [
+   "1728px",
+   43
+  ],
+  [
+   "100%",
+   34
+  ],
+  [
+   "calc(100% - 20px)",
+   1
+  ],
+  [
+   "900px",
+   1
+  ]
+ ],
+ "sideMargins": [
+  [
+   "24px",
+   66
+  ],
+  [
+   "492px",
+   44
+  ],
+  [
+   "960px",
+   41
+  ],
+  [
+   "726px",
+   3
+  ],
+  [
+   "23px",
+   1
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "",
+   "h": 23816,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "footer-sections flex flex-col gap-y-48",
+   "h": 1309,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "footer-news keyline-t w-full pt-24 flex flex-wrap ",
+   "h": 780,
+   "padTop": "24px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "keyline-t w-full pt-24 flex flex-wrap gap-x-gutter",
+   "h": 116,
+   "padTop": "24px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "keyline-t w-full pt-24 flex flex-wrap gap-y-32 f-b",
+   "h": 145,
+   "padTop": "24px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "keyline-t w-full pt-24 flex flex-wrap gap-y-32 f-b",
+   "h": 124,
+   "padTop": "24px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "static",
+  "height": 60,
+  "links": 6,
+  "linkTexts": [
+   "Pentagram",
+   "Work",
+   "About",
+   "News",
+   "Contact",
+   "Archive"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "Customise",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "4px",
+   "pad": "11px 12px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(255, 255, 255)",
+   "h": 44
+  },
+  {
+   "text": "Reject All",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "4px",
+   "pad": "11px 12px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(255, 255, 255)",
+   "h": 44
+  },
+  {
+   "text": "Accept All",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "4px",
+   "pad": "11px 12px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(255, 255, 255)",
+   "h": 44
+  },
+  {
+   "text": "YouMe Kyoto Triennale",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(26, 26, 26)",
+   "radius": "0px",
+   "pad": "8px 24px 0px 0px",
+   "size": "19px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 28
+  },
+  {
+   "text": "SMCC Sumitomo Mitsui Card Company",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(26, 26, 26)",
+   "radius": "0px",
+   "pad": "8px 24px 0px 0px",
+   "size": "19px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 48
+  },
+  {
+   "text": "Show more",
+   "bg": "rgba(255, 255, 255, 0.12)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "4px",
+   "pad": "7px 8px 7px 12px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 34
+  },
+  {
+   "text": "Brand Identity",
+   "bg": "rgba(0, 0, 0, 0.07)",
+   "color": "rgb(26, 26, 26)",
+   "radius": "4px",
+   "pad": "6px 8px",
+   "size": "19px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 28
+  },
+  {
+   "text": "Motion Graphics & Film",
+   "bg": "rgba(0, 0, 0, 0.07)",
+   "color": "rgb(26, 26, 26)",
+   "radius": "4px",
+   "pad": "6px 8px",
+   "size": "19px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 28
+  },
+  {
+   "text": "Show more",
+   "bg": "rgba(255, 255, 255, 0.12)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "4px",
+   "pad": "7px 8px 7px 12px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 34
+  },
+  {
+   "text": "Data Driven Experiences",
+   "bg": "rgba(0, 0, 0, 0.07)",
+   "color": "rgb(26, 26, 26)",
+   "radius": "4px",
+   "pad": "6px 8px",
+   "size": "19px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 28
+  }
+ ],
+ "headings": [
+  "Pentagram",
+  "Site navigation",
+  "Pentagram",
+  "Site navigation",
+  "The Secret Life of Things",
+  "See latest projects",
+  "YouMe Kyoto Triennale",
+  "'In Defense of the Detour'",
+  "SMCC",
+  "520 Fifth Avenue",
+  "Living Optics Hyperspectral Camera",
+  "Cass Art King’s Cross Store",
+  "London Design Festival 2026",
+  "Women+ on the Edge of Democracy",
+  "Retrospective: Shakespeare in the Park",
+  "8 latest Brand Identity projects",
+  "Xsolla",
+  "Sada Mada",
+  "De Niro Con",
+  "Shakespeare in the Park 2026",
+  "De Bijloke",
+  "Jetour",
+  "Pfizer",
+  "LenLen",
+  "Our Future is the Ultimate Project"
+ ],
+ "paras": [
+  "We use cookies to enhance your browsing experience, serve personalised ads or content, and analyse our traffic. By clicking \"Accept All\", you consent to our use of cookies.",
+  "A visual essay for The New York Times on craft, A.I. and what gets lost when we skip the slow part.",
+  "An elegant identity inspired by the building’s architecture allows luxurious details and striking imagery to take center stage.",
+  "Industrial design of camera hardware for developers.",
+  "Environmental graphics for Cass Art’s new King’s Cross store exploring the materials and chemistry behind some of the world’s best-known paintings.",
+  "Visual identity and signage for the capital’s premier design event.",
+  "Identity for a collection of short plays exploring the state of American democracy and civic life.",
+  "Good design is about storytelling. It’s about creating a narrative that resonates with people on multiple levels.",
+  "Brand identity and narrative framework for the gaming technology company that provides developers, publishers and players with the platform to get more from their games.",
+  "Building a family of brands for a growing creative ecosystem."
+ ],
+ "footer": {
+  "h": 1736,
+  "text": "News Work Oct 06, 2026 YouMe Kyoto Triennale Harry Pearce and team create the brand identity for a major new cultural event in Kyoto, Japan. Press Oct 05, 2026 LenLen Identity by Andrea Trabucco-Campos Featured on BP&O Event Oct 07, 2026 Eddie Opara at Common Matters Event Oct 26, 2026 Abbott Miller"
+ },
+ "jsMotion": {
+  "scriptsFetched": 6,
+  "gsapEases": [
+   [
+    "power1.inOut",
+    4
+   ],
+   [
+    "power4.inOut",
+    3
+   ],
+   [
+    "none",
+    1
+   ],
+   [
+    "expo",
+    1
+   ],
+   [
+    "power4",
+    1
+   ]
+  ],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    ".3",
+    16
+   ],
+   [
+    ".5",
+    15
+   ],
+   [
+    ".4",
+    8
+   ],
+   [
+    ".2",
+    4
+   ],
+   [
+    "1",
+    3
+   ],
+   [
+    "0",
+    2
+   ],
+   [
+    "2",
+    1
+   ],
+   [
+    ".25",
+    1
+   ],
+   [
+    ".1",
+    1
+   ],
+   [
+    ".6",
+    1
+   ],
+   [
+    ".8",
+    1
+   ]
+  ],
+  "staggers": [
+   [
+    "0",
+    2
+   ]
+  ],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [
+   [
+    "top top",
+    1
+   ]
+  ],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

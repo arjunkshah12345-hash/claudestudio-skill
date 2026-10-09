@@ -1,0 +1,858 @@
+{
+ "url": "https://sierra.ai",
+ "slug": "sierra-ai",
+ "analyzedAt": "2026-10-07T05:27:36.175Z",
+ "scrollHeight": 8616,
+ "pageLengthInViewports": 9.6,
+ "title": "Better customer experiences | Sierra",
+ "metaDescription": "Sierra helps businesses build better, more human customer experiences with AI.",
+ "lang": "en-US",
+ "type": {
+  "loadedFonts": [
+   "gtAmerica 400 normal",
+   "gtAmerica 500 normal",
+   "gtAmerica Fallback normal normal"
+  ],
+  "families": [
+   [
+    "gtAmerica",
+    121
+   ]
+  ],
+  "sizes": [
+   [
+    "14px",
+    52
+   ],
+   [
+    "16px",
+    45
+   ],
+   [
+    "12px",
+    9
+   ],
+   [
+    "38px",
+    5
+   ],
+   [
+    "24px",
+    4
+   ],
+   [
+    "44px",
+    4
+   ],
+   [
+    "65px",
+    2
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    120
+   ],
+   [
+    "500",
+    1
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    110
+   ],
+   [
+    "-0.010em@38",
+    5
+   ],
+   [
+    "-0.010em@44",
+    4
+   ],
+   [
+    "-0.020em@65",
+    2
+   ]
+  ],
+  "uppercaseShare": 0,
+  "largest": [
+   {
+    "tag": "span",
+    "text": "Better outcomes.",
+    "family": "gtAmerica",
+    "size": "65px",
+    "weight": "400",
+    "lh": "72px",
+    "ls": "-1.3px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "Built on Sierra.",
+    "family": "gtAmerica",
+    "size": "65px",
+    "weight": "400",
+    "lh": "72px",
+    "ls": "-1.3px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "h2",
+    "text": "The results speak for themselves",
+    "family": "gtAmerica",
+    "size": "44px",
+    "weight": "400",
+    "lh": "48px",
+    "ls": "-0.44px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(34, 34, 34)"
+   },
+   {
+    "tag": "h2",
+    "text": "Meet Sierra",
+    "family": "gtAmerica",
+    "size": "44px",
+    "weight": "400",
+    "lh": "48px",
+    "ls": "-0.44px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(34, 34, 34)"
+   },
+   {
+    "tag": "h2",
+    "text": "Trust and reliability",
+    "family": "gtAmerica",
+    "size": "44px",
+    "weight": "400",
+    "lh": "48px",
+    "ls": "-0.44px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(34, 34, 34)"
+   },
+   {
+    "tag": "h2",
+    "text": "Discover what Sierra can do for you",
+    "family": "gtAmerica",
+    "size": "44px",
+    "weight": "400",
+    "lh": "48px",
+    "ls": "-0.44px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(48, 46, 45)"
+   },
+   {
+    "tag": "h2",
+    "text": "Leading brands succeed with Sierra",
+    "family": "gtAmerica",
+    "size": "38px",
+    "weight": "400",
+    "lh": "46px",
+    "ls": "-0.38px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(34, 34, 34)"
+   },
+   {
+    "tag": "h2",
+    "text": "Standout customer experiences. Stronger growth.",
+    "family": "gtAmerica",
+    "size": "38px",
+    "weight": "400",
+    "lh": "46px",
+    "ls": "-0.38px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(34, 34, 34)"
+   },
+   {
+    "tag": "h3",
+    "text": "The agent-building agent",
+    "family": "gtAmerica",
+    "size": "38px",
+    "weight": "400",
+    "lh": "46px",
+    "ls": "-0.38px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(34, 34, 34)"
+   },
+   {
+    "tag": "h3",
+    "text": "Use AI to improve your AI",
+    "family": "gtAmerica",
+    "size": "38px",
+    "weight": "400",
+    "lh": "46px",
+    "ls": "-0.38px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(34, 34, 34)"
+   },
+   {
+    "tag": "h3",
+    "text": "Turn conversations into outcomes",
+    "family": "gtAmerica",
+    "size": "38px",
+    "weight": "400",
+    "lh": "46px",
+    "ls": "-0.38px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(34, 34, 34)"
+   },
+   {
+    "tag": "h3",
+    "text": "Increase the lifetime value of your customers",
+    "family": "gtAmerica",
+    "size": "24px",
+    "weight": "400",
+    "lh": "32px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgba(0, 0, 0, 0)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(113, 111, 108)",
+    58
+   ],
+   [
+    "rgb(48, 46, 45)",
+    28
+   ],
+   [
+    "rgb(255, 255, 255)",
+    24
+   ],
+   [
+    "rgb(34, 34, 34)",
+    8
+   ],
+   [
+    "rgb(98, 94, 91)",
+    3
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(255, 255, 255)",
+    12
+   ],
+   [
+    "rgba(255, 255, 255, 0.1)",
+    4
+   ],
+   [
+    "rgb(0, 104, 56)",
+    3
+   ],
+   [
+    "rgb(246, 245, 243)",
+    3
+   ],
+   [
+    "rgb(52, 94, 178)",
+    1
+   ],
+   [
+    "oklab(0.999994 0.0000455678 0.0000200868 / 0.2)",
+    1
+   ]
+  ],
+  "gradients": [
+   [
+    "radial-gradient(oklab(0.251963 0.0000115335 0.00000502169 / 0.5) 0%, rgba(0, 0, 0, 0) 100%)",
+    1
+   ],
+   [
+    "linear-gradient(95deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.05))",
+    1
+   ],
+   [
+    "radial-gradient(64px 64px at 35% 110%, oklab(0.999994 0.0000455678 0.0000200868 / 0.2) 1%, oklab(0 0 0 / 0) 65%)",
+    1
+   ],
+   [
+    "radial-gradient(48px 96px at 55% 110%, oklab(0.999994 0.0000455678 0.0000200868 / 0.2) 1%, oklab(0 0 0 / 0) 65%)",
+    1
+   ],
+   [
+    "radial-gradient(48px 128px at 45% 110%, oklab(0.999994 0.0000455678 0.0000200868 / 0.3) 1%, oklab(0 0 0 / 0) 65%)",
+    1
+   ],
+   [
+    "radial-gradient(56px 144px at 32% 120%, oklab(0.999994 0.0000455678 0.0000200868 / 0.3) 1%, oklab(0 0 0 / 0) 65%)",
+    1
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(.4,0,.2,1)",
+    8
+   ],
+   [
+    "cubic-bezier(0,0,.2,1)",
+    4
+   ],
+   [
+    "cubic-bezier(.4,0,1,1)",
+    2
+   ],
+   [
+    "cubic-bezier(.4,0,.6,1)",
+    2
+   ],
+   [
+    "cubic-bezier(.22,1,.36,1)",
+    2
+   ],
+   [
+    "cubic-bezier(0.22,1,0.36,1)",
+    2
+   ]
+  ],
+  "durations": [
+   [
+    "0.3s",
+    9
+   ],
+   [
+    "0s",
+    3
+   ],
+   [
+    ".25s",
+    2
+   ],
+   [
+    "3s",
+    2
+   ],
+   [
+    "50ms",
+    2
+   ],
+   [
+    "0.1s",
+    2
+   ],
+   [
+    "0.15s",
+    2
+   ],
+   [
+    "0.2s",
+    2
+   ],
+   [
+    "0.28s",
+    2
+   ],
+   [
+    "0.5s",
+    2
+   ]
+  ],
+  "keyframes": [
+   "spin",
+   "ping",
+   "pulse",
+   "fade-in",
+   "fade-out",
+   "marquee",
+   "loader",
+   "reasoning-step",
+   "speaking-pulse"
+  ]
+ },
+ "cssVarSample": {},
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": true,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 70,
+  "video": 0,
+  "svg": 21,
+  "picture": 0,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 10,
+  "clipPath": 6,
+  "sticky": 3,
+  "fixed": [
+   "DIV"
+  ],
+  "customCursor": true,
+  "boxShadows": [
+   [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(15, 79, 138, 0.01) 0px 391px 109px 0px, rgba(15, 79, 138, 0.03) 0px 310px 100px 0px, rgba(15, 79, 138, 0.1) 0px 180px 84px 0px, rgba(15, 79, 138, 0.15) 0px 75px 63px 0px, rgba(15, 79, 138, 0.15) 0px 28px 34px 0px",
+    1
+   ]
+  ],
+  "filters": [
+   [
+    "brightness(0) opacity(0.3)",
+    30
+   ],
+   [
+    "blur(0px)",
+    4
+   ],
+   [
+    "blur(4px)",
+    3
+   ],
+   [
+    "blur(64px)",
+    1
+   ]
+  ],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "4px",
+   37
+  ],
+  [
+   "3.35544e+07px",
+   17
+  ],
+  [
+   "0px 0px 64px 64px",
+   1
+  ],
+  [
+   "8px",
+   1
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid oklab(0.999994 0.0000455678 0.0000200868 / 0.2)",
+   4
+  ],
+  [
+   "1px solid oklab(0.601634 -0.0383193 -0.114094 / 0.2)",
+   3
+  ],
+  [
+   "1px solid rgba(0, 0, 0, 0)",
+   1
+  ]
+ ],
+ "grids": [
+  [
+   "12cols gap 16px",
+   14
+  ],
+  [
+   "1cols gap normal",
+   1
+  ],
+  [
+   "5cols gap normal",
+   1
+  ],
+  [
+   "10cols gap normal",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "1160px",
+   14
+  ],
+  [
+   "100%",
+   5
+  ],
+  [
+   "800px",
+   1
+  ],
+  [
+   "1024px",
+   1
+  ]
+ ],
+ "sideMargins": [
+  [
+   "164px",
+   9
+  ],
+  [
+   "728px",
+   8
+  ],
+  [
+   "352px",
+   7
+  ],
+  [
+   "446px",
+   6
+  ],
+  [
+   "1010px",
+   6
+  ],
+  [
+   "196px",
+   4
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "bg-white theme-tech:bg-black theme-tech:text-gray-",
+   "h": 878,
+   "padTop": "32px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "bg-white theme-tech:bg-black theme-tech:text-gray-",
+   "h": 1322,
+   "padTop": "80px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "theme-base bg-white theme-tech:bg-black theme-tech",
+   "h": 496,
+   "padTop": "80px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "z-10 rounded-b-4xl bg-white pb-section-padding sha",
+   "h": 80,
+   "padTop": "0px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "",
+   "h": 1186,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "theme-base bg-white theme-tech:bg-black theme-tech",
+   "h": 994,
+   "padTop": "80px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "theme-base bg-white theme-tech:bg-black theme-tech",
+   "h": 712,
+   "padTop": "80px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "theme-base bg-white theme-tech:bg-black theme-tech",
+   "h": 712,
+   "padTop": "80px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "bg-white theme-tech:bg-black theme-tech:text-gray-",
+   "h": 416,
+   "padTop": "80px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "bg-white theme-tech:bg-black theme-tech:text-gray-",
+   "h": 336,
+   "padTop": "80px",
+   "bg": "rgb(255, 255, 255)"
+  }
+ ],
+ "nav": {
+  "tag": "NAV",
+  "position": "sticky",
+  "height": 120,
+  "links": 7,
+  "linkTexts": [
+   "Sierra Summit 2026 Recap",
+   "Product",
+   "Industries",
+   "Customers",
+   "Company",
+   "Sierra Logo",
+   "Learn more",
+   "Sign in",
+   "Learn more"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "Learn more",
+   "bg": "rgb(0, 104, 56)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "3.35544e+07px",
+   "pad": "0px 16px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 40
+  },
+  {
+   "text": "Learn more",
+   "bg": "rgb(246, 245, 243)",
+   "color": "rgb(48, 46, 45)",
+   "radius": "3.35544e+07px",
+   "pad": "0px 24px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 56
+  },
+  {
+   "text": "Customer stories",
+   "bg": "rgb(0, 104, 56)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "3.35544e+07px",
+   "pad": "0px 16px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 40
+  },
+  {
+   "text": "Ghostwriter",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(48, 46, 45)",
+   "radius": "3.35544e+07px",
+   "pad": "0px 16px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid oklab(0.601634 -0.0383193 -0.114094 / 0.2)",
+   "h": 40
+  },
+  {
+   "text": "Insights",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(48, 46, 45)",
+   "radius": "3.35544e+07px",
+   "pad": "0px 16px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid oklab(0.601634 -0.0383193 -0.114094 / 0.2)",
+   "h": 40
+  },
+  {
+   "text": "Horizon",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(48, 46, 45)",
+   "radius": "3.35544e+07px",
+   "pad": "0px 16px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid oklab(0.601634 -0.0383193 -0.114094 / 0.2)",
+   "h": 40
+  },
+  {
+   "text": "Learn more",
+   "bg": "rgb(0, 104, 56)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "3.35544e+07px",
+   "pad": "0px 32px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 56
+  },
+  {
+   "text": "United States (English)",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(113, 111, 108)",
+   "radius": "8px",
+   "pad": "0px 16px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 44
+  }
+ ],
+ "headings": [
+  "Better outcomes. Built on Sierra.",
+  "Leading brands succeed with Sierra",
+  "Standout customer experiences. Stronger growth.",
+  "Increase the lifetime value of your customers",
+  "Empower every team",
+  "Unify your channels",
+  "Pay for a job well done",
+  "The results speak for themselves",
+  "Meet Sierra",
+  "The agent-building agent",
+  "Build",
+  "Optimize",
+  "Build",
+  "Optimize",
+  "Use AI to improve your AI",
+  "Explorer",
+  "Monitors",
+  "Experiments",
+  "Observability",
+  "Explorer",
+  "Monitors",
+  "Experiments",
+  "Observability",
+  "Turn conversations into outcomes",
+  "Long-horizon planning"
+ ],
+ "paras": [
+  "Hi Kay, it's Dr. Patel's office. Emma's due for her 6 month well-child appointment.",
+  "Oh, thanks for letting me know. Let's set that up.",
+  "Of course. We have Tuesday at 2pm open - same as last time.",
+  "Sierra helps the great companies of the world show up at their best.",
+  "Go beyond customer service to drive revenue growth.",
+  "Animation that shows various chat messages from fictional brands with different brand identities",
+  "Build powerful AI agents quickly—with or without engineering support.",
+  "Animation showing various interactive widgets from fictional brands. The first is a calendar widget that helps picking an appointment date. The second is a flight widget that helps you check-in online.",
+  "Deploy a single agent across chat, SMS, WhatsApp, email, voice, and ChatGPT.",
+  "Animation showing conversations being handled on multiple channels. From voice, to chat, to email, to SMS."
+ ],
+ "footer": {
+  "h": 664,
+  "text": "Product Product overview Ghostwriter Agent Studio Horizon Context Engine Insights Explorer Channels Trust and reliability Industries Industries overview Financial services Healthcare Telecommunications Media Travel and hospitality Retail and consumer goods Technology Services Public Sector Customers"
+ },
+ "jsMotion": {
+  "scriptsFetched": 25,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "0",
+    4
+   ],
+   [
+    ".2",
+    4
+   ],
+   [
+    ".3",
+    3
+   ],
+   [
+    "1",
+    1
+   ],
+   [
+    ".8",
+    1
+   ],
+   [
+    ".45",
+    1
+   ],
+   [
+    ".5",
+    1
+   ]
+  ],
+  "staggers": [],
+  "lenis": [],
+  "springs": [
+   [
+    "stiffness:100,damping:10",
+    2
+   ],
+   [
+    "type:\"spring\",stiffness:500,damping:25,restSpeed:10",
+    1
+   ],
+   [
+    "type:\"spring\",stiffness:550,damping:0===t[1]?2*Math.sqrt(550):30,restSpee",
+    1
+   ],
+   [
+    "type:\"spring\",damping:20,duration:.2",
+    1
+   ],
+   [
+    "type:\"spring\",restDelta:.001,restSpeed:.01,...s,onUpdate:a",
+    1
+   ],
+   [
+    "type:\"spring\",...t",
+    1
+   ],
+   [
+    "stiffness:200,damping:30",
+    1
+   ],
+   [
+    "type:\"spring\",stiffness:300,damping:28",
+    1
+   ]
+  ],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": [
+   [
+    "[.25,.1,.35,1]",
+    1
+   ],
+   [
+    "[.4,0,.1,1]",
+    1
+   ]
+  ]
+ }
+}

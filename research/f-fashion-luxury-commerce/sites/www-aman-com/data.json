@@ -1,0 +1,829 @@
+{
+ "url": "https://www.aman.com/",
+ "slug": "www-aman-com",
+ "analyzedAt": "2026-10-07T05:27:06.190Z",
+ "scrollHeight": 6073,
+ "pageLengthInViewports": 6.7,
+ "title": "Aman Resorts, Hotels & Residences - Explore Luxury Destinations",
+ "metaDescription": "Explore the world of Aman. 36 luxury resorts, hotels & private residences in 20 countries. Book accommodation, experiences & journeys of discovery with Aman.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "Lyon Display Web 300 normal",
+   "Lyon Text Web 400 normal",
+   "WhitneySSm 400 normal"
+  ],
+  "families": [
+   [
+    "WhitneySSm",
+    98
+   ],
+   [
+    "Lyon Text Web",
+    18
+   ],
+   [
+    "Lyon Display Web",
+    18
+   ],
+   [
+    "Whitney SSm A",
+    2
+   ]
+  ],
+  "sizes": [
+   [
+    "13px",
+    82
+   ],
+   [
+    "14px",
+    20
+   ],
+   [
+    "20px",
+    12
+   ],
+   [
+    "10px",
+    10
+   ],
+   [
+    "12px",
+    4
+   ],
+   [
+    "31px",
+    3
+   ],
+   [
+    "24px",
+    3
+   ],
+   [
+    "15px",
+    2
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    135
+   ],
+   [
+    "700",
+    1
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "0.023em@13",
+    53
+   ],
+   [
+    "0.057em@14",
+    17
+   ],
+   [
+    "0.032em@13",
+    17
+   ],
+   [
+    "0.050em@20",
+    12
+   ],
+   [
+    "0.062em@13",
+    12
+   ],
+   [
+    "0.198em@10",
+    10
+   ],
+   [
+    "0.057em@12",
+    4
+   ],
+   [
+    "0.050em@14",
+    3
+   ],
+   [
+    "0.016em@31",
+    3
+   ],
+   [
+    "0.021em@24",
+    3
+   ],
+   [
+    "normal",
+    2
+   ]
+  ],
+  "uppercaseShare": 0.07,
+  "largest": [
+   {
+    "tag": "h2",
+    "text": "Grand Ski Adventures",
+    "family": "Lyon Text Web",
+    "size": "31.08px",
+    "weight": "400",
+    "lh": "45.066px",
+    "ls": "0.5px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(49, 49, 49)"
+   },
+   {
+    "tag": "h2",
+    "text": "Seasonal Experiences",
+    "family": "Lyon Text Web",
+    "size": "31.08px",
+    "weight": "400",
+    "lh": "45.066px",
+    "ls": "0.5px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(49, 49, 49)"
+   },
+   {
+    "tag": "h2",
+    "text": "The World of Aman",
+    "family": "Lyon Text Web",
+    "size": "31.08px",
+    "weight": "400",
+    "lh": "45.066px",
+    "ls": "0.5px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(49, 49, 49)"
+   },
+   {
+    "tag": "p",
+    "text": "Get inspired",
+    "family": "Lyon Text Web",
+    "size": "24.108px",
+    "weight": "400",
+    "lh": "34.9566px",
+    "ls": "0.5px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(49, 49, 49)"
+   },
+   {
+    "tag": "h2",
+    "text": "More information",
+    "family": "Lyon Text Web",
+    "size": "24.108px",
+    "weight": "400",
+    "lh": "34.9566px",
+    "ls": "0.5px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(49, 49, 49)"
+   },
+   {
+    "tag": "h2",
+    "text": "Destinations",
+    "family": "Lyon Text Web",
+    "size": "24.108px",
+    "weight": "400",
+    "lh": "34.9566px",
+    "ls": "0.5px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(49, 49, 49)"
+   },
+   {
+    "tag": "h3",
+    "text": "Explore the World of Aman",
+    "family": "Lyon Text Web",
+    "size": "19.6px",
+    "weight": "400",
+    "lh": "28.42px",
+    "ls": "0.98px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(49, 49, 49)"
+   },
+   {
+    "tag": "h3",
+    "text": "Amanvari, Mexico",
+    "family": "Lyon Text Web",
+    "size": "19.6px",
+    "weight": "400",
+    "lh": "28.42px",
+    "ls": "0.98px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(49, 49, 49)"
+   },
+   {
+    "tag": "h3",
+    "text": "Aman Villas",
+    "family": "Lyon Text Web",
+    "size": "19.6px",
+    "weight": "400",
+    "lh": "28.42px",
+    "ls": "0.98px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(49, 49, 49)"
+   },
+   {
+    "tag": "h3",
+    "text": "A Novak Djokovic Programme",
+    "family": "Lyon Text Web",
+    "size": "19.6px",
+    "weight": "400",
+    "lh": "28.42px",
+    "ls": "0.98px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(49, 49, 49)"
+   },
+   {
+    "tag": "h3",
+    "text": "In the City",
+    "family": "Lyon Text Web",
+    "size": "19.6px",
+    "weight": "400",
+    "lh": "28.42px",
+    "ls": "0.98px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(49, 49, 49)"
+   },
+   {
+    "tag": "h3",
+    "text": "Aman Japan Journey",
+    "family": "Lyon Text Web",
+    "size": "19.6px",
+    "weight": "400",
+    "lh": "28.42px",
+    "ls": "0.98px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(49, 49, 49)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(243, 238, 231)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(88, 88, 88)",
+    66
+   ],
+   [
+    "rgb(49, 49, 49)",
+    60
+   ],
+   [
+    "rgb(0, 0, 0)",
+    4
+   ],
+   [
+    "rgb(64, 64, 64)",
+    3
+   ],
+   [
+    "rgb(243, 238, 231)",
+    2
+   ],
+   [
+    "rgb(255, 255, 255)",
+    1
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(64, 64, 64)",
+    2
+   ],
+   [
+    "rgb(253, 249, 245)",
+    2
+   ],
+   [
+    "rgb(243, 238, 231)",
+    1
+   ],
+   [
+    "rgb(49, 49, 49)",
+    1
+   ],
+   [
+    "rgb(230, 226, 219)",
+    1
+   ],
+   [
+    "rgb(255, 255, 255)",
+    1
+   ],
+   [
+    "rgba(0, 0, 0, 0.5)",
+    1
+   ]
+  ],
+  "gradients": []
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.19,1,0.22,1)",
+    2
+   ],
+   [
+    "cubic-bezier(0.23,1,0.32,1)",
+    2
+   ]
+  ],
+  "durations": [
+   [
+    "0.4s",
+    44
+   ],
+   [
+    "0s",
+    27
+   ],
+   [
+    "300ms",
+    15
+   ],
+   [
+    "200ms",
+    11
+   ],
+   [
+    "0.3s",
+    10
+   ],
+   [
+    "0.35s",
+    10
+   ],
+   [
+    "0.25s",
+    7
+   ],
+   [
+    "0.2s",
+    6
+   ],
+   [
+    "0.1s",
+    5
+   ],
+   [
+    "400ms",
+    4
+   ]
+  ],
+  "keyframes": [
+   "rotateplane",
+   "slide-in-left",
+   "slide-fade-in-left",
+   "slide-in-right",
+   "slide-in-bottom",
+   "slide-in-top",
+   "slide-out-top",
+   "header-slide-out-top",
+   "slide-out-left",
+   "slide-out-right",
+   "slide-out-bottom",
+   "fade-in",
+   "fade-out",
+   "spin",
+   "socialSlideIn",
+   "fpFadeInDown",
+   "onetrust-fade-in"
+  ]
+ },
+ "cssVarSample": {
+  "--ai-font-size-base": "var(--font-size-base)",
+  "--ai-font-size-s": "var(--font-size-s)",
+  "--ai-font-size-xs": "var(--font-size-xs)",
+  "--ai-font-size-xxs": "var(--font-size-xxs)",
+  "--ai-font-size-h1": "var(--font-size-h1)",
+  "--ai-font-size-h2": "var(--font-size-h2)",
+  "--ai-font-size-h3": "var(--font-size-h3)",
+  "--ai-font-size-h4": "var(--font-size-h4)",
+  "--ai-font-size-h5": "var(--font-size-h5)",
+  "--ai-font-size-h6": "var(--font-size-h6)",
+  "--ai-text-color-muted": "var(--color-text-light)",
+  "--ai-icon-size": "1.25rem",
+  "--ai-icon-size-lg": "2rem",
+  "--header-menu-content-offset": "20px",
+  "--header-menu-height-lg": "88px",
+  "--booking-bar-height-lg": "70px",
+  "--header-menu-scrolled": "4rem",
+  "--bn-col-gap": "49px"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 17,
+  "video": 0,
+  "svg": 27,
+  "picture": 12,
+  "iframes": 2
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 0,
+  "clipPath": 0,
+  "sticky": 2,
+  "fixed": [
+   "header__top gutter",
+   "onetrust-pc-dark-filter ot-fade-in",
+   "otCenterRounded otRelFont default ot-wo-title vertical-align"
+  ],
+  "customCursor": false,
+  "boxShadows": [
+   [
+    "rgba(0, 0, 0, 0.2) 0px 0px 18px 0px",
+    1
+   ]
+  ],
+  "filters": [],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "2.5px",
+   1
+  ]
+ ],
+ "borders": [
+  [
+   "bottom:1px solid rgb(230, 230, 230)",
+   2
+  ],
+  [
+   "1px solid rgb(64, 64, 64)",
+   2
+  ],
+  [
+   "bottom:1px solid rgb(0, 0, 0)",
+   1
+  ],
+  [
+   "1px solid rgb(49, 49, 49)",
+   1
+  ],
+  [
+   "1px solid rgb(170, 166, 163)",
+   1
+  ]
+ ],
+ "grids": [
+  [
+   "6cols gap 37.44px",
+   3
+  ],
+  [
+   "2cols gap 64.4px",
+   1
+  ],
+  [
+   "3cols gap 28px",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "1440px",
+   12
+  ],
+  [
+   "100%",
+   5
+  ],
+  [
+   "1600px",
+   2
+  ],
+  [
+   "944px",
+   2
+  ],
+  [
+   "1520px",
+   1
+  ]
+ ],
+ "sideMargins": [
+  [
+   "25px",
+   9
+  ],
+  [
+   "977px",
+   5
+  ],
+  [
+   "530px",
+   3
+  ],
+  [
+   "904px",
+   3
+  ],
+  [
+   "1278px",
+   3
+  ],
+  [
+   "1652px",
+   3
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "",
+   "h": 44,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "aman-booking-bar-section",
+   "h": 42,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "",
+   "h": 4516,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "paragraph-id-184521 paragraph--type--video contain",
+   "h": 944,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "paragraph-id-88526 paragraph--type--slider-cards c",
+   "h": 772,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "paragraph-id-134101 layout-text-left paragraph--ty",
+   "h": 678,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "layout aman-one-two-thirds container gutter",
+   "h": 678,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "",
+   "h": 111,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "paragraph-id-134096 paragraph--type--basic contain",
+   "h": 111,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "",
+   "h": 678,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "paragraph-id-134091 card-image-style--square parag",
+   "h": 678,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "paragraph-id-188026 highlighted bg-sand-grey parag",
+   "h": 955,
+   "padTop": "83px",
+   "bg": "rgb(230, 226, 219)"
+  },
+  {
+   "cls": "paragraph-id-188031 paragraph--type--basic contain",
+   "h": 45,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "paragraph-id-188051 paragraph--type--slider-cards ",
+   "h": 797,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "container padding-top--30 padding-bottom--10",
+   "h": 102,
+   "padTop": "30px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "container quicklinks-bar padding-top--30",
+   "h": 739,
+   "padTop": "30px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "container",
+   "h": 35,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "container copyright-bar padding-top--20",
+   "h": 89,
+   "padTop": "20px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "",
+   "h": 49,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "sticky",
+  "height": 0,
+  "links": 123,
+  "linkTexts": [
+   "Menu",
+   "Close",
+   "Reserve",
+   "Close",
+   "Arrow left\n\n\n\n        \n        Back\n            to",
+   "Destinations",
+   "Experiences",
+   "Exclusive Offers",
+   "Residences",
+   "Contact us",
+   "Aman at Sea",
+   "Aman Shop",
+   "Aman Interiors",
+   "Janu"
+  ],
+  "bg": "rgb(243, 238, 231)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "Reserve",
+   "bg": "rgb(49, 49, 49)",
+   "color": "rgb(243, 238, 231)",
+   "radius": "0px",
+   "pad": "10px 15px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(49, 49, 49)",
+   "h": 42
+  },
+  {
+   "text": "Sign Up",
+   "bg": "rgb(64, 64, 64)",
+   "color": "rgb(243, 238, 231)",
+   "radius": "0px",
+   "pad": "7.392px 33.264px",
+   "size": "12.32px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(64, 64, 64)",
+   "h": 35
+  },
+  {
+   "text": "Contact Us",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(49, 49, 49)",
+   "radius": "0px",
+   "pad": "7.392px 33.264px",
+   "size": "12.32px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(170, 166, 163)",
+   "h": 35
+  },
+  {
+   "text": "Cookies Settings",
+   "bg": "rgb(253, 249, 245)",
+   "color": "rgb(64, 64, 64)",
+   "radius": "0px",
+   "pad": "7.392px 0px",
+   "size": "12.32px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 33
+  },
+  {
+   "text": "Accept All Cookies",
+   "bg": "rgb(64, 64, 64)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "0px",
+   "pad": "7.392px 33.264px",
+   "size": "12.32px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(64, 64, 64)",
+   "h": 35
+  }
+ ],
+ "headings": [
+  "Amanvari, Mexico",
+  "Grand Ski Adventures",
+  "HOTELS & RESORTS",
+  "Explore the World of Aman",
+  "NOW OPEN",
+  "Amanvari, Mexico",
+  "Seasonal Experiences",
+  "Aman Villas",
+  "A Novak Djokovic Programme",
+  "In the City",
+  "Aman Japan Journey",
+  "To the Wilds",
+  "AMAN RESIDENCES",
+  "Own a Private Piece of Aman",
+  "FEATURED RESIDENCE",
+  "Aman Residences, Amansanu",
+  "The World of Aman",
+  "A Capsule Collection",
+  "Aman Gift Cards",
+  "Aman at Sea",
+  "More information",
+  "Destinations",
+  "Americas & Caribbean",
+  "Europe, Middle East & Africa",
+  "Asia"
+ ],
+ "paras": [
+  "Exuma, The Bahamas, Coming soon",
+  "Jackson Hole, USA, Reopening soon",
+  "TEXAS HILL COUNTRY, USA, COMING SOON",
+  "Set amid wild nature, Amanvari emerges where the distinct desert, mountain and ocean landscapes of Baja's East Cape converge.",
+  "Across the Aman world, discover new and noteworthy experiences that provide an authentic connection to the soul of a place.",
+  "Time together is made effortless with Aman's Villas, exclusive hideaways perfect for gathering friends and family.",
+  "Introducing a new three-day wellness programme, curated by Global Ambassador and Wellness Advisor, Novak Djokovic.",
+  "The gilded city skyline presents opportunities for cultural discovery at every turn.",
+  "Shifting from summer to autumn, Japan’s diverse landscapes transform with grace. Spanning Tokyo to Kyoto and Ise-Shima, Aman’s Japanese retreats invite new discoveries with each seasonal chapter.",
+  "Venture out of the ordinary with a stay immersed in Aman’s most remote camp and safari settings."
+ ],
+ "footer": {
+  "h": 958,
+  "text": "Get inspired To receive updates about exclusive experiences, events, new destinations and more, please register your interest. Sign Up More information Aman Group - Aman - Aman Essentials - Aman Interiors - Aman at Sea - Janu Residences Gift Card Careers Leadership Sustainability Privacy Notice Cook"
+ },
+ "jsMotion": {
+  "scriptsFetched": 21,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [],
+  "staggers": [],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

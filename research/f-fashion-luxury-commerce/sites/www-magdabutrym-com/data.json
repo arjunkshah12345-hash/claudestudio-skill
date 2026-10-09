@@ -1,0 +1,726 @@
+{
+ "url": "https://www.magdabutrym.com/",
+ "slug": "www-magdabutrym-com",
+ "analyzedAt": "2026-10-07T05:26:12.076Z",
+ "scrollHeight": 4580,
+ "pageLengthInViewports": 5.1,
+ "title": "Magda Butrym: Official Website & On-line Boutique",
+ "metaDescription": "Official luxury clothing designer ready-to-wear brand store Magda Butrym. Online Fashion Store. Luxury Designer Clothes. Luxury Fashion. Official Fashion Store.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "__fontSans_7935db 400 normal",
+   "__fontSerif_31101e 400 normal",
+   "__fontSerif_31101e 400 italic"
+  ],
+  "families": [
+   [
+    "__fontSans_7935db",
+    35
+   ],
+   [
+    "Times",
+    6
+   ],
+   [
+    "__fontSerif_31101e",
+    6
+   ]
+  ],
+  "sizes": [
+   [
+    "13px",
+    28
+   ],
+   [
+    "16px",
+    12
+   ],
+   [
+    "20px",
+    6
+   ],
+   [
+    "11px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    47
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    47
+   ]
+  ],
+  "uppercaseShare": 0,
+  "largest": [
+   {
+    "tag": "p",
+    "text": "Podhale Leather",
+    "family": "__fontSans_7935db",
+    "size": "20px",
+    "weight": "400",
+    "lh": "20px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "p",
+    "text": "Outerwear Icons",
+    "family": "__fontSans_7935db",
+    "size": "20px",
+    "weight": "400",
+    "lh": "20px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "p",
+    "text": "Romance in Form",
+    "family": "__fontSans_7935db",
+    "size": "20px",
+    "weight": "400",
+    "lh": "20px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "p",
+    "text": "Feminine Precision",
+    "family": "__fontSans_7935db",
+    "size": "20px",
+    "weight": "400",
+    "lh": "20px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "p",
+    "text": "Soft Intimacy",
+    "family": "__fontSans_7935db",
+    "size": "20px",
+    "weight": "400",
+    "lh": "20px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "p",
+    "text": "Spring/Summer 2027",
+    "family": "__fontSans_7935db",
+    "size": "20px",
+    "weight": "400",
+    "lh": "20px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "div",
+    "text": "Showing Geometric turtleneck sweater in brown",
+    "family": "Times",
+    "size": "16px",
+    "weight": "400",
+    "lh": "16px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "p",
+    "text": "Geometric turtleneck sweater in brown",
+    "family": "__fontSerif_31101e",
+    "size": "16px",
+    "weight": "400",
+    "lh": "20px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "div",
+    "text": "Showing Geometric knit shorts in brown",
+    "family": "Times",
+    "size": "16px",
+    "weight": "400",
+    "lh": "16px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "p",
+    "text": "Geometric knit shorts in brown",
+    "family": "__fontSerif_31101e",
+    "size": "16px",
+    "weight": "400",
+    "lh": "20px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "div",
+    "text": "Showing Podhale-style embroidered pointed pumps in brown leather",
+    "family": "Times",
+    "size": "16px",
+    "weight": "400",
+    "lh": "16px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "p",
+    "text": "Podhale-style embroidered pointed pumps in brown leather",
+    "family": "__fontSerif_31101e",
+    "size": "16px",
+    "weight": "400",
+    "lh": "20px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(252, 250, 247)",
+  "htmlBg": "rgb(252, 250, 247)",
+  "text": [
+   [
+    "rgb(0, 0, 0)",
+    27
+   ],
+   [
+    "rgb(255, 255, 255)",
+    19
+   ],
+   [
+    "rgb(158, 158, 158)",
+    1
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(245, 242, 237)",
+    6
+   ],
+   [
+    "rgb(255, 255, 255)",
+    2
+   ],
+   [
+    "rgb(244, 244, 244)",
+    1
+   ],
+   [
+    "rgb(252, 250, 247)",
+    1
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(rgba(0, 0, 0, 0), rgb(0, 0, 0))",
+    6
+   ],
+   [
+    "linear-gradient(0deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.3))",
+    1
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(.2,.4,.2,1)",
+    2
+   ],
+   [
+    "cubic-bezier(0.25,0.46,0.45,0.94)",
+    1
+   ]
+  ],
+  "durations": [
+   [
+    "0.3s",
+    27
+   ],
+   [
+    "0.2s",
+    13
+   ],
+   [
+    "0.1s",
+    9
+   ],
+   [
+    "0.15s",
+    4
+   ],
+   [
+    "0.6s",
+    2
+   ],
+   [
+    "1.1s",
+    1
+   ],
+   [
+    "1s",
+    1
+   ],
+   [
+    "0.8s",
+    1
+   ]
+  ],
+  "keyframes": [
+   "Notifications_fadeOut__rHzNn",
+   "Notifications_fadeIn__ymSTF",
+   "FitLoader_load8__0kTT5",
+   "VideoControlButtons_rotate__i2E_L"
+  ]
+ },
+ "cssVarSample": {},
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": true,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": true,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 15,
+  "video": 4,
+  "svg": 19,
+  "picture": 0,
+  "iframes": 2
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 0,
+  "clipPath": 8,
+  "sticky": 14,
+  "fixed": [
+   "HeaderWrap_gradient__fzAai",
+   "VideoControlButtons_fixedPlayControl__WWFSE",
+   "VideoControlButtons_fixedSoundControl__txnFy"
+  ],
+  "customCursor": true,
+  "boxShadows": [],
+  "filters": [],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "9999px",
+   4
+  ],
+  [
+   "50%",
+   1
+  ]
+ ],
+ "borders": [
+  [
+   "bottom:1px solid rgba(0, 0, 0, 0)",
+   2
+  ],
+  [
+   "2px solid rgb(255, 255, 255)",
+   2
+  ],
+  [
+   "bottom:1px solid rgb(0, 0, 0)",
+   1
+  ]
+ ],
+ "grids": [
+  [
+   "1cols gap normal",
+   47
+  ],
+  [
+   "2cols gap normal",
+   12
+  ],
+  [
+   "4cols gap 16px",
+   2
+  ],
+  [
+   "1cols gap 24px",
+   2
+  ],
+  [
+   "3cols gap normal",
+   1
+  ],
+  [
+   "6cols gap normal",
+   1
+  ],
+  [
+   "3cols gap 4px",
+   1
+  ],
+  [
+   "1cols gap 10px",
+   1
+  ]
+ ],
+ "containers": [],
+ "sideMargins": [
+  [
+   "-9827px",
+   6
+  ],
+  [
+   "644px",
+   1
+  ],
+  [
+   "284px",
+   1
+  ],
+  [
+   "998px",
+   1
+  ],
+  [
+   "272px",
+   1
+  ],
+  [
+   "1017px",
+   1
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "SectionFullscreenMediaFullBleed_root__bx21U",
+   "h": 864,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionFullscreenMediaFullBleed_grid__Fh0Zt Sectio",
+   "h": 864,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionFullscreenMediaFullBleed_item__0cx9g",
+   "h": 864,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionFullscreenMediaFullBleed_itemContentWrapper",
+   "h": 864,
+   "padTop": "48px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionFullscreenMediaFullBleed_itemContent__dRskB",
+   "h": 61,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionFullscreenMediaFullBleed_itemLabel__B5jn7",
+   "h": 20,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionFullscreenMediaFullBleed_gradient__Ip8bX",
+   "h": 349,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionFullscreenMediaFullBleed_fullCoverLinkWrap_",
+   "h": 864,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionProductsGridSlider_root_white__pffyF",
+   "h": 493,
+   "padTop": "41px",
+   "bg": "rgb(244, 244, 244)"
+  },
+  {
+   "cls": "SectionProductsGridSlider_container_white__5ZTZ_",
+   "h": 366,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionProductsGridSlider_titleBox__FZ_TO SectionP",
+   "h": 64,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionProductsGridSlider_gridBox__7hQhh SectionPr",
+   "h": 302,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionProductsGridSlider_cardWrapper_scrollable-f",
+   "h": 302,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionProductsGridSlider_cardWrapper_scrollable-f",
+   "h": 302,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionProductsGridSlider_cardWrapper_scrollable-f",
+   "h": 302,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionProductsGridSlider_cardWrapper_scrollable-f",
+   "h": 302,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionProductsGridSlider_cardWrapper_scrollable-f",
+   "h": 302,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionProductsGridSlider_cardWrapper_scrollable-f",
+   "h": 302,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionDoubleMediaFullBleed_root__ZiILg SectionDou",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionDoubleMediaFullBleed_grid__y01iC",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionDoubleMediaFullBleed_item__4mPkL SectionDou",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Media_responsiveWrap__II6hz Media_responsiveWrap_l",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionDoubleMediaFullBleed_itemContentWrapper__xN",
+   "h": 900,
+   "padTop": "48px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionDoubleMediaFullBleed_itemContent__ukxnm",
+   "h": 61,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionDoubleMediaFullBleed_itemLabel__fF1aY",
+   "h": 20,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionDoubleMediaFullBleed_gradient__a8QL7",
+   "h": 349,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionDoubleMediaFullBleed_fullCoverLinkWrap__Okx",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionDoubleMediaFullBleed_item__4mPkL SectionDou",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Media_responsiveWrap__II6hz Media_responsiveWrap_l",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionDoubleMediaFullBleed_itemContentWrapper__xN",
+   "h": 900,
+   "padTop": "48px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionDoubleMediaFullBleed_itemContent__ukxnm",
+   "h": 61,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionDoubleMediaFullBleed_itemLabel__fF1aY",
+   "h": 20,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionDoubleMediaFullBleed_gradient__a8QL7",
+   "h": 349,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionDoubleMediaFullBleed_fullCoverLinkWrap__Okx",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionDoubleMediaFullBleed_root__ZiILg SectionDou",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionDoubleMediaFullBleed_grid__y01iC",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionDoubleMediaFullBleed_item__4mPkL SectionDou",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Media_responsiveWrap__II6hz Media_responsiveWrap_l",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionDoubleMediaFullBleed_itemContentWrapper__xN",
+   "h": 900,
+   "padTop": "48px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "SectionDoubleMediaFullBleed_itemContent__ukxnm",
+   "h": 61,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "static",
+  "height": 121,
+  "links": 3,
+  "linkTexts": [
+   "Shop",
+   "US / USD",
+   "Boutique",
+   "Assistance",
+   "Bag\n0",
+   "Bag0"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [],
+ "headings": [],
+ "paras": [
+  "Geometric turtleneck sweater in brown",
+  "Podhale-style embroidered pointed pumps in brown leather",
+  "Faux fur coat with leather cape in dark brown",
+  "Straight-leg wool blend trousers in brown",
+  "Podhale-style embroidered Apolonia bag in black leather with flower charm"
+ ],
+ "footer": {
+  "h": 487,
+  "text": "About Contact Stockists Shipping Returns and Exchanges Customer Service Terms and Conditions Privacy Policy Accessibility Cookie Policy Instagram Facebook LinkedIn Newsletter ©Magda Butrym"
+ },
+ "jsMotion": {
+  "scriptsFetched": 17,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [],
+  "staggers": [],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

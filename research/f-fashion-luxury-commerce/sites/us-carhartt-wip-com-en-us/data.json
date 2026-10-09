@@ -1,0 +1,586 @@
+{
+ "url": "https://us.carhartt-wip.com/en-us",
+ "slug": "us-carhartt-wip-com-en-us",
+ "analyzedAt": "2026-10-07T09:57:32.590Z",
+ "scrollHeight": 5577,
+ "pageLengthInViewports": 6.2,
+ "title": "Carhartt WIP USA | Official Carhartt WIP Online Store",
+ "metaDescription": "The official Carhartt WIP shop brings you a comprehensive collection of durable and comfortable men's and women's clothing.\n",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "HelveticaLTPro 700 normal",
+   "HelveticaLTPro 400 normal"
+  ],
+  "families": [
+   [
+    "HelveticaLTPro",
+    180
+   ]
+  ],
+  "sizes": [
+   [
+    "14px",
+    169
+   ],
+   [
+    "32px",
+    6
+   ],
+   [
+    "20px",
+    3
+   ],
+   [
+    "48px",
+    2
+   ]
+  ],
+  "weights": [
+   [
+    "700",
+    110
+   ],
+   [
+    "400",
+    70
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    180
+   ]
+  ],
+  "uppercaseShare": 0,
+  "largest": [
+   {
+    "tag": "h1",
+    "text": "The Payson Pant",
+    "family": "HelveticaLTPro",
+    "size": "48px",
+    "weight": "700",
+    "lh": "52.8px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "h2",
+    "text": "Soft Cover",
+    "family": "HelveticaLTPro",
+    "size": "48px",
+    "weight": "700",
+    "lh": "52.8px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "h2",
+    "text": "Camo Feather Tree",
+    "family": "HelveticaLTPro",
+    "size": "32px",
+    "weight": "700",
+    "lh": "38.4px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "h2",
+    "text": "T-Shirts",
+    "family": "HelveticaLTPro",
+    "size": "32px",
+    "weight": "700",
+    "lh": "38.4px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "h2",
+    "text": "Sweats & Hoodies",
+    "family": "HelveticaLTPro",
+    "size": "32px",
+    "weight": "700",
+    "lh": "38.4px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "h2",
+    "text": "The Fall/Winter 2026 Campaign",
+    "family": "HelveticaLTPro",
+    "size": "32px",
+    "weight": "700",
+    "lh": "38.4px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "h2",
+    "text": "Women's New Arrivals",
+    "family": "HelveticaLTPro",
+    "size": "32px",
+    "weight": "700",
+    "lh": "38.4px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "h2",
+    "text": "Trending",
+    "family": "HelveticaLTPro",
+    "size": "32px",
+    "weight": "700",
+    "lh": "38.4px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "h2",
+    "text": "New Arrivals",
+    "family": "HelveticaLTPro",
+    "size": "20px",
+    "weight": "700",
+    "lh": "28px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "h2",
+    "text": "Featured",
+    "family": "HelveticaLTPro",
+    "size": "20px",
+    "weight": "700",
+    "lh": "28px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "p",
+    "text": "Signup for our Newsletter",
+    "family": "HelveticaLTPro",
+    "size": "20px",
+    "weight": "700",
+    "lh": "28px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "a",
+    "text": "Skip to main content",
+    "family": "HelveticaLTPro",
+    "size": "14px",
+    "weight": "700",
+    "lh": "19.6px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(255, 255, 255)",
+  "htmlBg": "rgb(255, 255, 255)",
+  "text": [
+   [
+    "rgb(255, 255, 255)",
+    77
+   ],
+   [
+    "rgb(0, 0, 0)",
+    56
+   ],
+   [
+    "rgb(115, 115, 115)",
+    47
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(239, 239, 239)",
+    18
+   ],
+   [
+    "rgb(0, 0, 0)",
+    6
+   ],
+   [
+    "rgb(255, 255, 255)",
+    4
+   ],
+   [
+    "rgb(243, 243, 243)",
+    2
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(rgba(0, 0, 0, 0) 20%, rgba(0, 0, 0, 0.7))",
+    7
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [],
+  "durations": [
+   [
+    "1s",
+    7
+   ],
+   [
+    "0.2s",
+    4
+   ],
+   [
+    "0.6s",
+    2
+   ],
+   [
+    "1.9s",
+    2
+   ],
+   [
+    "0.4s",
+    2
+   ],
+   [
+    "0.5s",
+    1
+   ],
+   [
+    "0s",
+    1
+   ],
+   [
+    "0.3s",
+    1
+   ]
+  ],
+  "keyframes": [
+   "appear"
+  ]
+ },
+ "cssVarSample": {},
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": true,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 188,
+  "video": 0,
+  "svg": 37,
+  "picture": 0,
+  "iframes": 1
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 0,
+  "clipPath": 4,
+  "sticky": 1,
+  "fixed": [],
+  "customCursor": false,
+  "boxShadows": [],
+  "filters": [],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "100%",
+   64
+  ],
+  [
+   "99999px",
+   3
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgb(0, 0, 0)",
+   18
+  ],
+  [
+   "1px solid rgba(0, 0, 0, 0)",
+   2
+  ],
+  [
+   "1px solid rgb(221, 221, 221)",
+   1
+  ],
+  [
+   "1px solid rgb(115, 115, 115)",
+   1
+  ]
+ ],
+ "grids": [
+  [
+   "1cols gap normal",
+   561
+  ],
+  [
+   "1cols gap 20px",
+   13
+  ],
+  [
+   "2cols gap normal",
+   3
+  ],
+  [
+   "3cols gap 40px",
+   2
+  ],
+  [
+   "65cols gap 20px",
+   2
+  ],
+  [
+   "2cols gap 10px",
+   1
+  ],
+  [
+   "6cols gap 40px",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "100%",
+   3
+  ]
+ ],
+ "sideMargins": [
+  [
+   "40px",
+   6
+  ],
+  [
+   "385px",
+   3
+  ],
+  [
+   "730px",
+   3
+  ],
+  [
+   "1075px",
+   3
+  ],
+  [
+   "529px",
+   1
+  ],
+  [
+   "118px",
+   1
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "",
+   "h": 5329,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "_root_15wt0_46 _wrap_r112b_46 _full_15wt0_69",
+   "h": 811,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "_root_15wt0_46 _wrap_clru2_46 _wide_15wt0_49 _veri",
+   "h": 716,
+   "padTop": "40px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "_root_15wt0_46 _wrap_yp364_46 _full_15wt0_69",
+   "h": 630,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "_root_15wt0_46 _wrap_r112b_46 _full_15wt0_69",
+   "h": 810,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "_root_15wt0_46 _wrap_clru2_46 _wide_15wt0_49 _veri",
+   "h": 716,
+   "padTop": "40px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "_root_15wt0_46 _doubleTeaserWrap_129th_58 _full_15",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "_teaserSubsectionForDouble_1w7mx_58",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "_teaserSubsectionForDouble_1w7mx_58",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "_root_15wt0_46 _wrap_19j3s_46 _wide_15wt0_49",
+   "h": 746,
+   "padTop": "40px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "absolute",
+  "height": 60,
+  "links": 60,
+  "linkTexts": [
+   "Bag",
+   "Recommended for You",
+   "Editorials",
+   "Men",
+   "Women",
+   "Accessories",
+   "Lookbook",
+   "Editorials",
+   "Stores",
+   "Sign Up",
+   "Log In",
+   "New Arrivals",
+   "Featured",
+   "Best Sellers"
+  ],
+  "bg": "rgb(255, 255, 255)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "Skip to main content",
+   "bg": "rgb(0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "0px",
+   "pad": "0px 20px",
+   "size": "14px",
+   "weight": "700",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 50
+  },
+  {
+   "text": "Subscribe",
+   "bg": "rgb(0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "0px",
+   "pad": "0px 20px",
+   "size": "14px",
+   "weight": "700",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 50
+  }
+ ],
+ "headings": [
+  "The Payson Pant",
+  "New Arrivals",
+  "Stanwood Jacket",
+  "Stanwood Jacket",
+  "Limn C Beanie",
+  "Limn C Beanie",
+  "OG Madison Shirt",
+  "OG Madison Shirt",
+  "Landon Pant - Corduroy",
+  "Landon Pant - Corduroy",
+  "Camo Feather Tree",
+  "T-Shirts",
+  "Sweats & Hoodies",
+  "Soft Cover",
+  "Featured",
+  "Hooded Vista Sweatshirt",
+  "Hooded Vista Sweatshirt",
+  "Single Knee Pant",
+  "Single Knee Pant",
+  "Cobrin Check Hooded Shirt Jacket",
+  "Cobrin Check Hooded Shirt Jacket",
+  "Madison Shirt - Corduroy",
+  "Madison Shirt - Corduroy",
+  "The Fall/Winter 2026 Campaign",
+  "Women's New Arrivals"
+ ],
+ "paras": [
+  "By signing up, you agree to our Terms & Conditions. More information in our Privacy Policy."
+ ],
+ "footer": {
+  "h": 426,
+  "text": "Signup for our Newsletter Subscribe Menswear Womenswear By signing up, you agree to our Terms & Conditions. More information in our Privacy Policy. Customer Support Contact Shipping Returns & Exchanges Start a Return FAQs Gift Card Company History Brands Sustainability Stockists Careers carhartt.com"
+ },
+ "jsMotion": {
+  "scriptsFetched": 18,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "0",
+    1
+   ]
+  ],
+  "staggers": [],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

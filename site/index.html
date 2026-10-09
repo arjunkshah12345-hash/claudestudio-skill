@@ -1,0 +1,329 @@
+<!doctype html>
+<!--
+DESIGN SPINE: claudestudio, the website for the skill
+DIRECTION   : 2 Ledger Light. The audience is developers who run coding agents; they scan, copy one command and leave. Borrows one move from Editorial Motion (a 1–2 word display at poster scale).
+REGISTER    : Confident. The bold device is the redline: the page measures its own type live and draws the dimensions in red, because the skill is "taste, measured".
+AXES        : ground near-white cool #FCFCFB (not warm paper) · type genre characterful grotesk with optical sizes (Bricolage Grotesque) · image medium the work itself (nine sites built by agents using the skill) + live measurements · composition editorial asymmetric with a colour-block specimen stack · motion feel instrumental (dimension lines draw, counters, decode)
+DEFAULT?    : 3/6 (ink at 400 · mono labels for measurements · one accent) → DIFFERENT FROM DEFAULT BY: ground (cool white), image medium (real builds, not a line drawing), composition (colour-block specimen stack, collage of work)
+MOTIF       : the redline. 1) hero h1 annotated live (size, leading, tracking, width) · 2) each example card's measured display spec · 3) the slop values struck through in the comparison · 4) the method's audit output · 5) the footer ruler with the live viewport width
+TYPE        : display Bricolage Grotesque 400 opsz 96 · text Bricolage Grotesque 400 opsz 14 · measurements JetBrains Mono 400 · specimen second voice Newsreader (directions only)
+SCALE       : word 200px/.86/−.055em · h2 56px/1.02/−.035em · body 17px · label 11px mono +.04em
+PALETTE     : paper #FCFCFB · ink #121211 (tiers by opacity) · redline #E8321F lines, #C42617 text; used ONLY on measurements and the strike-through
+GRID        : 12 / 24px · container 1320 · margin 40px · sections 120–160px
+HERO        : H4-ish one phrase at poster scale, annotated; lede + install command bottom-right
+IMAGERY     : nine example builds (screenshots, desktop + phone) linking to the live pages
+CONVERSION  : copy the install command (hero, finale); GitHub as the secondary everywhere
+MOTION      : house ease cubic-bezier(.16,1,.3,1) · UI 160ms · reveal 850ms blur-in · redlines draw 700ms staggered
+SIGNATURES  : live redline annotation · colour-block direction specimens · scroll-spy method with a real audit
+VOICE       : "Taste, measured." / "The difference is measurable." / "Stop shipping the purple gradient."
+-->
+<html lang="en" class="no-js">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>claudestudio: an agent skill for web design, measured from 99 studio sites</title>
+<meta name="description" content="An agent skill that makes Claude Code, Codex and Cursor design websites like top studios. Every rule is measured from 99 live sites. Install with npx skills add.">
+<meta property="og:title" content="claudestudio: taste, measured">
+<meta property="og:description" content="An agent skill for web design, built from measured teardowns of 99 live studio sites.">
+<meta property="og:image" content="shots/og.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#FCFCFB">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%23121211'/%3E%3Cpath d='M7 9h18M7 7v4M25 7v4' stroke='%23E8321F' stroke-width='1.6'/%3E%3Ctext x='16' y='26' font-family='Georgia' font-size='14' fill='%23FCFCFB' text-anchor='middle'%3ECs%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wdth,wght@12..96,75..100,300..600&family=JetBrains+Mono:wght@400;500&family=Newsreader:ital,opsz,wght@0,6..72,300..400;1,6..72,300..400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="tokens.css">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<a class="skip btn btn--primary" href="#main">Skip to content</a>
+
+<header class="nav" data-nav>
+  <div class="nav-in">
+    <a class="brand" href="#top" aria-label="claudestudio home">
+      <svg class="brand-mark" viewBox="0 0 20 20" aria-hidden="true"><path d="M2 5h16M2 3v4M18 3v4" stroke="currentColor" stroke-width="1.4" fill="none"/><rect x="2" y="10" width="16" height="7" rx="1" fill="currentColor"/></svg>
+      claudestudio
+    </a>
+    <nav class="nav-links" aria-label="Primary">
+      <a href="#work">Examples</a>
+      <a href="#method">Method</a>
+      <a href="#directions">Directions</a>
+      <a href="#evidence">Evidence</a>
+    </nav>
+    <div class="nav-end">
+      <a class="nav-gh" href="https://github.com/arjunkshah12345-hash/claudestudio-skill">GitHub <span aria-hidden="true">↗</span></a>
+      <button class="btn btn--primary btn--sm" type="button" data-copy="npx skills add arjunkshah12345-hash/claudestudio-skill">Copy install</button>
+    </div>
+  </div>
+</header>
+
+<main id="main">
+
+<!-- ======================================== HERO -->
+<section class="hero" id="top">
+  <div class="container">
+    <p class="hero-kicker t-label"><span>an agent skill for web design</span><span>v1.0 · MIT · 99 sites measured</span></p>
+    <div class="h1-wrap" data-redline-host>
+      <h1 class="t-word hero-h1" data-redline data-reveal>Taste,<i class="bl"></i><br>measured.<i class="bl"></i></h1>
+      <div class="redlines" aria-hidden="true" data-redlines></div>
+    </div>
+    <div class="hero-foot">
+      <p class="t-lead hero-lede">claudestudio teaches coding agents to design websites like the studios that win. Every rule in it was measured from 99 live sites, not lifted from a mood&nbsp;board.</p>
+      <div class="hero-act">
+        <div class="cmd" data-reveal>
+          <span class="cmd-prompt" aria-hidden="true">$</span>
+          <code>npx skills add arjunkshah12345-hash/claudestudio-skill</code>
+          <button type="button" class="cmd-copy" data-copy="npx skills add arjunkshah12345-hash/claudestudio-skill">Copy</button>
+        </div>
+        <p class="hero-meta t-small dim">Works with Claude Code, Codex, Cursor, OpenCode and the other agents <a class="link" href="https://skills.sh">skills.sh</a> supports. <a class="link" href="https://github.com/arjunkshah12345-hash/claudestudio-skill/blob/main/skills/claudestudio/SKILL.md">Read SKILL.md ↗</a></p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ======================================== FILM -->
+<section class="film" aria-label="Launch film" data-film hidden>
+  <div class="container">
+    <figure class="film-frame">
+      <video data-film-video playsinline muted loop preload="metadata" poster="film/poster.jpg">
+        <source src="film/claudestudio-launch.mp4" type="video/mp4">
+      </video>
+      <button class="film-toggle" type="button" data-film-toggle aria-label="Play launch film">Play film <span aria-hidden="true">▶</span></button>
+      <figcaption class="t-label"><span>Launch film · 0:40</span><span>Made with HyperFrames</span></figcaption>
+    </figure>
+  </div>
+</section>
+
+<!-- ======================================== WORK -->
+<section class="work" id="work" aria-labelledby="work-h">
+  <div class="container">
+    <div class="sec-head">
+      <p class="t-label sec-num">// 01 examples</p>
+      <h2 class="t-h2" id="work-h" data-reveal>Nine briefs, nine directions. <span class="dim">Each site was built by a fresh agent with only the skill loaded, then audited by the skill’s own script.</span></h2>
+    </div>
+
+    <div class="wall">
+      <a class="card c-a" href="examples/relay/" target="_blank" rel="noopener">
+        <div class="media"><figure class="shot"><img src="shots/relay-hero.webp" alt="Relay: a dark developer-tool site with a code review shown in a rebuilt pull request" width="1200" height="750" loading="lazy"></figure>
+        <figure class="phone"><img src="shots/relay-mobile.webp" alt="" width="390" height="844" loading="lazy"></figure></div>
+        <div class="card-cap"><p><b>Relay</b> <span class="dim">AI code review</span></p><p class="t-label dim">Engineered Dark · Confident</p></div>
+        <p class="spec" data-spec="relay">Inter 510 · 67px · −0.028em</p>
+      </a>
+      <a class="card c-b" href="examples/halden/" target="_blank" rel="noopener">
+        <div class="media"><figure class="shot"><img src="shots/halden-hero.webp" alt="Halden: a fjord hotel site with a monumental serif wordmark and a booking bar" width="1200" height="750" loading="lazy"></figure></div>
+        <div class="card-cap"><p><b>Halden</b> <span class="dim">Fjord hotel</span></p><p class="t-label dim">Cinematic Place · Quiet</p></div>
+        <p class="spec" data-spec="halden">Fraunces 300 · 81px · −0.03em</p>
+      </a>
+      <a class="card c-c" href="examples/sprout/" target="_blank" rel="noopener">
+        <div class="media"><figure class="shot"><img src="shots/sprout-hero.webp" alt="Sprout: a pink plant-care app site with a cast of plant characters" width="1200" height="750" loading="lazy"></figure>
+        <figure class="phone"><img src="shots/sprout-mobile.webp" alt="" width="390" height="844" loading="lazy"></figure></div>
+        <div class="card-cap"><p><b>Sprout</b> <span class="dim">Plant-care app</span></p><p class="t-label dim">Playful System · Loud</p></div>
+        <p class="spec" data-spec="sprout">Fredoka 600 · 347px · −0.05em</p>
+      </a>
+      <a class="card c-d" href="examples/kestrel/" target="_blank" rel="noopener">
+        <div class="media"><figure class="shot"><img src="shots/kestrel-hero.webp" alt="Kestrel: a wind-turbine inspection drone site with an annotated blade drawing" width="1200" height="750" loading="lazy"></figure></div>
+        <div class="card-cap"><p><b>Kestrel</b> <span class="dim">Blade inspection</span></p><p class="t-label dim">Deep-Tech Spec · Quiet</p></div>
+        <p class="spec" data-spec="kestrel">Inter Tight 400 · 120px · −0.06em</p>
+      </a>
+      <a class="card c-e" href="examples/nocturne/" target="_blank" rel="noopener">
+        <div class="media"><figure class="shot"><img src="shots/nocturne-hero.webp" alt="Nocturne: a music festival site with condensed poster type and colour bands per stage" width="1200" height="750" loading="lazy"></figure>
+        <figure class="phone"><img src="shots/nocturne-mobile.webp" alt="" width="390" height="844" loading="lazy"></figure></div>
+        <div class="card-cap"><p><b>Nocturne</b> <span class="dim">Music festival</span></p><p class="t-label dim">Institutional · Loud</p></div>
+        <p class="spec" data-spec="nocturne">Big Shoulders 800 · 152px · −0.01em</p>
+      </a>
+      <a class="card c-f" href="examples/ostra/" target="_blank" rel="noopener">
+        <div class="media"><figure class="shot"><img src="shots/ostra-hero.webp" alt="Ostra: a quiet fragrance shop with four vials drawn as a specimen set" width="1200" height="750" loading="lazy"></figure></div>
+        <div class="card-cap"><p><b>Ostra</b> <span class="dim">Perfume house</span></p><p class="t-label dim">Quiet Luxury · Quiet</p></div>
+        <p class="spec" data-spec="ostra">Newsreader 300 · 56px · −0.02em</p>
+      </a>
+      <a class="card c-g" href="examples/tally/" target="_blank" rel="noopener">
+        <div class="media"><figure class="shot"><img src="shots/tally-hero.webp" alt="Tally: a contractor-payments API site on a cobalt band with a payout card" width="1200" height="750" loading="lazy"></figure></div>
+        <div class="card-cap"><p><b>Tally</b> <span class="dim">Payments API</span></p><p class="t-label dim">Ledger Light · Confident</p></div>
+        <p class="spec" data-spec="tally">Hanken Grotesk 500 · 216px · −0.06em</p>
+      </a>
+      <a class="card c-h" href="examples/fieldwork/" target="_blank" rel="noopener">
+        <div class="media"><figure class="shot"><img src="shots/fieldwork-hero.webp" alt="Fieldwork: a landscape architecture studio site built from cut-paper models" width="1200" height="750" loading="lazy"></figure></div>
+        <div class="card-cap"><p><b>Fieldwork</b> <span class="dim">Landscape studio</span></p><p class="t-label dim">Editorial Motion · Confident</p></div>
+        <p class="spec" data-spec="fieldwork">Archivo 500 · 148px · −0.05em</p>
+      </a>
+      <a class="card c-i" href="examples/week-twelve/" target="_blank" rel="noopener">
+        <div class="media"><figure class="shot"><img src="shots/week-twelve-hero.webp" alt="Week Twelve: a design studio site whose hero is a client index in condensed capitals" width="1200" height="750" loading="lazy"></figure>
+        <figure class="phone"><img src="shots/week-twelve-mobile.webp" alt="" width="390" height="844" loading="lazy"></figure></div>
+        <div class="card-cap"><p><b>Week Twelve</b> <span class="dim">Studio for YC companies</span></p><p class="t-label dim">Editorial Motion · Loud</p></div>
+        <p class="spec" data-spec="week-twelve">Archivo 600 · 174px · −0.01em</p>
+      </a>
+    </div>
+    <p class="wall-note t-small dim">Red labels show each site’s largest text as the audit measured it. Every example is live: click through, resize it, read the source. All nine audit at 0 fail.</p>
+  </div>
+</section>
+
+<!-- ======================================== DIFFERENCE -->
+<section class="diff" aria-labelledby="diff-h">
+  <div class="container">
+    <div class="sec-head">
+      <p class="t-label sec-num">// 02 the gap</p>
+      <h2 class="t-h2" id="diff-h" data-reveal>The difference is measurable. <span class="dim">Agents ship the left column by default. The studios we measured ship the right.</span></h2>
+    </div>
+    <div class="table" role="table" aria-label="Agent defaults compared with measured studio values">
+      <div class="tr th" role="row"><span role="columnheader">Property</span><span role="columnheader">Agent default</span><span role="columnheader">Measured on studio sites</span></div>
+      <div class="tr" role="row"><span role="rowheader">Display weight</span><span class="slop" role="cell">700–800</span><span role="cell">300–510 <i class="dim">Stripe 300 · Linear 510</i></span></div>
+      <div class="tr" role="row"><span role="rowheader">Display tracking</span><span class="slop" role="cell">0em</span><span role="cell">−0.022em at 64px <i class="dim">53 of 94 sites go negative</i></span></div>
+      <div class="tr" role="row"><span role="rowheader">Words in the h1</span><span class="slop" role="cell">11</span><span role="cell">4 <i class="dim">median, p90 is 9</i></span></div>
+      <div class="tr" role="row"><span role="rowheader">Accent colours</span><span class="slop" role="cell">4–6</span><span role="cell">1, under 5% of pixels <i class="dim">Factory: 3 text nodes</i></span></div>
+      <div class="tr" role="row"><span role="rowheader">Hero buttons</span><span class="slop" role="cell">3, equally loud</span><span role="cell">2 at most <i class="dim">solid + ghost</i></span></div>
+      <div class="tr" role="row"><span role="rowheader">Body colour</span><span class="slop" role="cell">#000 on #FFF</span><span role="cell">#171717 on #FAFAFA <i class="dim">tinted, never pure</i></span></div>
+      <div class="tr" role="row"><span role="rowheader">Reveal</span><span class="slop" role="cell">fade up 40px, ease</span><span role="cell">blur-in ≤12px, (.16, 1, .3, 1) <i class="dim">0.8s, the most common</i></span></div>
+      <div class="tr" role="row"><span role="rowheader">Features</span><span class="slop" role="cell">3 icon cards</span><span role="cell">chapters with real media <i class="dim">0 of 99 use icon tiles</i></span></div>
+    </div>
+  </div>
+</section>
+
+<!-- ======================================== METHOD -->
+<section class="method" id="method" aria-labelledby="method-h">
+  <div class="container">
+    <div class="sec-head">
+      <p class="t-label sec-num">// 03 method</p>
+      <h2 class="t-h2" id="method-h" data-reveal>Six steps, in order. <span class="dim">The agent writes a design spine before any code and audits its own screenshots before it says done.</span></h2>
+    </div>
+    <div class="steps" data-spy="#step-list">
+      <ol class="step-list" id="step-list">
+        <li data-spy-item="s1"><a href="#s1"><span class="t-label">01</span>Choose a direction</a></li>
+        <li data-spy-item="s2"><a href="#s2"><span class="t-label">02</span>Write the spine</a></li>
+        <li data-spy-item="s3"><a href="#s3"><span class="t-label">03</span>Tokens first</a></li>
+        <li data-spy-item="s4"><a href="#s4"><span class="t-label">04</span>Compose, don’t fill</a></li>
+        <li data-spy-item="s5"><a href="#s5"><span class="t-label">05</span>Craft pass</a></li>
+        <li data-spy-item="s6"><a href="#s6"><span class="t-label">06</span>Audit and look</a></li>
+      </ol>
+      <div class="step-panels">
+        <article class="panel" id="s1" data-spy-panel="s1">
+          <h3 class="t-h3">One of ten directions, at one of three volumes.</h3>
+          <p class="dim">Engineered Dark, Ledger Light, Warm Paper and seven more, each a full recipe of tokens, fonts, hero and section order. Then a register (Quiet, Confident or Loud) and five range axes, so two sites from the same skill never look alike.</p>
+          <div class="chips"><span>ground</span><span>type genre</span><span>image medium</span><span>composition</span><span>motion feel</span></div>
+        </article>
+        <article class="panel" id="s2" data-spy-panel="s2">
+          <h3 class="t-h3">Fourteen lines, before a single div.</h3>
+          <pre class="code" tabindex="0"><span class="k">DIRECTION</span>  6 Cinematic Place, the fjord is the hero
+<span class="k">REGISTER</span>   Quiet, space does the work
+<span class="k">TYPE</span>       Fraunces 250 · Inter Tight 400 · Plex Mono
+<span class="k">PALETTE</span>    paper #F3F1EC · ink #1F2A44 · accent #B8432F
+<span class="k">HERO</span>       H5 monumental word over the subject
+<span class="k">MOTION</span>     (.16,1,.3,1) · UI 200ms · reveal 900ms
+<span class="k">VOICE</span>      “Fourteen rooms. One fjord.”</pre>
+        </article>
+        <article class="panel" id="s3" data-spy-panel="s3">
+          <h3 class="t-h3">Every value comes from a token.</h3>
+          <p class="dim">A starter <code>tokens.css</code> with a fluid type scale, text-style bundles, a spacing ladder, one house ease and reduced motion built in. Plus <code>motion.js</code>: reveals, split text, tickers, letter-roll and scroll-spy, with no dependencies.</p>
+          <pre class="code" tabindex="0">--display: clamp(2.5rem, 1.3rem + 3.2vw, 4.5rem);
+--display-ls: -0.03em;  --display-wt: 500;
+--ease: cubic-bezier(.16, 1, .3, 1);
+--t-ui: 240ms;  --t-reveal: 850ms;</pre>
+        </article>
+        <article class="panel" id="s4" data-spy-panel="s4">
+          <h3 class="t-h3">15 hero archetypes. 22 section patterns. 60 techniques.</h3>
+          <p class="dim">Each one traced to a live site: the index as hero, the monumental word, the product rebuilt in HTML, sticky stacking cards, the live ticker. The agent picks two or three and builds one motif through all of them.</p>
+        </article>
+        <article class="panel" id="s5" data-spy-panel="s5">
+          <h3 class="t-h3">Craft lives in the boring places.</h3>
+          <ul class="checks">
+            <li>Tracking scales with size, labels go positive</li>
+            <li>Two-tone headings, one ink at two opacities</li>
+            <li>One radius camp, optical button padding</li>
+            <li>Mobile recomposed at 390px, not shrunk</li>
+            <li>A live clock, a status line, a designed 404</li>
+          </ul>
+        </article>
+        <article class="panel" id="s6" data-spy-panel="s6">
+          <h3 class="t-h3">A script that measures the build like we measured the studios.</h3>
+          <div class="term" role="img" aria-label="Audit output: 0 fail, 0 warn, 9 pass">
+            <p class="dim">$ node scripts/audit.mjs ./index.html</p>
+            <p><b class="ok">✔ PASS</b> type.families <span class="dim">2 families</span></p>
+            <p><b class="ok">✔ PASS</b> type.display <span class="dim">174px · lh 0.84 · −0.01em</span></p>
+            <p><b class="ok">✔ PASS</b> style.defaultLook <span class="dim">1/6 traits</span></p>
+            <p><b class="ok">✔ PASS</b> color.accent <span class="dim">one hue logic</span></p>
+            <p><b class="ok">✔ PASS</b> hero.ctas <span class="dim">2</span></p>
+            <p><b class="ok">✔ PASS</b> a11y.contrast · mobile.overflow</p>
+            <p class="term-sum">0 fail · 0 warn · 9 pass <span class="dim">· screenshots → ./audit</span></p>
+          </div>
+        </article>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ======================================== DIRECTIONS (specimen stack) -->
+<section class="dirs" id="directions" aria-labelledby="dirs-h">
+  <div class="container">
+    <div class="sec-head">
+      <p class="t-label sec-num">// 04 directions</p>
+      <h2 class="t-h2" id="dirs-h" data-reveal>Ten systems, each measured from the sites that define it. <span class="dim">Set here in their own type and colour.</span></h2>
+    </div>
+  </div>
+  <ol class="specimens">
+    <li class="sp sp-1"><div class="container sp-in"><span class="t-label">01</span><p class="sp-name">Engineered Dark</p><p class="sp-use">Dev tools, AI agents</p><p class="sp-ex t-label">Linear · Raycast · Resend</p></div></li>
+    <li class="sp sp-2"><div class="container sp-in"><span class="t-label">02</span><p class="sp-name">Ledger Light</p><p class="sp-use">B2B SaaS, fintech, APIs</p><p class="sp-ex t-label">Stripe · Vercel · Mintlify</p></div></li>
+    <li class="sp sp-3"><div class="container sp-in"><span class="t-label">03</span><p class="sp-name">Warm <em>Paper</em></p><p class="sp-use">AI labs, founder-led tools</p><p class="sp-ex t-label">Anthropic · Cursor · Daylight</p></div></li>
+    <li class="sp sp-4"><div class="container sp-in"><span class="t-label">04</span><p class="sp-name">Editorial Motion</p><p class="sp-use">Studios, architecture</p><p class="sp-ex t-label">Studio D · Populous</p></div></li>
+    <li class="sp sp-5"><div class="container sp-in"><span class="t-label">05</span><p class="sp-name">Quiet Luxury Commerce</p><p class="sp-use">Fashion, fragrance, objects</p><p class="sp-ex t-label">Aesop · Totême · Aman</p></div></li>
+    <li class="sp sp-6"><div class="container sp-in"><span class="t-label">06</span><p class="sp-name">CINEMATIC PLACE</p><p class="sp-use">Hospitality, travel</p><p class="sp-ex t-label">White Desert · ERA</p></div></li>
+    <li class="sp sp-7"><div class="container sp-in"><span class="t-label">07</span><p class="sp-name">Institutional</p><p class="sp-use">Museums, foundations, civic</p><p class="sp-ex t-label">AIC · Obama · Norton</p></div></li>
+    <li class="sp sp-8"><div class="container sp-in"><span class="t-label">08</span><p class="sp-name">DEEP-TECH SPEC</p><p class="sp-use">Robotics, aerospace, climate</p><p class="sp-ex t-label">Terminal · Vast · Radian</p></div></li>
+    <li class="sp sp-9"><div class="container sp-in"><span class="t-label">09</span><p class="sp-name">Playful System</p><p class="sp-use">Consumer apps, community</p><p class="sp-ex t-label">Family · MindMarket</p></div></li>
+    <li class="sp sp-10"><div class="container sp-in"><span class="t-label">10</span><p class="sp-name">Immersive</p><p class="sp-use">Launches, campaigns</p><p class="sp-ex t-label">Lusion · Unseen · 14islands</p></div></li>
+  </ol>
+</section>
+
+<!-- ======================================== EVIDENCE -->
+<section class="evidence" id="evidence" aria-labelledby="ev-h">
+  <div class="container">
+    <div class="sec-head">
+      <p class="t-label sec-num">// 05 evidence</p>
+      <h2 class="t-h2" id="ev-h" data-reveal>We measured the work, not the agency homepages.</h2>
+    </div>
+    <dl class="stats">
+      <div><dt class="t-label dim">Live sites loaded, scrolled and read</dt><dd class="t-num" data-count="99">99</dd></div>
+      <div><dt class="t-label dim">Studios and in-house teams</dt><dd class="t-num" data-count="40">40</dd></div>
+      <div><dt class="t-label dim">Elements read per page</dt><dd class="t-num" data-count="6000">6,000</dd></div>
+      <div><dt class="t-label dim">AI tells, each with its fix</dt><dd class="t-num" data-count="38">38</dd></div>
+    </dl>
+    <p class="credits">
+      <b>basement.studio</b> <span class="dim">Factory, Mintlify, Daylight, Baseten</span> · <b>Work &amp; Co</b> <span class="dim">Aesop, Obama.org, Steve Jobs Archive</span> · <b>AREA 17</b> <span class="dim">Art Institute of Chicago, Pentagram, ElevenLabs</span> · <b>Exo Ape</b> <span class="dim">Studio D, Inversa</span> · <b>Locomotive</b> <span class="dim">Populous, The Drake, Scout</span> · <b>Lusion</b> <span class="dim">Atlas, Oryzo</span> · <b>Immersive Garden</b> <span class="dim">David Whyte</span> · <b>Unseen</b> <span class="dim">illoca, Symphony of Vines</span> · <b>Instrument</b> <span class="dim">Oura, AlphaSense</span> · <b>Malvah</b> <span class="dim">White Desert</span> · <b>OFF+BRAND</b> <span class="dim">Lando Norris</span> · <b>Rejouice</b> <span class="dim">Terminal, ICOMAT</span> · <b>in-house</b> <span class="dim">Linear, Stripe, Vercel, Raycast, Apple</span> · <span class="dim">and 27 more</span>
+    </p>
+    <p class="ev-note t-small dim">Each site loaded in headless Chrome at 1440 and 390px, scrolled with real wheel events, and mined for computed type, colour, layout, eases, springs and Lenis settings. The raw notes and data are <a class="link" href="https://github.com/arjunkshah12345-hash/claudestudio-skill/tree/main/research">in the repo</a>.</p>
+  </div>
+</section>
+
+<!-- ======================================== FINALE -->
+<section class="finale" aria-labelledby="fin-h">
+  <div class="container">
+    <h2 class="finale-h" id="fin-h">Stop shipping the purple&nbsp;gradient.</h2>
+    <div class="finale-row">
+      <div class="cmd cmd--dark">
+        <span class="cmd-prompt" aria-hidden="true">$</span>
+        <code>npx skills add arjunkshah12345-hash/claudestudio-skill</code>
+        <button type="button" class="cmd-copy" data-copy="npx skills add arjunkshah12345-hash/claudestudio-skill">Copy</button>
+      </div>
+      <a class="btn btn--ghost" href="https://github.com/arjunkshah12345-hash/claudestudio-skill">Star on GitHub <span class="arr" aria-hidden="true">↗</span></a>
+    </div>
+    <p class="t-small dim">Then ask your agent for a website the way you normally would. It will write a spine, build tokens first, and audit itself.</p>
+  </div>
+</section>
+</main>
+
+<footer class="foot">
+  <div class="ruler" aria-hidden="true"><span class="ruler-w t-label" data-vw>1440px</span></div>
+  <div class="container foot-in">
+    <p class="brand">claudestudio</p>
+    <nav aria-label="Footer">
+      <a href="https://github.com/arjunkshah12345-hash/claudestudio-skill">GitHub</a>
+      <a href="https://skills.sh">skills.sh</a>
+      <a href="https://github.com/arjunkshah12345-hash/claudestudio-skill/blob/main/LICENSE">MIT License</a>
+      <a href="https://github.com/arjunkshah12345-hash/motion-director-skill">motion-director, the sister skill</a>
+    </nav>
+    <p class="t-small dim">This page was built with claudestudio and passes its own audit.</p>
+  </div>
+</footer>
+
+<div class="toast t-small" role="status" aria-live="polite" data-toast></div>
+<script type="module" src="app.js"></script>
+</body>
+</html>

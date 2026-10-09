@@ -1,0 +1,1001 @@
+{
+ "url": "https://time.com/",
+ "slug": "time-com",
+ "analyzedAt": "2026-10-07T05:21:57.885Z",
+ "scrollHeight": 14149,
+ "pageLengthInViewports": 15.7,
+ "title": "TIME | Current & Breaking News | National & World Updates",
+ "metaDescription": "Breaking news and analysis from time.com. Politics, world news, photos, video, tech reviews, health, science, and entertainment news.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "Graphik 400 normal",
+   "Graphik 600 normal",
+   "Graphik Fallback normal normal",
+   "ppEditorialNew 500 normal",
+   "ppEditorialNew Fallback normal normal",
+   "graphikCompact 400 normal",
+   "graphikCompact Fallback normal normal"
+  ],
+  "families": [
+   [
+    "graphikCompact",
+    131
+   ],
+   [
+    "Graphik",
+    94
+   ],
+   [
+    "ppEditorialNew",
+    64
+   ]
+  ],
+  "sizes": [
+   [
+    "14px",
+    120
+   ],
+   [
+    "16px",
+    57
+   ],
+   [
+    "12px",
+    38
+   ],
+   [
+    "24px",
+    16
+   ],
+   [
+    "18px",
+    16
+   ],
+   [
+    "20px",
+    13
+   ],
+   [
+    "40px",
+    9
+   ],
+   [
+    "32px",
+    7
+   ],
+   [
+    "64px",
+    7
+   ],
+   [
+    "48px",
+    3
+   ],
+   [
+    "10px",
+    3
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    186
+   ],
+   [
+    "500",
+    64
+   ],
+   [
+    "600",
+    38
+   ],
+   [
+    "700",
+    1
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    285
+   ],
+   [
+    "0.100em@14",
+    4
+   ]
+  ],
+  "uppercaseShare": 0.26,
+  "largest": [
+   {
+    "tag": "h2",
+    "text": "The Latest Covers",
+    "family": "Graphik",
+    "size": "64px",
+    "weight": "400",
+    "lh": "89.6px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "h2",
+    "text": "People",
+    "family": "Graphik",
+    "size": "64px",
+    "weight": "400",
+    "lh": "89.6px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(27, 27, 27)"
+   },
+   {
+    "tag": "h2",
+    "text": "Ideas",
+    "family": "Graphik",
+    "size": "64px",
+    "weight": "400",
+    "lh": "89.6px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(27, 27, 27)"
+   },
+   {
+    "tag": "h2",
+    "text": "Health",
+    "family": "graphikCompact",
+    "size": "64px",
+    "weight": "400",
+    "lh": "89.6px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(27, 27, 27)"
+   },
+   {
+    "tag": "h2",
+    "text": "Entertainment",
+    "family": "graphikCompact",
+    "size": "64px",
+    "weight": "400",
+    "lh": "89.6px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(27, 27, 27)"
+   },
+   {
+    "tag": "h2",
+    "text": "AI",
+    "family": "graphikCompact",
+    "size": "64px",
+    "weight": "400",
+    "lh": "89.6px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(27, 27, 27)"
+   },
+   {
+    "tag": "h2",
+    "text": "Climate",
+    "family": "graphikCompact",
+    "size": "64px",
+    "weight": "400",
+    "lh": "89.6px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(27, 27, 27)"
+   },
+   {
+    "tag": "span",
+    "text": "Pressure Mounts on Cornell to Explain Its Handling of Sexual Assault Allegations",
+    "family": "ppEditorialNew",
+    "size": "48px",
+    "weight": "500",
+    "lh": "52.8px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(27, 27, 27)"
+   },
+   {
+    "tag": "div",
+    "text": "TIME100 Next 2026",
+    "family": "ppEditorialNew",
+    "size": "48px",
+    "weight": "500",
+    "lh": "52.8px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "span",
+    "text": "Photos Show Scenes of Unrest as French Student Protest Goes Nationwide",
+    "family": "ppEditorialNew",
+    "size": "40px",
+    "weight": "500",
+    "lh": "44px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(27, 27, 27)"
+   },
+   {
+    "tag": "a",
+    "text": "Raye",
+    "family": "ppEditorialNew",
+    "size": "40px",
+    "weight": "500",
+    "lh": "44px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(27, 27, 27)"
+   },
+   {
+    "tag": "a",
+    "text": "Druski",
+    "family": "ppEditorialNew",
+    "size": "40px",
+    "weight": "500",
+    "lh": "44px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(27, 27, 27)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgba(0, 0, 0, 0)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(27, 27, 27)",
+    119
+   ],
+   [
+    "rgb(89, 77, 70)",
+    75
+   ],
+   [
+    "rgb(255, 252, 248)",
+    52
+   ],
+   [
+    "rgb(255, 255, 255)",
+    11
+   ],
+   [
+    "rgb(139, 113, 98)",
+    9
+   ],
+   [
+    "rgb(209, 197, 190)",
+    8
+   ],
+   [
+    "rgb(0, 0, 0)",
+    7
+   ],
+   [
+    "rgb(231, 19, 26)",
+    4
+   ],
+   [
+    "rgb(55, 65, 81)",
+    2
+   ],
+   [
+    "rgb(107, 114, 128)",
+    1
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgba(255, 255, 255, 0)",
+    68
+   ],
+   [
+    "rgb(255, 252, 248)",
+    17
+   ],
+   [
+    "rgb(0, 0, 0)",
+    11
+   ],
+   [
+    "rgb(239, 227, 220)",
+    9
+   ],
+   [
+    "rgb(27, 27, 27)",
+    9
+   ],
+   [
+    "rgb(252, 243, 237)",
+    8
+   ],
+   [
+    "rgb(255, 255, 255)",
+    5
+   ],
+   [
+    "rgb(244, 240, 235)",
+    4
+   ],
+   [
+    "rgb(239, 68, 68)",
+    2
+   ],
+   [
+    "rgb(231, 19, 26)",
+    2
+   ],
+   [
+    "rgba(255, 255, 255, 0.85)",
+    1
+   ]
+  ],
+  "gradients": [
+   [
+    "conic-gradient(from 1107.5deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 10%, rgb(255, 0, 0) 40%, rgb(0, 0, 0) 60%, rgb(255, 0, 0) 80%, rgba(0, ",
+    1
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.4,0,0.2,1)",
+    13
+   ],
+   [
+    "cubic-bezier(0.4,0,1,1)",
+    2
+   ],
+   [
+    "cubic-bezier(0,0,0.2,1)",
+    2
+   ],
+   [
+    "cubic-bezier(0.4,0,0.6,1)",
+    1
+   ]
+  ],
+  "durations": [
+   [
+    "0.15s",
+    16
+   ],
+   [
+    "0.3s",
+    11
+   ],
+   [
+    "0.5s",
+    8
+   ],
+   [
+    "0.7s",
+    6
+   ],
+   [
+    "1s",
+    4
+   ],
+   [
+    "0.2s",
+    4
+   ],
+   [
+    "2s",
+    3
+   ],
+   [
+    "0.25s",
+    3
+   ],
+   [
+    "0.1s",
+    2
+   ],
+   [
+    "1.5s",
+    1
+   ]
+  ],
+  "keyframes": [
+   "fade-in",
+   "pulse",
+   "spin",
+   "timer-number-pulse",
+   "timer-pulse",
+   "enter",
+   "exit",
+   "fade-in-up",
+   "slide-down",
+   "go1625129503",
+   "go3978471359",
+   "pn-spinner",
+   "spin-sthf89y"
+  ]
+ },
+ "cssVarSample": {
+  "--navigation-height-mobile": "47px",
+  "--navigation-height-desktop": "80px",
+  "--navigation-home-height-desktop": "115px",
+  "--font-graphik": "Graphik, \"Graphik Fallback\""
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": true,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 72,
+  "video": 0,
+  "svg": 93,
+  "picture": 57,
+  "iframes": 2
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 1,
+  "clipPath": 4,
+  "sticky": 2,
+  "fixed": [
+   "w-full z-[100000] fixed top-[calc(var(--header-page-extrusio",
+   "fixed right-2 w-full rounded-lg lg:right-20 z-[10001]",
+   "go3101869778"
+  ],
+  "customCursor": true,
+  "boxShadows": [
+   [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px",
+    3
+   ],
+   [
+    "rgb(255, 255, 255) 0px 0px 0px 0px, rgb(255, 255, 255) 0px 0px 0px 2px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+    2
+   ],
+   [
+    "rgba(34, 34, 34, 0.1) 0px 8px 20px 0px",
+    1
+   ]
+  ],
+  "filters": [],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "2px",
+   46
+  ],
+  [
+   "9999px",
+   19
+  ],
+  [
+   "40px",
+   6
+  ],
+  [
+   "8px",
+   4
+  ],
+  [
+   "6px",
+   1
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgb(209, 197, 190)",
+   47
+  ],
+  [
+   "bottom:1px solid rgb(209, 197, 190)",
+   12
+  ],
+  [
+   "1px solid rgb(229, 231, 235)",
+   11
+  ],
+  [
+   "1px solid rgb(27, 27, 27)",
+   4
+  ],
+  [
+   "bottom:1px solid rgb(89, 77, 70)",
+   4
+  ],
+  [
+   "1px solid rgb(0, 0, 0)",
+   2
+  ]
+ ],
+ "grids": [
+  [
+   "2cols gap 16px",
+   24
+  ],
+  [
+   "12cols gap 16px",
+   17
+  ],
+  [
+   "1cols gap normal",
+   11
+  ],
+  [
+   "3cols gap 24px",
+   11
+  ],
+  [
+   "1cols gap 16px",
+   4
+  ],
+  [
+   "12cols gap 40px",
+   2
+  ],
+  [
+   "3cols gap 96px",
+   1
+  ],
+  [
+   "3cols gap 16px",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "1440px",
+   35
+  ],
+  [
+   "100%",
+   6
+  ],
+  [
+   "1424px",
+   2
+  ]
+ ],
+ "sideMargins": [
+  [
+   "80px",
+   21
+  ],
+  [
+   "404px",
+   12
+  ],
+  [
+   "1052px",
+   11
+  ],
+  [
+   "0px",
+   8
+  ],
+  [
+   "216px",
+   8
+  ],
+  [
+   "540px",
+   8
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "sr-only",
+   "h": 1,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "fixed right-2 w-full rounded-lg lg:right-20 z-[100",
+   "h": 64,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "",
+   "h": 915,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "bg-warm-grey-ads py-6 lg:py-10",
+   "h": 355,
+   "padTop": "40px",
+   "bg": "rgb(239, 227, 220)"
+  },
+  {
+   "cls": "border-t border-white bg-warm-grey-3 py-8 lg:pb-[1",
+   "h": 162,
+   "padTop": "44px",
+   "bg": "rgb(252, 243, 237)"
+  },
+  {
+   "cls": "relative flex-col pb-10 lg:py-10",
+   "h": 917,
+   "padTop": "40px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "bg-warm-grey-ads py-6 lg:py-10",
+   "h": 355,
+   "padTop": "40px",
+   "bg": "rgb(239, 227, 220)"
+  },
+  {
+   "cls": "",
+   "h": 933,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "bg-warm-grey-3 py-10 text-black-coffee lg:py-16",
+   "h": 760,
+   "padTop": "64px",
+   "bg": "rgb(252, 243, 237)"
+  },
+  {
+   "cls": "bg-warm-grey-ads py-6 lg:py-10",
+   "h": 355,
+   "padTop": "40px",
+   "bg": "rgb(239, 227, 220)"
+  },
+  {
+   "cls": "bg-warm-grey-3 py-10 text-black-coffee lg:py-16",
+   "h": 623,
+   "padTop": "64px",
+   "bg": "rgb(252, 243, 237)"
+  },
+  {
+   "cls": "group relative flex aspect-4/5 w-full lg:aspect-au",
+   "h": 565,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "bg-ivory-white py-10 text-black-coffee lg:py-16",
+   "h": 670,
+   "padTop": "64px",
+   "bg": "rgb(255, 252, 248)"
+  },
+  {
+   "cls": "bg-warm-grey-ads py-6 lg:py-10",
+   "h": 355,
+   "padTop": "40px",
+   "bg": "rgb(239, 227, 220)"
+  },
+  {
+   "cls": "pt-10 text-black-coffee lg:pt-16",
+   "h": 1032,
+   "padTop": "64px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "bg-warm-grey-ads py-6 lg:py-10",
+   "h": 355,
+   "padTop": "40px",
+   "bg": "rgb(239, 227, 220)"
+  },
+  {
+   "cls": "pt-10 text-black-coffee lg:pt-16",
+   "h": 1032,
+   "padTop": "64px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "bg-warm-grey-ads py-6 lg:py-10",
+   "h": 355,
+   "padTop": "40px",
+   "bg": "rgb(239, 227, 220)"
+  },
+  {
+   "cls": "pt-10 text-black-coffee lg:pt-16",
+   "h": 1078,
+   "padTop": "64px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "bg-warm-grey-ads py-6 lg:py-10",
+   "h": 355,
+   "padTop": "40px",
+   "bg": "rgb(239, 227, 220)"
+  },
+  {
+   "cls": "pt-10 text-black-coffee lg:pt-16",
+   "h": 1055,
+   "padTop": "64px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "bg-warm-grey-ads py-6 lg:py-10",
+   "h": 355,
+   "padTop": "40px",
+   "bg": "rgb(239, 227, 220)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "static",
+  "height": 0,
+  "links": 16,
+  "linkTexts": [
+   "SKIP TO CONTENT",
+   "MENU\nCLOSE",
+   "SUBSCRIBE",
+   "Unread notifications",
+   "THE COVER",
+   "PEOPLE",
+   "IDEAS",
+   "COLLECTIONS",
+   "GAMES",
+   "HEALTH",
+   "ENTERTAINMENT",
+   "AI",
+   "CLIMATE",
+   "SKIP TO CONTENT"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "SKIP TO CONTENT",
+   "bg": "rgb(27, 27, 27)",
+   "color": "rgb(255, 252, 248)",
+   "radius": "2px",
+   "pad": "12px 16px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "uppercase",
+   "border": "none",
+   "h": 40
+  },
+  {
+   "text": "MENU CLOSE",
+   "bg": "rgba(255, 255, 255, 0)",
+   "color": "rgb(27, 27, 27)",
+   "radius": "0px",
+   "pad": "0px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "uppercase",
+   "border": "none",
+   "h": 15
+  },
+  {
+   "text": "SUBSCRIBE",
+   "bg": "rgba(255, 255, 255, 0)",
+   "color": "rgb(27, 27, 27)",
+   "radius": "0px",
+   "pad": "0px",
+   "size": "12px",
+   "weight": "400",
+   "tt": "uppercase",
+   "border": "none",
+   "h": 40
+  },
+  {
+   "text": "Unread notifications",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(55, 65, 81)",
+   "radius": "40px",
+   "pad": "4px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(0, 0, 0)",
+   "h": 40
+  },
+  {
+   "text": "SKIP TO CONTENT",
+   "bg": "rgb(27, 27, 27)",
+   "color": "rgb(255, 252, 248)",
+   "radius": "2px",
+   "pad": "12px 16px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "uppercase",
+   "border": "none",
+   "h": 40
+  },
+  {
+   "text": "MENU CLOSE",
+   "bg": "rgba(255, 255, 255, 0)",
+   "color": "rgb(255, 252, 248)",
+   "radius": "0px",
+   "pad": "0px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "uppercase",
+   "border": "none",
+   "h": 15
+  },
+  {
+   "text": "SUBSCRIBE",
+   "bg": "rgba(255, 255, 255, 0)",
+   "color": "rgb(255, 252, 248)",
+   "radius": "0px",
+   "pad": "0px",
+   "size": "12px",
+   "weight": "400",
+   "tt": "uppercase",
+   "border": "none",
+   "h": 40
+  },
+  {
+   "text": "Unread notifications",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(55, 65, 81)",
+   "radius": "40px",
+   "pad": "4px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(0, 0, 0)",
+   "h": 40
+  },
+  {
+   "text": "THE DC BRIEF",
+   "bg": "rgba(255, 255, 255, 0)",
+   "color": "rgb(27, 27, 27)",
+   "radius": "40px",
+   "pad": "8px 12px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "uppercase",
+   "border": "1px solid rgb(27, 27, 27)",
+   "h": 34
+  },
+  {
+   "text": "FUTURE PROOF",
+   "bg": "rgba(255, 255, 255, 0)",
+   "color": "rgb(27, 27, 27)",
+   "radius": "40px",
+   "pad": "8px 12px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "uppercase",
+   "border": "1px solid rgb(27, 27, 27)",
+   "h": 34
+  }
+ ],
+ "headings": [
+  "TIME | Current & Breaking News | National & World Updates",
+  "Pressure Mounts on Cornell to Explain Its Handling of Sexual Assault Allegations",
+  "Why Are Students Protesting Across France?",
+  "Meta’s Muse AI Agent Is Building a Dossier On You",
+  "Russia Tells WHO No Plague Found After Lab Worker’s Death",
+  "Meet the 2026 Nobel Prize Winners",
+  "Hoping for Better, 3 Years Since Oct. 7",
+  "Could Texas Elect a Democratic Governor? Polls Show a Tight Race",
+  "Newsletters",
+  "Photos Show Scenes of Unrest as French Student Protest Goes Nationwide",
+  "When Is the Best Time to See Peak Fall Foliage?",
+  "Making Sense of Verity's Ambiguous Ending",
+  "The Case Against Wearing Headphones in Public",
+  "We Won't Know the Answers to AI's Most Important Questions Until It's Too Late",
+  "The Latest Covers",
+  "TIME100 Next 2026 TIME100 Next 2026",
+  "People",
+  "Raye",
+  "Druski",
+  "Ashley Padilla",
+  "Swizz Beatz and Alicia Keys",
+  "Ideas",
+  "The Fossil Fuel Turning Point",
+  "The Case Against Wearing Headphones in Public",
+  "We Must Fight Health Misinformation With Empathy"
+ ],
+ "paras": [
+  "Explore the full archive of TIME, a century of journalism, insight, and perspective, with AI that helps you research, connect ideas, and uncover stories across every era and topic.",
+  "Student protests and a possible faculty no-confidence vote are intensifying scrutiny of the university’s response.",
+  "By signing up you are agreeing to our Terms of Service and Privacy Policy.",
+  "More than 250,000 people took to streets across France on Tuesday as teachers, parents, and union activists joined students who have spent the past two weeks protesting, what they say is, a poorly-funded high school syst",
+  "Introducing the 2026 TIME100 Next: people from around the world who are shaping the future and defining the next generation of leadership.",
+  "Introducing the 2026 TIME100 Next: people from around the world who are shaping the future and defining the next generation of leadership.",
+  "Think you know the wisdom of the crowd? Choose the outcome the market thinks is more likely, beat the clock, and climb the leaderboard.",
+  "In this addictive word-association game, find the steps that will unite two seemingly unrelated words in just four moves.",
+  "Five real TIME covers from our century-spanning archive: look at the pictures, read the clues, guess the years.",
+  "Choose from a variety of images to test your jigsaw puzzle speed-solving skills."
+ ],
+ "footer": {
+  "h": 1002,
+  "text": "Sections Home Politics Health AI World Business Science Climate Ideas Entertainment Sports Technology Newsletters More The TIME Vault TIME Africa TIME France TIME For Kids TIME Futures TIME Studios Video Red Border Supplied Partner Content About Us Our Mission Contact the Editors Press Room Media Ki"
+ },
+ "jsMotion": {
+  "scriptsFetched": 22,
+  "gsapEases": [
+   [
+    "backIn",
+    1
+   ]
+  ],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "0",
+    5
+   ],
+   [
+    ".8",
+    3
+   ],
+   [
+    ".5",
+    2
+   ],
+   [
+    "1",
+    1
+   ],
+   [
+    "2",
+    1
+   ],
+   [
+    ".2",
+    1
+   ]
+  ],
+  "staggers": [],
+  "lenis": [],
+  "springs": [
+   [
+    "type:\"spring\",bounce:.05,delay:S?0:p?q.DESKTOP_EXPAND_DELAY:0",
+    2
+   ],
+   [
+    "type:\"spring\",damping:20,mass:1,delay:S||p?0:q.DESKTOP_EXPAND_DELAY+.15",
+    1
+   ],
+   [
+    "type:\"spring\",damping:20",
+    1
+   ]
+  ],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

@@ -1,0 +1,1143 @@
+{
+ "url": "https://linear.app",
+ "slug": "linear-app",
+ "analyzedAt": "2026-10-07T05:12:43.787Z",
+ "scrollHeight": 9960,
+ "pageLengthInViewports": 11.1,
+ "title": "Linear – The system for product development",
+ "metaDescription": "Purpose-built for planning and building products with AI agents.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "Inter Variable 100 900 normal",
+   "Berkeley Mono 100 900 normal"
+  ],
+  "families": [
+   [
+    "Inter Variable",
+    416
+   ],
+   [
+    "Berkeley Mono",
+    105
+   ]
+  ],
+  "sizes": [
+   [
+    "12px",
+    181
+   ],
+   [
+    "13px",
+    130
+   ],
+   [
+    "14px",
+    101
+   ],
+   [
+    "15px",
+    59
+   ],
+   [
+    "10px",
+    25
+   ],
+   [
+    "48px",
+    7
+   ],
+   [
+    "16px",
+    4
+   ],
+   [
+    "24px",
+    4
+   ],
+   [
+    "64px",
+    3
+   ],
+   [
+    "11px",
+    3
+   ],
+   [
+    "32px",
+    2
+   ],
+   [
+    "20px",
+    1
+   ],
+   [
+    "72px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    356
+   ],
+   [
+    "510",
+    138
+   ],
+   [
+    "500",
+    15
+   ],
+   [
+    "590",
+    8
+   ],
+   [
+    "300",
+    4
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    324
+   ],
+   [
+    "-0.010em@13",
+    77
+   ],
+   [
+    "-0.011em@15",
+    55
+   ],
+   [
+    "-0.015em@10",
+    23
+   ],
+   [
+    "-0.003em@13",
+    12
+   ],
+   [
+    "-0.013em@14",
+    7
+   ],
+   [
+    "-0.022em@48",
+    7
+   ],
+   [
+    "-0.012em@24",
+    4
+   ],
+   [
+    "-0.004em@15",
+    4
+   ],
+   [
+    "-0.022em@64",
+    3
+   ],
+   [
+    "-0.022em@32",
+    2
+   ],
+   [
+    "-0.012em@20",
+    1
+   ],
+   [
+    "-0.015em@12",
+    1
+   ],
+   [
+    "-0.022em@72",
+    1
+   ]
+  ],
+  "uppercaseShare": 0.02,
+  "largest": [
+   {
+    "tag": "h2",
+    "text": "Built for the future. Available today.",
+    "family": "Inter Variable",
+    "size": "72px",
+    "weight": "510",
+    "lh": "72px",
+    "ls": "-1.584px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(247, 248, 248)"
+   },
+   {
+    "tag": "span",
+    "text": "The product development",
+    "family": "Inter Variable",
+    "size": "64px",
+    "weight": "510",
+    "lh": "64px",
+    "ls": "-1.408px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(247, 248, 248)"
+   },
+   {
+    "tag": "span",
+    "text": "system for teams and agents",
+    "family": "Inter Variable",
+    "size": "64px",
+    "weight": "510",
+    "lh": "64px",
+    "ls": "-1.408px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(247, 248, 248)"
+   },
+   {
+    "tag": "span",
+    "text": "The product development system for teams and agents",
+    "family": "Inter Variable",
+    "size": "64px",
+    "weight": "510",
+    "lh": "64px",
+    "ls": "-1.408px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(247, 248, 248)"
+   },
+   {
+    "tag": "h2",
+    "text": "A new species of product tool. Purpose-built for modern teams with AI workflows at its cor",
+    "family": "Inter Variable",
+    "size": "48px",
+    "weight": "510",
+    "lh": "48px",
+    "ls": "-1.056px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(138, 143, 152)"
+   },
+   {
+    "tag": "h2",
+    "text": "Intake and integrations",
+    "family": "Inter Variable",
+    "size": "48px",
+    "weight": "510",
+    "lh": "48px",
+    "ls": "-1.056px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(247, 248, 248)"
+   },
+   {
+    "tag": "h2",
+    "text": "Planning and monitoring",
+    "family": "Inter Variable",
+    "size": "48px",
+    "weight": "510",
+    "lh": "48px",
+    "ls": "-1.056px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(247, 248, 248)"
+   },
+   {
+    "tag": "h2",
+    "text": "AI and automations",
+    "family": "Inter Variable",
+    "size": "48px",
+    "weight": "510",
+    "lh": "48px",
+    "ls": "-1.056px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(247, 248, 248)"
+   },
+   {
+    "tag": "h2",
+    "text": "Build, review, and ship",
+    "family": "Inter Variable",
+    "size": "48px",
+    "weight": "510",
+    "lh": "48px",
+    "ls": "-1.056px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(247, 248, 248)"
+   },
+   {
+    "tag": "h2",
+    "text": "Changelog",
+    "family": "Inter Variable",
+    "size": "48px",
+    "weight": "510",
+    "lh": "48px",
+    "ls": "-1.056px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(247, 248, 248)"
+   },
+   {
+    "tag": "p",
+    "text": "You’ll probably build a better product, just because of the craft that using Linear infuse",
+    "family": "Inter Variable",
+    "size": "32px",
+    "weight": "400",
+    "lh": "36px",
+    "ls": "-0.704px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(8, 9, 10)"
+   },
+   {
+    "tag": "p",
+    "text": "Our speed is intense and Linear helps us be action biased.",
+    "family": "Inter Variable",
+    "size": "32px",
+    "weight": "400",
+    "lh": "36px",
+    "ls": "-0.704px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(8, 9, 10)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(8, 9, 10)",
+  "htmlBg": "rgb(8, 9, 10)",
+  "text": [
+   [
+    "rgb(138, 143, 152)",
+    181
+   ],
+   [
+    "rgb(208, 214, 224)",
+    112
+   ],
+   [
+    "rgb(98, 102, 109)",
+    90
+   ],
+   [
+    "rgb(247, 156, 224)",
+    31
+   ],
+   [
+    "rgb(247, 248, 248)",
+    25
+   ],
+   [
+    "rgb(247, 191, 139)",
+    22
+   ],
+   [
+    "rgb(226, 228, 231)",
+    12
+   ],
+   [
+    "rgb(255, 223, 159)",
+    10
+   ],
+   [
+    "rgb(131, 220, 220)",
+    9
+   ],
+   [
+    "rgb(8, 9, 10)",
+    8
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgba(255, 255, 255, 0.08)",
+    36
+   ],
+   [
+    "rgb(15, 16, 17)",
+    34
+   ],
+   [
+    "rgba(0, 255, 5, 0.1)",
+    16
+   ],
+   [
+    "rgba(255, 255, 255, 0.02)",
+    9
+   ],
+   [
+    "rgb(8, 9, 10)",
+    6
+   ],
+   [
+    "rgb(46, 46, 50)",
+    5
+   ],
+   [
+    "rgb(0, 0, 0)",
+    5
+   ],
+   [
+    "rgb(22, 23, 24)",
+    4
+   ],
+   [
+    "rgb(78, 167, 252)",
+    4
+   ],
+   [
+    "rgba(243, 78, 82, 0.1)",
+    4
+   ],
+   [
+    "rgba(39, 166, 68, 0.07)",
+    4
+   ],
+   [
+    "rgba(255, 255, 255, 0.05)",
+    3
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(rgba(255, 255, 255, 0.02), rgba(255, 255, 255, 0.02)), none",
+    16
+   ],
+   [
+    "repeating-linear-gradient(rgba(255, 255, 255, 0.08) 0px, rgba(255, 255, 255, 0.08) 3px, rgba(0, 0, 0, 0) 3px, rgba(0, 0, 0, 0) 6px)",
+    11
+   ],
+   [
+    "linear-gradient(rgba(255, 255, 255, 0.04), rgba(255, 255, 255, 0.04)), none",
+    6
+   ],
+   [
+    "radial-gradient(circle, rgba(255, 255, 255, 0.04) 0%, rgba(0, 0, 0, 0) 50%)",
+    5
+   ],
+   [
+    "repeating-linear-gradient(to right, rgb(46, 46, 50) 0px, rgb(46, 46, 50) 2px, rgba(0, 0, 0, 0) 2px, rgba(0, 0, 0, 0) 6px)",
+    5
+   ],
+   [
+    "linear-gradient(rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.05)), none",
+    4
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.32,0.72,0,1)",
+    4
+   ],
+   [
+    "cubic-bezier(0.43,0.07,0.59,0.94)",
+    2
+   ],
+   [
+    "cubic-bezier(0.16,1,0.3,1)",
+    1
+   ],
+   [
+    "cubic-bezier(0.45,1.45,0.8,1)",
+    1
+   ]
+  ],
+  "durations": [
+   [
+    "3200ms",
+    75
+   ],
+   [
+    "2800ms",
+    50
+   ],
+   [
+    "1600ms",
+    50
+   ],
+   [
+    "0.2s",
+    22
+   ],
+   [
+    "0s",
+    16
+   ],
+   [
+    "0.15s",
+    15
+   ],
+   [
+    "0.12s",
+    8
+   ],
+   [
+    "0.3s",
+    7
+   ],
+   [
+    "0.5s",
+    6
+   ],
+   [
+    ".16s",
+    6
+   ]
+  ],
+  "keyframes": [
+   "grid-dot-0-0-upDown",
+   "grid-dot-0-1-upDown",
+   "grid-dot-0-2-upDown",
+   "grid-dot-0-3-upDown",
+   "grid-dot-0-4-upDown",
+   "grid-dot-1-0-upDown",
+   "grid-dot-1-1-upDown",
+   "grid-dot-1-2-upDown",
+   "grid-dot-1-3-upDown",
+   "grid-dot-1-4-upDown",
+   "grid-dot-2-0-upDown",
+   "grid-dot-2-1-upDown",
+   "grid-dot-2-2-upDown",
+   "grid-dot-2-3-upDown",
+   "grid-dot-2-4-upDown",
+   "grid-dot-3-0-upDown",
+   "grid-dot-3-1-upDown",
+   "grid-dot-3-2-upDown",
+   "grid-dot-3-3-upDown",
+   "grid-dot-3-4-upDown"
+  ]
+ },
+ "cssVarSample": {},
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": true,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 39,
+  "video": 0,
+  "svg": 239,
+  "picture": 0,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [
+   [
+    "overlay",
+    7
+   ],
+   [
+    "lighten",
+    6
+   ],
+   [
+    "screen",
+    3
+   ]
+  ],
+  "backdropFilter": 3,
+  "clipPath": 13,
+  "sticky": 0,
+  "fixed": [
+   "TZTsQG_header TZTsQG_header",
+   "INPUT"
+  ],
+  "customCursor": true,
+  "boxShadows": [
+   [
+    "rgba(0, 0, 0, 0.2) 0px 0px 0px 1px",
+    8
+   ],
+   [
+    "rgba(0, 0, 0, 0.2) 0px 0px 12px 0px inset",
+    7
+   ],
+   [
+    "rgba(0, 0, 0, 0.25) 0px 2px 32px 0px",
+    5
+   ],
+   [
+    "rgba(255, 255, 255, 0.08) 0px 0px 0px 0.5px inset",
+    5
+   ],
+   [
+    "rgba(255, 255, 255, 0.05) 0px 0px 0px 1px inset",
+    4
+   ]
+  ],
+  "filters": [
+   [
+    "blur(0px)",
+    28
+   ],
+   [
+    "drop-shadow(color(srgb 0.941176 0.74902 0 / 0.1) 0px 0px 32px)",
+    5
+   ],
+   [
+    "drop-shadow(rgba(0, 0, 0, 0.15) 0px 0px 8px)",
+    4
+   ],
+   [
+    "drop-shadow(rgb(8, 9, 10) 0px 0px 1px)",
+    3
+   ],
+   [
+    "url(\"#filter0_d_3072_54146\")",
+    2
+   ]
+  ],
+  "transforms3d": 3,
+  "noiseOrGrain": true,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "50%",
+   28
+  ],
+  [
+   "8px",
+   26
+  ],
+  [
+   "9999px",
+   21
+  ],
+  [
+   "9px",
+   18
+  ],
+  [
+   "4px",
+   14
+  ],
+  [
+   "999px",
+   10
+  ],
+  [
+   "6px",
+   7
+  ],
+  [
+   "12px",
+   7
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgba(255, 255, 255, 0.08)",
+   68
+  ],
+  [
+   "1px solid rgba(255, 255, 255, 0.12)",
+   12
+  ],
+  [
+   "1px solid rgba(255, 255, 255, 0.05)",
+   3
+  ],
+  [
+   "1px solid rgb(35, 37, 42)",
+   3
+  ],
+  [
+   "bottom:1px solid rgba(255, 255, 255, 0.08)",
+   2
+  ],
+  [
+   "1px solid rgb(229, 229, 230)",
+   2
+  ]
+ ],
+ "grids": [
+  [
+   "1cols gap normal",
+   162
+  ],
+  [
+   "2cols gap normal",
+   14
+  ],
+  [
+   "1cols gap 8px",
+   2
+  ],
+  [
+   "5cols gap normal",
+   1
+  ],
+  [
+   "12cols gap 0px",
+   1
+  ],
+  [
+   "4cols gap 64px",
+   1
+  ],
+  [
+   "6cols gap 0px",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "1436px",
+   8
+  ],
+  [
+   "100%",
+   2
+  ],
+  [
+   "1416px",
+   1
+  ],
+  [
+   "1250px",
+   1
+  ],
+  [
+   "722.088px",
+   1
+  ]
+ ],
+ "sideMargins": [
+  [
+   "78px",
+   6
+  ],
+  [
+   "752px",
+   4
+  ],
+  [
+   "80px",
+   3
+  ],
+  [
+   "373px",
+   2
+  ],
+  [
+   "980px",
+   2
+  ],
+  [
+   "-91px",
+   2
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "_7bwwmq_root _7bwwmq_homepage",
+   "h": 9394,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "b-30Va_root b-30Va_rootHomepage",
+   "h": 1226,
+   "padTop": "128px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "b-30Va_root b-30Va_rootHomepage",
+   "h": 1229,
+   "padTop": "128px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "b-30Va_root b-30Va_rootHomepage",
+   "h": 1232,
+   "padTop": "128px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "b-30Va_root b-30Va_rootHomepage",
+   "h": 1220,
+   "padTop": "128px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "_8fVXdW_codeSectionDesktop",
+   "h": 497,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "_8fVXdW_codeSection",
+   "h": 497,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Dc5tqa_container hide-laptop",
+   "h": 564,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "dYXc1G_homepagePrefooter",
+   "h": 228,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_section",
+   "h": 222,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionTitle",
+   "h": 20,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionList",
+   "h": 178,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionItem",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionLink I_mUeq_root I_mUeq_variant-dimm",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionItem",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionLink I_mUeq_root I_mUeq_variant-dimm",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionItem",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionLink I_mUeq_root I_mUeq_variant-dimm",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionItem",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionLink I_mUeq_root I_mUeq_variant-dimm",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionItem",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionLink I_mUeq_root I_mUeq_variant-dimm",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionItem",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionLink I_mUeq_root I_mUeq_variant-dimm",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_section",
+   "h": 282,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionTitle",
+   "h": 20,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionList",
+   "h": 238,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionItem",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionLink I_mUeq_root I_mUeq_variant-dimm",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionItem",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionLink I_mUeq_root I_mUeq_variant-dimm",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionItem",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionLink I_mUeq_root I_mUeq_variant-dimm",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionItem",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionLink I_mUeq_root I_mUeq_variant-dimm",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionItem",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionLink I_mUeq_root I_mUeq_variant-dimm",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionItem",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionLink I_mUeq_root I_mUeq_variant-dimm",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionItem",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "fixed",
+  "height": 73,
+  "links": 9,
+  "linkTexts": [
+   "Product",
+   "Resources",
+   "Customers",
+   "Pricing",
+   "Now",
+   "Contact",
+   "Docs",
+   "Open app",
+   "Log in",
+   "Sign up"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "Sign up",
+   "bg": "rgb(229, 229, 230)",
+   "color": "rgb(8, 9, 10)",
+   "radius": "9999px",
+   "pad": "0px 12px",
+   "size": "13px",
+   "weight": "510",
+   "tt": "none",
+   "border": "1px solid rgb(229, 229, 230)",
+   "h": 32
+  },
+  {
+   "text": "Faster app launch",
+   "bg": "rgba(255, 255, 255, 0.04)",
+   "color": "rgb(208, 214, 224)",
+   "radius": "8px",
+   "pad": "0px 7px",
+   "size": "13px",
+   "weight": "510",
+   "tt": "none",
+   "border": "none",
+   "h": 28
+  },
+  {
+   "text": "Performance",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(208, 214, 224)",
+   "radius": "16px",
+   "pad": "0px 11px 0px 7px",
+   "size": "12px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(46, 46, 50)",
+   "h": 24
+  },
+  {
+   "text": "iOS",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(208, 214, 224)",
+   "radius": "16px",
+   "pad": "0px 11px 0px 7px",
+   "size": "12px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(46, 46, 50)",
+   "h": 24
+  },
+  {
+   "text": "Get started",
+   "bg": "rgb(229, 229, 230)",
+   "color": "rgb(8, 9, 10)",
+   "radius": "9999px",
+   "pad": "0px 20px",
+   "size": "16px",
+   "weight": "510",
+   "tt": "none",
+   "border": "1px solid rgb(229, 229, 230)",
+   "h": 44
+  },
+  {
+   "text": "Contact sales",
+   "bg": "rgba(255, 255, 255, 0.05)",
+   "color": "rgb(247, 248, 248)",
+   "radius": "9999px",
+   "pad": "0px 20px",
+   "size": "16px",
+   "weight": "510",
+   "tt": "none",
+   "border": "none",
+   "h": 44
+  }
+ ],
+ "headings": [
+  "The product development system for teams and agents The product development system for teams and agents",
+  "Faster app launch",
+  "A new species of product tool. Purpose-built for modern teams with AI workflows at its core, Linear sets a new standard for planning and building products.",
+  "Intake and integrations",
+  "Planning and monitoring",
+  "AI and automations",
+  "Build, review, and ship",
+  "Changelog",
+  "Built for the future. Available today.",
+  "Product",
+  "Features",
+  "Company",
+  "Resources",
+  "Connect",
+  "Legal"
+ ],
+ "paras": [
+  "Purpose-built for planning and building products. Designed for the AI era.",
+  "Render UI before vehicle_state sync when minimum required state is present, instead of blocking on full refresh during iOS startup.",
+  "Fix the dimmed ride rows that never reset and open a PR",
+  "Pushed and opened a draft PR. Removed dimmedIds — isItemDimmed now checks waitingStatusById directly.",
+  "POWERING THE COMPANIES BUILDING THE FUTURE",
+  "Linear is shaped by the practices and principles of world-class product teams.",
+  "Designed for workflows shared by humans and agents. From drafting PRDs to pushing PRs.",
+  "Reduces noise and restores momentum to help teams ship with high velocity and focus.",
+  "Linear is shaped by the practices and principles of world-class product teams.",
+  "Designed for workflows shared by humans and agents. From drafting PRDs to pushing PRs."
+ ],
+ "footer": {
+  "h": 494,
+  "text": "Product Intake Plan AI Build Pricing Security Features Asks Agents Coding Sessions Customer Requests Insights Mobile Integrations Changelog Company About Customers Careers Now Method Quality Brand Resources Switch Download Documentation Developers Status Enterprise Startups Connect Contact us Commun"
+ },
+ "jsMotion": {
+  "scriptsFetched": 5,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "0",
+    3
+   ]
+  ],
+  "staggers": [],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

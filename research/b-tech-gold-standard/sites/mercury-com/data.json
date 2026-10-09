@@ -1,0 +1,915 @@
+{
+ "url": "https://mercury.com",
+ "slug": "mercury-com",
+ "analyzedAt": "2026-10-07T05:14:35.158Z",
+ "scrollHeight": 13027,
+ "pageLengthInViewports": 14.5,
+ "title": "Online Business Banking For Startups, Small Businesses & Scaling Companies",
+ "metaDescription": "Everything you do with money. All in one place. Apply in 10 minutes for business banking that transforms how you operate.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "arcadia 360 500 normal",
+   "arcadia Fallback normal normal",
+   "arcadiaDisplay 320 480 normal"
+  ],
+  "families": [
+   [
+    "arcadia",
+    183
+   ],
+   [
+    "arcadiaDisplay",
+    25
+   ]
+  ],
+  "sizes": [
+   [
+    "16px",
+    108
+   ],
+   [
+    "12px",
+    40
+   ],
+   [
+    "18px",
+    30
+   ],
+   [
+    "28px",
+    8
+   ],
+   [
+    "21px",
+    6
+   ],
+   [
+    "42px",
+    4
+   ],
+   [
+    "32px",
+    4
+   ],
+   [
+    "65px",
+    4
+   ],
+   [
+    "24px",
+    3
+   ],
+   [
+    "49px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "420",
+    72
+   ],
+   [
+    "400",
+    60
+   ],
+   [
+    "480",
+    54
+   ],
+   [
+    "360",
+    21
+   ],
+   [
+    "700",
+    1
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    148
+   ],
+   [
+    "0.020em@12",
+    40
+   ],
+   [
+    "0.015em@28",
+    8
+   ],
+   [
+    "0.010em@42",
+    4
+   ],
+   [
+    "0.015em@32",
+    4
+   ],
+   [
+    "0.020em@24",
+    3
+   ],
+   [
+    "0.020em@21",
+    1
+   ]
+  ],
+  "uppercaseShare": 0,
+  "largest": [
+   {
+    "tag": "span",
+    "text": "300K",
+    "family": "arcadiaDisplay",
+    "size": "65.344px",
+    "weight": "480",
+    "lh": "71.8784px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(237, 237, 243)"
+   },
+   {
+    "tag": "span",
+    "text": "1 in 3",
+    "family": "arcadiaDisplay",
+    "size": "65.344px",
+    "weight": "480",
+    "lh": "71.8784px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(237, 237, 243)"
+   },
+   {
+    "tag": "span",
+    "text": "$20B+",
+    "family": "arcadiaDisplay",
+    "size": "65.344px",
+    "weight": "480",
+    "lh": "71.8784px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(237, 237, 243)"
+   },
+   {
+    "tag": "span",
+    "text": "4.9",
+    "family": "arcadiaDisplay",
+    "size": "65.344px",
+    "weight": "480",
+    "lh": "71.8784px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(237, 237, 243)"
+   },
+   {
+    "tag": "span",
+    "text": "Radically different banking",
+    "family": "arcadiaDisplay",
+    "size": "49.3472px",
+    "weight": "480",
+    "lh": "54.2819px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(237, 237, 243)"
+   },
+   {
+    "tag": "span",
+    "text": "Loved by 300K+ of the most ambitious entrepreneurs on the planet",
+    "family": "arcadiaDisplay",
+    "size": "42px",
+    "weight": "480",
+    "lh": "48.3px",
+    "ls": "0.42px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(237, 237, 243)"
+   },
+   {
+    "tag": "span",
+    "text": "You’re creating something to stand the test of time. So are we.",
+    "family": "arcadiaDisplay",
+    "size": "42px",
+    "weight": "480",
+    "lh": "48.3px",
+    "ls": "0.42px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(237, 237, 243)"
+   },
+   {
+    "tag": "span",
+    "text": "Banking – redesigned from the ground up.",
+    "family": "arcadiaDisplay",
+    "size": "42px",
+    "weight": "480",
+    "lh": "48.3px",
+    "ls": "0.42px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(237, 237, 243)"
+   },
+   {
+    "tag": "span",
+    "text": "Banking’s been a headache. Now, it’s a head start.",
+    "family": "arcadiaDisplay",
+    "size": "32px",
+    "weight": "480",
+    "lh": "36.8px",
+    "ls": "0.48px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(237, 237, 243)"
+   },
+   {
+    "tag": "span",
+    "text": "Run your business like a seasoned pro",
+    "family": "arcadiaDisplay",
+    "size": "32px",
+    "weight": "480",
+    "lh": "36.8px",
+    "ls": "0.48px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(237, 237, 243)"
+   },
+   {
+    "tag": "span",
+    "text": "Standard protection stops short. Mercury goes further.",
+    "family": "arcadiaDisplay",
+    "size": "32px",
+    "weight": "480",
+    "lh": "36.8px",
+    "ls": "0.48px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(237, 237, 243)"
+   },
+   {
+    "tag": "span",
+    "text": "Mercury in the spotlight",
+    "family": "arcadiaDisplay",
+    "size": "32px",
+    "weight": "480",
+    "lh": "36.8px",
+    "ls": "0.48px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(237, 237, 243)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgba(0, 0, 0, 0)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(237, 237, 243)",
+    150
+   ],
+   [
+    "rgb(195, 195, 204)",
+    50
+   ],
+   [
+    "rgb(255, 255, 255)",
+    3
+   ],
+   [
+    "rgb(244, 245, 249)",
+    3
+   ],
+   [
+    "rgb(42, 41, 36)",
+    1
+   ],
+   [
+    "rgb(0, 0, 0)",
+    1
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(23, 23, 33)",
+    7
+   ],
+   [
+    "rgb(30, 30, 42)",
+    7
+   ],
+   [
+    "rgba(175, 178, 206, 0.2)",
+    6
+   ],
+   [
+    "rgba(156, 180, 232, 0.2)",
+    6
+   ],
+   [
+    "rgb(82, 102, 235)",
+    3
+   ],
+   [
+    "rgb(205, 221, 255)",
+    3
+   ],
+   [
+    "rgb(237, 237, 243)",
+    3
+   ],
+   [
+    "rgba(112, 115, 147, 0.1)",
+    3
+   ],
+   [
+    "rgb(252, 252, 250)",
+    1
+   ],
+   [
+    "rgb(39, 39, 53)",
+    1
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0.3) 40%, rgba(0, 0, 0, 0) 100%)",
+    1
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.16,0,0.13,1)",
+    21
+   ],
+   [
+    "cubic-bezier(0.2,1,0.4,1)",
+    12
+   ],
+   [
+    "cubic-bezier(0.7,0,0.3,1)",
+    7
+   ],
+   [
+    "cubic-bezier(.2,1,.4,1)",
+    7
+   ],
+   [
+    "cubic-bezier(.65,.05,.36,1)",
+    6
+   ],
+   [
+    "cubic-bezier(.4,0,.2,1)",
+    5
+   ],
+   [
+    "cubic-bezier(.6,0,.8,0)",
+    5
+   ],
+   [
+    "cubic-bezier(0.6,0,0.8,0)",
+    5
+   ],
+   [
+    "cubic-bezier(0.4,1,0.2,1)",
+    5
+   ],
+   [
+    "cubic-bezier(0.6,0,0.3,1)",
+    4
+   ],
+   [
+    "cubic-bezier(0.65,0.05,0.36,1)",
+    4
+   ],
+   [
+    "cubic-bezier(0,0,0.6,1)",
+    3
+   ]
+  ],
+  "durations": [
+   [
+    "0.3s",
+    38
+   ],
+   [
+    "0.5s",
+    24
+   ],
+   [
+    "0.15s",
+    23
+   ],
+   [
+    "0.175s",
+    12
+   ],
+   [
+    "0.6s",
+    9
+   ],
+   [
+    "0s",
+    9
+   ],
+   [
+    "0.25s",
+    8
+   ],
+   [
+    "1s",
+    6
+   ],
+   [
+    "0.2s",
+    5
+   ],
+   [
+    "0.8s",
+    5
+   ]
+  ],
+  "keyframes": [
+   "styles-module__zTVSPq__disclaimer-extend",
+   "styles-module__zTVSPq__disclaimer-divider-fade",
+   "react-loading-skeleton",
+   "styles-module__u8VSFG__noise",
+   "styles-module__tlJb8G__moneyFall",
+   "spin",
+   "wave",
+   "fadeIn",
+   "fadeOutBlur",
+   "fadeInTabTranslate",
+   "fadeInCopy",
+   "fadeOut",
+   "fadeOutTabTranslate",
+   "translateUp",
+   "collapseDown",
+   "collapseUp",
+   "scaleIn",
+   "scaleOut",
+   "slideUpAndFade",
+   "slideUpMoreAndFade"
+  ]
+ },
+ "cssVarSample": {
+  "--wipeOut-duration": ".15s",
+  "--tab-fade-duration": ".3s",
+  "--media-tab-fade-duration": ".5s",
+  "--testimonial-overlay-gradient-angle": "180deg",
+  "--testimonial-overlay-gradient": "var(--testimonial-overlay-gradient-angle),#0000 0%,#0000 6.67%,#00000005 13.33%,",
+  "--testimonial-overlay-scrim": "linear-gradient(180deg,#0000 0%,#0000 2.67%,#00000006 5.33%,#0000000f 8%,#000000"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 1,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": true,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 36,
+  "video": 5,
+  "svg": 102,
+  "picture": 27,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 12,
+  "clipPath": 34,
+  "sticky": 3,
+  "fixed": [],
+  "customCursor": true,
+  "boxShadows": [
+   [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(86, 86, 118, 0.1) 0px 0px 6px 0px",
+    1
+   ],
+   [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 0px 3px 0px, rgba(0, 0, 0, 0.05) 0px 8px 12px 0px, rgba(0, 0, 0, 0.05) 0px 12px 20px 0px",
+    1
+   ]
+  ],
+  "filters": [
+   [
+    "blur(4px)",
+    6
+   ],
+   [
+    "blur(8px)",
+    3
+   ],
+   [
+    "url(\"#filter0_f_28686_20485\")",
+    2
+   ],
+   [
+    "url(\"#filter1_f_28686_20485\")",
+    2
+   ],
+   [
+    "url(\"#filter2_f_28686_20485\")",
+    2
+   ]
+  ],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "4px",
+   105
+  ],
+  [
+   "40px",
+   10
+  ],
+  [
+   "3.35544e+07px",
+   7
+  ],
+  [
+   "12px",
+   6
+  ],
+  [
+   "32px",
+   4
+  ],
+  [
+   "8px",
+   3
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgba(175, 178, 206, 0.36)",
+   10
+  ],
+  [
+   "1px solid rgba(112, 115, 147, 0.22)",
+   4
+  ],
+  [
+   "1px solid rgb(112, 112, 125)",
+   4
+  ],
+  [
+   "1px solid rgb(237, 237, 243)",
+   3
+  ],
+  [
+   "bottom:1px solid rgba(112, 115, 147, 0.22)",
+   1
+  ],
+  [
+   "1px solid rgb(195, 195, 204)",
+   1
+  ]
+ ],
+ "grids": [
+  [
+   "1cols gap normal",
+   80
+  ],
+  [
+   "16cols gap 32px",
+   23
+  ],
+  [
+   "1cols gap 40px",
+   13
+  ],
+  [
+   "14cols gap normal",
+   13
+  ],
+  [
+   "1cols gap 12px",
+   8
+  ],
+  [
+   "2cols gap normal",
+   3
+  ],
+  [
+   "2cols gap 32px",
+   2
+  ],
+  [
+   "3cols gap normal",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "1952px",
+   23
+  ],
+  [
+   "100%",
+   10
+  ]
+ ],
+ "sideMargins": [
+  [
+   "208px",
+   10
+  ],
+  [
+   "240px",
+   5
+  ],
+  [
+   "384px",
+   4
+  ],
+  [
+   "120px",
+   4
+  ],
+  [
+   "736px",
+   4
+  ],
+  [
+   "176px",
+   3
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "relative group-has-[#navbar-banner]/page-layout-co",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "",
+   "h": 972,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "",
+   "h": 393,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "",
+   "h": 668,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "",
+   "h": 1130,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "",
+   "h": 338,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "",
+   "h": 732,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "",
+   "h": 712,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "",
+   "h": 1045,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "",
+   "h": 449,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "",
+   "h": 744,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "",
+   "h": 621,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "",
+   "h": 787,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "dark-neutral-theme dark-neutral-theme bg-backgroun",
+   "h": 1211,
+   "padTop": "0px",
+   "bg": "rgb(23, 23, 33)"
+  }
+ ],
+ "nav": {
+  "tag": "NAV",
+  "position": "relative",
+  "height": 72,
+  "links": 55,
+  "linkTexts": [
+   "Products",
+   "Solutions",
+   "Resources",
+   "About",
+   "Pricing",
+   "Dashboard",
+   "Dashboard",
+   "Log in",
+   "Log in",
+   "Open account",
+   "BooksAI-powered accounting software",
+   "Try the demo",
+   "Checking & Savings",
+   "Working Capital Loans"
+  ],
+  "bg": "rgb(23, 23, 33)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "Open account",
+   "bg": "rgb(82, 102, 235)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "32px",
+   "pad": "0px 20px",
+   "size": "16px",
+   "weight": "420",
+   "tt": "none",
+   "border": "none",
+   "h": 40
+  },
+  {
+   "text": "Open account",
+   "bg": "rgb(82, 102, 235)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "32px",
+   "pad": "0px 20px",
+   "size": "16px",
+   "weight": "420",
+   "tt": "none",
+   "border": "none",
+   "h": 40
+  },
+  {
+   "text": "Launch demo",
+   "bg": "rgba(175, 178, 206, 0.2)",
+   "color": "rgb(237, 237, 243)",
+   "radius": "40px",
+   "pad": "0px 20px",
+   "size": "16px",
+   "weight": "420",
+   "tt": "none",
+   "border": "1px solid rgba(175, 178, 206, 0.36)",
+   "h": 40
+  },
+  {
+   "text": "Open account",
+   "bg": "rgb(82, 102, 235)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "32px",
+   "pad": "0px 20px",
+   "size": "16px",
+   "weight": "420",
+   "tt": "none",
+   "border": "none",
+   "h": 40
+  },
+  {
+   "text": "Contact sales",
+   "bg": "rgba(156, 180, 232, 0.2)",
+   "color": "rgb(237, 237, 243)",
+   "radius": "40px",
+   "pad": "0px 20px",
+   "size": "16px",
+   "weight": "420",
+   "tt": "none",
+   "border": "none",
+   "h": 40
+  },
+  {
+   "text": "Explore demo",
+   "bg": "rgba(156, 180, 232, 0.2)",
+   "color": "rgb(237, 237, 243)",
+   "radius": "40px",
+   "pad": "0px 20px",
+   "size": "16px",
+   "weight": "420",
+   "tt": "none",
+   "border": "none",
+   "h": 40
+  },
+  {
+   "text": "Learn more",
+   "bg": "rgba(156, 180, 232, 0.2)",
+   "color": "rgb(237, 237, 243)",
+   "radius": "40px",
+   "pad": "0px 20px",
+   "size": "16px",
+   "weight": "420",
+   "tt": "none",
+   "border": "none",
+   "h": 40
+  }
+ ],
+ "headings": [
+  "Radically different banking",
+  "Business banking & more",
+  "Cards & expense management",
+  "Payments & invoicing",
+  "Accounting",
+  "Loved by 300K+ of the most ambitious entrepreneurs on the planet",
+  "Apply online in 10 minutes",
+  "Get a credit card instantly",
+  "Tackle banking tasks in seconds",
+  "Send no-fee USD payments around the globe",
+  "Earn 1.5% cashback on credit spend",
+  "Earn up to 4.00% yield with Mercury Treasury",
+  "You’re creating something to stand the test of time. So are we.",
+  "Mercury hits $5.2B valuation",
+  "$650M in annual revenue and profitable",
+  "Mercury lands $300M Series C",
+  "Banking – redesigned from the ground up.",
+  "Mercury for business",
+  "Mercury for personal",
+  "Disclaimers and footnotes"
+ ],
+ "paras": [
+  "Manage your business finances at every stage of growth.",
+  "Apply for business accounts, earn yield, and access capital.",
+  "Issue cards instantly and control team and agent spend.",
+  "Send payments, create invoices, and sync your accounting tools.",
+  "Leverage AI to understand and manage your finances.",
+  "A smarter way to manage, move, and grow your personal finances.",
+  "Spend less time on money management and more time building.",
+  "Get everything you need to grow your brand at every stage.",
+  "Simplify your finances across every client and project.",
+  "Manage investments in all your portfolio companies in one place."
+ ],
+ "footer": {
+  "h": 717,
+  "text": "Banking Business Checking & Savings Treasury Business Credit Cards Working Capital Loans Venture Debt Personal Banking Platform Pricing Switch to Mercury Command Insights API Security Status Perks Resources Help Center Meridian Blog Tools Events Business Formation Resources Peak Season Product Relea"
+ },
+ "jsMotion": {
+  "scriptsFetched": 17,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [],
+  "staggers": [],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

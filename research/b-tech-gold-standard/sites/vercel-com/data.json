@@ -1,0 +1,918 @@
+{
+ "url": "https://vercel.com",
+ "slug": "vercel-com",
+ "analyzedAt": "2026-10-07T05:12:48.381Z",
+ "scrollHeight": 5333,
+ "pageLengthInViewports": 5.9,
+ "title": "Agentic Infrastructure - Vercel",
+ "metaDescription": "The autonomous stack for every app and agent.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "Geist Mono 100 900 normal",
+   "GeistSans 100 900 normal"
+  ],
+  "families": [
+   [
+    "GeistSans",
+    146
+   ],
+   [
+    "Geist Mono",
+    15
+   ]
+  ],
+  "sizes": [
+   [
+    "14px",
+    126
+   ],
+   [
+    "24px",
+    9
+   ],
+   [
+    "12px",
+    8
+   ],
+   [
+    "16px",
+    7
+   ],
+   [
+    "56px",
+    5
+   ],
+   [
+    "11px",
+    5
+   ],
+   [
+    "64px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    107
+   ],
+   [
+    "500",
+    37
+   ],
+   [
+    "450",
+    17
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    139
+   ],
+   [
+    "-0.040em@24",
+    7
+   ],
+   [
+    "-0.060em@56",
+    5
+   ],
+   [
+    "0.018em@11",
+    4
+   ],
+   [
+    "-0.020em@16",
+    3
+   ],
+   [
+    "-0.050em@24",
+    2
+   ],
+   [
+    "-0.060em@64",
+    1
+   ]
+  ],
+  "uppercaseShare": 0.04,
+  "largest": [
+   {
+    "tag": "h1",
+    "text": "Agentic Infrastructure",
+    "family": "GeistSans",
+    "size": "64px",
+    "weight": "400",
+    "lh": "64px",
+    "ls": "-3.84px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(23, 23, 23)"
+   },
+   {
+    "tag": "h2",
+    "text": "Build agents on infrastructure that thinks like them",
+    "family": "GeistSans",
+    "size": "56px",
+    "weight": "450",
+    "lh": "56px",
+    "ls": "-3.36px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(23, 23, 23)"
+   },
+   {
+    "tag": "h2",
+    "text": "",
+    "family": "GeistSans",
+    "size": "56px",
+    "weight": "450",
+    "lh": "56px",
+    "ls": "-3.36px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(23, 23, 23)"
+   },
+   {
+    "tag": "h2",
+    "text": "Recently shipped",
+    "family": "GeistSans",
+    "size": "56px",
+    "weight": "450",
+    "lh": "56px",
+    "ls": "-3.36px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(23, 23, 23)"
+   },
+   {
+    "tag": "h2",
+    "text": "Built by you, or your agents",
+    "family": "GeistSans",
+    "size": "56px",
+    "weight": "450",
+    "lh": "56px",
+    "ls": "-3.36px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(23, 23, 23)"
+   },
+   {
+    "tag": "span",
+    "text": "Drop to deploy",
+    "family": "GeistSans",
+    "size": "24px",
+    "weight": "450",
+    "lh": "32px",
+    "ls": "-0.96px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(23, 23, 23)"
+   },
+   {
+    "tag": "p",
+    "text": "Notion powers millions of agent conversations daily on Vercel.",
+    "family": "GeistSans",
+    "size": "24px",
+    "weight": "450",
+    "lh": "32px",
+    "ls": "-0.96px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(77, 77, 77)"
+   },
+   {
+    "tag": "span",
+    "text": "Notion powers millions",
+    "family": "GeistSans",
+    "size": "24px",
+    "weight": "450",
+    "lh": "32px",
+    "ls": "-0.96px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(23, 23, 23)"
+   },
+   {
+    "tag": "p",
+    "text": "Passport",
+    "family": "GeistSans",
+    "size": "24px",
+    "weight": "450",
+    "lh": "26.4px",
+    "ls": "-1.2px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(23, 23, 23)"
+   },
+   {
+    "tag": "p",
+    "text": "Containers",
+    "family": "GeistSans",
+    "size": "24px",
+    "weight": "450",
+    "lh": "26.4px",
+    "ls": "-1.2px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(23, 23, 23)"
+   },
+   {
+    "tag": "span",
+    "text": "Deploy now",
+    "family": "GeistSans",
+    "size": "16px",
+    "weight": "500",
+    "lh": "24px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "Talk to sales",
+    "family": "GeistSans",
+    "size": "16px",
+    "weight": "500",
+    "lh": "24px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(23, 23, 23)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(250, 250, 250)",
+  "htmlBg": "rgb(250, 250, 250)",
+  "text": [
+   [
+    "rgb(77, 77, 77)",
+    93
+   ],
+   [
+    "rgb(23, 23, 23)",
+    55
+   ],
+   [
+    "lab(80.976 0 -0.0000119209)",
+    6
+   ],
+   [
+    "rgb(255, 255, 255)",
+    3
+   ],
+   [
+    "rgb(143, 143, 143)",
+    3
+   ],
+   [
+    "rgb(0, 112, 243)",
+    1
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(255, 255, 255)",
+    8
+   ],
+   [
+    "rgb(250, 250, 250)",
+    4
+   ],
+   [
+    "rgb(23, 23, 23)",
+    3
+   ],
+   [
+    "lab(7.78201 -0.0000149012 0)",
+    2
+   ],
+   [
+    "rgb(0, 112, 243)",
+    1
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(to top in oklab, rgb(250, 250, 250) 0%, rgba(0, 0, 0, 0) 100%)",
+    3
+   ],
+   [
+    "radial-gradient(circle at 0% 0%, rgb(250, 250, 250) 0%, rgba(0, 0, 0, 0) 30%), radial-gradient(circle at 100% 0%, rgb(250, 250, 250) 0%, rgb",
+    1
+   ],
+   [
+    "linear-gradient(rgb(0, 255, 149) 0%, rgb(255, 208, 0) 25%, rgb(255, 23, 68) 50%, rgb(149, 0, 255) 75%, rgb(0, 229, 255) 100%)",
+    1
+   ],
+   [
+    "linear-gradient(90deg, rgb(255, 220, 48) 0%, rgb(56, 162, 255) 100%)",
+    1
+   ],
+   [
+    "linear-gradient(to right bottom, rgba(0, 0, 0, 0) 0%, lab(100 0 0) 100%)",
+    1
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.4,0,0.2,1)",
+    12
+   ],
+   [
+    "cubic-bezier(.4,.04,.04,1)",
+    8
+   ],
+   [
+    "cubic-bezier(.4,0,.2,1)",
+    7
+   ],
+   [
+    "cubic-bezier(0,0,.2,1)",
+    6
+   ],
+   [
+    "cubic-bezier(.16,1,.3,1)",
+    6
+   ],
+   [
+    "cubic-bezier(.455,.03,.515,.955)",
+    6
+   ],
+   [
+    "cubic-bezier(0.32,0.72,0,1)",
+    4
+   ],
+   [
+    "cubic-bezier(0.25,0.57,0.45,0.94)",
+    4
+   ],
+   [
+    "cubic-bezier(0.455,0.03,0.515,0.955)",
+    3
+   ],
+   [
+    "cubic-bezier(0,0,0.2,1)",
+    3
+   ],
+   [
+    "cubic-bezier(0.33,0.01,0.63,1.01)",
+    3
+   ],
+   [
+    "cubic-bezier(.4,0,1,1)",
+    2
+   ]
+  ],
+  "durations": [
+   [
+    "0.2s",
+    45
+   ],
+   [
+    "0.15s",
+    38
+   ],
+   [
+    "0s",
+    21
+   ],
+   [
+    "0.5s",
+    18
+   ],
+   [
+    "2s",
+    17
+   ],
+   [
+    "0.3s",
+    15
+   ],
+   [
+    "0.4s",
+    14
+   ],
+   [
+    "1s",
+    13
+   ],
+   [
+    "0.25s",
+    12
+   ],
+   [
+    "0.1s",
+    12
+   ]
+  ],
+  "keyframes": [
+   "soft-fade-in",
+   "show",
+   "hide",
+   "fade-in",
+   "fade-out",
+   "spinner-opacity",
+   "slide-in",
+   "fade-slide-in",
+   "blue-glow",
+   "thinking-loader",
+   "bar-pulse",
+   "logo-carousel",
+   "sandbox-left",
+   "sandbox-right",
+   "sandbox-left-reverse",
+   "sandbox-right-reverse",
+   "blink",
+   "flip-front",
+   "flip-back",
+   "accordion-down"
+  ]
+ },
+ "cssVarSample": {
+  "--geist-space": "4px",
+  "--geist-space-2x": "8px",
+  "--geist-space-3x": "12px",
+  "--geist-space-4x": "16px",
+  "--geist-space-6x": "24px",
+  "--geist-space-8x": "32px",
+  "--geist-space-10x": "40px",
+  "--geist-space-16x": "64px",
+  "--geist-space-24x": "96px",
+  "--geist-space-32x": "128px",
+  "--geist-space-48x": "192px",
+  "--geist-space-64x": "256px",
+  "--geist-space-small": "32px",
+  "--geist-space-medium": "36px",
+  "--geist-space-large": "40px",
+  "--geist-space-gap": "24px",
+  "--geist-space-gap-half": "12px",
+  "--geist-space-gap-quarter": "var(--geist-space-2x)",
+  "--geist-gap": "var(--geist-space-gap)",
+  "--geist-gap-half": "var(--geist-space-gap-half)",
+  "--geist-gap-quarter": "var(--geist-space-gap-quarter)",
+  "--geist-gap-double": "var(--geist-space-large)",
+  "--geist-gap-section": "var(--geist-space-small)",
+  "--geist-space-negative": "-4px",
+  "--geist-space-2x-negative": "-8px",
+  "--geist-space-4x-negative": "-16px",
+  "--geist-space-8x-negative": "-32px",
+  "--geist-space-16x-negative": "-64px",
+  "--geist-space-24x-negative": "-96px",
+  "--geist-space-32x-negative": "-128px",
+  "--geist-space-48x-negative": "-192px",
+  "--geist-space-64x-negative": "-256px",
+  "--geist-space-small-negative": "-32px",
+  "--geist-space-medium-negative": "-36px",
+  "--geist-space-large-negative": "-40px",
+  "--geist-space-gap-negative": "-24px",
+  "--geist-space-gap-half-negative": "-12px",
+  "--geist-space-gap-quarter-negative": "var(--geist-space-2x-negative)",
+  "--geist-gap-negative": "var(--geist-space-gap-negative)",
+  "--geist-gap-half-negative": "var(--geist-space-gap-half-negative)",
+  "--geist-gap-quarter-negative": "var(--geist-space-gap-quarter-negative)",
+  "--geist-gap-double-negative": "var(--geist-space-large-negative)",
+  "--geist-page-margin": "var(--geist-space-gap)",
+  "--geist-page-width": "1200px",
+  "--geist-page-width-with-margin": "calc(var(--geist-page-width) + calc(2 * var(--geist-page-margin)))",
+  "--ds-page-width": "1400px",
+  "--ds-page-width-with-margin": "calc(var(--ds-page-width) + calc(2 * var(--geist-page-margin)))",
+  "--geist-radius": "6px",
+  "--geist-marketing-radius": "8px",
+  "--geist-text-gradient": "linear-gradient(180deg, #000c 0%, #000 100%)",
+  "--font-sans-fallback": "\"Inter\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", \"Roboto\", \"Oxygen\", \"Ubu",
+  "--font-mono-fallback": "Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera",
+  "--header-height": "64px",
+  "--header-zindex": "75",
+  "--header-border-bottom": "0 1px 0 0 #0000001a",
+  "--ds-z-drawer": "200",
+  "--ds-z-modal": "300",
+  "--ds-z-menu": "2001",
+  "--ds-z-toast": "5000",
+  "--ds-z-tooltip": "99999",
+  "--header-sub-menu-height": "46px",
+  "--header-import-flow-background": "#fafafacc",
+  "--footer-height": "79px",
+  "--geist-form-large-font": "1rem",
+  "--geist-form-large-line-height": "1.5rem",
+  "--geist-form-large-height": "var(--geist-space-large)",
+  "--geist-form-small-font": ".875rem",
+  "--geist-form-small-line-height": ".875rem",
+  "--geist-form-small-height": "var(--geist-space-small)",
+  "--geist-form-font": ".875rem"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 1,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": true,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 19,
+  "video": 0,
+  "svg": 47,
+  "picture": 0,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [
+   [
+    "luminosity",
+    2
+   ],
+   [
+    "multiply",
+    1
+   ],
+   [
+    "color-burn",
+    1
+   ]
+  ],
+  "backdropFilter": 0,
+  "clipPath": 9,
+  "sticky": 2,
+  "fixed": [
+   "inset-0 pointer-events-none fixed z-[100000] h-full w-full"
+  ],
+  "customCursor": true,
+  "boxShadows": [
+   [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px, rgb(250, 250, 250) 0px 0px 0px 1px",
+    5
+   ],
+   [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgb(235, 235, 235) 0px 0px 0px 1px",
+    4
+   ],
+   [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgb(235, 235, 235) 0px 0px 0px 1px inset",
+    3
+   ],
+   [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.08) 0px 1px 0px 0px",
+    1
+   ]
+  ],
+  "filters": [
+   [
+    "blur(120px)",
+    3
+   ],
+   [
+    "blur(20px)",
+    2
+   ],
+   [
+    "blur(48px)",
+    1
+   ]
+  ],
+  "transforms3d": 0,
+  "noiseOrGrain": true,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "3.35544e+07px",
+   9
+  ],
+  [
+   "6px",
+   7
+  ],
+  [
+   "0px 0px 0px 1px",
+   1
+  ],
+  [
+   "0px 8px 8px 0px",
+   1
+  ],
+  [
+   "4px",
+   1
+  ]
+ ],
+ "borders": [],
+ "grids": [
+  [
+   "12cols gap 20px",
+   8
+  ],
+  [
+   "1cols gap normal",
+   3
+  ],
+  [
+   "3cols gap normal",
+   1
+  ],
+  [
+   "12cols gap 24px",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "100%",
+   6
+  ],
+  [
+   "1448px",
+   5
+  ],
+  [
+   "961px",
+   1
+  ],
+  [
+   "1080px",
+   1
+  ]
+ ],
+ "sideMargins": [
+  [
+   "24px",
+   5
+  ],
+  [
+   "1255px",
+   4
+  ],
+  [
+   "750px",
+   4
+  ],
+  [
+   "1071px",
+   3
+  ],
+  [
+   "1083px",
+   2
+  ],
+  [
+   "559px",
+   1
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "max-w-(--ds-page-width-with-margin) px-(--geist-pa",
+   "h": 5020,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "relative flex min-h-[min(calc(100svh-var(--header-",
+   "h": 836,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "mt-40 @md:mt-52",
+   "h": 2362,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "flex flex-col @lg:grid w-full @lg:grid-cols-12 gap",
+   "h": 112,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "flex flex-col @lg:grid w-full @lg:grid-cols-12 gap",
+   "h": 112,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "flex flex-col @lg:grid w-full @lg:grid-cols-12 gap",
+   "h": 112,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "mt-40 @md:mt-52",
+   "h": 718,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "flex flex-col @lg:grid w-full @lg:grid-cols-12 gap",
+   "h": 56,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "grid grid-cols-1 gap-5 @smd:grid-cols-12",
+   "h": 580,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "mt-53 mb-53 @md:mt-69 @md:mb-69",
+   "h": 136,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "flex w-full flex-col items-center gap-y-3 text-cen",
+   "h": 56,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "sticky",
+  "height": 64,
+  "links": 78,
+  "linkTexts": [
+   "Copy Wordmark",
+   "Copy Logo",
+   "Download Brand Assets",
+   "Brand Guidelines",
+   "Products",
+   "Resources",
+   "Enterprise",
+   "Pricing",
+   "Get a Demo",
+   "Log In",
+   "Sign Up",
+   "Ask AI",
+   "Dashboard"
+  ],
+  "bg": "rgb(250, 250, 250)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "Get a Demo",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(23, 23, 23)",
+   "radius": "6px",
+   "pad": "0px 6px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 32
+  },
+  {
+   "text": "Log In",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(23, 23, 23)",
+   "radius": "6px",
+   "pad": "0px 6px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 32
+  },
+  {
+   "text": "Sign Up",
+   "bg": "rgb(23, 23, 23)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "6px",
+   "pad": "0px 6px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 32
+  },
+  {
+   "text": "Deploy now",
+   "bg": "rgb(23, 23, 23)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "3.35544e+07px",
+   "pad": "0px 12px",
+   "size": "16px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 40
+  },
+  {
+   "text": "Talk to sales",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(23, 23, 23)",
+   "radius": "3.35544e+07px",
+   "pad": "0px 12px",
+   "size": "16px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 40
+  },
+  {
+   "text": "Deploy now",
+   "bg": "rgb(23, 23, 23)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "3.35544e+07px",
+   "pad": "0px 12px",
+   "size": "16px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 40
+  },
+  {
+   "text": "Onboard your agent",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(23, 23, 23)",
+   "radius": "3.35544e+07px",
+   "pad": "0px 8px 0px 4px",
+   "size": "16px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 40
+  }
+ ],
+ "headings": [
+  "Agentic Infrastructure",
+  "Build agents on infrastructure that thinks like them",
+  "Recently shipped",
+  "Built by you, or your agents",
+  "Agent Stack",
+  "Core Platform",
+  "Security",
+  "Tools",
+  "Frameworks",
+  "SDKs",
+  "Build",
+  "Learn",
+  "Explore",
+  "Company",
+  "Legal & Trust",
+  "Social"
+ ],
+ "paras": [
+  "To ship apps and agentsFor coding agentsFor coding agents to ship apps and agents automated by agents.",
+  "Notion powers millions of agent conversations daily on Vercel.",
+  "eve is a framework for building durable agents.",
+  "Secure every internal agent, app, and deployment with your identity provider.",
+  "Production: https://my-server.vercel.app",
+  "Run production workloads in isolated containers on Vercel."
+ ],
+ "footer": {
+  "h": 846,
+  "text": "Agent Stack AI SDK AI Gateway Sandbox Workflows Connect New Passport New eve New Core Platform CI/CD Content Delivery Fluid Compute Observability Security Platform Security WAF Bot Management BotID Tools Vercel Drop Vercel Agent Vercel Plugin Agent Skills Domains v0 Frameworks eve New Next.js Nuxt S"
+ },
+ "jsMotion": {
+  "scriptsFetched": 25,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "1200",
+    4
+   ],
+   [
+    "0",
+    3
+   ],
+   [
+    "1300",
+    1
+   ]
+  ],
+  "staggers": [],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

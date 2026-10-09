@@ -1,0 +1,1047 @@
+{
+ "url": "https://pangrampangram.com",
+ "slug": "pangrampangram-com",
+ "analyzedAt": "2026-10-07T05:14:56.943Z",
+ "scrollHeight": 8385,
+ "pageLengthInViewports": 9.3,
+ "title": "Pangram Pangram — Free to try, High-Quality Fonts for Designers – Pangram Pangram Foundry",
+ "metaDescription": "Pangram Pangram is a world-renowned type foundry crafting premium, contemporary fonts for bold brands and creatives. Explore our full catalog, every font is free to try, made to perform across print, digital, and everything in between.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "Neue Montreal 1 999 normal",
+   "neue-gstaad-normal-normal-semibold 400 normal",
+   "palma-fizzy-heavy 400 normal",
+   "altera-carve-semibold 400 normal",
+   "neue-montreal-semibold 600 normal",
+   "neue-gstaad-normal-bold 700 normal",
+   "palma-fizzy-heavy 800 normal",
+   "altera-carve-semibold 600 normal",
+   "neue-york-normal-bold 700 normal",
+   "kyoto-semibold 600 normal",
+   "frama-semibold 580 normal",
+   "mori-bold 700 normal",
+   "neue-corp-normal-semibold 500 normal",
+   "museum-light 300 normal",
+   "watch-medium 485 normal",
+   "monument-narrow-medium 525 normal"
+  ],
+  "families": [
+   [
+    "Neue Montreal",
+    285
+   ],
+   [
+    "palma-fizzy-heavy",
+    3
+   ],
+   [
+    "altera-carve-semibold",
+    3
+   ],
+   [
+    "neue-gstaad-normal-bold",
+    2
+   ],
+   [
+    "neue-montreal-semibold",
+    2
+   ],
+   [
+    "neue-york-normal-bold",
+    2
+   ],
+   [
+    "frama-semibold",
+    2
+   ],
+   [
+    "kyoto-semibold",
+    2
+   ]
+  ],
+  "sizes": [
+   [
+    "14px",
+    181
+   ],
+   [
+    "12px",
+    64
+   ],
+   [
+    "36px",
+    16
+   ],
+   [
+    "18px",
+    12
+   ],
+   [
+    "103px",
+    12
+   ],
+   [
+    "29px",
+    12
+   ],
+   [
+    "22px",
+    5
+   ],
+   [
+    "16px",
+    4
+   ],
+   [
+    "121px",
+    1
+   ],
+   [
+    "145px",
+    1
+   ],
+   [
+    "169px",
+    1
+   ],
+   [
+    "20px",
+    1
+   ],
+   [
+    "48px",
+    1
+   ],
+   [
+    "73px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    243
+   ],
+   [
+    "600",
+    41
+   ],
+   [
+    "530",
+    10
+   ],
+   [
+    "700",
+    6
+   ],
+   [
+    "300",
+    2
+   ],
+   [
+    "485",
+    2
+   ],
+   [
+    "500",
+    2
+   ],
+   [
+    "525",
+    2
+   ],
+   [
+    "580",
+    2
+   ],
+   [
+    "800",
+    2
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    312
+   ]
+  ],
+  "uppercaseShare": 0,
+  "largest": [
+   {
+    "tag": "span",
+    "text": "Altera",
+    "family": "altera-carve-semibold",
+    "size": "169.199px",
+    "weight": "400",
+    "lh": "169.199px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(250, 250, 250)"
+   },
+   {
+    "tag": "span",
+    "text": "Palma",
+    "family": "palma-fizzy-heavy",
+    "size": "145.027px",
+    "weight": "400",
+    "lh": "145.027px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(250, 250, 250)"
+   },
+   {
+    "tag": "span",
+    "text": "Neue Gstaad",
+    "family": "neue-gstaad-normal-normal-semibold",
+    "size": "120.856px",
+    "weight": "400",
+    "lh": "120.856px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(250, 250, 250)"
+   },
+   {
+    "tag": "text",
+    "text": "",
+    "family": "palma-fizzy-heavy",
+    "size": "102.598px",
+    "weight": "800",
+    "lh": "102.598px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "span",
+    "text": "Welcome to Neue Montreal",
+    "family": "Neue Montreal",
+    "size": "72.5137px",
+    "weight": "600",
+    "lh": "72.5137px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(250, 250, 250)"
+   },
+   {
+    "tag": "span",
+    "text": "We provide trend-conscious, free to try fonts for designers.",
+    "family": "Neue Montreal",
+    "size": "48.3425px",
+    "weight": "600",
+    "lh": "48.3425px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(250, 250, 250)"
+   },
+   {
+    "tag": "h3",
+    "text": "GSAP",
+    "family": "Neue Montreal",
+    "size": "36px",
+    "weight": "400",
+    "lh": "36px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "h3",
+    "text": "Kista",
+    "family": "Neue Montreal",
+    "size": "36px",
+    "weight": "400",
+    "lh": "36px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "h3",
+    "text": "The Vellum",
+    "family": "Neue Montreal",
+    "size": "36px",
+    "weight": "400",
+    "lh": "36px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "h3",
+    "text": "Omega",
+    "family": "Neue Montreal",
+    "size": "36px",
+    "weight": "400",
+    "lh": "36px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "h3",
+    "text": "Claystone",
+    "family": "Neue Montreal",
+    "size": "36px",
+    "weight": "400",
+    "lh": "36px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "h3",
+    "text": "Peaches",
+    "family": "Neue Montreal",
+    "size": "36px",
+    "weight": "400",
+    "lh": "36px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(250, 250, 250)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(0, 0, 0)",
+    170
+   ],
+   [
+    "rgb(102, 102, 102)",
+    104
+   ],
+   [
+    "rgb(255, 255, 255)",
+    25
+   ],
+   [
+    "rgb(250, 250, 250)",
+    10
+   ],
+   [
+    "rgb(255, 47, 0)",
+    3
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(255, 47, 0)",
+    53
+   ],
+   [
+    "rgb(237, 237, 237)",
+    50
+   ],
+   [
+    "rgb(0, 0, 0)",
+    21
+   ],
+   [
+    "rgb(255, 255, 255)",
+    17
+   ],
+   [
+    "rgb(255, 183, 0)",
+    3
+   ],
+   [
+    "rgb(191, 224, 255)",
+    2
+   ],
+   [
+    "rgba(237, 237, 237, 0.6)",
+    1
+   ]
+  ],
+  "gradients": []
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(.32,0,.67,0)",
+    1
+   ],
+   [
+    "cubic-bezier(.33,1,.68,1)",
+    1
+   ],
+   [
+    "cubic-bezier(.61,1,.88,1)",
+    1
+   ],
+   [
+    "cubic-bezier(.22,1,.36,1)",
+    1
+   ],
+   [
+    "cubic-bezier(.64,0,.78,0)",
+    1
+   ],
+   [
+    "cubic-bezier(.7,0,.2,1)",
+    1
+   ],
+   [
+    "cubic-bezier(.5,1.8,.62,1)",
+    1
+   ]
+  ],
+  "durations": [
+   [
+    "0s",
+    10
+   ],
+   [
+    "0.2s",
+    4
+   ],
+   [
+    "1.4s",
+    4
+   ],
+   [
+    "30s",
+    2
+   ],
+   [
+    ".2s",
+    2
+   ],
+   [
+    "1s",
+    1
+   ],
+   [
+    "0.3s",
+    1
+   ],
+   [
+    "0.1s",
+    1
+   ],
+   [
+    "0.15s",
+    1
+   ],
+   [
+    "2.5s",
+    1
+   ]
+  ],
+  "keyframes": [
+   "swiper-preloader-spin",
+   "moveUpInitial",
+   "moveUpInitialSubtle",
+   "moveUpEnd",
+   "moveUpEndSubtle",
+   "bump",
+   "bounceRight",
+   "animateAmbient",
+   "slideIn",
+   "fadeIn",
+   "rotator",
+   "dash",
+   "indeterminateAnimation",
+   "loadingAnim",
+   "moveReduce",
+   "drunkGods",
+   "moveGod1",
+   "moveGod2",
+   "moveGod3",
+   "moveGod4"
+  ]
+ },
+ "cssVarSample": {
+  "--swiper-theme-color": "#007aff",
+  "--swiper-navigation-size": "22px",
+  "--swiper-navigation-color": "hsl(var(--color-white))",
+  "--swiper-pagination-bullet-inactive-color": "hsl(var(--color-black))",
+  "--swiper-pagination-color": "hsl(var(--color-black))",
+  "--swiper-pagination-bullet-inactive-opacity": ".2",
+  "--color-black": "0 0 0%",
+  "--color-white": "0 0 100%",
+  "--color-offwhite": "0 0 98%",
+  "--color-gray": "0 0 93%",
+  "--color-gray-medium": "0 0 85%",
+  "--color-gray-dark": "0 0 67%",
+  "--color-gray-darker": "0 0 40%",
+  "--color-red": "11 100% 50%",
+  "--color-yellow": "43 100% 50%",
+  "--color-green": "148 100% 68%",
+  "--color-blue": "209 100% 87.5%",
+  "--color-orange": "24.9 100% 48.6%",
+  "--color-primary": "var(--color-red)",
+  "--color-foreground": "var(--color-black)",
+  "--color-background": "var(--color-offwhite)",
+  "--color-link": "var(--color-foreground)",
+  "--color-link-hover": "var(--color-primary)",
+  "--space-3xs": "clamp(.25rem, .25rem + 0vw, .25rem)",
+  "--space-2xs": "clamp(.4375rem, .4259rem + .0581vw, .5rem)",
+  "--space-xs": "clamp(.6875rem, .6759rem + .0581vw, .75rem)",
+  "--space-s": "clamp(.875rem, .8517rem + .1163vw, 1rem)",
+  "--space-m": "clamp(1.3125rem, 1.2776rem + .1744vw, 1.5rem)",
+  "--space-l": "clamp(1.75rem, 1.7035rem + .2326vw, 2rem)",
+  "--space-xl": "clamp(2.625rem, 2.5552rem + .3488vw, 3rem)",
+  "--space-2xl": "clamp(3.5rem, 3.407rem + .4651vw, 4rem)",
+  "--space-3xl": "clamp(5.25rem, 5.1105rem + .6977vw, 6rem)",
+  "--space-4xl": "clamp(7rem, 6.814rem + .9302vw, 8rem)",
+  "--space-5xl": "clamp(8.75rem, 8.5174rem + 1.1628vw, 10rem)",
+  "--space-3xs-2xs": "clamp(.25rem, .2035rem + .2326vw, .5rem)",
+  "--space-2xs-xs": "clamp(.4375rem, .3794rem + .2907vw, .75rem)",
+  "--space-xs-s": "clamp(.6875rem, .6294rem + .2907vw, 1rem)",
+  "--space-s-m": "clamp(.875rem, .7587rem + .5814vw, 1.5rem)",
+  "--space-m-l": "clamp(1.3125rem, 1.1846rem + .6395vw, 2rem)",
+  "--space-l-xl": "clamp(1.75rem, 1.5174rem + 1.1628vw, 3rem)",
+  "--space-xl-2xl": "clamp(2.625rem, 2.3692rem + 1.2791vw, 4rem)",
+  "--space-2xl-3xl": "clamp(3.5rem, 3.0349rem + 2.3256vw, 6rem)",
+  "--space-3xl-4xl": "clamp(5.25rem, 4.7384rem + 2.5581vw, 8rem)",
+  "--space-4xl-5xl": "clamp(7rem, 6.4419rem + 2.7907vw, 10rem)",
+  "--space-s-l": "clamp(.875rem, .6657rem + 1.0465vw, 2rem)",
+  "--space-m-xl": "clamp(1.3125rem, .9985rem + 1.5698vw, 3rem)",
+  "--space-xl-3xl": "clamp(2.625rem, 1.9971rem + 3.1395vw, 6rem)",
+  "--space-s-xl": "clamp(.875rem, .4797rem + 1.9767vw, 3rem)",
+  "--fs-xs": "clamp(.6914rem, .6914rem + 0vw, .6914rem)",
+  "--fs-s": "clamp(.7778rem, .7778rem + 0vw, .7778rem)",
+  "--fs-base": "clamp(.875rem, .875rem + 0vw, .875rem)",
+  "--fs-m": "clamp(.9844rem, .9844rem + 0vw, .9844rem)",
+  "--fs-l": "clamp(1.1074rem, 1.1074rem + 0vw, 1.1074rem)",
+  "--fs-xl": "clamp(1.2458rem, 1.2458rem + 0vw, 1.2458rem)",
+  "--fs-2xl": "clamp(1.4016rem, 1.4016rem + 0vw, 1.4016rem)",
+  "--fs-3xl": "clamp(1.5768rem, 1.5768rem + 0vw, 1.5768rem)",
+  "--fs-4xl": "clamp(1.7739rem, 1.7739rem + 0vw, 1.7739rem)",
+  "--fs-huge": "2.25rem",
+  "--fs-enormous": "3.75rem",
+  "--fs-gigantic": "5rem",
+  "--font-family": "\"Neue Montreal\", sans-serif",
+  "--font-body-family": "var(--font-family)",
+  "--font-body-style": "normal",
+  "--font-body-weight": "400",
+  "--font-heading-family": "var(--font-family)",
+  "--font-heading-style": "normal",
+  "--font-heading-weight": "600",
+  "--gutter": "var(--space-s)",
+  "--border-radius": "1.25rem",
+  "--radius-full": "999px"
+ },
+ "libs": {
+  "gsap": true,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": true,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 37,
+  "video": 0,
+  "svg": 40,
+  "picture": 0,
+  "iframes": 1
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 2,
+  "clipPath": 0,
+  "sticky": 0,
+  "fixed": [
+   "header--sticky is-fixed"
+  ],
+  "customCursor": false,
+  "boxShadows": [],
+  "filters": [],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "20px",
+   80
+  ],
+  [
+   "999px",
+   57
+  ],
+  [
+   "50%",
+   16
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgb(0, 0, 0)",
+   8
+  ],
+  [
+   "1px solid rgb(255, 255, 255)",
+   3
+  ],
+  [
+   "1px solid rgb(255, 47, 0)",
+   1
+  ]
+ ],
+ "grids": [
+  [
+   "1cols gap normal",
+   48
+  ],
+  [
+   "2cols gap 25.7208px",
+   2
+  ],
+  [
+   "4cols gap 25.7208px",
+   2
+  ],
+  [
+   "7cols gap 20px",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "100%",
+   20
+  ],
+  [
+   "1440px",
+   14
+  ],
+  [
+   "70%",
+   5
+  ]
+ ],
+ "sideMargins": [
+  [
+   "116px",
+   5
+  ],
+  [
+   "759px",
+   5
+  ],
+  [
+   "297px",
+   5
+  ],
+  [
+   "360px",
+   4
+  ],
+  [
+   "90px",
+   4
+  ],
+  [
+   "437px",
+   3
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "shopify-section section image-banner",
+   "h": 519,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section-margin u-appear visible",
+   "h": 519,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "shopify-section section image-banner",
+   "h": 519,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section-margin u-appear visible",
+   "h": 519,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "shopify-section section image-banner",
+   "h": 519,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section-margin u-appear visible",
+   "h": 519,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "shopify-section section featured-collection",
+   "h": 1414,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "collection section-margin",
+   "h": 1414,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section__section-header p-grid p-grid--2col-mobile",
+   "h": 32,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "shopify-section section featured-blog",
+   "h": 639,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section-margin",
+   "h": 639,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section__section-header p-cluster u-appear visible",
+   "h": 32,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "shopify-section section image-banner",
+   "h": 408,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section-margin",
+   "h": 408,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "shopify-section section mini-carousel",
+   "h": 220,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section-margin",
+   "h": 220,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section__section-header p-cluster u-appear visible",
+   "h": 32,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "shopify-section section image-banner",
+   "h": 519,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section-margin",
+   "h": 519,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "shopify-section section dual-promos",
+   "h": 520,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section-margin",
+   "h": 520,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "shopify-section section dual-promos",
+   "h": 520,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section-margin",
+   "h": 520,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "shopify-section section featured-blog",
+   "h": 639,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section-margin",
+   "h": 639,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section__section-header p-cluster u-appear visible",
+   "h": 32,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "shopify-section shopify-section-group-footer-group",
+   "h": 1036,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "absolute",
+  "height": 54,
+  "links": 39,
+  "linkTexts": [
+   "Pangram Pangram Foundry",
+   "All fonts",
+   "Font starter pack",
+   "Font in use",
+   "Academy",
+   "Support",
+   "Pangram Pangram Foundry",
+   "All fonts",
+   "Font starter pack",
+   "Font in use",
+   "Academy",
+   "Support",
+   "Pangram Pangram",
+   "All fonts"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "Explore font",
+   "bg": "rgb(237, 237, 237)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "20px",
+   "pad": "7.65104px 22.953px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 31
+  },
+  {
+   "text": "Try for Free",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "20px",
+   "pad": "7.65104px 22.953px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(255, 255, 255)",
+   "h": 33
+  },
+  {
+   "text": "Explore font",
+   "bg": "rgb(237, 237, 237)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "20px",
+   "pad": "7.65104px 22.953px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 31
+  },
+  {
+   "text": "Try for Free",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "20px",
+   "pad": "7.65104px 22.953px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(255, 255, 255)",
+   "h": 33
+  },
+  {
+   "text": "Explore font",
+   "bg": "rgb(237, 237, 237)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "20px",
+   "pad": "7.65104px 22.953px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 31
+  },
+  {
+   "text": "Try for Free",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "20px",
+   "pad": "7.65104px 22.953px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(255, 255, 255)",
+   "h": 33
+  },
+  {
+   "text": "View all fonts",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "20px",
+   "pad": "7.65104px 15.3019px",
+   "size": "12.4448px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(0, 0, 0)",
+   "h": 32
+  },
+  {
+   "text": "View all fonts",
+   "bg": "rgb(255, 47, 0)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "20px",
+   "pad": "11.651px 30.6054px",
+   "size": "19.9328px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(255, 47, 0)",
+   "h": 49
+  },
+  {
+   "text": "View all",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "20px",
+   "pad": "7.65104px 15.3019px",
+   "size": "12.4448px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(0, 0, 0)",
+   "h": 32
+  },
+  {
+   "text": "Read More",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "20px",
+   "pad": "7.65104px 22.953px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 31
+  }
+ ],
+ "headings": [
+  "Pangram Pangram Foundry",
+  "Neue Gstaad",
+  "Palma",
+  "Altera",
+  "Our newest fonts",
+  "Neue Gstaad Collection",
+  "Palma Collection",
+  "Neue Montreal",
+  "Altera Collection",
+  "Neue York Collection",
+  "Frama",
+  "Kyoto",
+  "Mori",
+  "Museum",
+  "Neue Corp Collection",
+  "Watch",
+  "Monument Collection",
+  "Neue Gstaad Collection New",
+  "Palma Collection New",
+  "Neue Montreal Update",
+  "Altera Collection Early access",
+  "Neue York Collection New",
+  "Frama New",
+  "Kyoto",
+  "Mori Update"
+ ],
+ "paras": [
+  "Copyright © 2018 – 2026. All rights reserved.",
+  "Each typeface, every glyph is crafted with great care and attention to details for your everyday designs.",
+  "All our commercial licenses start at $40.",
+  "Travel through to the type's iconic features and landmarks.",
+  "79 Typefaces with about 1250+ Styles and 42 Pro Mockups. Fastest way to upgrade your design game. Period.",
+  "Extraterrestrial forms, organic rhythms, and spikes, lots of spikes!",
+  "Get your digital copy of the first ever Pangram Pangram Specimen book",
+  "Go beyond the types and get inspired by our research.",
+  "Subscribe to our newsletter to stay in touch with the latest.",
+  "Get key weights of with a complete glyph set for free for your personal projects, portfolio, pitches, etc... Simply enter a valid email address below, press the button and check your emails for your free-to-try files."
+ ],
+ "footer": {
+  "h": 1036,
+  "text": "All Fonts Altera Neue Gstaad Palma Neue York Frama Kyoto Watch Museum Model Lettra Mono Valve Neue Corp Editorial Sans Playground Nikkei Gatwick Talisman Right Grotesk Mono Right Serif Mono Pangaia Neue Montreal Mono Hatton Air Editorial Old Fragment Neue Montreal Arabic Right Didone Right Serif Rig"
+ },
+ "jsMotion": {
+  "scriptsFetched": 19,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "0",
+    2
+   ]
+  ],
+  "staggers": [],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

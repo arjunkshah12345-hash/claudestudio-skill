@@ -1,0 +1,833 @@
+{
+ "url": "https://locomotive.ca/en",
+ "slug": "locomotive-ca-en",
+ "analyzedAt": "2026-10-07T05:30:01.518Z",
+ "scrollHeight": 6598,
+ "pageLengthInViewports": 7.3,
+ "title": "Locomotive | Montreal web agency",
+ "metaDescription": "Locomotive® offers a wide range of creative and strategic services for remarkable brands, companies and organizations. Over the 15 years, Locomotive® has become a go-to for meaningful, innovative, results-driven digital experiences, web design and branding. Freshness guaranteed.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "HelveticaNowDisplay 400 normal",
+   "LocomotiveNew 400 normal"
+  ],
+  "families": [
+   [
+    "HelveticaNowDisplay",
+    74
+   ],
+   [
+    "LocomotiveNew",
+    30
+   ]
+  ],
+  "sizes": [
+   [
+    "26px",
+    60
+   ],
+   [
+    "70px",
+    21
+   ],
+   [
+    "110px",
+    9
+   ],
+   [
+    "0px",
+    8
+   ],
+   [
+    "15px",
+    6
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    104
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    104
+   ]
+  ],
+  "uppercaseShare": 0,
+  "largest": [
+   {
+    "tag": "span",
+    "text": "Lightship",
+    "family": "LocomotiveNew",
+    "size": "110px",
+    "weight": "400",
+    "lh": "110px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "span",
+    "text": "Wolverine",
+    "family": "LocomotiveNew",
+    "size": "110px",
+    "weight": "400",
+    "lh": "110px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "span",
+    "text": "Worldwide",
+    "family": "LocomotiveNew",
+    "size": "110px",
+    "weight": "400",
+    "lh": "110px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "span",
+    "text": "The",
+    "family": "LocomotiveNew",
+    "size": "110px",
+    "weight": "400",
+    "lh": "110px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "span",
+    "text": "Drake Hotel",
+    "family": "LocomotiveNew",
+    "size": "110px",
+    "weight": "400",
+    "lh": "110px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "span",
+    "text": "Dulcedo",
+    "family": "LocomotiveNew",
+    "size": "110px",
+    "weight": "400",
+    "lh": "110px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "span",
+    "text": "Scout",
+    "family": "LocomotiveNew",
+    "size": "110px",
+    "weight": "400",
+    "lh": "110px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "span",
+    "text": "Motors",
+    "family": "LocomotiveNew",
+    "size": "110px",
+    "weight": "400",
+    "lh": "110px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "span",
+    "text": "All Work",
+    "family": "LocomotiveNew",
+    "size": "110px",
+    "weight": "400",
+    "lh": "110px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "h1",
+    "text": "🔶 Locomotive® Digital-first Design Agency🍺🔞",
+    "family": "LocomotiveNew",
+    "size": "70px",
+    "weight": "400",
+    "lh": "77px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "🔶",
+    "family": "LocomotiveNew",
+    "size": "70px",
+    "weight": "400",
+    "lh": "77px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "🍺🔞",
+    "family": "LocomotiveNew",
+    "size": "70px",
+    "weight": "400",
+    "lh": "77px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgba(0, 0, 0, 0)",
+  "htmlBg": "rgb(255, 255, 255)",
+  "text": [
+   [
+    "rgb(0, 0, 0)",
+    101
+   ],
+   [
+    "rgb(255, 255, 255)",
+    3
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(255, 255, 255)",
+    4
+   ],
+   [
+    "rgb(0, 0, 0)",
+    1
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(0deg, rgba(255, 255, 255, 0) 0%, rgb(255, 255, 255) 50%)",
+    1
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.215,0.61,0.355,1)",
+    50
+   ],
+   [
+    "cubic-bezier(0.23,1,0.32,1)",
+    9
+   ]
+  ],
+  "durations": [
+   [
+    "0.3s",
+    33
+   ],
+   [
+    "0.15s",
+    19
+   ],
+   [
+    "0.25s",
+    10
+   ],
+   [
+    "0s",
+    4
+   ],
+   [
+    "200ms",
+    3
+   ],
+   [
+    "1s",
+    3
+   ],
+   [
+    "0.6s",
+    3
+   ],
+   [
+    "0.9s",
+    2
+   ],
+   [
+    ".35s",
+    2
+   ],
+   [
+    "500ms",
+    2
+   ]
+  ],
+  "keyframes": [
+   "preloaderAppear",
+   "swiper-preloader-spin",
+   "spin",
+   "shake",
+   "fall",
+   "featuredProjectsAllFlash",
+   "lisaDisclaimerFlash",
+   "lisaDisclaimerProcedure",
+   "lisaLoader",
+   "lisaCursor"
+  ]
+ },
+ "cssVarSample": {
+  "--color": "#000000",
+  "--color-bg": "#FFFFFF",
+  "--font-size": "15px",
+  "--spacing-micro-mobile": "8",
+  "--spacing-micro": "14",
+  "--spacing-tiny-mobile": "20",
+  "--spacing-tiny": "20",
+  "--spacing-small-mobile": "30",
+  "--spacing-small": "30",
+  "--spacing-medium-mobile": "40",
+  "--spacing-medium": "40",
+  "--spacing-large-mobile": "52",
+  "--spacing-large": "80",
+  "--spacing-big-mobile": "80",
+  "--spacing-big": "150",
+  "--spacing-huge-mobile": "100",
+  "--spacing-huge": "200",
+  "--spacing-enormous-mobile": "140",
+  "--spacing-enormous": "250",
+  "--border": "solid var(--border-size)",
+  "--grid-columns": "12",
+  "--grid-gutter": "20px",
+  "--grid-margin": "2.6666666667rem",
+  "--header-height": "4rem",
+  "--head-padding-vh": "0.25",
+  "--about-head-content-offset-vh": "0.15",
+  "--menu-color": "#FFFFFF",
+  "--menu-color-bg": "#312DFB",
+  "--font-size-medium": "1.7333333333rem",
+  "--font-size-huge": "7.6388888889vw",
+  "--font-size-h1": "4.6666666667rem",
+  "--font-size-h2": "1.7333333333rem",
+  "--font-size-h3": "1.4666666667rem",
+  "--font-size-h4": "1.3333333333rem",
+  "--font-size-h5": "1.2rem",
+  "--font-size-h6": "1.0666666667rem",
+  "--swiper-theme-color": "#007aff",
+  "--swiper-navigation-size": "44px",
+  "--cc-font-family": "-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"A",
+  "--cc-modal-border-radius": ".5rem",
+  "--cc-btn-border-radius": ".4rem",
+  "--cc-modal-transition-duration": ".25s",
+  "--cc-link-color": "var(--cc-btn-primary-bg)",
+  "--cc-modal-margin": "1rem",
+  "--cc-z-index": "2147483647",
+  "--cc-bg": "#fff",
+  "--cc-primary-color": "#2c2f31",
+  "--cc-secondary-color": "#5e6266",
+  "--cc-btn-primary-bg": "#30363c",
+  "--cc-btn-primary-color": "#fff",
+  "--cc-btn-primary-border-color": "var(--cc-btn-primary-bg)",
+  "--cc-btn-primary-hover-bg": "#000",
+  "--cc-btn-primary-hover-color": "#fff",
+  "--cc-btn-primary-hover-border-color": "var(--cc-btn-primary-hover-bg)",
+  "--cc-btn-secondary-bg": "#eaeff2",
+  "--cc-btn-secondary-color": "var(--cc-primary-color)",
+  "--cc-btn-secondary-border-color": "var(--cc-btn-secondary-bg)",
+  "--cc-btn-secondary-hover-bg": "#d4dae0",
+  "--cc-btn-secondary-hover-color": "#000",
+  "--cc-btn-secondary-hover-border-color": "#d4dae0",
+  "--cc-separator-border-color": "#f0f4f7",
+  "--cc-toggle-on-bg": "var(--cc-btn-primary-bg)",
+  "--cc-toggle-off-bg": "#667481",
+  "--cc-toggle-on-knob-bg": "#fff",
+  "--cc-toggle-off-knob-bg": "var(--cc-toggle-on-knob-bg)",
+  "--cc-toggle-readonly-bg": "#d5dee2",
+  "--cc-toggle-readonly-knob-bg": "#fff",
+  "--cc-toggle-readonly-knob-icon-color": "var(--cc-toggle-readonly-bg)",
+  "--cc-section-category-border": "var(--cc-cookie-category-block-bg)",
+  "--cc-cookie-category-block-bg": "#f0f4f7"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": true,
+  "locomotive": true,
+  "three": true,
+  "webglCanvas": 0,
+  "canvases": 2,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 7,
+  "video": 1,
+  "svg": 0,
+  "picture": 0,
+  "iframes": 1
+ },
+ "effects": {
+  "mixBlend": [
+   [
+    "difference",
+    1
+   ]
+  ],
+  "backdropFilter": 0,
+  "clipPath": 3,
+  "sticky": 0,
+  "fixed": [
+   "c-header_bg",
+   "c-header",
+   "c-home-hero_background"
+  ],
+  "customCursor": false,
+  "boxShadows": [],
+  "filters": [],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [],
+ "borders": [
+  [
+   "bottom:2px solid rgb(0, 0, 0)",
+   14
+  ],
+  [
+   "2px solid rgb(0, 0, 0)",
+   12
+  ]
+ ],
+ "grids": [
+  [
+   "1cols gap normal",
+   13
+  ],
+  [
+   "12cols gap 20px",
+   6
+  ],
+  [
+   "4cols gap 20px",
+   3
+  ],
+  [
+   "2cols gap 8px",
+   2
+  ],
+  [
+   "3cols gap 20px",
+   2
+  ],
+  [
+   "2cols gap 20px",
+   1
+  ],
+  [
+   "6cols gap 20px",
+   1
+  ]
+ ],
+ "containers": [],
+ "sideMargins": [
+  [
+   "40px",
+   14
+  ],
+  [
+   "730px",
+   2
+  ],
+  [
+   "500px",
+   1
+  ],
+  [
+   "960px",
+   1
+  ],
+  [
+   "1075px",
+   1
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "c-home-hero",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "o-container",
+   "h": 4875,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-featured-links  ",
+   "h": 914,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-home-extras || u-margin -big-top -big-bottom",
+   "h": 1731,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-section-overline  || ",
+   "h": 377,
+   "padTop": "0px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "c-section-overline_inner",
+   "h": 377,
+   "padTop": "7px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-section-overline_title",
+   "h": 31,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-section-overline  || ",
+   "h": 283,
+   "padTop": "0px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "c-section-overline_inner",
+   "h": 283,
+   "padTop": "7px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-section-overline_title",
+   "h": 31,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-section-overline  || ",
+   "h": 47,
+   "padTop": "0px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "c-section-overline_inner",
+   "h": 47,
+   "padTop": "7px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-section-overline_title",
+   "h": 31,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "static",
+  "height": 0,
+  "links": 12,
+  "linkTexts": [
+   "Locomotive®",
+   "Work",
+   "Agency",
+   "Careers",
+   "Store",
+   "Let's talk",
+   "Menu",
+   "Work",
+   "Agency",
+   "Careers",
+   "Let's talk",
+   "Store",
+   "Français"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "The dynasty",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "10px 0px",
+   "size": "26px",
+   "weight": "400",
+   "tt": "none",
+   "border": "2px solid rgb(0, 0, 0)",
+   "h": 48
+  },
+  {
+   "text": "Agency",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "10px 0px",
+   "size": "26px",
+   "weight": "400",
+   "tt": "none",
+   "border": "2px solid rgb(0, 0, 0)",
+   "h": 48
+  },
+  {
+   "text": "Careers",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "10px 0px",
+   "size": "26px",
+   "weight": "400",
+   "tt": "none",
+   "border": "2px solid rgb(0, 0, 0)",
+   "h": 48
+  }
+ ],
+ "headings": [
+  "🔶 Locomotive® Digital-first Design Agency🍺🔞",
+  "Featured work",
+  "Lightship",
+  "Wolverine Worldwide",
+  "The Drake Hotel",
+  "Dulcedo",
+  "Scout Motors",
+  "All Work",
+  "Extras (13)",
+  "Articles",
+  "Culture",
+  "Store",
+  "Pros de l'internet White T-Shirt",
+  "Pros de l'internet Sand Hat",
+  "Menu",
+  "Social",
+  "External"
+ ],
+ "paras": [
+  "From strategy to deployment and maintenance, we're the ultimate digital one-stop shop. Over the past 15 years, Locomotive® has become a go-to for meaningful, innovative, results-driven digital experiences, web design and"
+ ],
+ "footer": {
+  "h": 663,
+  "text": "Menu Work Agency Careers Let's talk Privacy Français Cookie preferences Newsletter ↓ Social Instagram Twitter LinkedIn Behance GitHub External Store Locomotive Scroll Annual trips Dynasty 🟤1211🔠 Jean-Talon Est🔚🔞 Montréal 🛑🚹🚺 (QC) , Canada🦉H2R 1W1 Telephone +1 514 524 5678 📞 info🔂 @ locomot"
+ },
+ "jsMotion": {
+  "scriptsFetched": 5,
+  "gsapEases": [
+   [
+    "power1.inOut",
+    12
+   ],
+   [
+    "power4.out",
+    4
+   ],
+   [
+    "power2.inOut",
+    3
+   ],
+   [
+    "none",
+    2
+   ],
+   [
+    "power2.out",
+    2
+   ],
+   [
+    "power2.in",
+    1
+   ],
+   [
+    "linear",
+    1
+   ]
+  ],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "0",
+    10
+   ],
+   [
+    "1",
+    7
+   ],
+   [
+    "250",
+    4
+   ],
+   [
+    ".25",
+    4
+   ],
+   [
+    "2",
+    3
+   ],
+   [
+    "4",
+    2
+   ],
+   [
+    "150",
+    2
+   ],
+   [
+    ".5",
+    2
+   ],
+   [
+    ".3",
+    2
+   ],
+   [
+    "500",
+    1
+   ],
+   [
+    ".15",
+    1
+   ],
+   [
+    ".02",
+    1
+   ],
+   [
+    ".1",
+    1
+   ],
+   [
+    ".75",
+    1
+   ]
+  ],
+  "staggers": [
+   [
+    ".04",
+    6
+   ],
+   [
+    ".02",
+    5
+   ],
+   [
+    "0",
+    2
+   ],
+   [
+    ".08",
+    1
+   ],
+   [
+    ".01",
+    1
+   ],
+   [
+    ".1",
+    1
+   ],
+   [
+    ".2",
+    1
+   ],
+   [
+    ".025",
+    1
+   ],
+   [
+    ".05",
+    1
+   ]
+  ],
+  "lenis": [
+   [
+    "smoothWheel:s",
+    2
+   ]
+  ],
+  "springs": [
+   [
+    "type:\"spring\",stiffness:.95,damping:.65,mass:10",
+    1
+   ],
+   [
+    "type:\"spring\",damping:.6,mass:7",
+    1
+   ],
+   [
+    "type:\"spring\",stiffness:.75,damping:.45,mass:10",
+    1
+   ]
+  ],
+  "scrollTriggerStarts": [
+   [
+    "start",
+    1
+   ]
+  ],
+  "splitTypes": [
+   [
+    "chars, words",
+    2
+   ],
+   [
+    "chars",
+    1
+   ],
+   [
+    "chars, lines",
+    1
+   ]
+  ],
+  "bezierArrays": []
+ }
+}

@@ -1,0 +1,789 @@
+{
+ "url": "https://linear.app/method",
+ "slug": "linear-app-method",
+ "analyzedAt": "2026-10-07T05:21:45.085Z",
+ "scrollHeight": 2701,
+ "pageLengthInViewports": 3,
+ "title": "Linear Method – Practices for building",
+ "metaDescription": "The quality of a product is driven by both the talent of its creators and how they feel while they’re crafting it. To bring back the right focus, these are the foundational and evolving ideas Linear is built on.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "Inter Variable 100 900 normal",
+   "Berkeley Mono 100 900 normal",
+   "Tiempos Headline 400 normal"
+  ],
+  "families": [
+   [
+    "Inter Variable",
+    66
+   ],
+   [
+    "Berkeley Mono",
+    11
+   ],
+   [
+    "Tiempos Headline",
+    1
+   ]
+  ],
+  "sizes": [
+   [
+    "13px",
+    53
+   ],
+   [
+    "16px",
+    11
+   ],
+   [
+    "15px",
+    11
+   ],
+   [
+    "14px",
+    1
+   ],
+   [
+    "128px",
+    1
+   ],
+   [
+    "17px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    69
+   ],
+   [
+    "510",
+    9
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "-0.010em@13",
+    45
+   ],
+   [
+    "normal",
+    32
+   ],
+   [
+    "-0.013em@14",
+    1
+   ]
+  ],
+  "uppercaseShare": 0.05,
+  "largest": [
+   {
+    "tag": "h1",
+    "text": "Practices for building",
+    "family": "Tiempos Headline",
+    "size": "128px",
+    "weight": "400",
+    "lh": "128px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(247, 248, 248)"
+   },
+   {
+    "tag": "p",
+    "text": "There is a lost art of building true quality software. To bring back the right focus, here",
+    "family": "Inter Variable",
+    "size": "17px",
+    "weight": "400",
+    "lh": "27.2px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(138, 143, 152)"
+   },
+   {
+    "tag": "div",
+    "text": "Principles & Practices 1.1",
+    "family": "Inter Variable",
+    "size": "16px",
+    "weight": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(138, 143, 152)"
+   },
+   {
+    "tag": "div",
+    "text": "Set the product direction 2.1",
+    "family": "Inter Variable",
+    "size": "16px",
+    "weight": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(138, 143, 152)"
+   },
+   {
+    "tag": "div",
+    "text": "Set useful goals 2.2",
+    "family": "Inter Variable",
+    "size": "16px",
+    "weight": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(138, 143, 152)"
+   },
+   {
+    "tag": "div",
+    "text": "Prioritize enablers and blockers 2.3",
+    "family": "Inter Variable",
+    "size": "16px",
+    "weight": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(138, 143, 152)"
+   },
+   {
+    "tag": "div",
+    "text": "Scope projects down 2.4",
+    "family": "Inter Variable",
+    "size": "16px",
+    "weight": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(138, 143, 152)"
+   },
+   {
+    "tag": "div",
+    "text": "Generate momentum 3.1",
+    "family": "Inter Variable",
+    "size": "16px",
+    "weight": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(138, 143, 152)"
+   },
+   {
+    "tag": "div",
+    "text": "Write issues not user stories 3.2",
+    "family": "Inter Variable",
+    "size": "16px",
+    "weight": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(138, 143, 152)"
+   },
+   {
+    "tag": "div",
+    "text": "Manage design projects 3.3",
+    "family": "Inter Variable",
+    "size": "16px",
+    "weight": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(138, 143, 152)"
+   },
+   {
+    "tag": "div",
+    "text": "Build with users 3.4",
+    "family": "Inter Variable",
+    "size": "16px",
+    "weight": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(138, 143, 152)"
+   },
+   {
+    "tag": "div",
+    "text": "Launch and keep launching 3.5",
+    "family": "Inter Variable",
+    "size": "16px",
+    "weight": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(138, 143, 152)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(8, 9, 10)",
+  "htmlBg": "rgb(8, 9, 10)",
+  "text": [
+   [
+    "rgb(138, 143, 152)",
+    64
+   ],
+   [
+    "rgb(247, 248, 248)",
+    9
+   ],
+   [
+    "rgb(98, 102, 109)",
+    4
+   ],
+   [
+    "rgb(8, 9, 10)",
+    1
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(8, 9, 10)",
+    2
+   ],
+   [
+    "rgb(35, 37, 42)",
+    1
+   ],
+   [
+    "rgb(229, 229, 230)",
+    1
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(to right, rgb(62, 62, 68) 50%, rgba(255, 255, 255, 0) 0%)",
+    2
+   ],
+   [
+    "linear-gradient(rgba(11, 11, 11, 0.8) 0%, oklab(0.149576 0.00000680983 0.00000298768 / 0.761905) 100%)",
+    1
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.32,0.72,0,1)",
+    6
+   ],
+   [
+    "cubic-bezier(0.16,1,0.3,1)",
+    1
+   ],
+   [
+    "cubic-bezier(0.66,0,0,1)",
+    1
+   ]
+  ],
+  "durations": [
+   [
+    ".16s",
+    30
+   ],
+   [
+    "0.2s",
+    15
+   ],
+   [
+    "0s",
+    8
+   ],
+   [
+    "0.12s",
+    8
+   ],
+   [
+    "0.4s",
+    7
+   ],
+   [
+    "0.5s",
+    5
+   ],
+   [
+    "0.18s",
+    5
+   ],
+   [
+    "1s",
+    5
+   ],
+   [
+    "0.1s",
+    3
+   ],
+   [
+    "0.3s",
+    2
+   ]
+  ],
+  "keyframes": [
+   "swipe-out-left",
+   "swipe-out-right",
+   "swipe-out-up",
+   "swipe-out-down",
+   "sonner-fade-in",
+   "sonner-fade-out",
+   "sonner-spin",
+   "fadeIn",
+   "fadeOut",
+   "slideFromBottom",
+   "slideToBottom",
+   "slideFromTop",
+   "slideToTop",
+   "slideFromLeft",
+   "slideToLeft",
+   "slideFromRight",
+   "slideToRight",
+   "PSAPAG_dialogOpen",
+   "PSAPAG_dialogClose",
+   "PSAPAG_fadeIn"
+  ]
+ },
+ "cssVarSample": {},
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": true,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 0,
+  "video": 0,
+  "svg": 10,
+  "picture": 0,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 1,
+  "clipPath": 3,
+  "sticky": 0,
+  "fixed": [
+   "TZTsQG_header TZTsQG_header"
+  ],
+  "customCursor": false,
+  "boxShadows": [
+   [
+    "rgba(0, 0, 0, 0) 0px 8px 2px 0px, rgba(0, 0, 0, 0.01) 0px 5px 2px 0px, rgba(0, 0, 0, 0.04) 0px 3px 2px 0px, rgba(0, 0, 0, 0.07) 0px 1px 1px 0px, rgba(0, 0, 0, 0.08) 0px 0px 1px 0px",
+    1
+   ]
+  ],
+  "filters": [
+   [
+    "url(\"#filter0_f_451_36944\")",
+    1
+   ],
+   [
+    "url(\"#filter1_f_451_36944\")",
+    1
+   ]
+  ],
+  "transforms3d": 0,
+  "noiseOrGrain": true,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "9999px",
+   8
+  ],
+  [
+   "6px",
+   1
+  ]
+ ],
+ "borders": [
+  [
+   "1px dashed rgb(62, 62, 68)",
+   2
+  ],
+  [
+   "bottom:1px solid rgba(255, 255, 255, 0.08)",
+   1
+  ],
+  [
+   "1px solid rgb(229, 229, 230)",
+   1
+  ],
+  [
+   "1px solid rgb(35, 37, 42)",
+   1
+  ]
+ ],
+ "grids": [
+  [
+   "1cols gap normal",
+   8
+  ],
+  [
+   "6cols gap 0px",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "1436px",
+   2
+  ],
+  [
+   "736px",
+   1
+  ],
+  [
+   "100%",
+   1
+  ]
+ ],
+ "sideMargins": [
+  [
+   "376px",
+   1
+  ],
+  [
+   "515px",
+   1
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "-fwaFq_container _7bwwmq_root _7bwwmq_page",
+   "h": 2007,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_section",
+   "h": 222,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionTitle",
+   "h": 20,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionList",
+   "h": 178,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionItem",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionLink I_mUeq_root I_mUeq_variant-dimm",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionItem",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionLink I_mUeq_root I_mUeq_variant-dimm",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionItem",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionLink I_mUeq_root I_mUeq_variant-dimm",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionItem",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionLink I_mUeq_root I_mUeq_variant-dimm",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionItem",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionLink I_mUeq_root I_mUeq_variant-dimm",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionItem",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionLink I_mUeq_root I_mUeq_variant-dimm",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_section",
+   "h": 282,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionTitle",
+   "h": 20,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionList",
+   "h": 238,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionItem",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionLink I_mUeq_root I_mUeq_variant-dimm",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionItem",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionLink I_mUeq_root I_mUeq_variant-dimm",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionItem",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionLink I_mUeq_root I_mUeq_variant-dimm",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionItem",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionLink I_mUeq_root I_mUeq_variant-dimm",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionItem",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionLink I_mUeq_root I_mUeq_variant-dimm",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionItem",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionLink I_mUeq_root I_mUeq_variant-dimm",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionItem",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionLink I_mUeq_root I_mUeq_variant-dimm",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionItem",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionLink I_mUeq_root I_mUeq_variant-dimm",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_section",
+   "h": 252,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionTitle",
+   "h": 20,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionList",
+   "h": 208,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionItem",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Jmh1Wq_sectionLink I_mUeq_root I_mUeq_variant-dimm",
+   "h": 28,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "fixed",
+  "height": 73,
+  "links": 9,
+  "linkTexts": [
+   "Product",
+   "Resources",
+   "Customers",
+   "Pricing",
+   "Now",
+   "Contact",
+   "Docs",
+   "Open app",
+   "Log in",
+   "Sign up"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "Sign up",
+   "bg": "rgb(229, 229, 230)",
+   "color": "rgb(8, 9, 10)",
+   "radius": "9999px",
+   "pad": "0px 12px",
+   "size": "13px",
+   "weight": "510",
+   "tt": "none",
+   "border": "1px solid rgb(229, 229, 230)",
+   "h": 32
+  }
+ ],
+ "headings": [
+  "Practices for building",
+  "Product",
+  "Features",
+  "Company",
+  "Resources",
+  "Connect",
+  "Legal"
+ ],
+ "paras": [
+  "There is a lost art of building true quality software. To bring back the right focus, here are the foundational ideas Linear is built on."
+ ],
+ "footer": {
+  "h": 494,
+  "text": "Product Intake Plan AI Build Pricing Security Features Asks Agents Coding Sessions Customer Requests Insights Mobile Integrations Changelog Company About Customers Careers Now Method Quality Brand Resources Switch Download Documentation Developers Status Enterprise Startups Connect Contact us Commun"
+ },
+ "jsMotion": {
+  "scriptsFetched": 5,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "0",
+    3
+   ]
+  ],
+  "staggers": [],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

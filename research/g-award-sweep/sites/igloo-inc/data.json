@@ -1,0 +1,130 @@
+{
+ "url": "https://igloo.inc",
+ "slug": "igloo-inc",
+ "analyzedAt": "2026-10-07T05:25:52.955Z",
+ "scrollHeight": 900,
+ "pageLengthInViewports": 1,
+ "title": "Igloo Inc.",
+ "metaDescription": "Our mission is to create the largest onchain community, driving the consumer crypto revolution.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [],
+  "families": [],
+  "sizes": [],
+  "weights": [],
+  "letterSpacings": [],
+  "uppercaseShare": 0,
+  "largest": []
+ },
+ "color": {
+  "bodyBg": "rgb(160, 165, 177)",
+  "htmlBg": "rgb(160, 165, 177)",
+  "text": [],
+  "backgrounds": [
+   [
+    "rgb(160, 165, 177)",
+    1
+   ]
+  ],
+  "gradients": []
+ },
+ "motion": {
+  "cubicBeziers": [],
+  "durations": [
+   [
+    "5s",
+    1
+   ]
+  ],
+  "keyframes": [
+   "head"
+  ]
+ },
+ "cssVarSample": {
+  "--default-font": "sans-serif",
+  "--bgColor": "#A0A5B1"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 0,
+  "video": 0,
+  "svg": 0,
+  "picture": 0,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 0,
+  "clipPath": 0,
+  "sticky": 0,
+  "fixed": [],
+  "customCursor": false,
+  "boxShadows": [],
+  "filters": [],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [],
+ "borders": [],
+ "grids": [],
+ "containers": [],
+ "sideMargins": [],
+ "sections": [],
+ "nav": null,
+ "ctas": [],
+ "headings": [],
+ "paras": [],
+ "footer": null,
+ "jsMotion": {
+  "scriptsFetched": 1,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "0",
+    1
+   ],
+   [
+    "250",
+    1
+   ],
+   [
+    "750",
+    1
+   ]
+  ],
+  "staggers": [],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

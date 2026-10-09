@@ -1,0 +1,816 @@
+{
+ "url": "https://illoca.unseen.co/",
+ "slug": "illoca-unseen-co",
+ "analyzedAt": "2026-10-07T05:28:50.545Z",
+ "scrollHeight": 900,
+ "pageLengthInViewports": 1,
+ "title": "illoca – Architectural design at the speed of thought",
+ "metaDescription": "illoca is an AI-native design engine built for professional architects. Explore, refine, and move from first ideas to editable 2D and 3D designs with more speed and control.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "Geist Mono 500 normal",
+   "F37 Analog 500 normal",
+   "Graphik Web 400 normal",
+   "Graphik Web 500 normal",
+   "Architect Pro Symbols 400 normal",
+   "Architect Pro 400 normal"
+  ],
+  "families": [
+   [
+    "Graphik Web",
+    54
+   ],
+   [
+    "Geist Mono",
+    19
+   ],
+   [
+    "Architect Pro",
+    4
+   ],
+   [
+    "F37 Analog",
+    2
+   ],
+   [
+    "ui-sans-serif",
+    1
+   ]
+  ],
+  "sizes": [
+   [
+    "12px",
+    55
+   ],
+   [
+    "15px",
+    7
+   ],
+   [
+    "24px",
+    6
+   ],
+   [
+    "18px",
+    6
+   ],
+   [
+    "9px",
+    2
+   ],
+   [
+    "14px",
+    1
+   ],
+   [
+    "111px",
+    1
+   ],
+   [
+    "11px",
+    1
+   ],
+   [
+    "77px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "500",
+    53
+   ],
+   [
+    "400",
+    27
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "-0.020em@12",
+    52
+   ],
+   [
+    "-0.030em@15",
+    7
+   ],
+   [
+    "normal",
+    6
+   ],
+   [
+    "-0.020em@24",
+    5
+   ],
+   [
+    "-0.020em@18",
+    5
+   ],
+   [
+    "0.050em@12",
+    2
+   ],
+   [
+    "-0.020em@11",
+    1
+   ],
+   [
+    "0.020em@18",
+    1
+   ],
+   [
+    "-0.030em@24",
+    1
+   ]
+  ],
+  "uppercaseShare": 0.03,
+  "largest": [
+   {
+    "tag": "span",
+    "text": "Design at the speed of thought",
+    "family": "F37 Analog",
+    "size": "111px",
+    "weight": "500",
+    "lh": "99.9px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(55, 55, 55)"
+   },
+   {
+    "tag": "h3",
+    "text": "Frequently Asked Questions",
+    "family": "F37 Analog",
+    "size": "76.5px",
+    "weight": "400",
+    "lh": "68.85px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(55, 55, 55)"
+   },
+   {
+    "tag": "h3",
+    "text": "Get 1,000 starter credits when you sign up today.",
+    "family": "Graphik Web",
+    "size": "24px",
+    "weight": "500",
+    "lh": "24px",
+    "ls": "-0.48px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(55, 55, 55)"
+   },
+   {
+    "tag": "span",
+    "text": "1,000 starter credits",
+    "family": "Graphik Web",
+    "size": "24px",
+    "weight": "500",
+    "lh": "24px",
+    "ls": "-0.48px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(55, 55, 55)"
+   },
+   {
+    "tag": "h2",
+    "text": "Explore",
+    "family": "Graphik Web",
+    "size": "24px",
+    "weight": "500",
+    "lh": "24px",
+    "ls": "-0.48px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(55, 55, 55)"
+   },
+   {
+    "tag": "h2",
+    "text": "Team",
+    "family": "Graphik Web",
+    "size": "24px",
+    "weight": "500",
+    "lh": "24px",
+    "ls": "-0.48px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(254, 249, 241)"
+   },
+   {
+    "tag": "h2",
+    "text": "Enterprise",
+    "family": "Graphik Web",
+    "size": "24px",
+    "weight": "500",
+    "lh": "24px",
+    "ls": "-0.48px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(254, 249, 241)"
+   },
+   {
+    "tag": "div",
+    "text": "Architectural design at the speed of thought, not software.",
+    "family": "Graphik Web",
+    "size": "24px",
+    "weight": "400",
+    "lh": "26.4px",
+    "ls": "-0.72px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(234, 223, 201)"
+   },
+   {
+    "tag": "span",
+    "text": "need help?",
+    "family": "Architect Pro",
+    "size": "18px",
+    "weight": "400",
+    "lh": "16.2px",
+    "ls": "0.36px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(55, 55, 55)"
+   },
+   {
+    "tag": "button",
+    "text": "How does Tracing Paper differ from generic AI or conventional design tools?",
+    "family": "Graphik Web",
+    "size": "18px",
+    "weight": "500",
+    "lh": "21.6px",
+    "ls": "-0.36px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(55, 55, 55)"
+   },
+   {
+    "tag": "button",
+    "text": "How does it work with my BIM/CAD workflow?",
+    "family": "Graphik Web",
+    "size": "18px",
+    "weight": "500",
+    "lh": "21.6px",
+    "ls": "-0.36px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(55, 55, 55)"
+   },
+   {
+    "tag": "button",
+    "text": "How accurate are the Agent's outputs, and do I need to learn complex AI prompting?",
+    "family": "Graphik Web",
+    "size": "18px",
+    "weight": "500",
+    "lh": "21.6px",
+    "ls": "-0.36px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(55, 55, 55)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgba(0, 0, 0, 0)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(55, 55, 55)",
+    26
+   ],
+   [
+    "rgb(254, 249, 241)",
+    12
+   ],
+   [
+    "rgb(234, 223, 201)",
+    10
+   ],
+   [
+    "rgb(194, 177, 146)",
+    6
+   ],
+   [
+    "rgb(33, 33, 33)",
+    4
+   ],
+   [
+    "rgb(255, 255, 255)",
+    4
+   ],
+   [
+    "rgb(65, 65, 65)",
+    3
+   ],
+   [
+    "rgb(59, 96, 197)",
+    3
+   ],
+   [
+    "rgb(255, 251, 243)",
+    2
+   ],
+   [
+    "rgb(128, 128, 128)",
+    2
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(229, 214, 188)",
+    5
+   ],
+   [
+    "rgb(234, 223, 201)",
+    4
+   ],
+   [
+    "rgb(91, 91, 91)",
+    4
+   ],
+   [
+    "rgb(253, 248, 240)",
+    4
+   ],
+   [
+    "rgb(40, 63, 125)",
+    2
+   ],
+   [
+    "rgb(255, 255, 255)",
+    1
+   ],
+   [
+    "rgb(0, 0, 0)",
+    1
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(90deg, rgb(211, 201, 181) 1px, rgba(0, 0, 0, 0) 0px), linear-gradient(rgb(227, 217, 195) 1px, rgba(0, 0, 0, 0) 0px)",
+    5
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(.4,0,.2,1)",
+    4
+   ]
+  ],
+  "durations": [
+   [
+    ".15s",
+    2
+   ],
+   [
+    "0.1s",
+    2
+   ],
+   [
+    "0.2s",
+    2
+   ],
+   [
+    "0.3s",
+    2
+   ],
+   [
+    "0.5s",
+    2
+   ]
+  ],
+  "keyframes": []
+ },
+ "cssVarSample": {
+  "--breakpoint-ipadpro": "(hover:none) and (pointer:coarse) and (min-width:1024px)",
+  "--breakpoint-touch": "(pointer:coarse)",
+  "--breakpoint-nottouch": "(hover:hover) and (pointer:fine)",
+  "--breakpoint-portrait": "(orientation:portrait)"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": true,
+  "locomotive": false,
+  "three": true,
+  "webglCanvas": 0,
+  "canvases": 1,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": true,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": true,
+  "motionOne": false
+ },
+ "media": {
+  "img": 0,
+  "video": 0,
+  "svg": 47,
+  "picture": 0,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [
+   [
+    "overlay",
+    1
+   ]
+  ],
+  "backdropFilter": 0,
+  "clipPath": 7,
+  "sticky": 0,
+  "fixed": [
+   "js-hole-left | fixed top-0 left-0 flex bg-grid bg-grid-left ",
+   "js-hole-right | fixed top-0 left-0 flex bg-grid bg-grid-righ",
+   "js-hole-top | fixed top-0 left-0 hidden lg:flex bg-grid w-fu",
+   "js-hole-bottom | fixed top-0 left-0 hidden lg:flex bg-grid b",
+   "fixed z-10 grid grid-cols-2 top-1/2 left-1/2 -translate-x-1/",
+   "coords | fixed top-37 left-32 z-3 font-architect text-12 lea",
+   "email | fixed top-42 right-32 z-3 font-architect text-18 lea",
+   "DIV",
+   "bg-grid pointer-events-none pt-96 lg:pt-128 pb-80 lg:pb-64 l",
+   "grain"
+  ],
+  "customCursor": true,
+  "boxShadows": [
+   [
+    "rgba(0, 0, 0, 0.15) 2px 2px 2px 0px",
+    4
+   ],
+   [
+    "rgba(0, 0, 0, 0.1) 4px 4px 0px 0px",
+    3
+   ],
+   [
+    "rgba(0, 0, 0, 0.1) 4px -2px 0px 0px",
+    1
+   ],
+   [
+    "rgba(0, 0, 0, 0.1) 6px 6px 0px 0px",
+    1
+   ],
+   [
+    "rgba(80, 115, 208, 0.2) 0px 2px 3px 0px inset, rgba(0, 0, 0, 0.1) 4px 4px 0px 0px",
+    1
+   ]
+  ],
+  "filters": [
+   [
+    "drop-shadow(rgba(0, 0, 0, 0.1) 6px 6px 0px)",
+    2
+   ],
+   [
+    "drop-shadow(rgb(63, 63, 63) 0px 0px 1px)",
+    1
+   ],
+   [
+    "url(\"#filter0_d_2135_6037\")",
+    1
+   ],
+   [
+    "url(\"#filter0_di_1571_3067\")",
+    1
+   ]
+  ],
+  "transforms3d": 1,
+  "noiseOrGrain": true,
+  "textStroke": 133,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "1.5px",
+   6
+  ],
+  [
+   "3px",
+   5
+  ],
+  [
+   "10px",
+   1
+  ]
+ ],
+ "borders": [
+  [
+   "bottom:1px dashed rgba(234, 223, 201, 0.4)",
+   10
+  ],
+  [
+   "bottom:1px dashed rgb(167, 167, 167)",
+   6
+  ],
+  [
+   "bottom:1px dashed rgb(49, 49, 49)",
+   5
+  ],
+  [
+   "1px solid oklab(0.379091 0.0000172257 0.00000762939 / 0.3)",
+   3
+  ],
+  [
+   "1px solid rgba(66, 66, 66, 0.3)",
+   1
+  ]
+ ],
+ "grids": [
+  [
+   "2cols gap 6px",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "708.734px",
+   1
+  ]
+ ],
+ "sideMargins": [
+  [
+   "494px",
+   7
+  ],
+  [
+   "36px",
+   3
+  ],
+  [
+   "1032px",
+   2
+  ],
+  [
+   "240px",
+   1
+  ],
+  [
+   "64px",
+   1
+  ],
+  [
+   "487px",
+   1
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "",
+   "h": 4590,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "",
+   "h": 2430,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "",
+   "h": 1120,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "",
+   "h": 756,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "NAV",
+  "position": "absolute",
+  "height": 48,
+  "links": 5,
+  "linkTexts": [
+   "Features\nFeatures",
+   "Pricing\nPricing",
+   "FAQs\nFAQs",
+   "Try for free\nTry for free"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "Try for free Try for free",
+   "bg": "rgb(40, 63, 125)",
+   "color": "rgb(255, 251, 243)",
+   "radius": "3px",
+   "pad": "4.5px",
+   "size": "12px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 36
+  },
+  {
+   "text": "Sign up Sign up",
+   "bg": "rgb(253, 248, 240)",
+   "color": "rgb(33, 33, 33)",
+   "radius": "3px",
+   "pad": "4.5px",
+   "size": "12px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 124
+  },
+  {
+   "text": "Join waitlist Join waitlist",
+   "bg": "rgb(253, 248, 240)",
+   "color": "rgb(33, 33, 33)",
+   "radius": "3px",
+   "pad": "4.5px",
+   "size": "12px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 112
+  },
+  {
+   "text": "Contact us Contact us",
+   "bg": "rgb(253, 248, 240)",
+   "color": "rgb(33, 33, 33)",
+   "radius": "3px",
+   "pad": "4.5px",
+   "size": "12px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 85
+  },
+  {
+   "text": "hello@illoca.com hello@illoca.com",
+   "bg": "rgb(253, 248, 240)",
+   "color": "rgb(33, 33, 33)",
+   "radius": "3px",
+   "pad": "4.5px",
+   "size": "12px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 61
+  }
+ ],
+ "headings": [
+  "Design at the speed of thought Design at the speed of thought Design at the speed of thought architectural K not software",
+  "Augmented Sketch Augmented Sketch",
+  "Adaptive Massing Adaptive Massing",
+  "Prompted Plans Prompted Plans",
+  "Agentic Refinement Agentic Refinement",
+  "Instant Facades Instant Facades",
+  "PRICING",
+  "Get 1,000 starter credits when you sign up today.",
+  "Explore",
+  "$29.99 / person / month",
+  "Team",
+  "$59.99+ / team / month",
+  "Enterprise",
+  "Custom pricing",
+  "FAQS",
+  "Frequently Asked Questions",
+  "Quick links",
+  "Connect"
+ ],
+ "paras": [
+  "Design was never meant to happen through buttons, commands, and rigid workflows.",
+  "It begins more naturally than that, through sketches, markups, references, conversation, and iteration. Through the back-and-forth between instinct and judgment that gives architecture its life.",
+  "But for too long, that flow has been interrupted, asking you to translate, redraw, rebuild, and re-explain instead of simply design.",
+  "We built Tracing Paper for the way this work actually happens: a place where intent can be expressed more directly, and where the production burden fades into the background.",
+  "So you can explore more freely, refine more quickly, and stay closer to the ideas that matter most.",
+  "Free plan includes 100 credits that refresh every month.",
+  "Tracing Paper is an AI-native design engine built for the controllability required by professional practice. It bridges the gap between creative exploration and technical production:",
+  "Tracing Paper is an intelligent canvas that replaces the traditional hundred-button toolset with a workflow that mirrors how design studios actually work: sketching, marking up, and pinning ideas. It supports two modes: ",
+  "Tracing Paper is built on a \"Human-in-the-Loop\" philosophy. You don’t need to be a \"prompt engineer\"—if you know how to redline a drawing or describe a change to a colleague, you know how to use Tracing Paper. While the ",
+  "You own your designs 100%. All outputs generated or refined within the platform are your intellectual property. We do not use your proprietary sketches, prompts, or project models to train our models. For our Enterprise "
+ ],
+ "footer": {
+  "h": 400,
+  "text": "Architectural design at the speed of thought, not software. Quick links Home Home Legal Legal Connect LinkedIn LinkedIn X / Twitter X / Twitter Instagram Instagram hello@illoca.com hello@illoca.com Copyright ©2026 illoca TermsPrivacy"
+ },
+ "jsMotion": {
+  "scriptsFetched": 1,
+  "gsapEases": [
+   [
+    "none",
+    1
+   ],
+   [
+    "expo",
+    1
+   ],
+   [
+    "power4",
+    1
+   ],
+   [
+    "power2.inOut",
+    1
+   ],
+   [
+    "power2.out",
+    1
+   ]
+  ],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    ".8",
+    7
+   ],
+   [
+    ".6",
+    5
+   ],
+   [
+    "1",
+    4
+   ],
+   [
+    ".5",
+    3
+   ],
+   [
+    ".4",
+    3
+   ],
+   [
+    ".02",
+    2
+   ],
+   [
+    "0",
+    1
+   ],
+   [
+    "2.8",
+    1
+   ],
+   [
+    ".7",
+    1
+   ],
+   [
+    ".2",
+    1
+   ],
+   [
+    "1.6",
+    1
+   ]
+  ],
+  "staggers": [
+   [
+    ".03",
+    3
+   ],
+   [
+    "0",
+    2
+   ],
+   [
+    ".1",
+    2
+   ]
+  ],
+  "lenis": [
+   [
+    "smoothWheel:s",
+    2
+   ],
+   [
+    "wheelMultiplier:1",
+    1
+   ],
+   [
+    "lerp:.06",
+    1
+   ]
+  ],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [
+   [
+    "chars",
+    3
+   ]
+  ],
+  "bezierArrays": []
+ }
+}

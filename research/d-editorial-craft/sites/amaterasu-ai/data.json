@@ -1,0 +1,631 @@
+{
+ "url": "https://amaterasu.ai",
+ "slug": "amaterasu-ai",
+ "analyzedAt": "2026-10-07T05:15:27.707Z",
+ "scrollHeight": 900,
+ "pageLengthInViewports": 1,
+ "title": "Amaterasu - Empower your mental health journey",
+ "metaDescription": "Amaterasu is a physics cognition lab working at the intersection of technology and nature to transform mental health.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "NeoSansPro-Medium 400 normal",
+   "TWKLausanne-250 400 normal",
+   "TWKLausanne-200 400 normal"
+  ],
+  "families": [
+   [
+    "TWKLausanne-250",
+    111
+   ],
+   [
+    "NeoSansPro-Medium",
+    13
+   ],
+   [
+    "TWKLausanne-200",
+    3
+   ]
+  ],
+  "sizes": [
+   [
+    "26px",
+    106
+   ],
+   [
+    "10px",
+    13
+   ],
+   [
+    "20px",
+    4
+   ],
+   [
+    "50px",
+    2
+   ],
+   [
+    "60px",
+    1
+   ],
+   [
+    "12px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    127
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    111
+   ],
+   [
+    "0.160em@10",
+    13
+   ],
+   [
+    "-0.040em@50",
+    2
+   ],
+   [
+    "-0.033em@60",
+    1
+   ]
+  ],
+  "uppercaseShare": 0.1,
+  "largest": [
+   {
+    "tag": "div",
+    "text": "Empower your mental health journey",
+    "family": "TWKLausanne-200",
+    "size": "60px",
+    "weight": "400",
+    "lh": "60px",
+    "ls": "-2px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "a",
+    "text": "Vision",
+    "family": "TWKLausanne-200",
+    "size": "50px",
+    "weight": "400",
+    "lh": "50px",
+    "ls": "-2px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "a",
+    "text": "Aleph",
+    "family": "TWKLausanne-200",
+    "size": "50px",
+    "weight": "400",
+    "lh": "50px",
+    "ls": "-2px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "div",
+    "text": "“I’ve",
+    "family": "TWKLausanne-250",
+    "size": "26px",
+    "weight": "400",
+    "lh": "32px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "div",
+    "text": "been",
+    "family": "TWKLausanne-250",
+    "size": "26px",
+    "weight": "400",
+    "lh": "32px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "div",
+    "text": "on",
+    "family": "TWKLausanne-250",
+    "size": "26px",
+    "weight": "400",
+    "lh": "32px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "div",
+    "text": "waitlist",
+    "family": "TWKLausanne-250",
+    "size": "26px",
+    "weight": "400",
+    "lh": "32px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "div",
+    "text": "for",
+    "family": "TWKLausanne-250",
+    "size": "26px",
+    "weight": "400",
+    "lh": "32px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "div",
+    "text": "months,",
+    "family": "TWKLausanne-250",
+    "size": "26px",
+    "weight": "400",
+    "lh": "32px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "div",
+    "text": "and",
+    "family": "TWKLausanne-250",
+    "size": "26px",
+    "weight": "400",
+    "lh": "32px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "div",
+    "text": "every",
+    "family": "TWKLausanne-250",
+    "size": "26px",
+    "weight": "400",
+    "lh": "32px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "div",
+    "text": "day",
+    "family": "TWKLausanne-250",
+    "size": "26px",
+    "weight": "400",
+    "lh": "32px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(24, 57, 105)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(255, 255, 255)",
+    118
+   ],
+   [
+    "rgb(27, 41, 120)",
+    8
+   ],
+   [
+    "rgba(255, 255, 255, 0.6)",
+    1
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(117, 205, 214)",
+    8
+   ],
+   [
+    "rgb(255, 255, 255)",
+    3
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(88deg, rgb(42, 57, 142) 5%, rgb(85, 102, 197) 100%)",
+    3
+   ],
+   [
+    "linear-gradient(88deg, rgb(22, 56, 84) 0px, rgb(61, 125, 191) 36%, rgb(67, 158, 195) 65%, rgb(144, 211, 238) 100%)",
+    3
+   ],
+   [
+    "linear-gradient(88deg, rgb(241, 246, 248) 50%, rgb(162, 215, 240) 100%)",
+    1
+   ],
+   [
+    "linear-gradient(88deg, rgb(255, 255, 255) 0px, rgb(130, 201, 216) 100%)",
+    1
+   ],
+   [
+    "radial-gradient(at 48.88% 48.88%, rgb(255, 255, 255) 30%, rgb(132, 205, 238) 100%)",
+    1
+   ],
+   [
+    "radial-gradient(at 48.88% 48.88%, rgb(255, 255, 255) 10%, rgb(132, 205, 238) 100%)",
+    1
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(.77,0,.175,1)",
+    71
+   ],
+   [
+    "cubic-bezier(.645,.045,.355,1)",
+    71
+   ],
+   [
+    "cubic-bezier(.455,.03,.515,.955)",
+    71
+   ],
+   [
+    "cubic-bezier(.165,.84,.44,1)",
+    71
+   ],
+   [
+    "cubic-bezier(.215,.61,.355,1)",
+    71
+   ],
+   [
+    "cubic-bezier(.25,.46,.45,.94)",
+    71
+   ],
+   [
+    "cubic-bezier(.25,.25,.75,.75)",
+    71
+   ]
+  ],
+  "durations": [
+   [
+    ".5s",
+    14
+   ],
+   [
+    ".25s",
+    8
+   ],
+   [
+    ".35s",
+    8
+   ],
+   [
+    "5s",
+    3
+   ]
+  ],
+  "keyframes": [
+   "blinker",
+   "wave"
+  ]
+ },
+ "cssVarSample": {
+  "--color-black": "#000",
+  "--color-white": "#fff",
+  "--color-downy": "#75cdd6",
+  "--color-biscay": "#183969",
+  "--color-midnight-blue": "#1b2978",
+  "--color-catskill-white": "#f1f6f8",
+  "--ease-in-out-quart": "cubic-bezier(.77,0,.175,1)",
+  "--ease-in-out-cubic": "cubic-bezier(.645,.045,.355,1)",
+  "--ease-in-out-quad": "cubic-bezier(.455,.03,.515,.955)",
+  "--ease-out-quart": "cubic-bezier(.165,.84,.44,1)",
+  "--ease-out-cubic": "cubic-bezier(.215,.61,.355,1)",
+  "--ease-out-quad": "cubic-bezier(.25,.46,.45,.94)",
+  "--ease-none": "cubic-bezier(.25,.25,.75,.75)",
+  "--font-f-twk-lausanne-250": "\"TWKLausanne-250\"",
+  "--font-f-twk-lausanne-200": "\"TWKLausanne-200\"",
+  "--font-f-neo-sans-pro-medium": "\"NeoSansPro-Medium\"",
+  "--font-s-heading-xl": "44.8vw",
+  "--font-lh-heading-xl": "44.8vw",
+  "--font-ls-heading-xl": "-.005952381em",
+  "--font-s-heading-l": "21.3333333333vw",
+  "--font-lh-heading-l": "21.3333333333vw",
+  "--font-ls-heading-l": "-.025em",
+  "--font-s-heading-m": "16vw",
+  "--font-lh-heading-m": "16vw",
+  "--font-ls-heading-m": "-.0333333333em",
+  "--font-s-heading-s": "13.3333333333vw",
+  "--font-lh-heading-s": "13.3333333333vw",
+  "--font-ls-heading-s": "-.04em",
+  "--font-s-body-xl": "10.6666666667vw",
+  "--font-lh-body-xl": "11.7333333333vw",
+  "--font-ls-body-xl": "0em",
+  "--font-s-body-l": "8.5333333333vw",
+  "--font-lh-body-l": "9.6vw",
+  "--font-ls-body-l": "0em",
+  "--font-s-body-m": "6.9333333333vw",
+  "--font-lh-body-m": "8.5333333333vw",
+  "--font-ls-body-m": "0em",
+  "--font-s-body-r": "5.3333333333vw",
+  "--font-lh-body-r": "7.4666666667vw",
+  "--font-ls-body-r": "0em",
+  "--font-s-body-s": "4.2666666667vw",
+  "--font-lh-body-s": "6.4vw",
+  "--font-ls-body-s": ".03125em",
+  "--font-s-body-xs": "3.7333333333vw",
+  "--font-lh-body-xs": "5.3333333333vw",
+  "--font-ls-body-xs": ".02em",
+  "--font-s-title-r": "2.6666666667vw",
+  "--font-lh-title-r": "4vw",
+  "--font-ls-title-r": ".16em",
+  "--font-s-title-s": "2.1333333333vw",
+  "--font-lh-title-s": "3.7333333333vw",
+  "--font-ls-title-s": ".15em",
+  "--font-s-m-heading-s": "12.8vw",
+  "--font-lh-m-heading-s": "12.8vw",
+  "--font-ls-m-heading-s": "-.0229166667em",
+  "--font-s-m-body-m": "6.4vw",
+  "--font-lh-m-body-m": "7.4666666667vw",
+  "--font-ls-m-body-m": "0em"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": true,
+  "webglCanvas": 0,
+  "canvases": 2,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": true,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 0,
+  "video": 0,
+  "svg": 25,
+  "picture": 0,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 0,
+  "clipPath": 0,
+  "sticky": 0,
+  "fixed": [
+   "webgl",
+   "splash",
+   "cursor",
+   "home",
+   "scroll"
+  ],
+  "customCursor": true,
+  "boxShadows": [
+   [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 1px inset",
+    2
+   ],
+   [
+    "rgba(255, 255, 255, 0.2) 0px 0px 0px 1px inset",
+    1
+   ]
+  ],
+  "filters": [
+   [
+    "blur(3px)",
+    6
+   ],
+   [
+    "blur(10px)",
+    4
+   ],
+   [
+    "blur(5px)",
+    4
+   ],
+   [
+    "blur(0px)",
+    2
+   ],
+   [
+    "blur(50px)",
+    1
+   ]
+  ],
+  "transforms3d": 5,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "100%",
+   9
+  ],
+  [
+   "20px",
+   3
+  ]
+ ],
+ "borders": [],
+ "grids": [
+  [
+   "12cols gap 20px",
+   6
+  ],
+  [
+   "4cols gap 10px",
+   1
+  ]
+ ],
+ "containers": [],
+ "sideMargins": [
+  [
+   "730px",
+   6
+  ],
+  [
+   "40px",
+   2
+  ],
+  [
+   "385px",
+   2
+  ],
+  [
+   "692px",
+   1
+  ],
+  [
+   "375px",
+   1
+  ],
+  [
+   "509px",
+   1
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "scroll",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "vision",
+   "h": 5400,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section",
+   "h": 900,
+   "padTop": "40px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "technologies",
+   "h": 1909,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "guiding-principles",
+   "h": 2000,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "stories",
+   "h": 1374,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "aleph",
+   "h": 1159,
+   "padTop": "0px",
+   "bg": "rgb(255, 255, 255)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "fixed",
+  "height": 40,
+  "links": 1,
+  "linkTexts": [],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [],
+ "headings": [
+  "VISION",
+  "RECONNECTING WITH NATURE",
+  "FRONTIER TECHNOLOGIES",
+  "MEET ALEPH"
+ ],
+ "paras": [
+  "Amaterasu pioneers research at the intersection of quantum computing, neuroscience, and non-linear dynamics towards a frontier pushing mental health care ecosystem. We leverage nature to deliver a degree of personalized ",
+  "Through the seamless integration of our 6 guiding principles, we set in motion our relentless culture, focus, and ethics.",
+  "Collective voices of human beings sharing their experiences with the current mental health care system. This is why we do what we do.",
+  "“I’ve been on a waitlist for months, and every day feels like a battle. The system is so slow to respond, and there’s no help for people in immediate crisis.” Sarah’s experience emphasises the urgency of addressing delay",
+  "“Every therapist I see has a different idea of what’s wrong with me, but none seem to get it right. It’s exhausting to be reassessed constantly without real progress.” John’s frustration underscores the challenges of inc",
+  "“I’ve had to switch therapists multiple times, and every time I do, it feels like starting from square one.” Emily’s experiences highlight the instability and lack of continuity in mental health care.",
+  "Aleph is a quantum algorithm in development which simulates mental health treatment approaches against the complex representation of your mental and cognitive predispositions. Aleph will cut down the average time to opti"
+ ],
+ "footer": {
+  "h": 901,
+  "text": "Empower your mental health journey INVEST WITH US START JOURNEY Vision Aleph TWITTER LINKEDIN EMAIL © 2024 - Amaterasu, empowering your mental health with quantum precision. CRAFTED BY EXO APE"
+ },
+ "jsMotion": {
+  "scriptsFetched": 1,
+  "gsapEases": [
+   [
+    "none",
+    1
+   ]
+  ],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "0",
+    1
+   ],
+   [
+    ".5",
+    1
+   ]
+  ],
+  "staggers": [
+   [
+    "0",
+    2
+   ]
+  ],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

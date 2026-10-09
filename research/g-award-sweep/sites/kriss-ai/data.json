@@ -1,0 +1,491 @@
+{
+ "url": "https://kriss.ai",
+ "slug": "kriss-ai",
+ "analyzedAt": "2026-10-07T05:28:31.845Z",
+ "scrollHeight": 900,
+ "pageLengthInViewports": 1,
+ "title": "Kriss.ai",
+ "metaDescription": "An AI chatbot for healthcare professionals.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "Krissai 400 normal",
+   "Krissai 600 normal"
+  ],
+  "families": [
+   [
+    "Krissai",
+    14
+   ]
+  ],
+  "sizes": [
+   [
+    "16px",
+    6
+   ],
+   [
+    "14px",
+    6
+   ],
+   [
+    "38px",
+    1
+   ],
+   [
+    "12px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    14
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    14
+   ]
+  ],
+  "uppercaseShare": 0,
+  "largest": [
+   {
+    "tag": "div",
+    "text": "Patient Consultation",
+    "family": "Krissai",
+    "size": "38px",
+    "weight": "400",
+    "lh": "36.86px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(26, 61, 28)"
+   },
+   {
+    "tag": "div",
+    "text": "Kriss.ai empowers healthcare professionals with precise treatment guidance and tailored in",
+    "family": "Krissai",
+    "size": "16px",
+    "weight": "400",
+    "lh": "19.2px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(26, 61, 28)"
+   },
+   {
+    "tag": "div",
+    "text": "Enhanced patient education",
+    "family": "Krissai",
+    "size": "16px",
+    "weight": "400",
+    "lh": "19.2px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(26, 61, 28)"
+   },
+   {
+    "tag": "div",
+    "text": "Personalized Treatment Plans",
+    "family": "Krissai",
+    "size": "16px",
+    "weight": "400",
+    "lh": "19.2px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(26, 61, 28)"
+   },
+   {
+    "tag": "div",
+    "text": "Increased Treatment Conversion",
+    "family": "Krissai",
+    "size": "16px",
+    "weight": "400",
+    "lh": "19.2px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(26, 61, 28)"
+   },
+   {
+    "tag": "span",
+    "text": "Explore Features",
+    "family": "Krissai",
+    "size": "16px",
+    "weight": "400",
+    "lh": "19.2px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(26, 61, 28)"
+   },
+   {
+    "tag": "div",
+    "text": "Kriss.ai",
+    "family": "Krissai",
+    "size": "16px",
+    "weight": "400",
+    "lh": "19.2px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "a",
+    "text": "Home",
+    "family": "Krissai",
+    "size": "14px",
+    "weight": "400",
+    "lh": "21px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(26, 61, 28)"
+   },
+   {
+    "tag": "a",
+    "text": "Setup",
+    "family": "Krissai",
+    "size": "14px",
+    "weight": "400",
+    "lh": "21px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(26, 61, 28)"
+   },
+   {
+    "tag": "a",
+    "text": "Plans",
+    "family": "Krissai",
+    "size": "14px",
+    "weight": "400",
+    "lh": "21px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(26, 61, 28)"
+   },
+   {
+    "tag": "a",
+    "text": "About",
+    "family": "Krissai",
+    "size": "14px",
+    "weight": "400",
+    "lh": "21px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(26, 61, 28)"
+   },
+   {
+    "tag": "a",
+    "text": "FAQ",
+    "family": "Krissai",
+    "size": "14px",
+    "weight": "400",
+    "lh": "21px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(26, 61, 28)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgba(0, 0, 0, 0)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(26, 61, 28)",
+    13
+   ],
+   [
+    "rgb(0, 0, 0)",
+    1
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgba(255, 255, 255, 0.2)",
+    5
+   ],
+   [
+    "rgb(255, 255, 255)",
+    2
+   ],
+   [
+    "rgba(25, 147, 23, 0.35)",
+    2
+   ]
+  ],
+  "gradients": [
+   [
+    "radial-gradient(57.58% 71.02% at 45% 100%, rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0) 100%), radial-gradient(73.61% 153.78% at 43.6",
+    1
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.4,0,0.2,1)",
+    2
+   ]
+  ],
+  "durations": [
+   [
+    "0.3s",
+    16
+   ],
+   [
+    "0.4s",
+    3
+   ],
+   [
+    "2s",
+    3
+   ],
+   [
+    "0.2s",
+    2
+   ],
+   [
+    "0.15s",
+    2
+   ],
+   [
+    "1s",
+    2
+   ],
+   [
+    "1.5s",
+    2
+   ],
+   [
+    "0.7s",
+    1
+   ],
+   [
+    "300ms",
+    1
+   ],
+   [
+    "7s",
+    1
+   ]
+  ],
+  "keyframes": [
+   "svelte-hipe91-bob",
+   "svelte-1my3x9z-blink",
+   "rotate",
+   "glow-animation",
+   "pulse-animation",
+   "draw-path",
+   "gentleWobble"
+  ]
+ },
+ "cssVarSample": {
+  "--picker-width": "300px",
+  "--picker-height": "200px",
+  "--slider-width": "12px",
+  "--checker-color-1": "#1b1b1b",
+  "--checker-color-2": "#333",
+  "--white": "#fff",
+  "--glass-color": "rgba(255, 255, 255, .2)",
+  "--glass-stroke-color": "rgba(255, 255, 255, .3)",
+  "--blue-text": "rgb(15, 15, 15)",
+  "--blue-cta": "rgb(15, 15, 15)",
+  "--blue-cta-hover": "rgb(51, 51, 51)",
+  "--blue-cta-text": "rgb(255, 255, 255)",
+  "--front-desk-text": "rgb(108, 0, 0)",
+  "--front-desk-cta": "rgba(196, 45, 45, .35)",
+  "--front-desk-cta-hover": "rgba(196, 45, 45, .5)",
+  "--front-desk-cta-text": "rgb(108, 0, 0)",
+  "--consultation-room-text": "rgb(26, 61, 28)",
+  "--consultation-room-cta": "rgba(25, 147, 23, .35)",
+  "--consultation-room-cta-hover": "rgba(25, 147, 23, .6)",
+  "--consultation-room-cta-text": "rgb(26, 61, 28)",
+  "--surgery-room-text": "rgb(41, 26, 61)",
+  "--surgery-room-cta": "rgba(107, 23, 147, .35)",
+  "--surgery-room-cta-hover": "rgba(107, 23, 147, .6)",
+  "--surgery-room-cta-text": "rgb(41, 26, 61)",
+  "--doctors-office-text": "rgb(54, 39, 16)",
+  "--doctors-office-cta": "rgba(229, 174, 32, .35)",
+  "--doctors-office-cta-hover": "rgba(229, 174, 32, .6)",
+  "--doctors-office-cta-text": "rgb(54, 39, 16)",
+  "--server-room-text": "rgb(86, 52, 2)",
+  "--server-room-cta": "rgba(216, 94, 6, .35)",
+  "--server-room-cta-hover": "linear-gradient(0deg, rgba(0, 0, 0, .05) 0%, rgba(0, 0, 0, .05) 100%), rgba(216,",
+  "--server-room-cta-text": "rgb(86, 52, 2)",
+  "--administration-room-text": "rgb(24, 26, 90)",
+  "--administration-room-cta": "rgba(23, 124, 147, .35)",
+  "--administration-room-cta-hover": "rgba(23, 124, 147, .6)",
+  "--administration-room-cta-text": "rgb(24, 26, 90)",
+  "--aftercare-text": "rgb(15, 56, 34)",
+  "--aftercare-cta": "rgba(23, 147, 72, .35)",
+  "--aftercare-cta-hover": "rgba(23, 147, 72, .6)",
+  "--aftercare-cta-text": "rgb(15, 56, 34)",
+  "--pad": "30px",
+  "--info-blue": "#0f0f0f",
+  "--info-blue-50": "color-mix(in lch, var(--info-blue) 50%, transparent)",
+  "--info-blue-15": "color-mix(in lch, var(--info-blue) 15%, transparent)",
+  "--info-red": "rgba(15, 15, 15, .6)",
+  "--bg-color": "#fff",
+  "--body-font": "normal 400 16px/1.2em \"Krissai\", sans-serif",
+  "--body-color": "#000",
+  "--ui-color": "#000",
+  "--ui-hover-color": "#fff",
+  "--text-color": "var(--blue-text)",
+  "--cta-color": "var(--blue-cta)",
+  "--cta-hover-color": "var(--blue-cta-hover)",
+  "--cta-text-color": "var(--blue-cta-text)",
+  "--text-color-50": "color-mix(in lch, var(--text-color) 50%, transparent)",
+  "--text-color-20": "color-mix(in lch, var(--text-color) 20%, transparent)",
+  "--cgpt-chat-box-container-height": "704px",
+  "--cgpt-chat-box-header-height": "52px"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 1,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": true,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 1,
+  "video": 0,
+  "svg": 19,
+  "picture": 0,
+  "iframes": 1
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 9,
+  "clipPath": 1,
+  "sticky": 0,
+  "fixed": [
+   "webgl-container svelte-12ctfyc",
+   "scroller svelte-ofep1b",
+   "features svelte-6w136o",
+   "controls svelte-1vlrtza",
+   "chat svelte-g4y27x",
+   "cgptcb-chat-bubble visible"
+  ],
+  "customCursor": false,
+  "boxShadows": [
+   [
+    "rgba(65, 179, 165, 0.08) 10px 10px 40px 0px, rgba(65, 179, 165, 0.12) 5px 14px 80px 0px",
+    1
+   ]
+  ],
+  "filters": [],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "6px",
+   3
+  ],
+  [
+   "0px 0px 6px 6px",
+   1
+  ],
+  [
+   "6px 0px 0px 6px",
+   1
+  ],
+  [
+   "0px 6px 6px 0px",
+   1
+  ],
+  [
+   "3px",
+   1
+  ],
+  [
+   "0px 3px 3px 0px",
+   1
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid lch(4.31487 0.00209718 none / 0.2)",
+   3
+  ],
+  [
+   "1px solid rgba(255, 255, 255, 0.2)",
+   1
+  ]
+ ],
+ "grids": [],
+ "containers": [
+  [
+   "1440px",
+   1
+  ]
+ ],
+ "sideMargins": [],
+ "sections": [],
+ "nav": null,
+ "ctas": [
+  {
+   "text": "Book Demo",
+   "bg": "rgba(25, 147, 23, 0.35)",
+   "color": "rgb(26, 61, 28)",
+   "radius": "0px 3px 3px 0px",
+   "pad": "0px 30px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 47
+  }
+ ],
+ "headings": [],
+ "paras": [],
+ "footer": null,
+ "jsMotion": {
+  "scriptsFetched": 2,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "0",
+    1
+   ]
+  ],
+  "staggers": [],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

@@ -1,0 +1,1104 @@
+{
+ "url": "https://zeroleaks.ai",
+ "slug": "zeroleaks-ai",
+ "analyzedAt": "2026-10-07T10:00:17.076Z",
+ "scrollHeight": 8450,
+ "pageLengthInViewports": 9.4,
+ "title": "ZeroLeaks - Continuous Red Teaming for AI Agents",
+ "metaDescription": "ZeroLeaks is continuous red teaming for AI agents: it works out what an agent must never do, attacks those limits through tools, memory, and other agents on every change, and ships the policy change that closes each finding.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "geistSans 100 900 normal",
+   "geistMono 100 900 normal"
+  ],
+  "families": [
+   [
+    "geistSans",
+    143
+   ],
+   [
+    "geistMono",
+    16
+   ]
+  ],
+  "sizes": [
+   [
+    "14px",
+    92
+   ],
+   [
+    "16px",
+    15
+   ],
+   [
+    "28px",
+    13
+   ],
+   [
+    "13px",
+    10
+   ],
+   [
+    "12px",
+    7
+   ],
+   [
+    "48px",
+    6
+   ],
+   [
+    "15px",
+    5
+   ],
+   [
+    "18px",
+    4
+   ],
+   [
+    "40px",
+    3
+   ],
+   [
+    "11px",
+    1
+   ],
+   [
+    "24px",
+    1
+   ],
+   [
+    "32px",
+    1
+   ],
+   [
+    "56px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    109
+   ],
+   [
+    "500",
+    50
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    62
+   ],
+   [
+    "-0.010em@14",
+    49
+   ],
+   [
+    "-0.020em@28",
+    13
+   ],
+   [
+    "-0.024em@48",
+    6
+   ],
+   [
+    "-0.010em@16",
+    5
+   ],
+   [
+    "-0.010em@15",
+    5
+   ],
+   [
+    "-0.010em@13",
+    5
+   ],
+   [
+    "-0.030em@18",
+    4
+   ],
+   [
+    "0.025em@14",
+    4
+   ],
+   [
+    "-0.024em@16",
+    2
+   ],
+   [
+    "-0.006em@12",
+    1
+   ],
+   [
+    "-0.012em@11",
+    1
+   ],
+   [
+    "-0.024em@32",
+    1
+   ],
+   [
+    "-0.014em@56",
+    1
+   ]
+  ],
+  "uppercaseShare": 0.03,
+  "largest": [
+   {
+    "tag": "span",
+    "text": "your AI agents.",
+    "family": "geistSans",
+    "size": "56px",
+    "weight": "500",
+    "lh": "64.0002px",
+    "ls": "-0.768px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(250, 250, 250)"
+   },
+   {
+    "tag": "span",
+    "text": "Continuous",
+    "family": "geistSans",
+    "size": "48px",
+    "weight": "500",
+    "lh": "54.8573px",
+    "ls": "-1.152px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(250, 250, 250)"
+   },
+   {
+    "tag": "span",
+    "text": "red",
+    "family": "geistSans",
+    "size": "48px",
+    "weight": "500",
+    "lh": "54.8573px",
+    "ls": "-1.152px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(250, 250, 250)"
+   },
+   {
+    "tag": "span",
+    "text": "teaming",
+    "family": "geistSans",
+    "size": "48px",
+    "weight": "500",
+    "lh": "54.8573px",
+    "ls": "-1.152px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(250, 250, 250)"
+   },
+   {
+    "tag": "span",
+    "text": "for",
+    "family": "geistSans",
+    "size": "48px",
+    "weight": "500",
+    "lh": "54.8573px",
+    "ls": "-1.152px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(250, 250, 250)"
+   },
+   {
+    "tag": "span",
+    "text": "AI",
+    "family": "geistSans",
+    "size": "48px",
+    "weight": "500",
+    "lh": "54.8573px",
+    "ls": "-1.152px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(250, 250, 250)"
+   },
+   {
+    "tag": "span",
+    "text": "agents",
+    "family": "geistSans",
+    "size": "48px",
+    "weight": "500",
+    "lh": "54.8573px",
+    "ls": "-1.152px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(250, 250, 250)"
+   },
+   {
+    "tag": "span",
+    "text": "$149",
+    "family": "geistSans",
+    "size": "40px",
+    "weight": "400",
+    "lh": "48px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(250, 250, 250)"
+   },
+   {
+    "tag": "span",
+    "text": "$499",
+    "family": "geistSans",
+    "size": "40px",
+    "weight": "400",
+    "lh": "48px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(250, 250, 250)"
+   },
+   {
+    "tag": "span",
+    "text": "$1,999",
+    "family": "geistSans",
+    "size": "40px",
+    "weight": "400",
+    "lh": "48px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(250, 250, 250)"
+   },
+   {
+    "tag": "span",
+    "text": "Start red teaming",
+    "family": "geistSans",
+    "size": "32px",
+    "weight": "500",
+    "lh": "36.5715px",
+    "ls": "-0.768px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(250, 250, 250)"
+   },
+   {
+    "tag": "h2",
+    "text": "Built on real attacks. Our probe library comes from the team behind a 100k+ star GitHub re",
+    "family": "geistSans",
+    "size": "28px",
+    "weight": "400",
+    "lh": "38px",
+    "ls": "-0.56px",
+    "tt": "none",
+    "style": "normal",
+    "color": "lab(67.52 -0.0000298023 0)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(0, 0, 0)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "lab(67.52 -0.0000298023 0)",
+    112
+   ],
+   [
+    "rgb(250, 250, 250)",
+    39
+   ],
+   [
+    "rgb(0, 0, 0)",
+    5
+   ],
+   [
+    "oklab(0.984799 0.0000446141 0.0000197291 / 0.7)",
+    3
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(20, 20, 20)",
+    24
+   ],
+   [
+    "rgb(3, 3, 3)",
+    21
+   ],
+   [
+    "rgb(8, 8, 8)",
+    8
+   ],
+   [
+    "rgb(0, 0, 0)",
+    7
+   ],
+   [
+    "rgba(255, 255, 255, 0.02)",
+    7
+   ],
+   [
+    "rgb(250, 250, 250)",
+    5
+   ],
+   [
+    "oklab(0.984799 0.0000446141 0.0000197291 / 0.07)",
+    1
+   ],
+   [
+    "lab(67.52 -0.0000298023 0)",
+    1
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(95deg, rgb(0, 147, 255) 4.25%, rgb(255, 169, 51) 47.36%, rgb(255, 68, 88) 90.46%)",
+    1
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.23,1,0.32,1)",
+    14
+   ],
+   [
+    "cubic-bezier(.23,1,.32,1)",
+    5
+   ],
+   [
+    "cubic-bezier(0,0,.2,1)",
+    2
+   ],
+   [
+    "cubic-bezier(.4,0,.6,1)",
+    2
+   ],
+   [
+    "cubic-bezier(.4,0,.2,1)",
+    2
+   ],
+   [
+    "cubic-bezier(.32,.72,0,1)",
+    2
+   ],
+   [
+    "cubic-bezier(0.32,0.72,0,1)",
+    2
+   ],
+   [
+    "cubic-bezier(0.77,0,0.175,1)",
+    2
+   ],
+   [
+    "cubic-bezier(0.19,1,0.22,1)",
+    2
+   ]
+  ],
+  "durations": [
+   [
+    ".15s",
+    20
+   ],
+   [
+    "0.2s",
+    11
+   ],
+   [
+    "0.15s",
+    10
+   ],
+   [
+    "0s",
+    9
+   ],
+   [
+    "0.5s",
+    5
+   ],
+   [
+    "0.4s",
+    4
+   ],
+   [
+    "0.3s",
+    3
+   ],
+   [
+    "0.9s",
+    3
+   ],
+   [
+    "1.25s",
+    2
+   ],
+   [
+    "1s",
+    2
+   ]
+  ],
+  "keyframes": [
+   "drawer-slide-in",
+   "drawer-slide-out",
+   "drawer-overlay-in",
+   "drawer-overlay-out",
+   "pfx-signal",
+   "pfx-glow",
+   "pfx-ripple",
+   "pfx-sweep",
+   "hero-word",
+   "hero-rise",
+   "spin",
+   "pulse",
+   "enter",
+   "exit",
+   "accordion-down",
+   "accordion-up",
+   "caret-blink",
+   "spotlight",
+   "marquee",
+   "marquee-vertical"
+  ]
+ },
+ "cssVarSample": {
+  "--lightningcss-light": "initial",
+  "--lightningcss-dark": "",
+  "--background": "240 20% 99%",
+  "--foreground": "240 10% 7%",
+  "--card": "0 0% 100%",
+  "--card-foreground": "240 10% 7%",
+  "--popover": "0 0% 100%",
+  "--popover-foreground": "240 10% 3.9%",
+  "--primary": "240 10% 7%",
+  "--primary-foreground": "0 0% 98%",
+  "--secondary": "240 4.8% 95.9%",
+  "--secondary-foreground": "240 5.9% 10%",
+  "--muted": "240 4.8% 95.9%",
+  "--muted-foreground": "240 3.8% 46.1%",
+  "--accent": "240 4.8% 95.9%",
+  "--accent-foreground": "240 5.9% 10%",
+  "--destructive": "0 84.2% 60.2%",
+  "--destructive-foreground": "0 0% 98%",
+  "--border": "240 6% 89%",
+  "--input": "240 6% 86%",
+  "--ring": "240 5.9% 10%",
+  "--radius": ".5rem",
+  "--max-width-global": "90rem",
+  "--padding-global": "0rem",
+  "--padding-section-md": "2rem",
+  "--py-section-md": "24px",
+  "--header-height": "75px",
+  "--chart-1": "12 76% 61%",
+  "--chart-2": "173 58% 39%",
+  "--chart-3": "197 37% 24%",
+  "--chart-4": "43 74% 66%",
+  "--chart-5": "27 87% 67%",
+  "--sidebar-background": "0 0% 98%",
+  "--sidebar-foreground": "240 5.3% 26.1%",
+  "--sidebar-primary": "240 5.9% 10%",
+  "--sidebar-primary-foreground": "0 0% 98%",
+  "--sidebar-accent": "240 4.8% 95.9%",
+  "--sidebar-accent-foreground": "240 5.9% 10%",
+  "--sidebar-border": "220 13% 91%",
+  "--sidebar-ring": "217.2 91.2% 59.8%",
+  "--hero-bg": "#fbfbfc",
+  "--stroke": "#e8e8eb",
+  "--badge-bg": "#18181b09",
+  "--subtext": "#71717a",
+  "--surface-1": "#f1f1f3",
+  "--surface-2": "#fff",
+  "--surface-3": "#f8f8f9",
+  "--surface-hover": "#e8e8eb",
+  "--track": "#e4e4e7",
+  "--line": "#ececef",
+  "--line-strong": "#dedee2",
+  "--line-stronger": "#c8c8ce",
+  "--text-faint": "#a1a1aa",
+  "--text-subtle": "#8a8a94",
+  "--text-muted": "#71717a",
+  "--text-soft": "#52525b",
+  "--text-bright": "#3f3f46",
+  "--text-primary": "#27272a",
+  "--text-brightest": "#09090b",
+  "--danger": "#dc2743",
+  "--danger-subtle": "#dc27431a",
+  "--warning": "#c66a08",
+  "--warning-subtle": "#c66a081a",
+  "--warning-faint": "#c66a080f",
+  "--warning-deep": "#92400e",
+  "--warning-deep-bg": "#fff7e8",
+  "--success": "#087f3f",
+  "--success-subtle": "#087f3f1a",
+  "--info": "#0073cc",
+  "--info-subtle": "#0073cc1a"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 1,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": true,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": true,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 17,
+  "video": 0,
+  "svg": 48,
+  "picture": 1,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 9,
+  "clipPath": 3,
+  "sticky": 2,
+  "fixed": [],
+  "customCursor": true,
+  "boxShadows": [
+   [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(24, 24, 27, 0.04) 0px 1px 2px 0px",
+    8
+   ]
+  ],
+  "filters": [
+   [
+    "url(\"#pfx-blur-attack-surface\")",
+    1
+   ],
+   [
+    "url(\"#pfx-blur-remediation\")",
+    1
+   ],
+   [
+    "url(\"#pfx-blur-containment\")",
+    1
+   ],
+   [
+    "url(\"#pfx-blur-evidence\")",
+    1
+   ],
+   [
+    "blur(10px)",
+    1
+   ]
+  ],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "3.35544e+07px",
+   10
+  ],
+  [
+   "6px",
+   8
+  ],
+  [
+   "0px 0px 0px 8px",
+   3
+  ],
+  [
+   "0px 0px 8px",
+   3
+  ],
+  [
+   "8px",
+   3
+  ],
+  [
+   "8px 0px 0px",
+   1
+  ],
+  [
+   "0px 8px 0px 0px",
+   1
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgb(20, 20, 20)",
+   38
+  ],
+  [
+   "bottom:1px solid rgb(20, 20, 20)",
+   19
+  ],
+  [
+   "2px solid rgb(3, 3, 3)",
+   10
+  ],
+  [
+   "1px solid oklab(0.984799 0.0000446141 0.0000197291 / 0.16)",
+   2
+  ],
+  [
+   "1px solid oklab(0.984799 0.0000446141 0.0000197291 / 0.08)",
+   1
+  ]
+ ],
+ "grids": [
+  [
+   "1cols gap normal",
+   4
+  ],
+  [
+   "2cols gap normal",
+   3
+  ],
+  [
+   "2cols gap 48px",
+   1
+  ],
+  [
+   "4cols gap normal",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "1150px",
+   15
+  ],
+  [
+   "1440px",
+   5
+  ],
+  [
+   "1198px",
+   4
+  ],
+  [
+   "1103px",
+   4
+  ],
+  [
+   "100%",
+   3
+  ],
+  [
+   "708px",
+   3
+  ]
+ ],
+ "sideMargins": [
+  [
+   "186px",
+   8
+  ],
+  [
+   "647px",
+   7
+  ],
+  [
+   "399px",
+   3
+  ],
+  [
+   "752px",
+   2
+  ],
+  [
+   "194px",
+   2
+  ],
+  [
+   "384px",
+   1
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "relative z-0 overflow-hidden bg-hero-bg",
+   "h": 925,
+   "padTop": "0px",
+   "bg": "rgb(3, 3, 3)"
+  },
+  {
+   "cls": "mx-auto h-auto w-full max-w-[var(--max-w-section)]",
+   "h": 459,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "bg-hero-bg",
+   "h": 100,
+   "padTop": "0px",
+   "bg": "rgb(3, 3, 3)"
+  },
+  {
+   "cls": "mx-auto flex max-w-[var(--max-w-section)] items-ce",
+   "h": 100,
+   "padTop": "32px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "bg-hero-bg",
+   "h": 349,
+   "padTop": "0px",
+   "bg": "rgb(3, 3, 3)"
+  },
+  {
+   "cls": "relative mx-auto border-stroke border-t px-6 py-[3",
+   "h": 349,
+   "padTop": "80px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "bg-hero-bg",
+   "h": 414,
+   "padTop": "0px",
+   "bg": "rgb(3, 3, 3)"
+  },
+  {
+   "cls": "relative z-0 mx-auto max-w-[var(--max-w-section)] ",
+   "h": 414,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "mx-auto w-full max-w-[var(--max-w-section)] border",
+   "h": 50,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "bg-hero-bg px-global md:px-0",
+   "h": 64,
+   "padTop": "0px",
+   "bg": "rgb(3, 3, 3)"
+  },
+  {
+   "cls": "mx-auto h-12 max-w-[var(--max-w-section)] border-s",
+   "h": 64,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "bg-hero-bg",
+   "h": 980,
+   "padTop": "0px",
+   "bg": "rgb(3, 3, 3)"
+  },
+  {
+   "cls": "z-10 mx-auto hidden h-[26px] max-w-[calc(var(--max",
+   "h": 26,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "relative mx-auto max-w-[var(--max-w-section)] bord",
+   "h": 954,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "bg-hero-bg px-global md:px-0",
+   "h": 64,
+   "padTop": "0px",
+   "bg": "rgb(3, 3, 3)"
+  },
+  {
+   "cls": "mx-auto h-12 max-w-[var(--max-w-section)] border-s",
+   "h": 64,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "bg-hero-bg",
+   "h": 2340,
+   "padTop": "0px",
+   "bg": "rgb(3, 3, 3)"
+  },
+  {
+   "cls": "relative mx-auto max-w-[var(--max-w-section)] bord",
+   "h": 2340,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "bg-hero-bg px-global md:px-0",
+   "h": 64,
+   "padTop": "0px",
+   "bg": "rgb(3, 3, 3)"
+  },
+  {
+   "cls": "mx-auto h-12 max-w-[var(--max-w-section)] border-s",
+   "h": 64,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "bg-hero-bg px-global md:px-0",
+   "h": 585,
+   "padTop": "0px",
+   "bg": "rgb(3, 3, 3)"
+  },
+  {
+   "cls": "mx-auto grid max-w-[var(--max-w-section)] gap-8 bo",
+   "h": 585,
+   "padTop": "80px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "bg-hero-bg px-global md:px-0",
+   "h": 64,
+   "padTop": "0px",
+   "bg": "rgb(3, 3, 3)"
+  },
+  {
+   "cls": "mx-auto h-12 max-w-[var(--max-w-section)] border-s",
+   "h": 64,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "overflow-x-clip bg-hero-bg",
+   "h": 1069,
+   "padTop": "0px",
+   "bg": "rgb(3, 3, 3)"
+  },
+  {
+   "cls": "relative mx-auto max-w-[var(--max-w-section)] bord",
+   "h": 1069,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "bg-hero-bg",
+   "h": 598,
+   "padTop": "0px",
+   "bg": "rgb(3, 3, 3)"
+  },
+  {
+   "cls": "relative mx-auto max-w-[var(--max-w-section)] bord",
+   "h": 598,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "relative z-10 overflow-x-clip bg-hero-bg",
+   "h": 363,
+   "padTop": "0px",
+   "bg": "rgb(3, 3, 3)"
+  },
+  {
+   "cls": "mx-auto mt-[0.5px] max-w-[var(--max-w-section)] bo",
+   "h": 363,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "sticky",
+  "height": 81,
+  "links": 7,
+  "linkTexts": [
+   "Home",
+   "Docs",
+   "Blog",
+   "Contact",
+   "Sign in",
+   "Start 14-day trial"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "Skip to content",
+   "bg": "rgb(250, 250, 250)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "6px",
+   "pad": "0px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 1
+  },
+  {
+   "text": "Start 14-day trial",
+   "bg": "rgb(0, 0, 0)",
+   "color": "rgb(250, 250, 250)",
+   "radius": "3.35544e+07px",
+   "pad": "8px 16px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid rgb(20, 20, 20)",
+   "h": 44
+  },
+  {
+   "text": "Try Pro free for 14 days",
+   "bg": "rgb(250, 250, 250)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "8px",
+   "pad": "8px 20px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 44
+  },
+  {
+   "text": "Documentation",
+   "bg": "rgb(0, 0, 0)",
+   "color": "rgb(250, 250, 250)",
+   "radius": "8px",
+   "pad": "8px 20px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid rgb(20, 20, 20)",
+   "h": 44
+  },
+  {
+   "text": "Read the research",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(250, 250, 250)",
+   "radius": "8px",
+   "pad": "8px 16px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid oklab(0.984799 0.0000446141 0.0000197291 / 0.08)",
+   "h": 44
+  },
+  {
+   "text": "Get an API key",
+   "bg": "rgb(250, 250, 250)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "6px",
+   "pad": "8px 20px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 44
+  },
+  {
+   "text": "Models and results",
+   "bg": "rgb(0, 0, 0)",
+   "color": "rgb(250, 250, 250)",
+   "radius": "6px",
+   "pad": "8px 20px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid rgb(20, 20, 20)",
+   "h": 44
+  },
+  {
+   "text": "Start Pro trial",
+   "bg": "rgb(250, 250, 250)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "6px",
+   "pad": "8px 20px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 44
+  },
+  {
+   "text": "Choose Team",
+   "bg": "rgb(0, 0, 0)",
+   "color": "rgb(250, 250, 250)",
+   "radius": "6px",
+   "pad": "8px 20px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid rgb(20, 20, 20)",
+   "h": 44
+  },
+  {
+   "text": "Choose Business",
+   "bg": "rgb(0, 0, 0)",
+   "color": "rgb(250, 250, 250)",
+   "radius": "6px",
+   "pad": "8px 20px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid rgb(20, 20, 20)",
+   "h": 44
+  }
+ ],
+ "headings": [
+  "Continuous red teaming for AI agents",
+  "Built on real attacks. Our probe library comes from the team behind a 100k+ star GitHub repository of prompt leaks and jailbreaks collected in the wild.",
+  "Scan on demand, or on every change. Test a live endpoint from the dashboard, or start scans from your pipeline and block the merge when the score drops.",
+  "On-demand scanning",
+  "Automated CI/CD",
+  "Built for teams shipping agents. Catch vulnerabilities before launch, then on every change after.",
+  "Check what your agent reads. Shield flags prompt injection in user messages, retrieved documents, and tool results with one API call.",
+  "Unlimited scans on every plan. Plans are priced by team size, and you can start without a sales call.",
+  "Pro",
+  "Team",
+  "Business",
+  "Enterprise",
+  "Frequently asked questions. Email us with anything else.",
+  "Start red teaming your AI agents."
+ ],
+ "paras": [
+  "ZeroLeaks attacks your agent through its tools, memory, and credentials on every change.",
+  "Point ZeroLeaks at a live endpoint or wrap your agent with the SDK. It runs a full attack campaign against the agent's tools, memory, and connected agents, and reports every attack that got through.",
+  "Start a scan from your pipeline through the REST API or SDK and gate the release on the returned score. Every change to your agent is tested before it ships.",
+  "Agents are compromised through their tools, memory, MCP servers, and permissions, as well as through the system prompt. ZeroLeaks tests every one of them.",
+  "Each finding includes the policy or configuration change that fixes it. The next scan reruns the attack to confirm the fix holds.",
+  "Exfiltration attempts only reach canary endpoints that ZeroLeaks controls, and destructive tool calls are simulated. Scans are safe to run against production agents.",
+  "Every finding is ranked by severity and includes the exact attack that reproduces it. Reports export to PDF for engineering and security review.",
+  "Shield is free. Shield Base, Large, and Tiered are included in every paid plan."
+ ],
+ "footer": {
+  "h": 390,
+  "text": "PRODUCT Home Docs Shield Gauntlet Pricing SOLUTIONS Prompt Injection Testing AI Red Teaming AI Agent Security LLM Security Scanner RESOURCES Documentation Status GitHub CONNECT X GitHub Contact © 2026 ZeroLeaks. All rights reserved. System status Cookie settings Privacy Policy Terms of Service"
+ },
+ "jsMotion": {
+  "scriptsFetched": 25,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "0",
+    4
+   ]
+  ],
+  "staggers": [],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [
+   [
+    "click",
+    1
+   ],
+   [
+    "drag",
+    1
+   ]
+  ],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

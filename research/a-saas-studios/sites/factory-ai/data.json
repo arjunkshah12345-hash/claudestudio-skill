@@ -1,0 +1,868 @@
+{
+ "url": "https://factory.ai",
+ "slug": "factory-ai",
+ "analyzedAt": "2026-10-07T05:16:54.549Z",
+ "scrollHeight": 9108,
+ "pageLengthInViewports": 10.1,
+ "title": "Factory | Agent-Native Software Development",
+ "metaDescription": "Build faster with AI coding agents. Factory Droids automate coding, testing, and deployment for startups and enterprises.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "Geist Pixel Square 400 normal",
+   "Geist 100 900 normal",
+   "Geist Fallback normal normal",
+   "Geist Mono 100 900 normal",
+   "Geist Mono Fallback normal normal"
+  ],
+  "families": [
+   [
+    "Geist",
+    110
+   ],
+   [
+    "Geist Mono",
+    10
+   ]
+  ],
+  "sizes": [
+   [
+    "14px",
+    73
+   ],
+   [
+    "16px",
+    18
+   ],
+   [
+    "12px",
+    15
+   ],
+   [
+    "24px",
+    8
+   ],
+   [
+    "28px",
+    3
+   ],
+   [
+    "36px",
+    3
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    120
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    104
+   ],
+   [
+    "-0.020em@12",
+    7
+   ],
+   [
+    "-0.020em@14",
+    3
+   ],
+   [
+    "-0.020em@28",
+    3
+   ],
+   [
+    "-0.020em@36",
+    2
+   ],
+   [
+    "-0.031em@36",
+    1
+   ]
+  ],
+  "uppercaseShare": 0.1,
+  "largest": [
+   {
+    "tag": "h2",
+    "text": "Move freely between open and closed models",
+    "family": "Geist",
+    "size": "36px",
+    "weight": "400",
+    "lh": "36px",
+    "ls": "-0.72px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(2, 2, 2)"
+   },
+   {
+    "tag": "h2",
+    "text": "Build your software factory",
+    "family": "Geist",
+    "size": "36px",
+    "weight": "400",
+    "lh": "36px",
+    "ls": "-0.72px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(2, 2, 2)"
+   },
+   {
+    "tag": "h2",
+    "text": "Ready to build the software of the future?",
+    "family": "Geist",
+    "size": "36px",
+    "weight": "400",
+    "lh": "39.6px",
+    "ls": "-1.12px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(235, 235, 235)"
+   },
+   {
+    "tag": "h3",
+    "text": "CONTROL",
+    "family": "Geist",
+    "size": "28px",
+    "weight": "400",
+    "lh": "28px",
+    "ls": "-0.56px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(2, 2, 2)"
+   },
+   {
+    "tag": "h3",
+    "text": "GOVERNANCE",
+    "family": "Geist",
+    "size": "28px",
+    "weight": "400",
+    "lh": "28px",
+    "ls": "-0.56px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(2, 2, 2)"
+   },
+   {
+    "tag": "h3",
+    "text": "VALUE",
+    "family": "Geist",
+    "size": "28px",
+    "weight": "400",
+    "lh": "28px",
+    "ls": "-0.56px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(2, 2, 2)"
+   },
+   {
+    "tag": "h3",
+    "text": "Analytics",
+    "family": "Geist",
+    "size": "24px",
+    "weight": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(2, 2, 2)"
+   },
+   {
+    "tag": "h3",
+    "text": "Droid Computers",
+    "family": "Geist",
+    "size": "24px",
+    "weight": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(2, 2, 2)"
+   },
+   {
+    "tag": "h3",
+    "text": "Agent Readiness",
+    "family": "Geist",
+    "size": "24px",
+    "weight": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(2, 2, 2)"
+   },
+   {
+    "tag": "h3",
+    "text": "Mission Control",
+    "family": "Geist",
+    "size": "24px",
+    "weight": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(2, 2, 2)"
+   },
+   {
+    "tag": "h3",
+    "text": "Automations",
+    "family": "Geist",
+    "size": "24px",
+    "weight": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(2, 2, 2)"
+   },
+   {
+    "tag": "h3",
+    "text": "Model Routing",
+    "family": "Geist",
+    "size": "24px",
+    "weight": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(2, 2, 2)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(245, 245, 245)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(2, 2, 2)",
+    72
+   ],
+   [
+    "rgb(138, 131, 128)",
+    18
+   ],
+   [
+    "rgb(92, 88, 85)",
+    15
+   ],
+   [
+    "rgb(238, 238, 238)",
+    8
+   ],
+   [
+    "rgb(238, 96, 24)",
+    3
+   ],
+   [
+    "rgb(245, 245, 245)",
+    2
+   ],
+   [
+    "rgb(16, 16, 16)",
+    1
+   ],
+   [
+    "rgb(235, 235, 235)",
+    1
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(245, 245, 245)",
+    48
+   ],
+   [
+    "rgb(16, 16, 16)",
+    3
+   ],
+   [
+    "rgb(235, 235, 235)",
+    3
+   ],
+   [
+    "rgb(255, 255, 255)",
+    3
+   ],
+   [
+    "rgb(238, 96, 24)",
+    1
+   ],
+   [
+    "rgb(31, 29, 28)",
+    1
+   ]
+  ],
+  "gradients": [
+   [
+    "repeating-linear-gradient(45deg, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0) 2px, rgb(164, 157, 154) 2px, rgb(164, 157, 154) 3px, rgba(0, 0, 0, 0",
+    3
+   ],
+   [
+    "repeating-linear-gradient(45deg, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0) 2px, rgb(77, 73, 71) 2px, rgb(77, 73, 71) 3px, rgba(0, 0, 0, 0) 3px,",
+    3
+   ],
+   [
+    "linear-gradient(to right in oklab, rgb(235, 235, 235) 0px, rgba(0, 0, 0, 0) 100%)",
+    2
+   ],
+   [
+    "linear-gradient(to left in oklab, rgb(235, 235, 235) 0px, rgba(0, 0, 0, 0) 100%)",
+    2
+   ],
+   [
+    "radial-gradient(rgb(26, 26, 26) 0%, rgb(13, 13, 13) 72%)",
+    1
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.22,1,0.36,1)",
+    21
+   ],
+   [
+    "cubic-bezier(.4,0,.2,1)",
+    6
+   ],
+   [
+    "cubic-bezier(.22,1,.36,1)",
+    5
+   ],
+   [
+    "cubic-bezier(0,0,.2,1)",
+    4
+   ],
+   [
+    "cubic-bezier(0.4,0,0.2,1)",
+    4
+   ],
+   [
+    "cubic-bezier(.4,0,.6,1)",
+    2
+   ]
+  ],
+  "durations": [
+   [
+    "0s",
+    25
+   ],
+   [
+    "0.3s",
+    14
+   ],
+   [
+    "0.1s",
+    13
+   ],
+   [
+    "0.2s",
+    12
+   ],
+   [
+    ".15s",
+    8
+   ],
+   [
+    "0.18s",
+    4
+   ],
+   [
+    "0.15s",
+    4
+   ],
+   [
+    "0.5s",
+    4
+   ],
+   [
+    ".2s",
+    4
+   ],
+   [
+    "0.32s",
+    3
+   ]
+  ],
+  "keyframes": [
+   "megamenuSlideDown",
+   "megamenuSlideUp",
+   "navContentFadeIn",
+   "navContentFadeOut",
+   "scaleIn",
+   "scaleOut",
+   "enterFromRight",
+   "enterFromLeft",
+   "exitToRight",
+   "exitToLeft",
+   "accordion-down",
+   "accordion-up",
+   "slidePattern",
+   "carouselSlide",
+   "delayedFadeIn",
+   "fadeIn",
+   "pageTransitionIn",
+   "sectionFadeIn",
+   "modelDropdownIn",
+   "desktopAppFadeUp"
+  ]
+ },
+ "cssVarSample": {
+  "--radius": ".375rem",
+  "--font-pixel": "\"Geist Pixel Square\",ui-monospace,monospace",
+  "--accent-100": "#ef6f2e",
+  "--accent-200": "#ee6018",
+  "--accent-300": "#d15010",
+  "--dark-base-primary": "#020202",
+  "--dark-base-secondary": "#101010",
+  "--light-base-primary": "#eee",
+  "--light-base-secondary": "#fafafa",
+  "--surface-sunken": "#ebebeb",
+  "--surface-page": "#f5f5f5",
+  "--surface-raised": "#fff",
+  "--neutral-100": "#d6d3d2",
+  "--neutral-200": "#ccc9c7",
+  "--neutral-300": "#b8b3b0",
+  "--neutral-400": "#a49d9a",
+  "--neutral-500": "#8a8380",
+  "--neutral-600": "#5c5855",
+  "--neutral-700": "#4d4947",
+  "--neutral-800": "#3d3a39",
+  "--neutral-900": "#2e2c2b",
+  "--neutral-1000": "#1f1d1c",
+  "--content-column": "1440px",
+  "--content-gutter": "1rem"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": true,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": true,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 75,
+  "video": 1,
+  "svg": 30,
+  "picture": 0,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [
+   [
+    "multiply",
+    1
+   ],
+   [
+    "screen",
+    1
+   ]
+  ],
+  "backdropFilter": 2,
+  "clipPath": 2,
+  "sticky": 0,
+  "fixed": [
+   "group/header fixed inset-x-0 -top-[env(safe-area-inset-top,0",
+   "pointer-events-none fixed inset-x-0 top-[71px] bottom-0 z-50"
+  ],
+  "customCursor": true,
+  "boxShadows": [],
+  "filters": [
+   [
+    "grayscale(1)",
+    60
+   ],
+   [
+    "drop-shadow(rgb(255, 255, 255) 0px 0px 0px)",
+    2
+   ],
+   [
+    "brightness(0) invert(0)",
+    2
+   ]
+  ],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "6px",
+   47
+  ],
+  [
+   "3px",
+   6
+  ],
+  [
+   "12px",
+   2
+  ],
+  [
+   "3.35544e+07px",
+   1
+  ],
+  [
+   "10px",
+   1
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgb(184, 179, 176)",
+   48
+  ],
+  [
+   "1px solid rgba(0, 0, 0, 0)",
+   3
+  ],
+  [
+   "1px solid rgb(164, 157, 154)",
+   3
+  ]
+ ],
+ "grids": [
+  [
+   "12cols gap 24px",
+   6
+  ],
+  [
+   "1cols gap normal",
+   3
+  ],
+  [
+   "4cols gap 24px",
+   2
+  ],
+  [
+   "3cols gap 24px",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "1440px",
+   6
+  ],
+  [
+   "1392px",
+   2
+  ],
+  [
+   "100%",
+   1
+  ]
+ ],
+ "sideMargins": [
+  [
+   "24px",
+   6
+  ],
+  [
+   "732px",
+   5
+  ],
+  [
+   "49px",
+   4
+  ],
+  [
+   "521px",
+   4
+  ],
+  [
+   "993px",
+   4
+  ],
+  [
+   "378px",
+   4
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "page-transition-in",
+   "h": 7973,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "bg-background relative isolate flex w-full flex-co",
+   "h": 567,
+   "padTop": "96.768px",
+   "bg": "rgb(245, 245, 245)"
+  },
+  {
+   "cls": "relative mx-auto grid h-auto w-full grid-cols-4 ga",
+   "h": 304,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "relative w-full overflow-x-clip lg:overflow-visibl",
+   "h": 2339,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "relative mx-auto grid h-auto w-full grid-cols-4 ga",
+   "h": 367,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "after:bg-dark-base-secondary md:py- before:bg-dark",
+   "h": 338,
+   "padTop": "40px",
+   "bg": "rgb(235, 235, 235)"
+  },
+  {
+   "cls": "relative mx-auto grid h-auto w-full grid-cols-4 ga",
+   "h": 1282,
+   "padTop": "96px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "relative mx-auto grid h-auto w-full grid-cols-4 ga",
+   "h": 560,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "fixed",
+  "height": 72,
+  "links": 11,
+  "linkTexts": [
+   "Factory",
+   "Product",
+   "Enterprise",
+   "Enterprise",
+   "Pricing",
+   "News",
+   "Company",
+   "Careers",
+   "Docs",
+   "LOG IN / SIGN UP",
+   "CONTACT SALES"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "LOG IN / SIGN UP",
+   "bg": "rgb(16, 16, 16)",
+   "color": "rgb(2, 2, 2)",
+   "radius": "3px",
+   "pad": "0px 12px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 25
+  },
+  {
+   "text": "CONTACT SALES",
+   "bg": "rgb(245, 245, 245)",
+   "color": "rgb(2, 2, 2)",
+   "radius": "3px",
+   "pad": "0px 12px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(164, 157, 154)",
+   "h": 25
+  },
+  {
+   "text": "DOWNLOAD",
+   "bg": "rgb(16, 16, 16)",
+   "color": "rgb(2, 2, 2)",
+   "radius": "3px",
+   "pad": "0px 14px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 31
+  },
+  {
+   "text": "CONTACT SALES",
+   "bg": "rgb(245, 245, 245)",
+   "color": "rgb(2, 2, 2)",
+   "radius": "3px",
+   "pad": "0px 14px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(164, 157, 154)",
+   "h": 31
+  },
+  {
+   "text": "START BUILDING",
+   "bg": "rgb(245, 245, 245)",
+   "color": "rgb(2, 2, 2)",
+   "radius": "3px",
+   "pad": "0px 14px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(164, 157, 154)",
+   "h": 31
+  }
+ ],
+ "headings": [
+  "MAKE YOUR SOFTWARE IMPROVE ITSELF",
+  "The foundation for your software factory",
+  "CONTROL",
+  "GOVERNANCE",
+  "VALUE",
+  "Move freely between open and closed models",
+  "Build your software factory",
+  "Analytics",
+  "Droid Computers",
+  "Agent Readiness",
+  "Mission Control",
+  "Automations",
+  "Model Routing",
+  "Code Review",
+  "AutoWiki",
+  "Ready to build the software of the future?"
+ ],
+ "paras": [
+  "BUILD YOUR AUTONOMOUS SOFTWARE FACTORY",
+  "Plan, build, review, and ship software with autonomous agents across desktop, terminal, web, and CLI.",
+  "Sovereign, Model-Independent Intelligence",
+  "Control where your system runs, how it learns, and which models it uses.",
+  "Trusted, Governed Self-Improvement",
+  "Deploy a governed system that continuously turns enterprise signals into validated production software.",
+  "Connect engineering adoption and effectiveness to growth, profitability, risk, and business performance.",
+  "Switch providers in a config change. Run several in parallel for redundancy. Bring your own endpoint or your own weights. Factory never locks you to a vendor.",
+  "+ Any LLM via OpenAI, Anthropic, or custom endpoints",
+  "Turn enterprise intent and codebase context into validated production software. Use Droid to plan, build, and validate changes, while your team sets the goals and policies."
+ ],
+ "footer": {
+  "h": 430,
+  "text": "Resources News Case Studies Docs Contact Sales Open Source Factory for Science Company Careers Enterprise Security Trust Center Partners The Guild Legal Privacy Policy Terms of Service SLA DPA BAA X (Twitter) , LinkedIn , GitHub English · 日本語 @Factory 2026. All rights reserved."
+ },
+ "jsMotion": {
+  "scriptsFetched": 23,
+  "gsapEases": [
+   [
+    "power2.inOut",
+    6
+   ],
+   [
+    "power2.out",
+    6
+   ],
+   [
+    "none",
+    4
+   ],
+   [
+    "power2.in",
+    1
+   ]
+  ],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    ".08",
+    6
+   ],
+   [
+    "900",
+    2
+   ],
+   [
+    ".15",
+    2
+   ],
+   [
+    ".8",
+    2
+   ],
+   [
+    ".3",
+    2
+   ],
+   [
+    "1",
+    1
+   ],
+   [
+    "250",
+    1
+   ],
+   [
+    "450",
+    1
+   ],
+   [
+    ".6",
+    1
+   ],
+   [
+    ".5",
+    1
+   ]
+  ],
+  "staggers": [
+   [
+    ".05",
+    2
+   ],
+   [
+    ".008",
+    1
+   ],
+   [
+    ".15",
+    1
+   ],
+   [
+    ".1",
+    1
+   ]
+  ],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [
+   [
+    "top bottom",
+    1
+   ]
+  ],
+  "splitTypes": [
+   [
+    "chars",
+    2
+   ]
+  ],
+  "bezierArrays": []
+ }
+}

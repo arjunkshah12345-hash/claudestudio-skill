@@ -1,0 +1,1032 @@
+{
+ "url": "https://mindmarket.com",
+ "slug": "mindmarket-com",
+ "analyzedAt": "2026-10-07T05:28:58.258Z",
+ "scrollHeight": 13732,
+ "pageLengthInViewports": 15.3,
+ "title": "Real human insights | MindMarket",
+ "metaDescription": "MindMarket is a global qualitative market research agency specialising in consumer insights & qualitative market research methods.  Get in touch today!",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "Inter 400 normal",
+   "Inter 500 normal"
+  ],
+  "families": [
+   [
+    "Inter",
+    131
+   ]
+  ],
+  "sizes": [
+   [
+    "20px",
+    55
+   ],
+   [
+    "18px",
+    26
+   ],
+   [
+    "17px",
+    21
+   ],
+   [
+    "15px",
+    9
+   ],
+   [
+    "140px",
+    5
+   ],
+   [
+    "30px",
+    5
+   ],
+   [
+    "40px",
+    4
+   ],
+   [
+    "144px",
+    3
+   ],
+   [
+    "81px",
+    2
+   ],
+   [
+    "53px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "500",
+    128
+   ],
+   [
+    "400",
+    3
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "-0.040em@20",
+    55
+   ],
+   [
+    "normal",
+    38
+   ],
+   [
+    "-0.040em@18",
+    9
+   ],
+   [
+    "-0.040em@15",
+    9
+   ],
+   [
+    "-0.060em@140",
+    5
+   ],
+   [
+    "-0.060em@30",
+    5
+   ],
+   [
+    "-0.060em@40",
+    4
+   ],
+   [
+    "-0.060em@144",
+    3
+   ],
+   [
+    "-0.060em@81",
+    2
+   ],
+   [
+    "-0.060em@53",
+    1
+   ]
+  ],
+  "uppercaseShare": 0,
+  "largest": [
+   {
+    "tag": "p",
+    "text": "60+",
+    "family": "Inter",
+    "size": "144px",
+    "weight": "400",
+    "lh": "136.8px",
+    "ls": "-8.64px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(43, 160, 255)"
+   },
+   {
+    "tag": "p",
+    "text": "400",
+    "family": "Inter",
+    "size": "144px",
+    "weight": "400",
+    "lh": "136.8px",
+    "ls": "-8.64px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "p",
+    "text": "50+",
+    "family": "Inter",
+    "size": "144px",
+    "weight": "400",
+    "lh": "136.8px",
+    "ls": "-8.64px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "h1",
+    "text": "Real human insights",
+    "family": "Inter",
+    "size": "139.68px",
+    "weight": "500",
+    "lh": "132.696px",
+    "ls": "-8.3808px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(44, 46, 42)"
+   },
+   {
+    "tag": "p",
+    "text": "Ready when you are!",
+    "family": "Inter",
+    "size": "139.68px",
+    "weight": "500",
+    "lh": "132.696px",
+    "ls": "-8.3808px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(44, 46, 42)"
+   },
+   {
+    "tag": "p",
+    "text": "Let’s Connect",
+    "family": "Inter",
+    "size": "139.68px",
+    "weight": "500",
+    "lh": "132.696px",
+    "ls": "-8.3808px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(44, 46, 42)"
+   },
+   {
+    "tag": "u",
+    "text": "Connect",
+    "family": "Inter",
+    "size": "139.68px",
+    "weight": "500",
+    "lh": "132.696px",
+    "ls": "-8.3808px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(44, 46, 42)"
+   },
+   {
+    "tag": "p",
+    "text": "A few numbers behind the insights we deliver",
+    "family": "Inter",
+    "size": "80.75px",
+    "weight": "500",
+    "lh": "76.7125px",
+    "ls": "-4.845px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(44, 46, 42)"
+   },
+   {
+    "tag": "strong",
+    "text": "insights",
+    "family": "Inter",
+    "size": "80.75px",
+    "weight": "500",
+    "lh": "76.7125px",
+    "ls": "-4.845px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(44, 46, 42)"
+   },
+   {
+    "tag": "h2",
+    "text": "Brands that choose MindMarket",
+    "family": "Inter",
+    "size": "53.125px",
+    "weight": "500",
+    "lh": "61.0938px",
+    "ls": "-3.1875px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(44, 46, 42)"
+   },
+   {
+    "tag": "h3",
+    "text": "No more chaos.",
+    "family": "Inter",
+    "size": "40.375px",
+    "weight": "500",
+    "lh": "48.45px",
+    "ls": "-2.4225px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(44, 46, 42)"
+   },
+   {
+    "tag": "h3",
+    "text": "One brief. One team.",
+    "family": "Inter",
+    "size": "40.375px",
+    "weight": "500",
+    "lh": "48.45px",
+    "ls": "-2.4225px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(44, 46, 42)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(255, 255, 255)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(44, 46, 42)",
+    111
+   ],
+   [
+    "rgb(0, 0, 0)",
+    8
+   ],
+   [
+    "oklab(0.297715 -0.00475647 0.00594945 / 0.6)",
+    6
+   ],
+   [
+    "rgb(255, 255, 255)",
+    4
+   ],
+   [
+    "rgb(43, 160, 255)",
+    2
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(255, 255, 255)",
+    65
+   ],
+   [
+    "rgb(245, 241, 228)",
+    48
+   ],
+   [
+    "rgb(142, 212, 98)",
+    5
+   ],
+   [
+    "rgb(245, 226, 17)",
+    3
+   ],
+   [
+    "rgb(255, 112, 93)",
+    2
+   ],
+   [
+    "rgb(43, 160, 255)",
+    2
+   ],
+   [
+    "rgb(235, 193, 255)",
+    1
+   ],
+   [
+    "rgb(224, 219, 206)",
+    1
+   ]
+  ],
+  "gradients": []
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(.4,0,.2,1)",
+    4
+   ],
+   [
+    "cubic-bezier(.455,.03,.515,.955)",
+    2
+   ],
+   [
+    "cubic-bezier(.17,.67,.3,1.33)",
+    2
+   ],
+   [
+    "cubic-bezier(.38,.005,.215,1)",
+    2
+   ],
+   [
+    "cubic-bezier(.5,0,0,1)",
+    2
+   ],
+   [
+    "cubic-bezier(0.5,0,0,1)",
+    2
+   ]
+  ],
+  "durations": [
+   [
+    ".1s",
+    14
+   ],
+   [
+    "0s",
+    10
+   ],
+   [
+    "0.15s",
+    9
+   ],
+   [
+    "0.25s",
+    7
+   ],
+   [
+    "0.3s",
+    6
+   ],
+   [
+    ".35s",
+    2
+   ],
+   [
+    ".15s",
+    2
+   ],
+   [
+    ".4s",
+    2
+   ],
+   [
+    "1s",
+    2
+   ],
+   [
+    ".2s",
+    2
+   ]
+  ],
+  "keyframes": [
+   "wave-scroll",
+   "spin"
+  ]
+ },
+ "cssVarSample": {
+  "--cc-font-family": "-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"A",
+  "--cc-modal-border-radius": ".5rem",
+  "--cc-btn-border-radius": ".4rem",
+  "--cc-modal-transition-duration": ".25s",
+  "--cc-link-color": "var(--cc-btn-primary-bg)",
+  "--cc-modal-margin": "1rem",
+  "--cc-z-index": "2147480000",
+  "--cc-bg": "var(--color-beige-400)",
+  "--cc-primary-color": "#2c2f31",
+  "--cc-secondary-color": "#5e6266",
+  "--cc-btn-primary-bg": "var(--color-charcoal)",
+  "--cc-btn-primary-color": "#fff",
+  "--cc-btn-primary-border-color": "var(--cc-btn-primary-bg)",
+  "--cc-btn-primary-hover-bg": "#000",
+  "--cc-btn-primary-hover-color": "#fff",
+  "--cc-btn-primary-hover-border-color": "var(--cc-btn-primary-hover-bg)",
+  "--cc-btn-secondary-bg": "var(--color-beige-500)",
+  "--cc-btn-secondary-color": "var(--cc-primary-color)",
+  "--cc-btn-secondary-border-color": "var(--cc-btn-secondary-bg)",
+  "--cc-btn-secondary-hover-bg": "var(--color-beige-600)",
+  "--cc-btn-secondary-hover-color": "#000",
+  "--cc-btn-secondary-hover-border-color": "var(--cc-btn-secondary-hover-bg)",
+  "--cc-separator-border-color": "#f0f4f7",
+  "--cc-toggle-on-bg": "var(--cc-btn-primary-bg)",
+  "--cc-toggle-off-bg": "#2c2e2a80",
+  "--cc-toggle-on-knob-bg": "#fff",
+  "--cc-toggle-off-knob-bg": "var(--cc-toggle-on-knob-bg)",
+  "--cc-toggle-enabled-icon-color": "var(--cc-bg)",
+  "--cc-toggle-disabled-icon-color": "var(--cc-bg)",
+  "--cc-toggle-readonly-bg": "var(--color-beige-600)",
+  "--cc-toggle-readonly-knob-bg": "#fff",
+  "--cc-toggle-readonly-knob-icon-color": "var(--cc-toggle-readonly-bg)",
+  "--cc-section-category-border": "var(--cc-cookie-category-block-bg)",
+  "--cc-cookie-category-block-bg": "var(--color-beige-500)",
+  "--cc-cookie-category-block-border": "var(--cc-cookie-category-block-bg)",
+  "--cc-cookie-category-block-hover-bg": "#f5f1e440",
+  "--cc-cookie-category-block-hover-border": "var(--cc-cookie-category-expanded-block-hover-bg)",
+  "--cc-cookie-category-expanded-block-bg": "transparent",
+  "--cc-cookie-category-expanded-block-hover-bg": "var(--color-beige-600)",
+  "--cc-overlay-bg": "#000000a6",
+  "--cc-webkit-scrollbar-bg": "var(--cc-section-category-border)",
+  "--cc-webkit-scrollbar-hover-bg": "var(--cc-btn-primary-hover-bg)",
+  "--cc-footer-bg": "var(--cc-btn-secondary-bg)",
+  "--cc-footer-color": "var(--cc-secondary-color)",
+  "--cc-footer-border-color": "#e4eaed",
+  "--cc-pm-toggle-border-radius": "4em",
+  "--unit-md": "20px",
+  "--modal-height": "95svh",
+  "--color-primary": "var(--color-charcoal)",
+  "--color-secondary": "var(--color-beige)",
+  "--grid-gutter": "var(--spacing-gutter)",
+  "--grid-margin": "var(--spacing-gutter)",
+  "--grid-columns": "6"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": true,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 14,
+  "barba": false,
+  "swup": true,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": false,
+  "astro": true,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": true,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 91,
+  "video": 0,
+  "svg": 46,
+  "picture": 44,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 0,
+  "clipPath": 14,
+  "sticky": 7,
+  "fixed": [
+   "c-preloader",
+   "c-menu-desktop"
+  ],
+  "customCursor": true,
+  "boxShadows": [],
+  "filters": [],
+  "transforms3d": 2,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "100%",
+   54
+  ],
+  [
+   "63.75px",
+   44
+  ],
+  [
+   "10px",
+   17
+  ],
+  [
+   "50px",
+   11
+  ],
+  [
+   "25.5px",
+   9
+  ],
+  [
+   "50px 50px 0px 0px",
+   1
+  ],
+  [
+   "0px 0px 50px 50px",
+   1
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgba(0, 0, 0, 0)",
+   8
+  ]
+ ],
+ "grids": [
+  [
+   "16cols gap 20px",
+   7
+  ],
+  [
+   "3cols gap 17px",
+   4
+  ],
+  [
+   "14cols gap 20px",
+   4
+  ],
+  [
+   "2cols gap 31.875px",
+   3
+  ],
+  [
+   "14cols gap normal",
+   1
+  ],
+  [
+   "3cols gap 20px",
+   1
+  ],
+  [
+   "4cols gap 20px",
+   1
+  ],
+  [
+   "2cols gap 20px",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "100%",
+   6
+  ]
+ ],
+ "sideMargins": [
+  [
+   "109px",
+   7
+  ],
+  [
+   "942px",
+   6
+  ],
+  [
+   "872px",
+   4
+  ],
+  [
+   "908px",
+   3
+  ],
+  [
+   "333px",
+   2
+  ],
+  [
+   "162px",
+   2
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "transition-slide",
+   "h": 13732,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-brands-section",
+   "h": 900,
+   "padTop": "170px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-brands-section_title",
+   "h": 122,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-brands-section_rails",
+   "h": 353,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-rail c-brands-section_rail",
+   "h": 106,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-brands-section_item",
+   "h": 106,
+   "padTop": "21.25px",
+   "bg": "rgb(245, 241, 228)"
+  },
+  {
+   "cls": "c-brands-section_item_visual",
+   "h": 64,
+   "padTop": "17px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "c-brands-section_item_title",
+   "h": 25,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-brands-section_item",
+   "h": 106,
+   "padTop": "21.25px",
+   "bg": "rgb(245, 241, 228)"
+  },
+  {
+   "cls": "c-brands-section_item_visual",
+   "h": 64,
+   "padTop": "17px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "c-brands-section_item_title",
+   "h": 25,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-brands-section_item",
+   "h": 106,
+   "padTop": "21.25px",
+   "bg": "rgb(245, 241, 228)"
+  },
+  {
+   "cls": "c-brands-section_item_visual",
+   "h": 64,
+   "padTop": "17px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "c-brands-section_item_title",
+   "h": 25,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-brands-section_item",
+   "h": 106,
+   "padTop": "21.25px",
+   "bg": "rgb(245, 241, 228)"
+  },
+  {
+   "cls": "c-brands-section_item_visual",
+   "h": 64,
+   "padTop": "17px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "c-brands-section_item_title",
+   "h": 25,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-brands-section_item",
+   "h": 106,
+   "padTop": "21.25px",
+   "bg": "rgb(245, 241, 228)"
+  },
+  {
+   "cls": "c-brands-section_item_visual",
+   "h": 64,
+   "padTop": "17px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "c-brands-section_item_title",
+   "h": 25,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-brands-section_item",
+   "h": 106,
+   "padTop": "21.25px",
+   "bg": "rgb(245, 241, 228)"
+  },
+  {
+   "cls": "c-brands-section_item_visual",
+   "h": 64,
+   "padTop": "17px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "c-brands-section_item_title",
+   "h": 25,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-brands-section_item",
+   "h": 106,
+   "padTop": "21.25px",
+   "bg": "rgb(245, 241, 228)"
+  },
+  {
+   "cls": "c-brands-section_item_visual",
+   "h": 64,
+   "padTop": "17px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "c-brands-section_item_title",
+   "h": 25,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-brands-section_item",
+   "h": 106,
+   "padTop": "21.25px",
+   "bg": "rgb(245, 241, 228)"
+  },
+  {
+   "cls": "c-brands-section_item_visual",
+   "h": 64,
+   "padTop": "17px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "c-brands-section_item_title",
+   "h": 25,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-brands-section_item",
+   "h": 106,
+   "padTop": "21.25px",
+   "bg": "rgb(245, 241, 228)"
+  },
+  {
+   "cls": "c-brands-section_item_visual",
+   "h": 64,
+   "padTop": "17px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "c-brands-section_item_title",
+   "h": 25,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-brands-section_item",
+   "h": 106,
+   "padTop": "21.25px",
+   "bg": "rgb(245, 241, 228)"
+  },
+  {
+   "cls": "c-brands-section_item_visual",
+   "h": 64,
+   "padTop": "17px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "c-brands-section_item_title",
+   "h": 25,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-brands-section_item",
+   "h": 106,
+   "padTop": "21.25px",
+   "bg": "rgb(245, 241, 228)"
+  },
+  {
+   "cls": "c-brands-section_item_visual",
+   "h": 64,
+   "padTop": "17px",
+   "bg": "rgb(255, 255, 255)"
+  },
+  {
+   "cls": "c-brands-section_item_title",
+   "h": 25,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-brands-section_item",
+   "h": 106,
+   "padTop": "21.25px",
+   "bg": "rgb(245, 241, 228)"
+  },
+  {
+   "cls": "c-brands-section_item_visual",
+   "h": 64,
+   "padTop": "17px",
+   "bg": "rgb(255, 255, 255)"
+  }
+ ],
+ "nav": {
+  "tag": "NAV",
+  "position": "fixed",
+  "height": 68,
+  "links": 48,
+  "linkTexts": [
+   "Home",
+   "Services",
+   "Methodology",
+   "Sectors",
+   "Strategy",
+   "Pricing",
+   "Open menu",
+   "Get a quote"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "Get a quote",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "10px",
+   "pad": "10.625px",
+   "size": "18.0625px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 68
+  },
+  {
+   "text": "Get a quote",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "10px",
+   "pad": "10.625px",
+   "size": "18.0625px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 66
+  },
+  {
+   "text": "Services",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "10px",
+   "pad": "10.625px",
+   "size": "18.0625px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 66
+  },
+  {
+   "text": "Methodology",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "10px",
+   "pad": "10.625px",
+   "size": "18.0625px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 66
+  },
+  {
+   "text": "Industry Sectors",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "10px",
+   "pad": "10.625px",
+   "size": "18.0625px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 66
+  },
+  {
+   "text": "Our Network",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "10px",
+   "pad": "10.625px",
+   "size": "18.0625px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 66
+  },
+  {
+   "text": "Get a quote",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "10px",
+   "pad": "10.625px",
+   "size": "18.0625px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 66
+  },
+  {
+   "text": "Get a quote",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "10px",
+   "pad": "10.625px",
+   "size": "18.0625px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 66
+  }
+ ],
+ "headings": [
+  "Real human insights",
+  "One global partner",
+  "No more chaos.",
+  "One brief. One team.",
+  "Speak their language.",
+  "Global, for real.",
+  "A few numbers behind the insights we deliver",
+  "Featured Articles",
+  "Amazon Prime Video Ethnographic Research: How In-Home Studies Revealed What Teen Streaming Data Couldn't",
+  "Luxury Spirits Market Research in Asia: How Human Insights Shaped a Tequila Brand's APAC Strategy",
+  "How to Run Focus Groups Across Multiple Countries",
+  "Consumer Research in Latin America: A Practical Guide",
+  "Brands that choose MindMarket"
+ ],
+ "paras": [
+  "MindMarket delivers global qualitative market research through real people who understand local cultures. We connect you with the voices that matter— wherever they are — to help you make smarter, faster business decision",
+  "Managing multiple vendors, juggling time zones, translating insights across cultures — it adds up fast. At MindMarket, we bring it all under one roof. No misalignment, no friction, just seamless collaboration from start ",
+  "You brief us once and we take it from there. From methodology design and recruitment to local moderation and reporting, everything is managed by a single point of contact who leads your study from start to finish. You ge",
+  "From gaming to fintech, hospitality to consumer goods, each industry speaks its own language. Our in-market experts don’t just understand people, they understand the context. We bring cultural insight shaped by the secto",
+  "Whether you’re researching one market or launching in ten, we scale with you. One partner. Global reach. Consistent quality. Our global network spans regions and industries, giving you on-demand access to the right parti",
+  "Whether you’re launching in one market or ten, we’re here to make your research simple, smart, and human from day one. Let’s talk about your next project.",
+  "A few numbers behind the insights we deliver",
+  "These numbers are more than just milestones. They represent the strength of our connections, the consistency of our work, and the real-world impact we help create for you.",
+  "Our network spans over 60 countries, giving you local insight with global consistency.",
+  "We’ve successfully delivered more than 400 research projects around the world — and counting."
+ ],
+ "footer": {
+  "h": 901,
+  "text": "Have a project in mind? We'd love to hear what you're working on and show you how we can help. Whether you're exploring a new market or launching your next product, we're ready when you are. Get a quote Services Methodology Sectors Strategy Pricing Network About Us Insights Contact Privacy Policy Co"
+ },
+ "jsMotion": {
+  "scriptsFetched": 13,
+  "gsapEases": [
+   [
+    "power2.inOut",
+    2
+   ],
+   [
+    "none",
+    2
+   ],
+   [
+    "power1.inOut",
+    1
+   ],
+   [
+    "elastic.out(1,0.3)",
+    1
+   ]
+  ],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "1",
+    4
+   ],
+   [
+    ".25",
+    2
+   ]
+  ],
+  "staggers": [],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

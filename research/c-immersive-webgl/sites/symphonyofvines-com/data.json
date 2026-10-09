@@ -1,0 +1,692 @@
+{
+ "url": "https://symphonyofvines.com/",
+ "slug": "symphonyofvines-com",
+ "analyzedAt": "2026-10-07T05:27:14.419Z",
+ "scrollHeight": 900,
+ "pageLengthInViewports": 1,
+ "title": "The Symphony of Vines - Chateau Oublié",
+ "metaDescription": null,
+ "lang": "en-US",
+ "type": {
+  "loadedFonts": [
+   "Bellefair 400 normal",
+   "Palace 400 normal",
+   "PalaceItalic 400 italic",
+   "NeueMontreal 400 italic"
+  ],
+  "families": [
+   [
+    "Bellefair",
+    12
+   ],
+   [
+    "PalaceItalic",
+    2
+   ],
+   [
+    "Palace",
+    2
+   ],
+   [
+    "NeueMontreal",
+    1
+   ]
+  ],
+  "sizes": [
+   [
+    "15px",
+    8
+   ],
+   [
+    "105px",
+    1
+   ],
+   [
+    "150px",
+    1
+   ],
+   [
+    "48px",
+    1
+   ],
+   [
+    "96px",
+    1
+   ],
+   [
+    "21px",
+    1
+   ],
+   [
+    "18px",
+    1
+   ],
+   [
+    "12px",
+    1
+   ],
+   [
+    "9px",
+    1
+   ],
+   [
+    "11px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    12
+   ],
+   [
+    "100",
+    4
+   ],
+   [
+    "500",
+    1
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    14
+   ],
+   [
+    "-0.043em@105",
+    1
+   ],
+   [
+    "-0.030em@150",
+    1
+   ],
+   [
+    "0.020em@12",
+    1
+   ]
+  ],
+  "uppercaseShare": 0.18,
+  "largest": [
+   {
+    "tag": "div",
+    "text": "SYMPHONY OF VINES",
+    "family": "Palace",
+    "size": "150px",
+    "weight": "400",
+    "lh": "120px",
+    "ls": "-4.5px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(225, 217, 209)"
+   },
+   {
+    "tag": "div",
+    "text": "The",
+    "family": "PalaceItalic",
+    "size": "105px",
+    "weight": "400",
+    "lh": "84px",
+    "ls": "-4.5px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(225, 217, 209)"
+   },
+   {
+    "tag": "div",
+    "text": "END",
+    "family": "Palace",
+    "size": "96px",
+    "weight": "400",
+    "lh": "96px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(225, 217, 209)"
+   },
+   {
+    "tag": "div",
+    "text": "Symphony of Vines was created by Unseen Studio, specialists in immersive digital experienc",
+    "family": "Bellefair",
+    "size": "21px",
+    "weight": "400",
+    "lh": "21px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(225, 217, 209)"
+   },
+   {
+    "tag": "a",
+    "text": "projects@unseen.co",
+    "family": "Bellefair",
+    "size": "18px",
+    "weight": "400",
+    "lh": "19.8px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(225, 217, 209)"
+   },
+   {
+    "tag": "div",
+    "text": "The March of Glaciers",
+    "family": "Bellefair",
+    "size": "15px",
+    "weight": "100",
+    "lh": "58.5px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(225, 217, 209)"
+   },
+   {
+    "tag": "b",
+    "text": "Glaciers",
+    "family": "Bellefair",
+    "size": "15px",
+    "weight": "400",
+    "lh": "58.5px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(225, 217, 209)"
+   },
+   {
+    "tag": "div",
+    "text": "The Rythym of Rivers",
+    "family": "Bellefair",
+    "size": "15px",
+    "weight": "100",
+    "lh": "58.5px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(225, 217, 209)"
+   },
+   {
+    "tag": "b",
+    "text": "Rivers",
+    "family": "Bellefair",
+    "size": "15px",
+    "weight": "400",
+    "lh": "58.5px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(225, 217, 209)"
+   },
+   {
+    "tag": "div",
+    "text": "The Crescendo of Tides",
+    "family": "Bellefair",
+    "size": "15px",
+    "weight": "100",
+    "lh": "58.5px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(225, 217, 209)"
+   },
+   {
+    "tag": "b",
+    "text": "Tides",
+    "family": "Bellefair",
+    "size": "15px",
+    "weight": "400",
+    "lh": "58.5px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(225, 217, 209)"
+   },
+   {
+    "tag": "div",
+    "text": "A Harmony of Soil",
+    "family": "Bellefair",
+    "size": "15px",
+    "weight": "100",
+    "lh": "58.5px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(225, 217, 209)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(244, 240, 236)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(225, 217, 209)",
+    15
+   ],
+   [
+    "rgb(255, 255, 255)",
+    1
+   ],
+   [
+    "rgb(156, 110, 73)",
+    1
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(225, 217, 209)",
+    7
+   ],
+   [
+    "rgb(10, 9, 1)",
+    1
+   ]
+  ],
+  "gradients": []
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.76,0,0.24,1)",
+    6
+   ],
+   [
+    "cubic-bezier(0.16,1,0.3,1)",
+    3
+   ],
+   [
+    "cubic-bezier(.76,0,.24,1)",
+    2
+   ],
+   [
+    "cubic-bezier(0.25,1,0.5,1)",
+    2
+   ],
+   [
+    "cubic-bezier(0.37,0,0.63,1)",
+    2
+   ],
+   [
+    "cubic-bezier(.25,1,.5,1)",
+    1
+   ]
+  ],
+  "durations": [
+   [
+    "0.3s",
+    7
+   ],
+   [
+    "1.2s",
+    4
+   ],
+   [
+    "30s",
+    2
+   ],
+   [
+    "0.6s",
+    2
+   ],
+   [
+    "1s",
+    2
+   ],
+   [
+    "0.9s",
+    2
+   ],
+   [
+    "14s",
+    2
+   ],
+   [
+    "12s",
+    2
+   ],
+   [
+    "50s",
+    2
+   ],
+   [
+    ".3s",
+    1
+   ]
+  ],
+  "keyframes": [
+   "wave",
+   "translateOnX",
+   "opacityPulse",
+   "audio-line-0-3",
+   "audio-line-1",
+   "audio-line-2-5",
+   "audio-line-4",
+   "audio-line-6",
+   "vertical-wave",
+   "rotate"
+  ]
+ },
+ "cssVarSample": {
+  "--white": "#fff",
+  "--off-white": "#E1D9D1",
+  "--scrollbar": "#000",
+  "--black": "#000",
+  "--text": "#332F22",
+  "--main-bg": "#0A0901",
+  "--site-background": "#f4f0ec",
+  "--yellow": "#9D6E46",
+  "--gold": "#9C6E49",
+  "--story-intro": "#E1D9D1",
+  "--story-colored-light": "#B7B09C",
+  "--story-colored-light-text": "#332F22",
+  "--story-colored-dark": "#090A02",
+  "--story-colored-dark-text": "#CCC4B6",
+  "--story-dot": "#332F22",
+  "--story-chapter-number": "#9C6E49",
+  "--vintage-text": "#F3F1ED",
+  "--vintage-bg": "#0A0901",
+  "--vintage-highlight": "#9D6E46",
+  "--vintage-year-border": "#9C6E49",
+  "--vintage-line-main": "#9D6E46",
+  "--vintage-line-bg": "#CCC4B5",
+  "--header-logo-light": "#F3F1ED",
+  "--header-logo-dark": "#322E21",
+  "--header-chevron-light": "#9D6E46",
+  "--header-chevron-dark": "#9D6E46",
+  "--header-light": "#F3F1ED",
+  "--header-dark": "#322E21",
+  "--menu-bg": "#090A02",
+  "--menu-text": "#F3F1ED",
+  "--menu-link-active": "#9D6E46",
+  "--menu-accent": "#9D6E46",
+  "--default-page-primary": "#322e21",
+  "--tooltip-bg": "#fff",
+  "--tooltip-title": "#322E21",
+  "--tooltip-text": "#332F22",
+  "--button-page": "#3F3838",
+  "--button-dark": "#3F3838",
+  "--button-light": "#F6F4F1",
+  "--button-light-hover": "#F6F4F1",
+  "--button-text": "#F3F1ED",
+  "--chevron-light": "#F3F1ED",
+  "--chevron-dark": "#322E21",
+  "--end-chapter-text": "#141204",
+  "--home-subtitle": "#CCC4B5",
+  "--bp-xsm": "(min-width: 375px)",
+  "--bp-sm": "(min-width: 768px)",
+  "--bp-md": "(min-width: 1024px)",
+  "--bp-lg": "(min-width: 1366px)",
+  "--bp-xlg": "(min-width: 1536px)",
+  "--bp-xxlg": "(min-width: 1921px)",
+  "--bp-touch": "(pointer: coarse)",
+  "--bp-nottouch": "(hover: hover) and (pointer: fine)",
+  "--bp-ipadpro": "(hover: none) and (pointer: coarse) and (min-width: 1024px)",
+  "--bp-horizontal": "(hover: hover) and (pointer: fine) and (min-width: 1024px)",
+  "--bp-landscape": "(orientation: landscape)",
+  "--bp-portrait": "(orientation: portrait)",
+  "--lvh": "1vh"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": true,
+  "webglCanvas": 0,
+  "canvases": 1,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 0,
+  "video": 0,
+  "svg": 43,
+  "picture": 0,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 0,
+  "clipPath": 2,
+  "sticky": 0,
+  "fixed": [
+   "header | container-fluid t-sans w-1/1 fixed top left z-20 po",
+   "world-apart-intro | fixed w-1/1 h-100lvh | js-world-apart-in",
+   "chapter-selector | fixed z-10 d-none d-block@md | js-chapter",
+   "story__section d-flex items-center justify-center story__end",
+   "btn btn--base fixed bottom mb-64 t-white is-visible",
+   "chapter-subtitles | t-20 t-32@md t-serif-text -t-ls-3 t-lh-1",
+   "skip-chapter",
+   "fixed fill z-negative",
+   "fixed bottom right d-none d-block@sm mb-24 mr-24",
+   "loader !h-100dvh top left bg-main-bg | js-loader"
+  ],
+  "customCursor": true,
+  "boxShadows": [
+   [
+    "rgb(244, 240, 236) -96px 0px 96px 0px",
+    1
+   ]
+  ],
+  "filters": [
+   [
+    "url(\"#filter0_f_6587_3779\")",
+    3
+   ],
+   [
+    "url(\"#filter0_f_6587_3495\")",
+    2
+   ],
+   [
+    "blur(0px)",
+    1
+   ]
+  ],
+  "transforms3d": 0,
+  "noiseOrGrain": true,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "1px",
+   7
+  ],
+  [
+   "100%",
+   1
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgba(242, 241, 237, 0.4)",
+   4
+  ]
+ ],
+ "grids": [],
+ "containers": [
+  [
+   "100%",
+   2
+  ]
+ ],
+ "sideMargins": [
+  [
+   "98px",
+   1
+  ],
+  [
+   "647px",
+   1
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "world-apart-intro | fixed w-1/1 h-100lvh | js-worl",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "story__section d-flex items-center justify-center ",
+   "h": 900,
+   "padTop": "60px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "fixed",
+  "height": 57,
+  "links": 5,
+  "linkTexts": [
+   "Unseen Studio",
+   "projects@unseen.co"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [],
+ "headings": [
+  "About The Project",
+  "Contact Us",
+  "The SYMPHONY OF VINES",
+  "The END"
+ ],
+ "paras": [
+  "We use cookies to provide the best possible browsing experience on this website.",
+  "The Symphony of Vines is an interactive cinematic journey that tells the rich story of the Chateau’s terroir. Travel through the millennia and explore the elemental forces that choreographed the very creation of the land",
+  "This experience is brought to you by Unseen Studio , a specialist digital experience studio.",
+  "At Unseen experimentation and innovation is engrained in our DNA. This experience was created to challenge perceptions of what a real time experience can be, to push the boundaries of what’s possible and explore new ways",
+  "Press and hold to carve a glacial path.",
+  "Press and hold to conduct the power of tidal rivers.",
+  "Press and hold to wield the force of the ocean.",
+  "Press and hold to alter the composition of the soil."
+ ],
+ "footer": null,
+ "jsMotion": {
+  "scriptsFetched": 2,
+  "gsapEases": [
+   [
+    "power2.inOut",
+    6
+   ],
+   [
+    "power2.out",
+    4
+   ],
+   [
+    "power1.out",
+    3
+   ],
+   [
+    "elastic",
+    2
+   ],
+   [
+    "power1.inOut",
+    2
+   ],
+   [
+    "linear",
+    2
+   ],
+   [
+    "none",
+    1
+   ]
+  ],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    ".6",
+    8
+   ],
+   [
+    "3",
+    7
+   ],
+   [
+    "1",
+    6
+   ],
+   [
+    ".5",
+    6
+   ],
+   [
+    ".3",
+    6
+   ],
+   [
+    "4",
+    4
+   ],
+   [
+    "2",
+    3
+   ],
+   [
+    "5",
+    3
+   ],
+   [
+    "6",
+    3
+   ],
+   [
+    "3.5",
+    3
+   ],
+   [
+    ".8",
+    2
+   ],
+   [
+    "1.15",
+    2
+   ],
+   [
+    "1.8",
+    2
+   ],
+   [
+    "0",
+    1
+   ],
+   [
+    "3.15",
+    1
+   ]
+  ],
+  "staggers": [
+   [
+    "0",
+    2
+   ],
+   [
+    ".1",
+    2
+   ]
+  ],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

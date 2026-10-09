@@ -1,0 +1,916 @@
+{
+ "url": "https://bfl.ai",
+ "slug": "bfl-ai",
+ "analyzedAt": "2026-10-07T05:19:18.134Z",
+ "scrollHeight": 8887,
+ "pageLengthInViewports": 9.9,
+ "title": "Black Forest Labs - Frontier AI Lab",
+ "metaDescription": "Black Forest Labs is building visual intelligence: models that understand, reason, and act in the world. Use FLUX models via our API.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "Instrument Sans 400 700 normal",
+   "Instrument Sans Fallback normal normal",
+   "IBM Plex Mono 400 normal",
+   "IBM Plex Mono 500 normal",
+   "IBM Plex Mono Fallback normal normal"
+  ],
+  "families": [
+   [
+    "IBM Plex Mono",
+    109
+   ],
+   [
+    "Instrument Sans",
+    76
+   ]
+  ],
+  "sizes": [
+   [
+    "15px",
+    57
+   ],
+   [
+    "11px",
+    35
+   ],
+   [
+    "10px",
+    25
+   ],
+   [
+    "16px",
+    18
+   ],
+   [
+    "27px",
+    9
+   ],
+   [
+    "17px",
+    8
+   ],
+   [
+    "21px",
+    8
+   ],
+   [
+    "20px",
+    5
+   ],
+   [
+    "53px",
+    5
+   ],
+   [
+    "24px",
+    4
+   ],
+   [
+    "14px",
+    3
+   ],
+   [
+    "63px",
+    2
+   ],
+   [
+    "23px",
+    1
+   ],
+   [
+    "107px",
+    1
+   ],
+   [
+    "18px",
+    1
+   ],
+   [
+    "39px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "500",
+    101
+   ],
+   [
+    "400",
+    84
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "0.050em@15",
+    47
+   ],
+   [
+    "normal",
+    36
+   ],
+   [
+    "0.020em@11",
+    35
+   ],
+   [
+    "0.010em@16",
+    12
+   ],
+   [
+    "0.020em@15",
+    10
+   ],
+   [
+    "-0.040em@27",
+    9
+   ],
+   [
+    "0.010em@17",
+    8
+   ],
+   [
+    "-0.010em@21",
+    8
+   ],
+   [
+    "-0.010em@20",
+    5
+   ],
+   [
+    "-0.050em@53",
+    5
+   ],
+   [
+    "-0.020em@24",
+    4
+   ],
+   [
+    "-0.050em@63",
+    2
+   ],
+   [
+    "-0.045em@107",
+    1
+   ],
+   [
+    "-0.005em@14",
+    1
+   ],
+   [
+    "-0.030em@39",
+    1
+   ]
+  ],
+  "uppercaseShare": 0.25,
+  "largest": [
+   {
+    "tag": "span",
+    "text": "Image​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​",
+    "family": "Instrument Sans",
+    "size": "106.8px",
+    "weight": "500",
+    "lh": "96.12px",
+    "ls": "-4.806px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(245, 245, 245)"
+   },
+   {
+    "tag": "h2",
+    "text": "Ready to run.",
+    "family": "Instrument Sans",
+    "size": "63.3248px",
+    "weight": "500",
+    "lh": "60.1586px",
+    "ls": "-3.16624px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "h2",
+    "text": "See what’s new",
+    "family": "Instrument Sans",
+    "size": "63.3248px",
+    "weight": "500",
+    "lh": "60.1586px",
+    "ls": "-3.16624px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(7, 19, 14)"
+   },
+   {
+    "tag": "h3",
+    "text": "API",
+    "family": "Instrument Sans",
+    "size": "53.1666px",
+    "weight": "500",
+    "lh": "53.1666px",
+    "ls": "-2.65833px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "h3",
+    "text": "Open Weights",
+    "family": "Instrument Sans",
+    "size": "53.1666px",
+    "weight": "500",
+    "lh": "53.1666px",
+    "ls": "-2.65833px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "h3",
+    "text": "Enterprise",
+    "family": "Instrument Sans",
+    "size": "53.1666px",
+    "weight": "500",
+    "lh": "53.1666px",
+    "ls": "-2.65833px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "h3",
+    "text": "Playground",
+    "family": "Instrument Sans",
+    "size": "53.1666px",
+    "weight": "500",
+    "lh": "53.1666px",
+    "ls": "-2.65833px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "span",
+    "text": "What hasn’t been can now be.",
+    "family": "Instrument Sans",
+    "size": "53.1666px",
+    "weight": "500",
+    "lh": "53.1666px",
+    "ls": "-2.65833px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(7, 19, 14)"
+   },
+   {
+    "tag": "h2",
+    "text": "One model, multiple modalities.",
+    "family": "Instrument Sans",
+    "size": "39.12px",
+    "weight": "400",
+    "lh": "39.12px",
+    "ls": "-1.1736px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(245, 245, 245)"
+   },
+   {
+    "tag": "p",
+    "text": "Whether you're scaling through API, running open weights on your infrastructure, or just e",
+    "family": "Instrument Sans",
+    "size": "27.0005px",
+    "weight": "400",
+    "lh": "32.4006px",
+    "ls": "-1.08002px",
+    "tt": "none",
+    "style": "normal",
+    "color": "oklab(0.866858 0.0000393987 0.000017345 / 0.8)"
+   },
+   {
+    "tag": "h3",
+    "text": "Introducing FLUX 3 Action",
+    "family": "Instrument Sans",
+    "size": "27.0005px",
+    "weight": "500",
+    "lh": "32.4006px",
+    "ls": "-1.08002px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "p",
+    "text": "Models",
+    "family": "Instrument Sans",
+    "size": "27.0005px",
+    "weight": "500",
+    "lh": "27.0005px",
+    "ls": "-1.08002px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(255, 255, 255)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(0, 0, 0)",
+    44
+   ],
+   [
+    "oklab(0.999994 0.0000455678 0.0000200868 / 0.65)",
+    34
+   ],
+   [
+    "rgba(0, 0, 0, 0.62)",
+    25
+   ],
+   [
+    "rgb(255, 255, 255)",
+    20
+   ],
+   [
+    "rgb(85, 102, 89)",
+    19
+   ],
+   [
+    "rgb(7, 19, 14)",
+    13
+   ],
+   [
+    "rgb(12, 12, 12)",
+    9
+   ],
+   [
+    "rgba(245, 245, 245, 0.55)",
+    8
+   ],
+   [
+    "rgb(245, 245, 245)",
+    7
+   ],
+   [
+    "oklab(0.866858 0.0000393987 0.000017345 / 0.8)",
+    2
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(41, 197, 146)",
+    60
+   ],
+   [
+    "oklab(0.970145 0.0000441968 0.0000194311 / 0.04)",
+    9
+   ],
+   [
+    "rgb(224, 221, 255)",
+    7
+   ],
+   [
+    "rgb(0, 0, 0)",
+    6
+   ],
+   [
+    "rgb(255, 255, 255)",
+    5
+   ],
+   [
+    "rgb(15, 15, 15)",
+    3
+   ],
+   [
+    "oklab(0.173141 -0.0200923 0.00494818 / 0.5)",
+    3
+   ],
+   [
+    "oklab(0.173141 -0.0200923 0.00494818 / 0.05)",
+    2
+   ],
+   [
+    "oklab(0 0 0 / 0.4)",
+    2
+   ],
+   [
+    "rgba(255, 255, 255, 0.1)",
+    2
+   ],
+   [
+    "rgb(7, 19, 14)",
+    1
+   ],
+   [
+    "oklab(0 0 0 / 0.3)",
+    1
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(to right in oklab, rgb(0, 0, 0) 0px, rgba(0, 0, 0, 0) 100%)",
+    1
+   ],
+   [
+    "linear-gradient(to left in oklab, rgb(0, 0, 0) 0px, rgba(0, 0, 0, 0) 100%)",
+    1
+   ],
+   [
+    "radial-gradient(120% 90% at 50% 40%, rgba(0, 0, 0, 0.1), rgba(20, 20, 20, 0.45))",
+    1
+   ],
+   [
+    "linear-gradient(to top, oklab(0.173141 -0.0200923 0.00494818 / 0.85) 0px, rgba(0, 0, 0, 0) 100%)",
+    1
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(.25,.1,.25,1)",
+    5
+   ],
+   [
+    "cubic-bezier(.4,0,.2,1)",
+    4
+   ],
+   [
+    "cubic-bezier(0,0,.2,1)",
+    2
+   ],
+   [
+    "cubic-bezier(.4,0,.6,1)",
+    2
+   ],
+   [
+    "cubic-bezier(0.25,1,0.5,1)",
+    2
+   ],
+   [
+    "cubic-bezier(0.2,0.6,0.2,1)",
+    1
+   ],
+   [
+    "cubic-bezier(.25,1,.5,1)",
+    1
+   ]
+  ],
+  "durations": [
+   [
+    ".15s",
+    12
+   ],
+   [
+    "0s",
+    12
+   ],
+   [
+    "0.5s",
+    6
+   ],
+   [
+    "0.15s",
+    4
+   ],
+   [
+    "0.2s",
+    4
+   ],
+   [
+    "0.25s",
+    4
+   ],
+   [
+    ".2s",
+    4
+   ],
+   [
+    "0.3s",
+    2
+   ],
+   [
+    "0.7s",
+    2
+   ],
+   [
+    "0.6s",
+    1
+   ]
+  ],
+  "keyframes": [
+   "logo-scroll",
+   "marquee",
+   "underline-animation",
+   "spin",
+   "pulse",
+   "enter",
+   "exit",
+   "accordion-down",
+   "accordion-up",
+   "f3i-fade-in",
+   "f3i-row-in",
+   "f3i-caret",
+   "flux3-console-media-in"
+  ]
+ },
+ "cssVarSample": {},
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": true,
+  "webglCanvas": 0,
+  "canvases": 1,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": true,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 65,
+  "video": 1,
+  "svg": 56,
+  "picture": 0,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [
+   [
+    "overlay",
+    1
+   ]
+  ],
+  "backdropFilter": 5,
+  "clipPath": 6,
+  "sticky": 6,
+  "fixed": [
+   "container-full bg-black fixed top-0 right-0 left-0 flex h-12",
+   "z-backdrop pointer-events-none fixed inset-0"
+  ],
+  "customCursor": true,
+  "boxShadows": [
+   [
+    "rgba(161, 161, 161, 0.58) 0px 1.3px 1px -1.2px, rgba(161, 161, 161, 0.44) 0px 3.7px 2.8px -2.5px, rgba(161, 161, 161, 0.29) 0px 10.1px 7.6px -3.7px, rgba(161, 161, 161, 0.15) 0px 22.5px 16.9px -5px, rgba(161, 161, 161, 0.15) 0px -22.5px 16.9px -5px",
+    5
+   ]
+  ],
+  "filters": [
+   [
+    "brightness(0) invert(1)",
+    35
+   ],
+   [
+    "blur(0px)",
+    3
+   ],
+   [
+    "blur(4px)",
+    3
+   ],
+   [
+    "blur(8px)",
+    3
+   ],
+   [
+    "drop-shadow(rgba(0, 0, 0, 0.6) 0px 2px 6px)",
+    1
+   ]
+  ],
+  "transforms3d": 0,
+  "noiseOrGrain": true,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "2px",
+   35
+  ],
+  [
+   "0px 2px 2px 0px",
+   25
+  ],
+  [
+   "6px",
+   11
+  ],
+  [
+   "4px",
+   4
+  ],
+  [
+   "16px",
+   3
+  ],
+  [
+   "3.35544e+07px",
+   2
+  ],
+  [
+   "999px",
+   2
+  ],
+  [
+   "3px",
+   1
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgba(0, 0, 0, 0)",
+   9
+  ],
+  [
+   "1px solid rgb(85, 102, 89)",
+   6
+  ],
+  [
+   "1px solid oklab(0.173141 -0.0200923 0.00494818 / 0.25)",
+   2
+  ],
+  [
+   "1px solid rgb(0, 0, 0)",
+   2
+  ],
+  [
+   "bottom:1px solid oklab(0.866858 0.0000393987 0.000017345 / 0.2)",
+   1
+  ],
+  [
+   "1px solid oklab(0.999994 0.0000455678 0.0000200868 / 0.25)",
+   1
+  ]
+ ],
+ "grids": [
+  [
+   "1cols gap normal",
+   3
+  ],
+  [
+   "1cols gap 22px",
+   1
+  ],
+  [
+   "24cols gap 24px",
+   1
+  ],
+  [
+   "2cols gap 48px",
+   1
+  ],
+  [
+   "2cols gap 16px",
+   1
+  ],
+  [
+   "12cols gap 0px",
+   1
+  ],
+  [
+   "2cols gap 64px",
+   1
+  ],
+  [
+   "2cols gap normal",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "100%",
+   4
+  ],
+  [
+   "1624px",
+   2
+  ],
+  [
+   "max-content",
+   1
+  ],
+  [
+   "1680px",
+   1
+  ],
+  [
+   "1920px",
+   1
+  ]
+ ],
+ "sideMargins": [
+  [
+   "444px",
+   4
+  ],
+  [
+   "80px",
+   4
+  ],
+  [
+   "685px",
+   4
+  ],
+  [
+   "937px",
+   4
+  ],
+  [
+   "1043px",
+   3
+  ],
+  [
+   "116px",
+   2
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "flex min-h-screen flex-col gap-24 pb-32 lg:gap-32 ",
+   "h": 7413,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "bg-black py-6 md:py-8",
+   "h": 96,
+   "padTop": "32px",
+   "bg": "rgb(0, 0, 0)"
+  },
+  {
+   "cls": "flux3-console bg-black",
+   "h": 893,
+   "padTop": "124px",
+   "bg": "rgb(0, 0, 0)"
+  },
+  {
+   "cls": "flux3-section-title text-bf-h3 text-balance",
+   "h": 78,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "flux3-why bg-black py-[var(--f3-pad-section)] lg:p",
+   "h": 970,
+   "padTop": "80px",
+   "bg": "rgb(0, 0, 0)"
+  },
+  {
+   "cls": "bg-black py-12 xl:pt-36 xl:pb-24",
+   "h": 3032,
+   "padTop": "144px",
+   "bg": "rgb(0, 0, 0)"
+  },
+  {
+   "cls": "container-layout flex flex-col gap-8",
+   "h": 756,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "container",
+   "h": 252,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "NAV",
+  "position": "sticky",
+  "height": 80,
+  "links": 6,
+  "linkTexts": [
+   "Models",
+   "Research",
+   "API",
+   "Open Weights",
+   "Pricing",
+   "Enterprise",
+   "Resources",
+   "Contact Sales",
+   "Get started"
+  ],
+  "bg": "rgb(255, 255, 255)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "Play",
+   "bg": "rgb(245, 245, 245)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "3px",
+   "pad": "12px 20px",
+   "size": "13.167px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 44
+  }
+ ],
+ "headings": [
+  "FLUX 3​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍​‍ ‌ ​ ‌ ‌​‌ ‌‌‌‍‌​‌‍‍‌‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌‌‍‌‍‌‍ ​‌ ‌‌‌ ‍​​ ​ ‌​‍‌‌‍ ‌‌‍​‌‌‍‌ ‌‍‌‌‌​ ​‌‍​‌‌‍ ‍‌‍‌​‌‍‍‌‌‍ ‍‌‍‌ ​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍‌‍‌‍ ​‌ ‌‌‌ ‍​​ ​ ‌​‍‌‌‍ ‌‌‍​‌‌‍‌ ‌‍‌‌‌​ ​‌‍​‌‌‍ ‍‌‍‌​‌‍‍‌‌‍ ‍‌‍‌ ​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‍​‌‍‌‌‌ ​‍‌‍ ​‍ ‍‌ ‌​‌‍‍‌‌ ‌​‌‍ ​‌‍‌‌‌​‌‍‌‍​‌‌‍ ‌‌‍‍‌‌‍ ​‌ ‍‌​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌​‍‌‌​ ​‍‌​‌‍‌ ​ ‌ ‌​‌ ‌‌‌‍‌​‌‍‍‌‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌‌‍‌‍‌‍ ​‌ ‌‌‌ ‍​​ ​ ‌​‍‌‌‍ ‌‌‍​‌‌‍‌ ‌‍‌‌‌​ ​‌‍​‌‌‍ ‍‌‍‌​‌‍‍‌‌‍ ‍‌‍‌ ​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍‌‍‌‍ ​‌ ‌‌‌ ‍​​ ​ ‌​‍‌‌‍ ‌‌‍​‌‌‍‌ ‌‍‌‌‌​ ​‌‍​‌‌‍ ‍‌‍‌​‌‍‍‌‌‍ ‍‌‍‌ ​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‍​‌‍‌‌‌ ​‍‌‍ ​‍ ‍‌ ‌​‌‍‍‌‌ ‌​‌‍ ​‌‍‌‌‌​‌‍‌‍​‌‌‍ ‌‌‍‍‌‌‍ ​‌ ‍‌​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌ Image​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍​‍ ‌ ​ ‌ ‌​‌ ‌‌‌‍‌​‌‍‍‌‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌‌‍‌‍‌‍ ​‌ ‌‌‌ ‍​​ ​ ‌​‍‌‌‍ ‌‌‍​‌‌‍‌ ‌‍‌‌‌​ ​‌‍​‌‌‍ ‍‌‍‌​‌‍‍‌‌‍ ‍‌‍‌ ​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍‌‍‌‍ ​‌ ‌‌‌ ‍​​ ​ ‌​‍‌‌‍ ‌‌‍​‌‌‍‌ ‌‍‌‌‌​ ​‌‍​‌‌‍ ‍‌‍‌​‌‍‍‌‌‍ ‍‌‍‌ ​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‍​‌‍‌‌‌ ​‍‌‍ ​‍ ‍‌ ‌​‌‍‍‌‌ ‌​‌‍ ​‌‍‌‌‌‌​​‌ ​‍‌‍ ‌‍‌​‌ ‌‌‌‍​ ‌ ‌​​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌​‍‌‌​ ​‍‌​‌‍‌ ​ ‌ ‌​‌ ‌‌‌‍‌​‌‍‍‌‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌‌‍‌‍‌‍ ​‌ ‌‌‌ ‍​​ ​ ‌​‍‌‌‍ ‌‌‍​‌‌‍‌ ‌‍‌‌‌​ ​‌‍​‌‌‍ ‍‌‍‌​‌‍‍‌‌‍ ‍‌‍‌ ​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍‌‍‌‍ ​‌ ‌‌‌ ‍​​ ​ ‌​‍‌‌‍ ‌‌‍​‌‌‍‌ ‌‍‌‌‌​ ​‌‍​‌‌‍ ‍‌‍‌​‌‍‍‌‌‍ ‍‌‍‌ ​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‍​‌‍‌‌‌ ​‍‌‍ ​‍ ‍‌ ‌​‌‍‍‌‌ ‌​‌‍ ​‌‍‌‌‌‌​​‌ ​‍‌‍ ‌‍‌​‌ ‌‌‌‍​ ‌ ‌​​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
+  "One model, multiple modalities.",
+  "Introducing FLUX 3",
+  "Ready to run.",
+  "API",
+  "Open Weights",
+  "Enterprise",
+  "Playground",
+  "See what’s new",
+  "Introducing FLUX 3 Action",
+  "FLUX 3 - Real World Models",
+  "Our co-founder and CEO urges G7 leaders to back open innovation",
+  "Martin Scorsese is an advisor to Black Forest Labs",
+  "What hasn’t been can now be."
+ ],
+ "paras": [
+  "Control every pixel.​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍​‍ ‌ ​ ‌ ‌​‌ ‌‌‌‍‌​‌‍‍‌‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ",
+  "Stylistically diverse beyond just cinematic, with native audio and up to 20 second clips in a single generation. Start from text, an image, or keyframes, and get multiple shots in one take.",
+  "Optional audio. Multilingual speech, effects and ambience generated with the frames.",
+  "Images grounded in the real world. A wide variety of styles, highly-accurate text rendering, and the ability to handle complex prompts.",
+  "Unifies perception, simulation and execution for robotics. Takes visual observations and text instructions as input to predict the desired physical outcome visually and as robot control actions. Learn more",
+  "Whether you're scaling through API, running open weights on your infrastructure, or just experimenting – our models work wherever you do.",
+  "Start in our playground. Integrate via API. Download our models, customize, and deploy anywhere.",
+  "Simple-to-integrate API to access the latest and most powerful FLUX models. Built to handle production workloads at any scale.",
+  "Run FLUX models on your own infrastructure. Full control over deployment, fine-tuning, and customization.",
+  "For larger organizations and their teams looking to add the FLUX API and open weights license to their products and services."
+ ],
+ "footer": {
+  "h": 826,
+  "text": "Models FLUX 3 IMAGE FLUX 3 VIDEO FLUX 3 ACTION FLUX TOOLS API DOCUMENTATION DASHBOARD STATUS Open Weights LICENSING HUGGING FACE GITHUB Resources DOCUMENTATION HELP DESK BLOG CREATOR PROGRAM BRAND GITHUB Company ABOUT US CAREERS TRUST AND SECURITY CONTACT US ISO 27001:2022 SOC 2 TYPE II Enterprise L"
+ },
+ "jsMotion": {
+  "scriptsFetched": 24,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    ".15",
+    8
+   ],
+   [
+    ".3",
+    8
+   ],
+   [
+    ".5",
+    6
+   ],
+   [
+    "2",
+    5
+   ],
+   [
+    ".6",
+    2
+   ],
+   [
+    "60",
+    1
+   ],
+   [
+    ".45",
+    1
+   ]
+  ],
+  "staggers": [],
+  "lenis": [],
+  "springs": [
+   [
+    "type:\"spring\",stiffness:400,damping:28",
+    2
+   ],
+   [
+    "type:\"spring\",stiffness:500,damping:24",
+    2
+   ]
+  ],
+  "scrollTriggerStarts": [
+   [
+    "end",
+    1
+   ]
+  ],
+  "splitTypes": [],
+  "bezierArrays": [
+   [
+    "[.22,1,.36,1]",
+    2
+   ]
+  ]
+ }
+}

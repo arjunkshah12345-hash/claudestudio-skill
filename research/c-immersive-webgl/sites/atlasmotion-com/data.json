@@ -1,0 +1,656 @@
+{
+ "url": "https://atlasmotion.com",
+ "slug": "atlasmotion-com",
+ "analyzedAt": "2026-10-07T05:23:35.421Z",
+ "scrollHeight": 13519,
+ "pageLengthInViewports": 15,
+ "title": "Atlas Motion Systems | BLDC Motors and Actuators",
+ "metaDescription": "Atlas builds BLDC motors and actuators for defense and robotics — designed around your program, manufactured at scale.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "SuisseIntl 500 normal",
+   "SuisseIntl 300 normal",
+   "Suisse 400 normal",
+   "Suisse 500 normal"
+  ],
+  "families": [
+   [
+    "SuisseIntl",
+    72
+   ]
+  ],
+  "sizes": [
+   [
+    "16px",
+    44
+   ],
+   [
+    "14px",
+    18
+   ],
+   [
+    "24px",
+    4
+   ],
+   [
+    "32px",
+    2
+   ],
+   [
+    "13px",
+    2
+   ],
+   [
+    "34px",
+    1
+   ],
+   [
+    "144px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "300",
+    49
+   ],
+   [
+    "400",
+    13
+   ],
+   [
+    "500",
+    10
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "-0.034em@16",
+    44
+   ],
+   [
+    "-0.030em@14",
+    13
+   ],
+   [
+    "normal",
+    5
+   ],
+   [
+    "-0.030em@24",
+    4
+   ],
+   [
+    "-0.030em@32",
+    2
+   ],
+   [
+    "-0.030em@13",
+    2
+   ],
+   [
+    "-0.030em@34",
+    1
+   ],
+   [
+    "-0.030em@144",
+    1
+   ]
+  ],
+  "uppercaseShare": 0.13,
+  "largest": [
+   {
+    "tag": "span",
+    "text": "INTEGRATE",
+    "family": "SuisseIntl",
+    "size": "144px",
+    "weight": "500",
+    "lh": "129.358px",
+    "ls": "-4.317px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(238, 232, 232)"
+   },
+   {
+    "tag": "span",
+    "text": "01",
+    "family": "SuisseIntl",
+    "size": "34px",
+    "weight": "300",
+    "lh": "40.8px",
+    "ls": "-1.015px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(238, 232, 232)"
+   },
+   {
+    "tag": "span",
+    "text": "— Our",
+    "family": "SuisseIntl",
+    "size": "32px",
+    "weight": "300",
+    "lh": "27px",
+    "ls": "-0.96px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(238, 232, 232)"
+   },
+   {
+    "tag": "span",
+    "text": "Process",
+    "family": "SuisseIntl",
+    "size": "32px",
+    "weight": "300",
+    "lh": "27px",
+    "ls": "-0.96px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(238, 232, 232)"
+   },
+   {
+    "tag": "div",
+    "text": "can",
+    "family": "SuisseIntl",
+    "size": "24px",
+    "weight": "500",
+    "lh": "28.0008px",
+    "ls": "-0.72px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 253, 224)"
+   },
+   {
+    "tag": "div",
+    "text": "be",
+    "family": "SuisseIntl",
+    "size": "24px",
+    "weight": "500",
+    "lh": "28.0008px",
+    "ls": "-0.72px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 253, 224)"
+   },
+   {
+    "tag": "div",
+    "text": "and",
+    "family": "SuisseIntl",
+    "size": "24px",
+    "weight": "500",
+    "lh": "28.0008px",
+    "ls": "-0.72px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 253, 224)"
+   },
+   {
+    "tag": "div",
+    "text": "supply-chain",
+    "family": "SuisseIntl",
+    "size": "24px",
+    "weight": "500",
+    "lh": "28.0008px",
+    "ls": "-0.72px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 253, 224)"
+   },
+   {
+    "tag": "div",
+    "text": "The",
+    "family": "SuisseIntl",
+    "size": "16px",
+    "weight": "300",
+    "lh": "23.104px",
+    "ls": "-0.54px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(238, 232, 232)"
+   },
+   {
+    "tag": "div",
+    "text": "last",
+    "family": "SuisseIntl",
+    "size": "16px",
+    "weight": "300",
+    "lh": "23.104px",
+    "ls": "-0.54px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(238, 232, 232)"
+   },
+   {
+    "tag": "div",
+    "text": "era",
+    "family": "SuisseIntl",
+    "size": "16px",
+    "weight": "300",
+    "lh": "23.104px",
+    "ls": "-0.54px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(238, 232, 232)"
+   },
+   {
+    "tag": "div",
+    "text": "of",
+    "family": "SuisseIntl",
+    "size": "16px",
+    "weight": "300",
+    "lh": "23.104px",
+    "ls": "-0.54px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(238, 232, 232)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgba(0, 0, 0, 0)",
+  "htmlBg": "rgb(24, 24, 24)",
+  "text": [
+   [
+    "rgb(238, 232, 232)",
+    63
+   ],
+   [
+    "rgba(204, 203, 189, 0.5)",
+    5
+   ],
+   [
+    "rgb(255, 253, 224)",
+    4
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(238, 232, 232)",
+    6
+   ],
+   [
+    "rgba(192, 192, 192, 0.1)",
+    1
+   ],
+   [
+    "rgb(18, 18, 17)",
+    1
+   ],
+   [
+    "rgb(24, 24, 24)",
+    1
+   ]
+  ],
+  "gradients": []
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.22,1,0.36,1)",
+    2
+   ],
+   [
+    "cubic-bezier(0.76,0,0.24,1)",
+    1
+   ]
+  ],
+  "durations": [
+   [
+    "0.2s",
+    10
+   ],
+   [
+    "0.001ms",
+    6
+   ],
+   [
+    "0.15s",
+    3
+   ],
+   [
+    "0.12s",
+    3
+   ],
+   [
+    "0.25s",
+    2
+   ],
+   [
+    "0.5s",
+    2
+   ],
+   [
+    "0.14s",
+    2
+   ],
+   [
+    "0.32s",
+    2
+   ],
+   [
+    "0.35s",
+    1
+   ],
+   [
+    "0.42s",
+    1
+   ]
+  ],
+  "keyframes": []
+ },
+ "cssVarSample": {
+  "--vh": "1vh",
+  "--header-height": "0px",
+  "--display-font": "\"SuisseIntl\"",
+  "--text-font": "\"SuisseIntl\"",
+  "--site-outer-padding-x": "calc(32 * 100vw / 1440)",
+  "--site-padding-x": "calc(202 * 100vw / 1440)",
+  "--site-padding-y": "calc(16 * 100vw / 1440)",
+  "--grid-columns": "24",
+  "--grid-rows": "1",
+  "--grid-gap-scale": "calc(20 / 24)",
+  "--grid-gap-width": "calc((100vw - var(--site-padding-x) * 2) / ((var(--grid-columns) / var(--grid-ga",
+  "--grid-column-width": "calc(var(--grid-gap-width) / var(--grid-gap-scale))",
+  "--grid-span-width": "calc(var(--grid-gap-width) + var(--grid-column-width))",
+  "--grid-span-1": "var(--grid-column-width)",
+  "--grid-span-2": "calc(var(--grid-span-width) * 1 + var(--grid-column-width))",
+  "--grid-span-3": "calc(var(--grid-span-width) * 2 + var(--grid-column-width))",
+  "--grid-span-4": "calc(var(--grid-span-width) * 3 + var(--grid-column-width))",
+  "--grid-span-5": "calc(var(--grid-span-width) * 4 + var(--grid-column-width))",
+  "--grid-span-6": "calc(var(--grid-span-width) * 5 + var(--grid-column-width))",
+  "--grid-span-7": "calc(var(--grid-span-width) * 6 + var(--grid-column-width))",
+  "--grid-span-8": "calc(var(--grid-span-width) * 7 + var(--grid-column-width))",
+  "--grid-span-9": "calc(var(--grid-span-width) * 8 + var(--grid-column-width))",
+  "--grid-span-10": "calc(var(--grid-span-width) * 9 + var(--grid-column-width))",
+  "--grid-span-11": "calc(var(--grid-span-width) * 10 + var(--grid-column-width))",
+  "--grid-span-12": "calc(var(--grid-span-width) * 11 + var(--grid-column-width))",
+  "--grid-span-13": "calc(var(--grid-span-width) * 12 + var(--grid-column-width))",
+  "--grid-span-14": "calc(var(--grid-span-width) * 13 + var(--grid-column-width))",
+  "--grid-span-15": "calc(var(--grid-span-width) * 14 + var(--grid-column-width))",
+  "--grid-span-16": "calc(var(--grid-span-width) * 15 + var(--grid-column-width))",
+  "--grid-span-17": "calc(var(--grid-span-width) * 16 + var(--grid-column-width))",
+  "--grid-span-18": "calc(var(--grid-span-width) * 17 + var(--grid-column-width))",
+  "--grid-span-19": "calc(var(--grid-span-width) * 18 + var(--grid-column-width))",
+  "--grid-span-20": "calc(var(--grid-span-width) * 19 + var(--grid-column-width))",
+  "--grid-span-21": "calc(var(--grid-span-width) * 20 + var(--grid-column-width))",
+  "--grid-span-22": "calc(var(--grid-span-width) * 21 + var(--grid-column-width))",
+  "--grid-span-23": "calc(var(--grid-span-width) * 22 + var(--grid-column-width))",
+  "--grid-span-24": "calc(var(--grid-span-width) * 23 + var(--grid-column-width))",
+  "--color-white": "#eee8e8",
+  "--color-warm-white": "#fffde0",
+  "--color-black": "#181818",
+  "--color-dark-black": "#121211",
+  "--color-grey": "#c0c0c0",
+  "--color-dark-grey": "#292929",
+  "--color-dark-grey-2": "#212121",
+  "--color-thesis-grey": "#999999",
+  "--color-spec-grey": "#bbbbbb",
+  "--color-primary": "#f65893",
+  "--inner-width": "calc(100vw - var(--site-padding-x) * 2)",
+  "--screen-unit": "100vw / 1440",
+  "--height-unit": "calc(var(--vh) * .1219512195)",
+  "--hero-title": "calc(64 * var(--screen-unit))",
+  "--h1": "calc(184 * var(--screen-unit))",
+  "--h2": "calc(150 * var(--screen-unit))",
+  "--h3": "calc(116 * var(--screen-unit))",
+  "--h4": "calc(76 * var(--screen-unit))",
+  "--h5": "calc(30 * var(--screen-unit))",
+  "--h6": "calc(17 * var(--screen-unit))",
+  "--p1": "calc(24 * var(--screen-unit))",
+  "--p2": "calc(18 * var(--screen-unit))",
+  "--p3": "calc(16 * var(--screen-unit))",
+  "--p4": "calc(14 * var(--screen-unit))",
+  "--caption1": "calc(14 * var(--screen-unit))",
+  "--caption2": "calc(24 * var(--screen-unit))",
+  "--nav-link": "calc(12 * var(--screen-unit))",
+  "--default": "calc(16 * var(--screen-unit))",
+  "--space-3xs": "calc(2 * 2 * var(--screen-unit))",
+  "--space-2xs": "calc(2 * 4 * var(--screen-unit))",
+  "--space-xs": "calc(2 * 8 * var(--screen-unit))",
+  "--space-sm": "calc(2 * 12 * var(--screen-unit))",
+  "--space-md": "calc(2 * 16 * var(--screen-unit))"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": true,
+  "webglCanvas": 0,
+  "canvases": 3,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": false,
+  "astro": true,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": true,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 13,
+  "video": 1,
+  "svg": 11,
+  "picture": 2,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [
+   [
+    "hard-light",
+    1
+   ]
+  ],
+  "backdropFilter": 0,
+  "clipPath": 2,
+  "sticky": 8,
+  "fixed": [
+   "CANVAS",
+   "o-grid",
+   "CANVAS",
+   "DIV"
+  ],
+  "customCursor": false,
+  "boxShadows": [],
+  "filters": [
+   [
+    "blur(4.8px)",
+    27
+   ]
+  ],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [],
+ "borders": [
+  [
+   "1px solid rgb(238, 232, 232)",
+   5
+  ]
+ ],
+ "grids": [
+  [
+   "24cols gap 20px",
+   12
+  ],
+  [
+   "2cols gap 20px",
+   2
+  ]
+ ],
+ "containers": [],
+ "sideMargins": [
+  [
+   "466px",
+   2
+  ],
+  [
+   "202px",
+   2
+  ],
+  [
+   "404px",
+   1
+  ],
+  [
+   "334px",
+   1
+  ],
+  [
+   "998px",
+   1
+  ],
+  [
+   "356px",
+   1
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "section__inner o-container",
+   "h": 900,
+   "padTop": "16px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section",
+   "h": 1800,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section__inner o-container",
+   "h": 900,
+   "padTop": "16px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section",
+   "h": 3600,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section__inner o-container",
+   "h": 900,
+   "padTop": "16px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section__inner",
+   "h": 633,
+   "padTop": "108.375px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section",
+   "h": 913,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section__inner o-container",
+   "h": 913,
+   "padTop": "200px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section",
+   "h": 1350,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section__inner",
+   "h": 1350,
+   "padTop": "16px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section",
+   "h": 890,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section__inner o-container",
+   "h": 890,
+   "padTop": "250px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section",
+   "h": 466,
+   "padTop": "80px",
+   "bg": "rgb(24, 24, 24)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "fixed",
+  "height": 76,
+  "links": 6,
+  "linkTexts": [
+   "P\nP\nR\nR\nO\nO\nC\nC\nE\nE\nS\nS\nS\nS",
+   "T\nT\nH\nH\nE\nE\nS\nS\nI\nI\nS\nS",
+   "W\nW\nR\nR\nI\nI\nT\nT\nI\nI\nN\nN\nG\nG",
+   "C\nC\nO\nO\nN\nN\nT\nT\nA\nA\nC\nC\nT\nT\n U\nU\nS\nS",
+   "O\nO\nR\nR\nD\nD\nE\nE\nR\nR\nN\nN\nO\nO\nW\nW"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [],
+ "headings": [
+  "BUILT TO RAMP WITH YOU",
+  "INTEGRATE EVALUATE MANUFACTURE INNOVATE",
+  "THE ATLAS ECOSYSTEM",
+  "Built to spec. Ready to scale."
+ ],
+ "paras": [
+  "Autonomous platforms demand motion systems that can be designed precisely, prototyped quickly, and produced without adversarial supply-chain dependence.",
+  "We design systems around your product requirement, starting from mission and capability-level goals.",
+  "We turn new motion system designs into real, testable hardware in weeks, not months.",
+  "We allocate manufacturing resources for our JDM partners and guarantee production capacity as customers scale.",
+  "We develop new motion system architectures for constrained environments where off-the-shelf systems cannot meet the requirement.",
+  "The last era of technology digitized human knowledge and intelligence. The next takes that intelligence from bits and bytes and puts it to work in the physical world. Motion systems are the difference between a computer "
+ ],
+ "footer": {
+  "h": 466,
+  "text": "LINKS T T H H E E S S I I S S W W R R I I T T I I N N G G C C O O N N T T A A C C T T U U S S SOCIAL X X L L I I N N K K E E D D I I N N PRESS P P R R E E S S S S @ @ A A T T L L A A S S M M O O T T I I O O N N . . C C O O M M CAREERS C C A A R R E E E E R R S S @ @ A A T T L L A A S S M M O O T T I"
+ },
+ "jsMotion": {
+  "scriptsFetched": 3,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "0",
+    1
+   ]
+  ],
+  "staggers": [],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

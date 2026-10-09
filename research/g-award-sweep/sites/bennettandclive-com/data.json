@@ -1,0 +1,614 @@
+{
+ "url": "https://bennettandclive.com",
+ "slug": "bennettandclive-com",
+ "analyzedAt": "2026-10-07T05:27:09.760Z",
+ "scrollHeight": 7298,
+ "pageLengthInViewports": 8.1,
+ "title": "Bennett & Clive | Creative Production Company | Bennett & Clive",
+ "metaDescription": "Bennett & Clive is a creative production company helping global brands and agencies bring ambitious creative to life through exceptional production.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "InterWeb 700 normal"
+  ],
+  "families": [
+   [
+    "InterWeb",
+    76
+   ],
+   [
+    "Arial",
+    1
+   ]
+  ],
+  "sizes": [
+   [
+    "15px",
+    28
+   ],
+   [
+    "45px",
+    21
+   ],
+   [
+    "150px",
+    11
+   ],
+   [
+    "75px",
+    11
+   ],
+   [
+    "22px",
+    4
+   ],
+   [
+    "30px",
+    1
+   ],
+   [
+    "16px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    69
+   ],
+   [
+    "700",
+    8
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "-0.050em@15",
+    28
+   ],
+   [
+    "-0.050em@45",
+    21
+   ],
+   [
+    "-0.070em@150",
+    11
+   ],
+   [
+    "-0.050em@75",
+    11
+   ],
+   [
+    "-0.030em@22",
+    4
+   ],
+   [
+    "-0.050em@30",
+    1
+   ],
+   [
+    "normal",
+    1
+   ]
+  ],
+  "uppercaseShare": 0.16,
+  "largest": [
+   {
+    "tag": "a",
+    "text": "ADIDAS",
+    "family": "InterWeb",
+    "size": "150px",
+    "weight": "400",
+    "lh": "115.5px",
+    "ls": "-10.5px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "a",
+    "text": "CALVIN KLEIN",
+    "family": "InterWeb",
+    "size": "150px",
+    "weight": "400",
+    "lh": "115.5px",
+    "ls": "-10.5px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "a",
+    "text": "HOURGLASS",
+    "family": "InterWeb",
+    "size": "150px",
+    "weight": "400",
+    "lh": "115.5px",
+    "ls": "-10.5px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "a",
+    "text": "NIKE",
+    "family": "InterWeb",
+    "size": "150px",
+    "weight": "400",
+    "lh": "115.5px",
+    "ls": "-10.5px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "a",
+    "text": "EILISH",
+    "family": "InterWeb",
+    "size": "150px",
+    "weight": "400",
+    "lh": "115.5px",
+    "ls": "-10.5px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "a",
+    "text": "THE OUTSET",
+    "family": "InterWeb",
+    "size": "150px",
+    "weight": "400",
+    "lh": "115.5px",
+    "ls": "-10.5px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "a",
+    "text": "MAC",
+    "family": "InterWeb",
+    "size": "150px",
+    "weight": "400",
+    "lh": "115.5px",
+    "ls": "-10.5px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "div",
+    "text": "Let's",
+    "family": "InterWeb",
+    "size": "150px",
+    "weight": "700",
+    "lh": "115.5px",
+    "ls": "-10.5px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "div",
+    "text": "raise",
+    "family": "InterWeb",
+    "size": "150px",
+    "weight": "700",
+    "lh": "115.5px",
+    "ls": "-10.5px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "div",
+    "text": "your",
+    "family": "InterWeb",
+    "size": "150px",
+    "weight": "700",
+    "lh": "115.5px",
+    "ls": "-10.5px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "div",
+    "text": "idea.",
+    "family": "InterWeb",
+    "size": "150px",
+    "weight": "700",
+    "lh": "115.5px",
+    "ls": "-10.5px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "span",
+    "text": "Global Production",
+    "family": "InterWeb",
+    "size": "75px",
+    "weight": "400",
+    "lh": "67.5px",
+    "ls": "-3.75px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(255, 255, 255)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(0, 0, 0)",
+    55
+   ],
+   [
+    "rgb(255, 255, 255)",
+    22
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(0, 0, 0)",
+    1
+   ]
+  ],
+  "gradients": []
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.32,0.94,0.6,1)",
+    35
+   ],
+   [
+    "cubic-bezier(0.22,1,0.36,1)",
+    1
+   ]
+  ],
+  "durations": [
+   [
+    "0.6s",
+    15
+   ],
+   [
+    "0.8s",
+    12
+   ],
+   [
+    "0.3s",
+    6
+   ],
+   [
+    "0.4s",
+    6
+   ],
+   [
+    "0.2s",
+    1
+   ],
+   [
+    "1s",
+    1
+   ],
+   [
+    "0.1s",
+    1
+   ]
+  ],
+  "keyframes": [
+   "blink"
+  ]
+ },
+ "cssVarSample": {},
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": true,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": true,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 13,
+  "video": 8,
+  "svg": 11,
+  "picture": 13,
+  "iframes": 1
+ },
+ "effects": {
+  "mixBlend": [
+   [
+    "difference",
+    7
+   ]
+  ],
+  "backdropFilter": 1,
+  "clipPath": 0,
+  "sticky": 13,
+  "fixed": [
+   "nav nav--blended is-visible nav--home",
+   "header-logo__svg header-logo__svg--left",
+   "header-logo__svg header-logo__svg--center",
+   "header-logo__svg header-logo__svg--right",
+   "header-logo__placeholder header-logo__placeholder--left",
+   "header-logo__placeholder header-logo__placeholder--center",
+   "header-logo__placeholder header-logo__placeholder--right",
+   "contact-modal"
+  ],
+  "customCursor": false,
+  "boxShadows": [],
+  "filters": [],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "500px",
+   1
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgb(0, 0, 0)",
+   1
+  ]
+ ],
+ "grids": [
+  [
+   "4cols gap 112.5px",
+   4
+  ],
+  [
+   "2cols gap 112.5px",
+   1
+  ]
+ ],
+ "containers": [],
+ "sideMargins": [
+  [
+   "444px",
+   8
+  ],
+  [
+   "113px",
+   6
+  ],
+  [
+   "0px",
+   5
+  ],
+  [
+   "776px",
+   1
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "home",
+   "h": 7298,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "contact-modal",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "NAV",
+  "position": "fixed",
+  "height": 22,
+  "links": 8,
+  "linkTexts": [
+   "HOME",
+   "WORK",
+   "ABOUT",
+   "CONTACT",
+   "info@bennettandclive.com",
+   "Instagram",
+   "LinkedIn",
+   "Privacy Policy",
+   "Terms of Use"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "difference"
+ },
+ "ctas": [
+  {
+   "text": "About",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "500px",
+   "pad": "0px 15px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(0, 0, 0)",
+   "h": 30
+  }
+ ],
+ "headings": [
+  "Let's raise your idea.",
+  "CONTACT"
+ ],
+ "paras": [
+  "GLOBAL PRODUCTION FOR BRANDS AND AGENCIES. THOUGHTFUL. PRECISE. THE OPPOSITE OF CHAOTIC."
+ ],
+ "footer": {
+  "h": 286,
+  "text": "New York 01 : 27 Los Angeles 22 : 27 Miami 01 : 27 Work with us: info@bennettandclive.com CEO, Founder: Sara Mouzayanni Instagram LinkedIn Privacy Policy Terms of Use"
+ },
+ "jsMotion": {
+  "scriptsFetched": 24,
+  "gsapEases": [
+   [
+    "power2.inOut",
+    11
+   ],
+   [
+    "none",
+    10
+   ],
+   [
+    "power1.inOut",
+    5
+   ],
+   [
+    "power1.out",
+    5
+   ],
+   [
+    "power2.out",
+    3
+   ],
+   [
+    "sine.out",
+    3
+   ],
+   [
+    "power2.in",
+    2
+   ],
+   [
+    "power3.inOut",
+    1
+   ]
+  ],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "1",
+    13
+   ],
+   [
+    "3",
+    8
+   ],
+   [
+    "24",
+    5
+   ],
+   [
+    ".1",
+    4
+   ],
+   [
+    "6",
+    3
+   ],
+   [
+    ".8",
+    3
+   ],
+   [
+    ".6",
+    3
+   ],
+   [
+    "10",
+    2
+   ],
+   [
+    ".4",
+    2
+   ],
+   [
+    "7",
+    1
+   ],
+   [
+    "28",
+    1
+   ],
+   [
+    "30",
+    1
+   ]
+  ],
+  "staggers": [
+   [
+    ".35",
+    4
+   ],
+   [
+    "{each:.08,from:\"random\"}",
+    1
+   ]
+  ],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [
+   [
+    "top bottom",
+    6
+   ],
+   [
+    "top bottom+=50%",
+    4
+   ],
+   [
+    "top 80%",
+    3
+   ],
+   [
+    "top 60%",
+    1
+   ],
+   [
+    "top center",
+    1
+   ],
+   [
+    "top 90%",
+    1
+   ],
+   [
+    "bottom 30%",
+    1
+   ],
+   [
+    "top 55%",
+    1
+   ]
+  ],
+  "splitTypes": [
+   [
+    "lines",
+    5
+   ],
+   [
+    "lines, chars",
+    1
+   ]
+  ],
+  "bezierArrays": []
+ }
+}

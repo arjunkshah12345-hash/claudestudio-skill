@@ -1,0 +1,603 @@
+{
+ "url": "https://elva-labs.com",
+ "slug": "elva-labs-com",
+ "analyzedAt": "2026-10-07T05:24:36.938Z",
+ "scrollHeight": 1495,
+ "pageLengthInViewports": 1.7,
+ "title": "Elva",
+ "metaDescription": "Elva - Your personal AI director, turning everyday videos into emotional stories.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "Neue Haas Grotesk Display Pro 500 normal"
+  ],
+  "families": [
+   [
+    "Neue Haas Grotesk Display Pro",
+    40
+   ]
+  ],
+  "sizes": [
+   [
+    "16px",
+    22
+   ],
+   [
+    "13px",
+    5
+   ],
+   [
+    "115px",
+    5
+   ],
+   [
+    "42px",
+    3
+   ],
+   [
+    "116px",
+    2
+   ],
+   [
+    "101px",
+    1
+   ],
+   [
+    "14px",
+    1
+   ],
+   [
+    "122px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    39
+   ],
+   [
+    "500",
+    1
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    39
+   ],
+   [
+    "-0.020em@16",
+    1
+   ]
+  ],
+  "uppercaseShare": 0,
+  "largest": [
+   {
+    "tag": "div",
+    "text": "Stop editing. Keep shooting Slow Moments Unspoken Feelings Shared Silence Calm Movement Fl",
+    "family": "Neue Haas Grotesk Display Pro",
+    "size": "121.68px",
+    "weight": "400",
+    "lh": "normal",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "div",
+    "text": "070%",
+    "family": "Neue Haas Grotesk Display Pro",
+    "size": "116px",
+    "weight": "400",
+    "lh": "normal",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(77, 77, 77)"
+   },
+   {
+    "tag": "div",
+    "text": "loading",
+    "family": "Neue Haas Grotesk Display Pro",
+    "size": "116px",
+    "weight": "400",
+    "lh": "normal",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(77, 77, 77)"
+   },
+   {
+    "tag": "h2",
+    "text": "Pose Mirror",
+    "family": "Neue Haas Grotesk Display Pro",
+    "size": "115.2px",
+    "weight": "400",
+    "lh": "103.68px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "h2",
+    "text": "Real-time Guidance",
+    "family": "Neue Haas Grotesk Display Pro",
+    "size": "115.2px",
+    "weight": "400",
+    "lh": "103.68px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "h2",
+    "text": "Flow Arcs",
+    "family": "Neue Haas Grotesk Display Pro",
+    "size": "115.2px",
+    "weight": "400",
+    "lh": "103.68px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "h2",
+    "text": "Lighting Spot",
+    "family": "Neue Haas Grotesk Display Pro",
+    "size": "115.2px",
+    "weight": "400",
+    "lh": "103.68px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "h2",
+    "text": "Scene Sense",
+    "family": "Neue Haas Grotesk Display Pro",
+    "size": "115.2px",
+    "weight": "400",
+    "lh": "103.68px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "h2",
+    "text": "Every video holds a feeling. But it gets lost in raw clips that never get seen.",
+    "family": "Neue Haas Grotesk Display Pro",
+    "size": "100.8px",
+    "weight": "400",
+    "lh": "90.72px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "h2",
+    "text": "Your personal AI agent for video",
+    "family": "Neue Haas Grotesk Display Pro",
+    "size": "42px",
+    "weight": "400",
+    "lh": "37.8px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "h2",
+    "text": "You click a button and Elva creates best stories for you",
+    "family": "Neue Haas Grotesk Display Pro",
+    "size": "42px",
+    "weight": "400",
+    "lh": "37.8px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "h2",
+    "text": "Finally, your videos look as good as the moment felt.",
+    "family": "Neue Haas Grotesk Display Pro",
+    "size": "42px",
+    "weight": "400",
+    "lh": "37.8px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(19, 19, 19)",
+  "htmlBg": "rgb(19, 19, 19)",
+  "text": [
+   [
+    "rgb(255, 255, 255)",
+    30
+   ],
+   [
+    "rgb(179, 179, 179)",
+    5
+   ],
+   [
+    "rgb(0, 0, 0)",
+    3
+   ],
+   [
+    "rgb(77, 77, 77)",
+    2
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgba(255, 255, 255, 0.05)",
+    1
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(rgb(15, 15, 15), rgb(25, 25, 25))",
+    1
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.65,0,0.35,1)",
+    1
+   ],
+   [
+    "cubic-bezier(0.22,1,0.36,1)",
+    1
+   ]
+  ],
+  "durations": [
+   [
+    "0.3s",
+    17
+   ],
+   [
+    "0.4s",
+    8
+   ],
+   [
+    "0.2s",
+    5
+   ],
+   [
+    "0.5s",
+    4
+   ],
+   [
+    "0.25s",
+    2
+   ],
+   [
+    "1s",
+    1
+   ],
+   [
+    "0.45s",
+    1
+   ]
+  ],
+  "keyframes": [
+   "btn-draw"
+  ]
+ },
+ "cssVarSample": {
+  "--angle": "45deg",
+  "--opacity": ".5"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": true,
+  "webglCanvas": 0,
+  "canvases": 1,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 9,
+  "video": 11,
+  "svg": 10,
+  "picture": 0,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [
+   [
+    "hard-light",
+    1
+   ]
+  ],
+  "backdropFilter": 3,
+  "clipPath": 2,
+  "sticky": 0,
+  "fixed": [
+   "loader",
+   "header",
+   "footer",
+   "DIV"
+  ],
+  "customCursor": false,
+  "boxShadows": [],
+  "filters": [
+   [
+    "blur(10px)",
+    53
+   ],
+   [
+    "blur(20px)",
+    26
+   ],
+   [
+    "blur(3px)",
+    3
+   ]
+  ],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "16px",
+   1
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgba(255, 255, 255, 0.5)",
+   4
+  ],
+  [
+   "1px solid rgba(0, 0, 0, 0.7)",
+   1
+  ]
+ ],
+ "grids": [],
+ "containers": [],
+ "sideMargins": [
+  [
+   "520px",
+   7
+  ],
+  [
+   "72px",
+   5
+  ],
+  [
+   "241px",
+   5
+  ],
+  [
+   "25px",
+   2
+  ],
+  [
+   "1294px",
+   2
+  ],
+  [
+   "101px",
+   1
+  ]
+ ],
+ "sections": [],
+ "nav": null,
+ "ctas": [
+  {
+   "text": "Try Yourself",
+   "bg": "rgba(255, 255, 255, 0.05)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "16px",
+   "pad": "0px 0px 0px 17px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "capitalize",
+   "border": "none",
+   "h": 48
+  }
+ ],
+ "headings": [
+  "Elva is your personal AI director, turning everyday videos into emotional stories.",
+  "Meet Elva. A filmmaking crew in your phone.",
+  "Just shoot. Elva turns your footage into stories you’ll actually want to share.",
+  "Your personal AI agent for video",
+  "Every video holds a feeling. But it gets lost in raw clips that never get seen.",
+  "Elva picks the clips and finds what makes the moment matter",
+  "You click a button and Elva creates best stories for you",
+  "Finally, your videos look as good as the moment felt.",
+  "Start with the videos you already have",
+  "Tell Elva what you want — the mood, the pace, the vibe",
+  "Elva finishes the edit with music, captions, and voiceover.",
+  "Pick the edit that feels right.",
+  "Upload your videos and photos.",
+  "Describe what you want — pacing, mood, transitions.",
+  "Elva syncs your moments to music, adds clean captions.",
+  "Pick a story. Share the feeling.",
+  "Pose Mirror",
+  "Real-time Guidance",
+  "Flow Arcs",
+  "Lighting Spot",
+  "Scene Sense"
+ ],
+ "paras": [
+  "For the full AI cinematic experience, please view this website on a desktop device.",
+  "The first AI agent that edits, directs, and shapes your memories.",
+  "Guided by AI, enhanced with music and styles, ready to share in minutes.",
+  "No editing tools. No complexity. Just your story.",
+  "So even everyday footage feels vivid, emotional, and alive",
+  "You don’t need to cut clips, adjust timelines, or learn tools.",
+  "Elva guides framing, timing, and capture so every shot looks better.",
+  "Elva sorts through everything and builds the foundation for your story.",
+  "It listens and turns your idea into a finished edit.",
+  "So every video feels polished, personal, and ready to share."
+ ],
+ "footer": null,
+ "jsMotion": {
+  "scriptsFetched": 1,
+  "gsapEases": [
+   [
+    "none",
+    98
+   ],
+   [
+    "power2.out",
+    18
+   ],
+   [
+    "power1.out",
+    11
+   ],
+   [
+    "power2.in",
+    8
+   ],
+   [
+    "power3.out",
+    7
+   ],
+   [
+    "power1.inOut",
+    6
+   ],
+   [
+    "elastic.out(1,0.75)",
+    2
+   ],
+   [
+    "power3.in",
+    2
+   ]
+  ],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "1",
+    26
+   ],
+   [
+    "2",
+    14
+   ],
+   [
+    ".3",
+    13
+   ],
+   [
+    ".1",
+    13
+   ],
+   [
+    ".5",
+    12
+   ],
+   [
+    "4",
+    10
+   ],
+   [
+    ".01",
+    8
+   ],
+   [
+    "1.5",
+    8
+   ],
+   [
+    "3",
+    6
+   ],
+   [
+    ".8",
+    4
+   ],
+   [
+    ".2",
+    4
+   ],
+   [
+    "1.4",
+    4
+   ],
+   [
+    "6",
+    3
+   ],
+   [
+    "5",
+    2
+   ],
+   [
+    ".6",
+    2
+   ]
+  ],
+  "staggers": [
+   [
+    ".1",
+    10
+   ],
+   [
+    ".05",
+    2
+   ]
+  ],
+  "lenis": [],
+  "springs": [
+   [
+    "stiffness:50,damping:10",
+    2
+   ],
+   [
+    "stiffness:100,damping:15",
+    2
+   ],
+   [
+    "stiffness:300,damping:25",
+    2
+   ],
+   [
+    "stiffness:100,damping:85",
+    2
+   ]
+  ],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

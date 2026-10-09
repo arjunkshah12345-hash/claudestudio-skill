@@ -1,0 +1,701 @@
+{
+ "url": "https://www.byredo.com/us_en/",
+ "slug": "www-byredo-com-us-en",
+ "analyzedAt": "2026-10-07T05:27:06.155Z",
+ "scrollHeight": 1463,
+ "pageLengthInViewports": 1.6,
+ "title": "BYREDO Official Website | Perfumes, Candles & Body Care",
+ "metaDescription": "Shop Byredo's collection of perfumes, candles, makeup, leather and body care. Free US shipping and returns. Complimentary samples.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "byredoSans 400 normal",
+   "byredoSans 700 normal"
+  ],
+  "families": [
+   [
+    "byredoSans",
+    61
+   ],
+   [
+    "Inter",
+    1
+   ]
+  ],
+  "sizes": [
+   [
+    "12px",
+    43
+   ],
+   [
+    "8px",
+    8
+   ],
+   [
+    "16px",
+    7
+   ],
+   [
+    "14px",
+    2
+   ],
+   [
+    "13px",
+    1
+   ],
+   [
+    "10px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    61
+   ],
+   [
+    "700",
+    1
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "0.025em@12",
+    38
+   ],
+   [
+    "0.025em@8",
+    6
+   ],
+   [
+    "0.050em@12",
+    5
+   ],
+   [
+    "0.025em@16",
+    5
+   ],
+   [
+    "0.025em@14",
+    2
+   ],
+   [
+    "0.050em@8",
+    2
+   ],
+   [
+    "normal",
+    2
+   ],
+   [
+    "0.025em@13",
+    1
+   ],
+   [
+    "0.025em@10",
+    1
+   ]
+  ],
+  "uppercaseShare": 0.81,
+  "largest": [
+   {
+    "tag": "div",
+    "text": "We use cookies on this site, both our own and those belonging to third parties. They impro",
+    "family": "byredoSans",
+    "size": "16px",
+    "weight": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(21, 26, 22)"
+   },
+   {
+    "tag": "strong",
+    "text": "improve your browsing experience, analyse our services, and show you advertising related t",
+    "family": "byredoSans",
+    "size": "16px",
+    "weight": "400",
+    "lh": "24px",
+    "ls": "0.4px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "strong",
+    "text": "Cookie Policy",
+    "family": "byredoSans",
+    "size": "16px",
+    "weight": "400",
+    "lh": "24px",
+    "ls": "0.4px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "strong",
+    "text": "Accept All Cookies",
+    "family": "byredoSans",
+    "size": "16px",
+    "weight": "400",
+    "lh": "24px",
+    "ls": "0.4px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "strong",
+    "text": "Cookie Settings",
+    "family": "byredoSans",
+    "size": "16px",
+    "weight": "400",
+    "lh": "24px",
+    "ls": "0.4px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "strong",
+    "text": "Required only",
+    "family": "byredoSans",
+    "size": "16px",
+    "weight": "400",
+    "lh": "24px",
+    "ls": "0.4px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "a",
+    "text": "Skip to content",
+    "family": "byredoSans",
+    "size": "14px",
+    "weight": "400",
+    "lh": "20px",
+    "ls": "0.35px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "p",
+    "text": "Receive personalized email updates, launch annoucement, and exclusive access based on your",
+    "family": "byredoSans",
+    "size": "14px",
+    "weight": "400",
+    "lh": "20px",
+    "ls": "0.35px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(10, 10, 10)"
+   },
+   {
+    "tag": "div",
+    "text": "Free shipping & returns",
+    "family": "byredoSans",
+    "size": "13px",
+    "weight": "400",
+    "lh": "18.2px",
+    "ls": "0.325px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "button",
+    "text": "MENU",
+    "family": "byredoSans",
+    "size": "12px",
+    "weight": "400",
+    "lh": "12px",
+    "ls": "0.6px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "a",
+    "text": "ACCOUNT",
+    "family": "byredoSans",
+    "size": "12px",
+    "weight": "400",
+    "lh": "16px",
+    "ls": "0.3px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "a",
+    "text": "WISHLIST",
+    "family": "byredoSans",
+    "size": "12px",
+    "weight": "400",
+    "lh": "16px",
+    "ls": "0.3px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgba(0, 0, 0, 0)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(0, 0, 0)",
+    45
+   ],
+   [
+    "rgb(255, 255, 255)",
+    5
+   ],
+   [
+    "rgb(77, 86, 79)",
+    4
+   ],
+   [
+    "rgb(118, 118, 118)",
+    4
+   ],
+   [
+    "rgb(21, 26, 22)",
+    2
+   ],
+   [
+    "rgb(10, 10, 10)",
+    1
+   ],
+   [
+    "rgb(112, 112, 112)",
+    1
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(255, 255, 255)",
+    9
+   ],
+   [
+    "rgb(245, 245, 245)",
+    4
+   ],
+   [
+    "rgb(0, 0, 0)",
+    2
+   ],
+   [
+    "rgba(0, 0, 0, 0.54)",
+    1
+   ],
+   [
+    "rgba(0, 0, 0, 0.5)",
+    1
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(rgba(0, 0, 0, 0.76) 0%, rgba(0, 0, 0, 0) 172px, rgba(0, 0, 0, 0) 85%, rgba(0, 0, 0, 0.76) 100%)",
+    5
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.4,0,0.2,1)",
+    17
+   ],
+   [
+    "cubic-bezier(0.4,0,0.6,1)",
+    1
+   ],
+   [
+    "cubic-bezier(0,0,0.2,1)",
+    1
+   ]
+  ],
+  "durations": [
+   [
+    "0.15s",
+    13
+   ],
+   [
+    "0.5s",
+    7
+   ],
+   [
+    "0.2s",
+    7
+   ],
+   [
+    "0.3s",
+    5
+   ],
+   [
+    "0.1s",
+    4
+   ],
+   [
+    "0s",
+    3
+   ],
+   [
+    "2s",
+    2
+   ],
+   [
+    "1.5s",
+    2
+   ],
+   [
+    "1s",
+    2
+   ],
+   [
+    "0.25s",
+    2
+   ]
+  ],
+  "keyframes": [
+   "progress-grow",
+   "pulse",
+   "spin",
+   "stroke-loader-circular",
+   "line",
+   "onetrust-fade-in",
+   "slide-down-custom"
+  ]
+ },
+ "cssVarSample": {
+  "--colors-primary-50": "235 255 242",
+  "--colors-primary-100": "217 253 228",
+  "--colors-primary-200": "171 241 192",
+  "--colors-primary-300": "130 234 158",
+  "--colors-primary-400": "60 224 120",
+  "--colors-primary-500": "19 195 96",
+  "--colors-primary-600": "7 161 79",
+  "--colors-primary-700": "13 127 63",
+  "--colors-primary-800": "16 86 46",
+  "--colors-primary-900": "15 50 30",
+  "--colors-secondary-50": "247 245 253",
+  "--colors-secondary-100": "239 236 251",
+  "--colors-secondary-200": "225 218 246",
+  "--colors-secondary-300": "216 203 245",
+  "--colors-secondary-400": "198 177 246",
+  "--colors-secondary-500": "180 151 249",
+  "--colors-secondary-600": "151 111 238",
+  "--colors-secondary-700": "119 79 209",
+  "--colors-secondary-800": "82 52 153",
+  "--colors-secondary-900": "48 32 86",
+  "--colors-positive-50": "235 255 242",
+  "--colors-positive-100": "217 253 228",
+  "--colors-positive-200": "171 241 192",
+  "--colors-positive-300": "130 234 158",
+  "--colors-positive-400": "60 224 120",
+  "--colors-positive-500": "19 195 96",
+  "--colors-positive-600": "7 161 79",
+  "--colors-positive-700": "13 127 63",
+  "--colors-positive-800": "16 86 46",
+  "--colors-positive-900": "15 50 30",
+  "--colors-negative-50": "255 245 247",
+  "--colors-negative-100": "255 232 237",
+  "--colors-negative-200": "254 211 219",
+  "--colors-negative-300": "253 193 202",
+  "--colors-negative-400": "255 163 175",
+  "--colors-negative-500": "255 127 143",
+  "--colors-negative-600": "240 59 91",
+  "--colors-negative-700": "208 13 48",
+  "--colors-negative-800": "141 8 33",
+  "--colors-negative-900": "76 15 23",
+  "--colors-warning-50": "254 247 236",
+  "--colors-warning-100": "255 238 211",
+  "--colors-warning-200": "254 220 165",
+  "--colors-warning-300": "254 202 132",
+  "--colors-warning-400": "255 181 77",
+  "--colors-warning-500": "237 153 14",
+  "--colors-warning-600": "191 121 17",
+  "--colors-warning-700": "157 93 3",
+  "--colors-warning-800": "109 63 9",
+  "--colors-warning-900": "62 35 10",
+  "--colors-neutral-50": "249 251 250",
+  "--colors-neutral-100": "239 244 241",
+  "--colors-neutral-200": "217 226 220",
+  "--colors-neutral-300": "187 198 190",
+  "--colors-neutral-400": "129 140 133",
+  "--colors-neutral-500": "100 111 104",
+  "--colors-neutral-600": "77 86 79",
+  "--colors-neutral-700": "56 65 59",
+  "--colors-neutral-800": "37 43 39",
+  "--colors-neutral-900": "21 26 22",
+  "--colors-disabled-50": "249 251 250",
+  "--colors-disabled-100": "239 244 241",
+  "--colors-disabled-200": "217 226 220",
+  "--colors-disabled-300": "187 198 190",
+  "--colors-disabled-400": "129 140 133",
+  "--colors-disabled-500": "100 111 104",
+  "--colors-disabled-600": "77 86 79",
+  "--colors-disabled-700": "56 65 59",
+  "--colors-disabled-800": "37 43 39",
+  "--colors-disabled-900": "21 26 22"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": true,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 35,
+  "video": 2,
+  "svg": 10,
+  "picture": 3,
+  "iframes": 4
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 1,
+  "clipPath": 4,
+  "sticky": 1,
+  "fixed": [
+   "fixed top-0 bg-white p-4 sm:p-6 md:p-7 lg:p-8 flex justify-b",
+   "onetrust-pc-dark-filter ot-fade-in",
+   "otFlat otRelFont bottom ot-wo-title vertical-align-content"
+  ],
+  "customCursor": true,
+  "boxShadows": [
+   [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+    1
+   ],
+   [
+    "rgba(0, 0, 0, 0.2) 0px 0px 18px 0px",
+    1
+   ]
+  ],
+  "filters": [],
+  "transforms3d": 0,
+  "noiseOrGrain": true,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "6px",
+   4
+  ],
+  [
+   "50%",
+   4
+  ],
+  [
+   "2px",
+   3
+  ],
+  [
+   "4px",
+   2
+  ],
+  [
+   "20px",
+   1
+  ],
+  [
+   "9999px",
+   1
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgba(0, 0, 0, 0)",
+   2
+  ],
+  [
+   "1px solid rgb(229, 231, 235)",
+   1
+  ],
+  [
+   "1px solid rgb(0, 0, 0)",
+   1
+  ]
+ ],
+ "grids": [
+  [
+   "2cols gap 8px",
+   1
+  ],
+  [
+   "1cols gap 0px",
+   1
+  ],
+  [
+   "3cols gap 8px",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "100%",
+   6
+  ],
+  [
+   "1180px",
+   1
+  ]
+ ],
+ "sideMargins": [],
+ "sections": [
+  {
+   "cls": "min-h-80 md:min-h-screen",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "md:min-w-[50%] grid sm:gap-2 sm:grid-cols-[repeat(",
+   "h": 465,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "sticky",
+  "height": 84,
+  "links": 74,
+  "linkTexts": [
+   "MENU",
+   "MENU",
+   "ACCOUNT",
+   "WISHLIST",
+   "Havana TonkaNew",
+   "Advent CalendarNew",
+   "Mojave Ghost",
+   "Bal D’Afrique",
+   "Gypsy Water",
+   "Blanche",
+   "Rose of No Man's Land",
+   "Perfume",
+   "Shop all",
+   "New arrivals"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "COOKIES SETTINGS",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "2px",
+   "pad": "12px 10px",
+   "size": "12px",
+   "weight": "400",
+   "tt": "uppercase",
+   "border": "1px solid rgb(0, 0, 0)",
+   "h": 40
+  },
+  {
+   "text": "REQUIRED ONLY",
+   "bg": "rgb(0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "2px",
+   "pad": "12px 10px",
+   "size": "12px",
+   "weight": "400",
+   "tt": "uppercase",
+   "border": "none",
+   "h": 38
+  },
+  {
+   "text": "ACCEPT ALL COOKIES",
+   "bg": "rgb(0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "2px",
+   "pad": "12px 10px",
+   "size": "12px",
+   "weight": "400",
+   "tt": "uppercase",
+   "border": "none",
+   "h": 38
+  }
+ ],
+ "headings": [
+  "CUSTOMER SERVICES",
+  "LEGAL",
+  "EXCLUSIVE SERVICES",
+  "Localisation",
+  "Privacy Preference Center",
+  "Privacy Preference Center",
+  "Your Privacy",
+  "Strictly Necessary Cookies",
+  "Performance Cookies",
+  "Targeting Cookies",
+  "Functional Cookies",
+  "Cookie List"
+ ],
+ "paras": [
+  "Receive personalized email updates, launch annoucement, and exclusive access based on your interests.",
+  "When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences, or your device, and is mostly used to make the site ",
+  "These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your",
+  "These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us understand which pages are the most and least popular and how visitors move around the si",
+  "These cookies may be set through our site by our advertising partners. They may be used by those partners to improve the relevance of advertisements you may see on other sites. If you do not allow these cookies, you may ",
+  "These cookies allow the website to provide enhanced functionality and personalization. They may be set by us or third-party providers whose services we have added to our pages. If you do not allow these cookies, then som"
+ ],
+ "footer": {
+  "h": 563,
+  "text": "STAY IN THE KNOW Receive personalized email updates, launch annoucement, and exclusive access based on your interests. Email address * BY CLICKING SEND, I AGREE TO THE TERMS OF USE (INCLUDING MANDATORY ARBITRATION) AND MESSAGING TERMS AND CONDITIONS AND ACKNOWLEDGE THE PRIVACY POLICY. YOU CONSENT TO"
+ },
+ "jsMotion": {
+  "scriptsFetched": 23,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "1",
+    9
+   ],
+   [
+    "800",
+    1
+   ]
+  ],
+  "staggers": [],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [
+   [
+    "end",
+    1
+   ]
+  ],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

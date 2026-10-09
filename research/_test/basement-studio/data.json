@@ -1,0 +1,687 @@
+{
+ "url": "https://basement.studio",
+ "slug": "basement-studio",
+ "analyzedAt": "2026-10-07T05:09:26.887Z",
+ "scrollHeight": 6714,
+ "pageLengthInViewports": 7.5,
+ "title": "basement.studio | We make cool shit that performs.",
+ "metaDescription": "basement.studio is a digital studio crafting brands, websites, 3D experiences, and products. We design and engineer cool shit that actually performs.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "Geist 100 900 normal",
+   "Geist Fallback normal normal",
+   "Geist Mono 100 900 normal",
+   "flauta normal normal"
+  ],
+  "families": [
+   [
+    "Geist",
+    72
+   ],
+   [
+    "Geist Mono",
+    2
+   ]
+  ],
+  "sizes": [
+   [
+    "13px",
+    22
+   ],
+   [
+    "20px",
+    21
+   ],
+   [
+    "38px",
+    12
+   ],
+   [
+    "12px",
+    8
+   ],
+   [
+    "76px",
+    5
+   ],
+   [
+    "24px",
+    4
+   ],
+   [
+    "9px",
+    1
+   ],
+   [
+    "87px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "600",
+    72
+   ],
+   [
+    "500",
+    2
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    31
+   ],
+   [
+    "-0.020em@20",
+    21
+   ],
+   [
+    "-0.040em@38",
+    12
+   ],
+   [
+    "-0.040em@76",
+    5
+   ],
+   [
+    "-0.030em@24",
+    4
+   ],
+   [
+    "-0.040em@87",
+    1
+   ]
+  ],
+  "uppercaseShare": 0.03,
+  "largest": [
+   {
+    "tag": "h1",
+    "text": "A digital studio & branding powerhouse making cool shit that performs",
+    "family": "Geist",
+    "size": "87px",
+    "weight": "600",
+    "lh": "78px",
+    "ls": "-3.48px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(230, 230, 230)"
+   },
+   {
+    "tag": "h2",
+    "text": "Featured Projects",
+    "family": "Geist",
+    "size": "76px",
+    "weight": "600",
+    "lh": "68px",
+    "ls": "-3.04px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(196, 196, 196)"
+   },
+   {
+    "tag": "p",
+    "text": "We're here to create the extraordinary.",
+    "family": "Geist",
+    "size": "76px",
+    "weight": "600",
+    "lh": "68px",
+    "ls": "-3.04px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(196, 196, 196)"
+   },
+   {
+    "tag": "p",
+    "text": "No shortcuts, just bold, precision-engineered work that elevates the game & leaves a mark.",
+    "family": "Geist",
+    "size": "76px",
+    "weight": "600",
+    "lh": "68px",
+    "ls": "-3.04px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(196, 196, 196)"
+   },
+   {
+    "tag": "p",
+    "text": "Let's make an impact together.",
+    "family": "Geist",
+    "size": "76px",
+    "weight": "600",
+    "lh": "68px",
+    "ls": "-3.04px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(196, 196, 196)"
+   },
+   {
+    "tag": "span",
+    "text": "hello@basement.studio",
+    "family": "Geist",
+    "size": "76px",
+    "weight": "600",
+    "lh": "67.64px",
+    "ls": "-3.04px",
+    "tt": "none",
+    "style": "normal",
+    "color": "color(srgb 0.901961 0.901961 0.901961)"
+   },
+   {
+    "tag": "span",
+    "text": "Vercel Ship",
+    "family": "Geist",
+    "size": "38px",
+    "weight": "600",
+    "lh": "33.82px",
+    "ls": "-1.52px",
+    "tt": "none",
+    "style": "normal",
+    "color": "color(srgb 0.901961 0.901961 0.901961)"
+   },
+   {
+    "tag": "span",
+    "text": "Daylight",
+    "family": "Geist",
+    "size": "38px",
+    "weight": "600",
+    "lh": "33.82px",
+    "ls": "-1.52px",
+    "tt": "none",
+    "style": "normal",
+    "color": "color(srgb 0.901961 0.901961 0.901961)"
+   },
+   {
+    "tag": "span",
+    "text": "KidSuper",
+    "family": "Geist",
+    "size": "38px",
+    "weight": "600",
+    "lh": "33.82px",
+    "ls": "-1.52px",
+    "tt": "none",
+    "style": "normal",
+    "color": "color(srgb 0.901961 0.901961 0.901961)"
+   },
+   {
+    "tag": "span",
+    "text": "Shop MrBeast",
+    "family": "Geist",
+    "size": "38px",
+    "weight": "600",
+    "lh": "33.82px",
+    "ls": "-1.52px",
+    "tt": "none",
+    "style": "normal",
+    "color": "color(srgb 0.901961 0.901961 0.901961)"
+   },
+   {
+    "tag": "span",
+    "text": "Home",
+    "family": "Geist",
+    "size": "38px",
+    "weight": "600",
+    "lh": "33.82px",
+    "ls": "-1.52px",
+    "tt": "none",
+    "style": "normal",
+    "color": "color(srgb 0.901961 0.901961 0.901961)"
+   },
+   {
+    "tag": "span",
+    "text": "Services",
+    "family": "Geist",
+    "size": "38px",
+    "weight": "600",
+    "lh": "33.82px",
+    "ls": "-1.52px",
+    "tt": "none",
+    "style": "normal",
+    "color": "color(srgb 0.901961 0.901961 0.901961)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(0, 0, 0)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(230, 230, 230)",
+    29
+   ],
+   [
+    "color(srgb 0.901961 0.901961 0.901961)",
+    21
+   ],
+   [
+    "rgb(196, 196, 196)",
+    14
+   ],
+   [
+    "rgb(117, 117, 117)",
+    9
+   ],
+   [
+    "rgb(255, 77, 0)",
+    1
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(46, 46, 46)",
+    13
+   ],
+   [
+    "rgb(0, 0, 0)",
+    8
+   ],
+   [
+    "rgb(255, 77, 0)",
+    1
+   ],
+   [
+    "rgb(26, 26, 26)",
+    1
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(rgb(0, 0, 0) 1px, rgba(0, 0, 0, 0) 1px), linear-gradient(90deg, rgb(0, 0, 0) 1px, rgba(0, 0, 0, 0.7) 1px)",
+    1
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.4,0,0.2,1)",
+    12
+   ],
+   [
+    "cubic-bezier(0.4,0,0.6,1)",
+    1
+   ]
+  ],
+  "durations": [
+   [
+    "0.15s",
+    11
+   ],
+   [
+    "0s",
+    4
+   ],
+   [
+    "5000s",
+    4
+   ],
+   [
+    "0.3s",
+    3
+   ],
+   [
+    "0.2s",
+    3
+   ],
+   [
+    "3s",
+    2
+   ],
+   [
+    "1s",
+    2
+   ],
+   [
+    "6s",
+    2
+   ],
+   [
+    "2s",
+    1
+   ],
+   [
+    "0.1s",
+    1
+   ]
+  ],
+  "keyframes": [
+   "fade-in",
+   "fade-in-out",
+   "fade-out-in",
+   "pulse",
+   "spin",
+   "actionable-blink",
+   "diagonalPatternAnimation",
+   "machine-reveal",
+   "machine-flicker",
+   "marquee-translate",
+   "subtle-pulse",
+   "accordion-up",
+   "accordion-down"
+  ]
+ },
+ "cssVarSample": {
+  "--lightningcss-light": "",
+  "--lightningcss-dark": "initial",
+  "--canvas-offset": "80svh"
+ },
+ "libs": {
+  "gsap": true,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": true,
+  "webglCanvas": 0,
+  "canvases": 2,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": true,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": true,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 40,
+  "video": 4,
+  "svg": 11,
+  "picture": 0,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 0,
+  "clipPath": 8,
+  "sticky": 4,
+  "fixed": [
+   "pointer-events-none fixed top-0 z-50 h-screen w-full",
+   "canvas-container absolute top-0 h-[var(--canvas-offset)] w-f",
+   "fixed top-0 z-navbar flex w-full flex-col items-center justi",
+   "fixed inset-0 z-50 pointer-events-none"
+  ],
+  "customCursor": true,
+  "boxShadows": [],
+  "filters": [
+   [
+    "blur(0px)",
+    1
+   ]
+  ],
+  "transforms3d": 1,
+  "noiseOrGrain": true,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "9999px",
+   3
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgba(230, 230, 230, 0.3)",
+   4
+  ],
+  [
+   "bottom:1px solid rgba(230, 230, 230, 0.3)",
+   1
+  ],
+  [
+   "1px solid rgb(26, 26, 26)",
+   1
+  ],
+  [
+   "1px solid rgb(46, 46, 46)",
+   1
+  ]
+ ],
+ "grids": [
+  [
+   "1cols gap normal",
+   36
+  ],
+  [
+   "12cols gap 12px",
+   14
+  ],
+  [
+   "3cols gap 12px",
+   1
+  ],
+  [
+   "6cols gap 12px",
+   1
+  ],
+  [
+   "8cols gap 12px",
+   1
+  ],
+  [
+   "10cols gap 8px",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "1920px",
+   14
+  ],
+  [
+   "100%",
+   8
+  ]
+ ],
+ "sideMargins": [
+  [
+   "134px",
+   8
+  ],
+  [
+   "844px",
+   8
+  ],
+  [
+   "16px",
+   5
+  ],
+  [
+   "667px",
+   4
+  ],
+  [
+   "933px",
+   4
+  ],
+  [
+   "401px",
+   3
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "flex flex-col gap-18 lg:gap-32",
+   "h": 4854,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "grid-layout",
+   "h": 310,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "lg:grid-layout hidden !gap-y-4",
+   "h": 834,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "NAV",
+  "position": "fixed",
+  "height": 36,
+  "links": 6,
+  "linkTexts": [
+   "Home",
+   "Services",
+   "Showcase",
+   "People",
+   "Blog",
+   "Lab",
+   "Contact Us",
+   "Menu"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [],
+ "headings": [
+  "A digital studio & branding powerhouse making cool shit that performs",
+  "Trusted by Visionaries",
+  "Featured Projects",
+  "Capabilities",
+  "Websites & Features",
+  "Visual Branding",
+  "IRL Experience Design",
+  "Marketing Execution",
+  "Contact"
+ ],
+ "paras": [
+  "We partner with the world’s most ambitious startups, scale-ups and brands to unlock their true potential and growth through the convergence of creativity, design, and technology.",
+  "Partnering with Vercel means pushing the limits of performance and innovation. Together, we craft a digital ecosystem built for speed, precision, and impact.",
+  "Websites & Features Marketing Execution IRL Experience Design",
+  "A bold vision needs a strong launch. We crafted a high-performance, story-driven website that cut through the noise, connected with Daylight’s audience, and sold out inventory in hours.",
+  "By blending crafted visuals with digital experiences, we helped KidSuper elevate their brand into a dynamic showcase—bridging art, technology, and culture in a way that captivates and inspires.",
+  "The world’s biggest YouTuber needed a storefront built for millions—high-performance, wildly engaging, and as dynamic as a MrBeast video.",
+  "We're here to create the extraordinary.",
+  "No shortcuts, just bold, precision-engineered work that elevates the game & leaves a mark.",
+  "From pre-launch landing pages to complete website redesigns, we create next-generation digital experiences that capture attention and inspire action.",
+  "From lean identities for early startups to comprehensive brand platforms for industry leaders, we craft scalable brand systems that are impossible to ignore."
+ ],
+ "footer": {
+  "h": 848,
+  "text": "Home Services Showcase (26) People Blog (29) Lab Ventures Contact Us Ready to tap into the basement vibe? Sign up for our newsletter and stay plugged into all the cool stuff we’re cooking up. Roll Me In 𝕏 , Instagram , GitHub , LinkedIn © basement.studio LLC 2026 all rights reserved"
+ },
+ "jsMotion": {
+  "scriptsFetched": 25,
+  "gsapEases": [
+   [
+    "linear",
+    1
+   ]
+  ],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "0",
+    5
+   ],
+   [
+    ".3",
+    5
+   ],
+   [
+    ".4",
+    4
+   ],
+   [
+    ".8",
+    3
+   ],
+   [
+    ".2",
+    3
+   ],
+   [
+    ".1",
+    2
+   ],
+   [
+    "450",
+    1
+   ],
+   [
+    "900",
+    1
+   ],
+   [
+    ".45",
+    1
+   ],
+   [
+    ".9",
+    1
+   ]
+  ],
+  "staggers": [],
+  "lenis": [],
+  "springs": [
+   [
+    "type:\"spring\",bounce:0",
+    3
+   ],
+   [
+    "stiffness:100,damping:10",
+    2
+   ],
+   [
+    "type:\"spring\",visualDuration:.2,bounce:.25",
+    2
+   ],
+   [
+    "type:\"spring\",stiffness:500,damping:25,restSpeed:10",
+    1
+   ],
+   [
+    "type:\"spring\",stiffness:550,damping:0===e[1]?2*Math.sqrt(550):30,restSpee",
+    1
+   ],
+   [
+    "type:\"spring\",visualDuration:R,bounce:.25",
+    1
+   ],
+   [
+    "type:\"spring\",restDelta:.001,restSpeed:.01,...n,onUpdate:r",
+    1
+   ],
+   [
+    "type:\"spring\",...t",
+    1
+   ]
+  ],
+  "scrollTriggerStarts": [
+   [
+    "click",
+    1
+   ],
+   [
+    "drag",
+    1
+   ]
+  ],
+  "splitTypes": [],
+  "bezierArrays": [
+   [
+    "[.4,0,.1,1]",
+    1
+   ],
+   [
+    "[.25,.1,.35,1]",
+    1
+   ]
+  ]
+ }
+}

@@ -1,0 +1,1189 @@
+{
+ "url": "https://cursor.com",
+ "slug": "cursor-com",
+ "analyzedAt": "2026-10-07T05:25:45.625Z",
+ "scrollHeight": 8173,
+ "pageLengthInViewports": 9.1,
+ "title": "AI Coding Agent for Building Ambitious Software | Cursor",
+ "metaDescription": "Built to make you extraordinarily productive, agents turn ideas into code. Accelerate development by handing off tasks to Cursor.",
+ "lang": "en-US",
+ "type": {
+  "loadedFonts": [
+   "CursorGothic 400 normal",
+   "CursorGothic Fallback normal normal",
+   "berkeleyMono 400 normal",
+   "EB Garamond 500 italic",
+   "EB Garamond 400 normal",
+   "Lato 400 normal",
+   "Lato 700 normal",
+   "CursorIcons16 normal normal"
+  ],
+  "families": [
+   [
+    "system-ui",
+    153
+   ],
+   [
+    "CursorGothic",
+    150
+   ],
+   [
+    "berkeleyMono",
+    44
+   ],
+   [
+    "EB Garamond",
+    33
+   ],
+   [
+    "Lato",
+    17
+   ],
+   [
+    "-apple-system",
+    1
+   ]
+  ],
+  "sizes": [
+   [
+    "12px",
+    131
+   ],
+   [
+    "14px",
+    93
+   ],
+   [
+    "16px",
+    58
+   ],
+   [
+    "13px",
+    34
+   ],
+   [
+    "17px",
+    31
+   ],
+   [
+    "11px",
+    29
+   ],
+   [
+    "22px",
+    12
+   ],
+   [
+    "10px",
+    3
+   ],
+   [
+    "19px",
+    2
+   ],
+   [
+    "26px",
+    1
+   ],
+   [
+    "20px",
+    1
+   ],
+   [
+    "6px",
+    1
+   ],
+   [
+    "36px",
+    1
+   ],
+   [
+    "72px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    358
+   ],
+   [
+    "500",
+    26
+   ],
+   [
+    "600",
+    12
+   ],
+   [
+    "510",
+    1
+   ],
+   [
+    "700",
+    1
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    224
+   ],
+   [
+    "0.010em@14",
+    60
+   ],
+   [
+    "0.005em@16",
+    45
+   ],
+   [
+    "0.004em@11",
+    25
+   ],
+   [
+    "-0.005em@22",
+    12
+   ],
+   [
+    "-0.011em@14",
+    12
+   ],
+   [
+    "0.004em@12",
+    7
+   ],
+   [
+    "0.010em@12",
+    4
+   ],
+   [
+    "-0.006em@13",
+    2
+   ],
+   [
+    "-0.012em@13",
+    2
+   ],
+   [
+    "-0.013em@26",
+    1
+   ],
+   [
+    "-0.008em@12",
+    1
+   ],
+   [
+    "-0.020em@36",
+    1
+   ],
+   [
+    "-0.014em@19",
+    1
+   ],
+   [
+    "-0.030em@72",
+    1
+   ]
+  ],
+  "uppercaseShare": 0.01,
+  "largest": [
+   {
+    "tag": "h2",
+    "text": "Try Cursor now.",
+    "family": "CursorGothic",
+    "size": "72px",
+    "weight": "400",
+    "lh": "79.2px",
+    "ls": "-2.16px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(38, 37, 30)"
+   },
+   {
+    "tag": "h2",
+    "text": "The new way to build software.",
+    "family": "CursorGothic",
+    "size": "36px",
+    "weight": "400",
+    "lh": "43.2px",
+    "ls": "-0.72px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(38, 37, 30)"
+   },
+   {
+    "tag": "h1",
+    "text": "Cursor is your coding agent for building ambitious software.",
+    "family": "CursorGothic",
+    "size": "26px",
+    "weight": "400",
+    "lh": "32.5px",
+    "ls": "-0.325px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(38, 37, 30)"
+   },
+   {
+    "tag": "h3",
+    "text": "Agents turn ideas into code",
+    "family": "CursorGothic",
+    "size": "22px",
+    "weight": "400",
+    "lh": "28.6px",
+    "ls": "-0.11px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(38, 37, 30)"
+   },
+   {
+    "tag": "div",
+    "text": "Accelerate development by handing off tasks to Cursor, while you focus on making decisions",
+    "family": "CursorGothic",
+    "size": "22px",
+    "weight": "400",
+    "lh": "28.6px",
+    "ls": "-0.11px",
+    "tt": "none",
+    "style": "normal",
+    "color": "oklab(0.263084 -0.00230259 0.0124794 / 0.6)"
+   },
+   {
+    "tag": "h3",
+    "text": "Works autonomously, runs in parallel",
+    "family": "CursorGothic",
+    "size": "22px",
+    "weight": "400",
+    "lh": "28.6px",
+    "ls": "-0.11px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(38, 37, 30)"
+   },
+   {
+    "tag": "div",
+    "text": "Agents use their own computers to build, test, and demo features end to end for you to rev",
+    "family": "CursorGothic",
+    "size": "22px",
+    "weight": "400",
+    "lh": "28.6px",
+    "ls": "-0.11px",
+    "tt": "none",
+    "style": "normal",
+    "color": "oklab(0.263084 -0.00230259 0.0124794 / 0.6)"
+   },
+   {
+    "tag": "h3",
+    "text": "In every tool, at every step",
+    "family": "CursorGothic",
+    "size": "22px",
+    "weight": "400",
+    "lh": "28.6px",
+    "ls": "-0.11px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(38, 37, 30)"
+   },
+   {
+    "tag": "div",
+    "text": "Cursor runs in your terminal, collaborates in Slack, and reviews PRs in GitHub.",
+    "family": "CursorGothic",
+    "size": "22px",
+    "weight": "400",
+    "lh": "28.6px",
+    "ls": "-0.11px",
+    "tt": "none",
+    "style": "normal",
+    "color": "oklab(0.263084 -0.00230259 0.0124794 / 0.6)"
+   },
+   {
+    "tag": "h3",
+    "text": "Hand work to AI teammates",
+    "family": "CursorGothic",
+    "size": "22px",
+    "weight": "400",
+    "lh": "28.6px",
+    "ls": "-0.11px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(38, 37, 30)"
+   },
+   {
+    "tag": "div",
+    "text": "Bots can sign in to your tools, use them just like you do, and come back with finished wor",
+    "family": "CursorGothic",
+    "size": "22px",
+    "weight": "400",
+    "lh": "28.6px",
+    "ls": "-0.11px",
+    "tt": "none",
+    "style": "normal",
+    "color": "oklab(0.263084 -0.00230259 0.0124794 / 0.6)"
+   },
+   {
+    "tag": "h2",
+    "text": "Stay on the frontier",
+    "family": "CursorGothic",
+    "size": "22px",
+    "weight": "400",
+    "lh": "28.6px",
+    "ls": "-0.11px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(38, 37, 30)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(247, 247, 244)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(38, 37, 30)",
+    166
+   ],
+   [
+    "oklab(0.263084 -0.00230259 0.0124794 / 0.6)",
+    89
+   ],
+   [
+    "rgba(38, 37, 30, 0.55)",
+    31
+   ],
+   [
+    "oklab(0.263084 -0.00230259 0.0124794 / 0.5)",
+    21
+   ],
+   [
+    "oklab(0.263084 -0.00230259 0.0124794 / 0.4)",
+    12
+   ],
+   [
+    "rgba(0, 0, 0, 0.38)",
+    12
+   ],
+   [
+    "rgb(245, 78, 0)",
+    9
+   ],
+   [
+    "rgb(20, 20, 20)",
+    8
+   ],
+   [
+    "rgba(20, 20, 20, 0.6)",
+    8
+   ],
+   [
+    "rgba(20, 20, 20, 0.4)",
+    7
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(242, 241, 237)",
+    56
+   ],
+   [
+    "rgb(38, 37, 30)",
+    47
+   ],
+   [
+    "rgb(247, 247, 244)",
+    33
+   ],
+   [
+    "rgb(101, 175, 224)",
+    24
+   ],
+   [
+    "oklab(0.263084 -0.00230259 0.0124794 / 0.2)",
+    15
+   ],
+   [
+    "rgb(230, 229, 224)",
+    11
+   ],
+   [
+    "oklab(0.263084 -0.00230259 0.0124794 / 0.1)",
+    8
+   ],
+   [
+    "rgb(235, 234, 229)",
+    8
+   ],
+   [
+    "rgb(39, 141, 204)",
+    6
+   ],
+   [
+    "rgb(225, 224, 219)",
+    4
+   ],
+   [
+    "rgba(16, 16, 0, 0.04)",
+    4
+   ],
+   [
+    "rgb(17, 17, 16)",
+    3
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(90deg, rgba(0, 0, 0, 0.38) 0%, rgba(0, 0, 0, 0.38) 30%, color(srgb 0.14033 0.136637 0.110787 / 0.913255) 55%, rgba(0, 0, 0, ",
+    6
+   ],
+   [
+    "linear-gradient(oklab(0.263084 -0.00230259 0.0124794 / 0.05) 0%, oklab(0.263084 -0.00230259 0.0124794 / 0.05) 100%), linear-gradient(rgb(242",
+    5
+   ],
+   [
+    "linear-gradient(in oklab, rgb(242, 241, 237) 0%, rgba(0, 0, 0, 0) 100%)",
+    3
+   ],
+   [
+    "linear-gradient(to top in oklab, rgb(242, 241, 237) 0%, rgba(0, 0, 0, 0) 100%)",
+    3
+   ],
+   [
+    "linear-gradient(to left, rgb(28, 28, 30), rgb(44, 44, 46))",
+    3
+   ],
+   [
+    "linear-gradient(to top, color(srgb 0.988235 0.988235 0.988235 / 0.92) 0%, color(srgb 0.988235 0.988235 0.988235 / 0.62) 36%, color(srgb 0.98",
+    1
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.22,1,0.36,1)",
+    7
+   ],
+   [
+    "cubic-bezier(.4,0,.2,1)",
+    4
+   ],
+   [
+    "cubic-bezier(0,0,.2,1)",
+    2
+   ],
+   [
+    "cubic-bezier(.4,0,.6,1)",
+    2
+   ],
+   [
+    "cubic-bezier(.25,1,.5,1)",
+    2
+   ],
+   [
+    "cubic-bezier(.22,1,.36,1)",
+    2
+   ],
+   [
+    "cubic-bezier(0.25,1,0.5,1)",
+    2
+   ],
+   [
+    "cubic-bezier(0.2,0.9,0.3,1.15)",
+    2
+   ],
+   [
+    "cubic-bezier(0.2,0.8,0.3,1)",
+    1
+   ],
+   [
+    "cubic-bezier(0.4,0,0.2,1)",
+    1
+   ]
+  ],
+  "durations": [
+   [
+    "0s",
+    37
+   ],
+   [
+    "0.15s",
+    15
+   ],
+   [
+    "0.12s",
+    13
+   ],
+   [
+    "0.2s",
+    9
+   ],
+   [
+    "0.3s",
+    8
+   ],
+   [
+    "0.6s",
+    7
+   ],
+   [
+    "0.1s",
+    7
+   ],
+   [
+    "0.4s",
+    7
+   ],
+   [
+    ".25s",
+    6
+   ],
+   [
+    "2.8s",
+    6
+   ]
+  ],
+  "keyframes": [
+   "navItemSlideIn",
+   "navItemSlideOut",
+   "navItemFade",
+   "shimmer",
+   "shimmer-slide",
+   "fade-in",
+   "mobile-chat-enter",
+   "mobile-interaction-pulse",
+   "mobile-interaction-glow",
+   "mobile-workspace-interaction-pulse",
+   "mobileWorkingVerticalOpacity",
+   "mobileWorkingHorizontalOpacity",
+   "mobileWorkingCenterOpacity",
+   "mobileRecordingWaveform",
+   "shake",
+   "streaming-word-fade",
+   "newsletter-submit-pulse",
+   "gallery-marquee-item-slide-up",
+   "sheet-slide-up",
+   "backdrop-fade-in"
+  ]
+ },
+ "cssVarSample": {
+  "--insights-prose-max-width": "560px",
+  "--color-bg": "var(--color-theme-bg)",
+  "--color-text-primary": "var(--color-theme-text)",
+  "--color-text-muted": "var(--color-theme-text-sec)",
+  "--color-text-secondary": "var(--color-theme-text-sec)",
+  "--color-border": "var(--color-theme-border-02)",
+  "--color-accent": "var(--color-theme-accent)",
+  "--color-code-bg": "var(--color-theme-card-hex)",
+  "--color-code-text": "var(--color-theme-text)",
+  "--color-bg-hover": "var(--color-theme-card-hover-hex)",
+  "--color-border-bright": "var(--color-theme-border-02-5)",
+  "--color-success": "var(--color-theme-product-ansi-green)",
+  "--color-success-bg": "color-mix(in srgb, var(--color-theme-product-ansi-green) 15%, transparent)",
+  "--color-error": "var(--color-theme-product-ansi-red)",
+  "--color-error-bg": "color-mix(in srgb, var(--color-theme-product-ansi-red) 15%, transparent)",
+  "--color-warning": "var(--color-theme-accent)",
+  "--color-warning-bg": "color-mix(in srgb, var(--color-theme-accent) 15%, transparent)",
+  "--color-accent-bg": "color-mix(in srgb, var(--color-theme-accent) 10%, transparent)",
+  "--color-accent-bg-strong": "color-mix(in srgb, var(--color-theme-accent) 25%, transparent)",
+  "--color-info": "var(--color-theme-border-03)",
+  "--font-mono": "var(--font-berkeley-mono), ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas",
+  "--spacing-xs": "var(--spacing-g0\\.25)",
+  "--spacing-sm": "var(--spacing-g0\\.5)",
+  "--spacing-md": "var(--spacing-g1)",
+  "--spacing-lg": "var(--spacing-g1\\.5)",
+  "--spacing-xl": "var(--spacing-g2)",
+  "--spacing-2xl": "var(--spacing-g3)",
+  "--transition-fast": "var(--duration)",
+  "--color-bg-elevated": "var(--color-theme-card-hex)",
+  "--color-timeline-thinking": "#dfa88f",
+  "--color-timeline-grep": "#9fc9a2",
+  "--color-timeline-read": "#9fbbe0",
+  "--color-timeline-edit": "#c0a8dd"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": true,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 28,
+  "video": 1,
+  "svg": 66,
+  "picture": 0,
+  "iframes": 1
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 0,
+  "clipPath": 11,
+  "sticky": 7,
+  "fixed": [
+   "bg-theme-bg px-g2 fixed top-0 left-0 z-50 w-full",
+   "bg-theme-card-hex text-theme-text border-theme-border-02 ani"
+  ],
+  "customCursor": true,
+  "boxShadows": [
+   [
+    "rgba(0, 0, 0, 0.14) 0px 28px 70px 0px, rgba(0, 0, 0, 0.1) 0px 14px 32px 0px, oklab(0.263084 -0.00230259 0.0124794 / 0.1) 0px 0px 0px 1px",
+    6
+   ],
+   [
+    "rgb(252, 252, 252) 0px 0px 0px 2px",
+    3
+   ],
+   [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px",
+    2
+   ],
+   [
+    "rgba(0, 0, 0, 0.3) 0px 22px 70px 4px, rgba(0, 0, 0, 0.15) 0px 0px 0px 0.5px",
+    1
+   ],
+   [
+    "rgba(0, 0, 0, 0.25) 0px 25px 50px -12px, rgba(0, 0, 0, 0.15) 0px 12px 24px -8px, oklab(0.263084 -0.00230259 0.0124794 / 0.1) 0px 0px 0px 0.5px",
+    1
+   ]
+  ],
+  "filters": [
+   [
+    "brightness(1)",
+    3
+   ],
+   [
+    "drop-shadow(rgba(0, 0, 0, 0.3) 0px 0.5px 1px)",
+    2
+   ]
+  ],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 6
+ },
+ "radii": [
+  [
+   "4px",
+   85
+  ],
+  [
+   "3.35544e+07px",
+   68
+  ],
+  [
+   "50%",
+   30
+  ],
+  [
+   "8px",
+   17
+  ],
+  [
+   "10px",
+   15
+  ],
+  [
+   "12px",
+   7
+  ],
+  [
+   "1.5px",
+   5
+  ],
+  [
+   "16px",
+   4
+  ]
+ ],
+ "borders": [
+  [
+   "bottom:1px solid rgba(38, 37, 30, 0.08)",
+   27
+  ],
+  [
+   "1px solid oklab(0.263084 -0.00230259 0.0124794 / 0.1)",
+   20
+  ],
+  [
+   "bottom:1px solid oklab(0.263084 -0.00230259 0.0124794 / 0.1)",
+   12
+  ],
+  [
+   "1px solid rgb(38, 37, 30)",
+   7
+  ],
+  [
+   "1px solid rgba(0, 0, 0, 0)",
+   7
+  ],
+  [
+   "1px solid oklab(0.263084 -0.00230259 0.0124794 / 0.2)",
+   6
+  ]
+ ],
+ "grids": [
+  [
+   "1cols gap normal",
+   39
+  ],
+  [
+   "24cols gap 10px",
+   10
+  ],
+  [
+   "2cols gap 12.8px",
+   4
+  ],
+  [
+   "3cols gap normal",
+   2
+  ],
+  [
+   "3cols gap 10px",
+   2
+  ],
+  [
+   "4cols gap 10px",
+   2
+  ],
+  [
+   "2cols gap 10px",
+   1
+  ],
+  [
+   "8cols gap 10px",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "1300px",
+   16
+  ],
+  [
+   "100%",
+   6
+  ],
+  [
+   "810.24px",
+   2
+  ],
+  [
+   "740px",
+   1
+  ]
+ ],
+ "sideMargins": [
+  [
+   "949px",
+   6
+  ],
+  [
+   "70px",
+   5
+  ],
+  [
+   "88px",
+   4
+  ],
+  [
+   "90px",
+   3
+  ],
+  [
+   "524px",
+   3
+  ],
+  [
+   "961px",
+   3
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "section bg-theme-bg text-theme-text",
+   "h": 1086,
+   "padTop": "112px",
+   "bg": "rgb(247, 247, 244)"
+  },
+  {
+   "cls": "section bg-theme-bg text-theme-text pb-v1.5 pt-0",
+   "h": 177,
+   "padTop": "0px",
+   "bg": "rgb(247, 247, 244)"
+  },
+  {
+   "cls": "section section--flush-x",
+   "h": 3203,
+   "padTop": "67.2px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section bg-theme-bg text-theme-text section--flush",
+   "h": 715,
+   "padTop": "0px",
+   "bg": "rgb(247, 247, 244)"
+  },
+  {
+   "cls": "section bg-theme-bg text-theme-text section--flush",
+   "h": 715,
+   "padTop": "0px",
+   "bg": "rgb(247, 247, 244)"
+  },
+  {
+   "cls": "section bg-theme-bg text-theme-text section--flush",
+   "h": 685,
+   "padTop": "0px",
+   "bg": "rgb(247, 247, 244)"
+  },
+  {
+   "cls": "section bg-theme-bg text-theme-text section--flush",
+   "h": 685,
+   "padTop": "0px",
+   "bg": "rgb(247, 247, 244)"
+  },
+  {
+   "cls": "section bg-theme-bg text-theme-text overflow-hidde",
+   "h": 700,
+   "padTop": "67.2px",
+   "bg": "rgb(247, 247, 244)"
+  },
+  {
+   "cls": "section bg-theme-bg text-theme-text",
+   "h": 739,
+   "padTop": "67.2px",
+   "bg": "rgb(247, 247, 244)"
+  },
+  {
+   "cls": "mb-1.5 text-[11px] text-[color:var(--mobile-phone-",
+   "h": 17,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "bg-theme-bg text-theme-text section",
+   "h": 310,
+   "padTop": "67.2px",
+   "bg": "rgb(247, 247, 244)"
+  },
+  {
+   "cls": "section bg-theme-bg text-theme-text",
+   "h": 694,
+   "padTop": "67.2px",
+   "bg": "rgb(247, 247, 244)"
+  },
+  {
+   "cls": "section bg-theme-bg text-theme-text",
+   "h": 341,
+   "padTop": "67.2px",
+   "bg": "rgb(247, 247, 244)"
+  },
+  {
+   "cls": "section bg-theme-bg text-theme-text section--headl",
+   "h": 346,
+   "padTop": "67.2px",
+   "bg": "rgb(247, 247, 244)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "fixed",
+  "height": 52,
+  "links": 30,
+  "linkTexts": [
+   "Skip to content",
+   "Cursor",
+   "Models",
+   "↓",
+   "Product",
+   "↓",
+   "Enterprise",
+   "Pricing",
+   "Resources",
+   "↓",
+   "Models →",
+   "Product →",
+   "Enterprise",
+   "Pricing"
+  ],
+  "bg": "rgb(247, 247, 244)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "Skip to content",
+   "bg": "rgb(38, 37, 30)",
+   "color": "rgb(247, 247, 244)",
+   "radius": "3.35544e+07px",
+   "pad": "5.6px 10.5px 5.88px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(38, 37, 30)",
+   "h": 13
+  },
+  {
+   "text": "Models",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(38, 37, 30)",
+   "radius": "0px",
+   "pad": "5.6px 15px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 34
+  },
+  {
+   "text": "Product",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(38, 37, 30)",
+   "radius": "0px",
+   "pad": "5.6px 15px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 34
+  },
+  {
+   "text": "Enterprise",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(38, 37, 30)",
+   "radius": "0px",
+   "pad": "5.6px 15px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 34
+  },
+  {
+   "text": "Pricing",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(38, 37, 30)",
+   "radius": "0px",
+   "pad": "5.6px 15px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 34
+  },
+  {
+   "text": "Resources",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(38, 37, 30)",
+   "radius": "0px",
+   "pad": "5.6px 15px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 34
+  },
+  {
+   "text": "Sign in",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(38, 37, 30)",
+   "radius": "0px",
+   "pad": "4px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 31
+  },
+  {
+   "text": "Contact sales",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(38, 37, 30)",
+   "radius": "3.35544e+07px",
+   "pad": "5.6px 10.5px 5.88px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid oklab(0.263084 -0.00230259 0.0124794 / 0.2)",
+   "h": 27
+  },
+  {
+   "text": "Download",
+   "bg": "rgb(38, 37, 30)",
+   "color": "rgb(247, 247, 244)",
+   "radius": "3.35544e+07px",
+   "pad": "5.6px 10.5px 5.88px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(38, 37, 30)",
+   "h": 27
+  },
+  {
+   "text": "Download for macOS ⤓",
+   "bg": "rgb(38, 37, 30)",
+   "color": "rgb(247, 247, 244)",
+   "radius": "3.35544e+07px",
+   "pad": "12.48px 21.6px 12.8px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(38, 37, 30)",
+   "h": 43
+  }
+ ],
+ "headings": [
+  "Cursor is your coding agent for building ambitious software.",
+  "Trusted every day by teams that build world-class software",
+  "Agents turn ideas into code",
+  "Mission Control Interface",
+  "Trigger",
+  "View Behavior",
+  "Works autonomously, runs in parallel",
+  "In every tool, at every step",
+  "#feature-realtime-sync",
+  "Hand work to AI teammates",
+  "The new way to build software.",
+  "Stay on the frontier",
+  "Use the best model for every task",
+  "Build with autonomous agents",
+  "All Repos",
+  "Develop enduring software",
+  "Changelog",
+  "Cursor is an applied research team focused on building the future of software development.",
+  "Recent highlights",
+  "Try Cursor now.",
+  "Product",
+  "Resources",
+  "Company",
+  "Legal",
+  "Connect"
+ ],
+ "paras": [
+  "Software creation is changing. We are a group of researchers, engineers, and technologists inventing at the edge of what's useful and possible.",
+  "We have much to learn, try, and build.",
+  "A grid view of all open windows as scaled previews, allowing quick selection to bring any window to front.",
+  "Menu item in MenuBar.tsx (View > Mission Control), hotkey F3, or double-tap desktop.",
+  "Overlay existing windows into a grid of live previews with spring-based layout animations and shared element transitions.",
+  "Sign in to Salesforce so I can see the accounts you own.",
+  "“It was night and day from one batch to another, adoption went from single digits to over 80%. It just spread like wildfire, all the best builders were using Cursor.”",
+  "“My favorite enterprise AI service is Cursor. Every one of our engineers, some 40,000, are now assisted by AI and our productivity has gone up incredibly.”",
+  "“The best LLM applications have an autonomy slider: you control how much independence to give the AI. In Cursor, you can do Cmd+K for targeted edits, or let it rip with the full autonomy agentic version.”",
+  "“Cursor quickly grew from hundreds to thousands of extremely enthusiastic Stripe employees. We spend more on R&D and software creation than any other undertaking, and there's significant economic outcomes when making tha"
+ ],
+ "footer": {
+  "h": 526,
+  "text": "Product Agents Teams Enterprise Pricing Code Review CLI Cloud Agents Composer Marketplace ↗ Resources Download Changelog Docs Learn ↗ Forum ↗ Help ↗ Workshops Status ↗ Company Careers Blog Community Students Brand Future Anysphere ↗ Legal Terms of Service Acceptable Use Policy Grok Bot Terms Privacy"
+ },
+ "jsMotion": {
+  "scriptsFetched": 24,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    ".12",
+    8
+   ],
+   [
+    ".34",
+    8
+   ],
+   [
+    "0",
+    5
+   ],
+   [
+    ".15",
+    5
+   ],
+   [
+    ".3",
+    5
+   ],
+   [
+    ".28",
+    5
+   ],
+   [
+    ".18",
+    5
+   ],
+   [
+    ".14",
+    4
+   ],
+   [
+    ".22",
+    3
+   ],
+   [
+    ".04",
+    3
+   ],
+   [
+    ".16",
+    3
+   ],
+   [
+    ".26",
+    2
+   ],
+   [
+    ".65",
+    2
+   ],
+   [
+    ".1",
+    2
+   ],
+   [
+    ".53",
+    1
+   ]
+  ],
+  "staggers": [],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": [
+   [
+    "[.25,.1,.25,1]",
+    5
+   ],
+   [
+    "[.16,1,.3,1]",
+    2
+   ],
+   [
+    "[.4,0,.2,1]",
+    2
+   ],
+   [
+    "[.32,.72,0,1]",
+    1
+   ],
+   [
+    "[.4,0,.1,1]",
+    1
+   ]
+  ]
+ }
+}

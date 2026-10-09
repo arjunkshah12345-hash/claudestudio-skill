@@ -1,0 +1,886 @@
+{
+ "url": "https://convt.app",
+ "slug": "convt-app",
+ "analyzedAt": "2026-10-07T22:20:20.336Z",
+ "scrollHeight": 4836,
+ "pageLengthInViewports": 5.4,
+ "title": "convt: convert any file with a right-click",
+ "metaDescription": "Images, video, audio and documents, converted on your own computer. Nothing gets uploaded.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "Geist Variable 100 900 normal",
+   "Geist Mono Variable 100 900 normal"
+  ],
+  "families": [
+   [
+    "Geist Mono Variable",
+    99
+   ],
+   [
+    "Geist Variable",
+    74
+   ]
+  ],
+  "sizes": [
+   [
+    "12px",
+    67
+   ],
+   [
+    "14px",
+    39
+   ],
+   [
+    "13px",
+    28
+   ],
+   [
+    "17px",
+    9
+   ],
+   [
+    "11px",
+    9
+   ],
+   [
+    "44px",
+    5
+   ],
+   [
+    "20px",
+    5
+   ],
+   [
+    "15px",
+    4
+   ],
+   [
+    "16px",
+    3
+   ],
+   [
+    "68px",
+    1
+   ],
+   [
+    "18px",
+    1
+   ],
+   [
+    "22px",
+    1
+   ],
+   [
+    "56px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    140
+   ],
+   [
+    "500",
+    27
+   ],
+   [
+    "600",
+    6
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    155
+   ],
+   [
+    "-0.010em@20",
+    4
+   ],
+   [
+    "0.060em@11",
+    4
+   ],
+   [
+    "-0.035em@44",
+    3
+   ],
+   [
+    "-0.040em@44",
+    2
+   ],
+   [
+    "-0.020em@17",
+    1
+   ],
+   [
+    "-0.040em@68",
+    1
+   ],
+   [
+    "-0.020em@22",
+    1
+   ],
+   [
+    "-0.040em@56",
+    1
+   ],
+   [
+    "-0.030em@20",
+    1
+   ]
+  ],
+  "uppercaseShare": 0.04,
+  "largest": [
+   {
+    "tag": "h1",
+    "text": "Convert any file with a right-click.",
+    "family": "Geist Variable",
+    "size": "68px",
+    "weight": "500",
+    "lh": "72px",
+    "ls": "-2.72px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(237, 239, 238)"
+   },
+   {
+    "tag": "h2",
+    "text": "Stop uploading your files to convert them.",
+    "family": "Geist Variable",
+    "size": "56px",
+    "weight": "500",
+    "lh": "60px",
+    "ls": "-2.24px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(237, 239, 238)"
+   },
+   {
+    "tag": "h2",
+    "text": "40 formats, one menu.",
+    "family": "Geist Variable",
+    "size": "44px",
+    "weight": "500",
+    "lh": "48px",
+    "ls": "-1.54px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(237, 239, 238)"
+   },
+   {
+    "tag": "h2",
+    "text": "Built on FFmpeg, LibreOffice and PDFium.",
+    "family": "Geist Variable",
+    "size": "44px",
+    "weight": "500",
+    "lh": "48px",
+    "ls": "-1.54px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(237, 239, 238)"
+   },
+   {
+    "tag": "h2",
+    "text": "Buy it once, or go Pro.",
+    "family": "Geist Variable",
+    "size": "44px",
+    "weight": "500",
+    "lh": "48px",
+    "ls": "-1.54px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(237, 239, 238)"
+   },
+   {
+    "tag": "span",
+    "text": "$29",
+    "family": "Geist Variable",
+    "size": "44px",
+    "weight": "500",
+    "lh": "54px",
+    "ls": "-1.76px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(237, 239, 238)"
+   },
+   {
+    "tag": "span",
+    "text": "$12",
+    "family": "Geist Variable",
+    "size": "44px",
+    "weight": "500",
+    "lh": "54px",
+    "ls": "-1.76px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(237, 239, 238)"
+   },
+   {
+    "tag": "h3",
+    "text": "Convert files from your own code.",
+    "family": "Geist Variable",
+    "size": "22px",
+    "weight": "500",
+    "lh": "28px",
+    "ls": "-0.44px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(237, 239, 238)"
+   },
+   {
+    "tag": "h3",
+    "text": "FFmpeg",
+    "family": "Geist Variable",
+    "size": "20px",
+    "weight": "600",
+    "lh": "24px",
+    "ls": "-0.2px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(237, 239, 238)"
+   },
+   {
+    "tag": "h3",
+    "text": "LibreOffice",
+    "family": "Geist Variable",
+    "size": "20px",
+    "weight": "600",
+    "lh": "24px",
+    "ls": "-0.2px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(237, 239, 238)"
+   },
+   {
+    "tag": "h3",
+    "text": "PDFium",
+    "family": "Geist Variable",
+    "size": "20px",
+    "weight": "600",
+    "lh": "24px",
+    "ls": "-0.2px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(237, 239, 238)"
+   },
+   {
+    "tag": "h3",
+    "text": "image + resvg",
+    "family": "Geist Variable",
+    "size": "20px",
+    "weight": "600",
+    "lh": "24px",
+    "ls": "-0.2px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(237, 239, 238)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(10, 11, 11)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(161, 166, 163)",
+    59
+   ],
+   [
+    "rgb(237, 239, 238)",
+    48
+   ],
+   [
+    "rgb(131, 137, 133)",
+    21
+   ],
+   [
+    "rgb(214, 221, 217)",
+    18
+   ],
+   [
+    "rgb(127, 211, 166)",
+    7
+   ],
+   [
+    "rgb(255, 255, 255)",
+    5
+   ],
+   [
+    "rgb(132, 140, 136)",
+    4
+   ],
+   [
+    "rgb(242, 196, 109)",
+    4
+   ],
+   [
+    "rgb(156, 201, 255)",
+    3
+   ],
+   [
+    "rgb(63, 203, 132)",
+    2
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(22, 25, 24)",
+    47
+   ],
+   [
+    "rgb(17, 19, 18)",
+    10
+   ],
+   [
+    "rgb(46, 51, 49)",
+    8
+   ],
+   [
+    "rgb(34, 168, 103)",
+    5
+   ],
+   [
+    "rgb(10, 11, 11)",
+    4
+   ],
+   [
+    "rgba(11, 13, 12, 0.86)",
+    4
+   ],
+   [
+    "rgb(28, 32, 30)",
+    3
+   ],
+   [
+    "rgb(11, 13, 12)",
+    2
+   ],
+   [
+    "rgba(0, 0, 0, 0.28)",
+    1
+   ],
+   [
+    "rgba(255, 255, 255, 0.92)",
+    1
+   ],
+   [
+    "rgba(255, 255, 255, 0.14)",
+    1
+   ],
+   [
+    "rgb(76, 194, 131)",
+    1
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(oklab(0.688 -0.14 0.06) 0%, oklab(0.606 -0.129 0.06) 100%)",
+    5
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(.4,0,.2,1)",
+    4
+   ],
+   [
+    "cubic-bezier(0.23,1,0.32,1)",
+    3
+   ],
+   [
+    "cubic-bezier(0,0,.2,1)",
+    2
+   ],
+   [
+    "cubic-bezier(.23,1,.32,1)",
+    1
+   ],
+   [
+    "cubic-bezier(.77,0,.175,1)",
+    1
+   ]
+  ],
+  "durations": [
+   [
+    ".9s",
+    4
+   ],
+   [
+    "1s",
+    4
+   ],
+   [
+    "0.14s",
+    3
+   ],
+   [
+    "0s",
+    3
+   ],
+   [
+    ".15s",
+    2
+   ],
+   [
+    "1.4s",
+    2
+   ],
+   [
+    "0.15s",
+    2
+   ],
+   [
+    "0.2s",
+    2
+   ],
+   [
+    "0.3s",
+    2
+   ],
+   [
+    ".8s",
+    2
+   ]
+  ],
+  "keyframes": [
+   "convt-progress",
+   "menu-in",
+   "brand-rise",
+   "brand-fade",
+   "brand-source-in",
+   "brand-result-in"
+  ]
+ },
+ "cssVarSample": {
+  "--page": "#fff",
+  "--raised": "#fff",
+  "--sunken": "#f7f8f7",
+  "--hover": "#f3f4f3",
+  "--line": "#e6e8e7",
+  "--line-strong": "#d5d9d7",
+  "--ink": "#0a0a0a",
+  "--ink-2": "#6b6f6d",
+  "--ink-3": "#6c716e",
+  "--green": "#127a47",
+  "--green-tint": "#eef7f2",
+  "--error": "#b3261e",
+  "--mark-green-top": "#1fb36c",
+  "--mark-green-bottom": "#127a47",
+  "--mark-overlap": "#0b5c34",
+  "--lightningcss-light": "initial",
+  "--lightningcss-dark": "",
+  "--ink-nav": "#4a4a4a",
+  "--separator": "#d0d3d1",
+  "--divider": "#eef0ef",
+  "--chip": "#f5f7f6",
+  "--chip-line": "#e0e3e1",
+  "--bar": "#dce9e1",
+  "--green-line": "#cfe6d9",
+  "--error-line": "#f0d4d1",
+  "--error-ring": "#b3261e40",
+  "--code": "#0f1211",
+  "--code-ink": "#e6e8e7",
+  "--code-ring": "transparent",
+  "--panel": "#f7faf8",
+  "--shadow-button": "#0000000a 0 -1px 0 inset, #00000014 0 0 0 1px, #0000000f 0 1px 2px",
+  "--shadow-input": "var(--line-strong) 0 0 0 1px, #0000000a 0 1px 2px",
+  "--shadow-float": "#0a3c231a 0 0 0 1px, #0a3c231f 0 4px 14px",
+  "--shadow-note": "#0000000f 0 0 0 1px, #0a1e1426 0 8px 24px",
+  "--avatar-ring": "#0000001a",
+  "--ease-out": "cubic-bezier(.23, 1, .32, 1)",
+  "--ease-in-out": "cubic-bezier(.77, 0, .175, 1)"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 5,
+  "video": 0,
+  "svg": 8,
+  "picture": 4,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 0,
+  "clipPath": 13,
+  "sticky": 0,
+  "fixed": [],
+  "customCursor": true,
+  "boxShadows": [
+   [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgb(42, 46, 45) 0px -1px 0px 0px inset",
+    6
+   ],
+   [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(255, 255, 255, 0.06) 0px 1px 0px 0px inset, rgb(46, 51, 49) 0px 0px 0px 1px, rgba(0, 0, 0, 0.4) 0px 1px 2px 0px",
+    5
+   ],
+   [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgb(35, 39, 38) 0px 0px 0px 1px, rgba(0, 0, 0, 0.4) 0px 1px 2px 0px",
+    4
+   ],
+   [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(255, 255, 255, 0.08) 0px 0px 0px 1px, rgba(0, 0, 0, 0.4) 0px 24px 48px 0px",
+    4
+   ],
+   [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(255, 255, 255, 0.28) 0px 1px 0px 0px inset, rgb(21, 127, 74) 0px 0px 0px 1px, rgba(10, 60, 35, 0.25) 0px 1px 2px 0px, rgba(10, 60, 35, 0.14) 0px 4px 12px 0px",
+    3
+   ]
+  ],
+  "filters": [],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "6px",
+   45
+  ],
+  [
+   "4px",
+   14
+  ],
+  [
+   "2px",
+   11
+  ],
+  [
+   "14px",
+   10
+  ],
+  [
+   "10px",
+   8
+  ],
+  [
+   "8px",
+   5
+  ],
+  [
+   "16px",
+   5
+  ],
+  [
+   "3.35544e+07px",
+   2
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgba(255, 255, 255, 0.08)",
+   4
+  ],
+  [
+   "1px solid rgb(35, 39, 38)",
+   1
+  ]
+ ],
+ "grids": [
+  [
+   "4cols gap 16px",
+   1
+  ],
+  [
+   "2cols gap 16px",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "1240px",
+   7
+  ],
+  [
+   "840px",
+   2
+  ]
+ ],
+ "sideMargins": [
+  [
+   "216px",
+   5
+  ],
+  [
+   "484px",
+   5
+  ],
+  [
+   "752px",
+   5
+  ],
+  [
+   "1020px",
+   5
+  ],
+  [
+   "328px",
+   2
+  ],
+  [
+   "756px",
+   2
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "mx-auto w-full max-w-[1240px] px-5",
+   "h": 1082,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "mx-auto w-full max-w-[1240px] px-5 scroll-mt-6 md:",
+   "h": 790,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "py-16 md:py-[120px]",
+   "h": 912,
+   "padTop": "120px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "mx-auto w-full max-w-[1240px] px-5 flex scroll-mt-",
+   "h": 1111,
+   "padTop": "140px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "mx-auto w-full max-w-[1240px] px-5",
+   "h": 460,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "bg-land-glow flex flex-col items-center gap-7 over",
+   "h": 460,
+   "padTop": "88px",
+   "bg": "rgb(10, 11, 11)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "static",
+  "height": 80,
+  "links": 6,
+  "linkTexts": [
+   "convt",
+   "Formats",
+   "Pricing",
+   "API docs",
+   "Sign in",
+   "Download"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "Skip to content",
+   "bg": "rgb(17, 19, 18)",
+   "color": "rgb(237, 239, 238)",
+   "radius": "6px",
+   "pad": "8px 12px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 16
+  },
+  {
+   "text": "Sign in",
+   "bg": "rgb(22, 25, 24)",
+   "color": "rgb(237, 239, 238)",
+   "radius": "8px",
+   "pad": "7px 12px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 32
+  },
+  {
+   "text": "Download",
+   "bg": "rgb(34, 168, 103)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "8px",
+   "pad": "7px 12px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 32
+  },
+  {
+   "text": "Download for macOS",
+   "bg": "rgb(34, 168, 103)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "10px",
+   "pad": "11px 18px",
+   "size": "15px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 40
+  },
+  {
+   "text": "Star on GitHub",
+   "bg": "rgb(22, 25, 24)",
+   "color": "rgb(237, 239, 238)",
+   "radius": "10px",
+   "pad": "11px 18px",
+   "size": "15px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 40
+  },
+  {
+   "text": "Get Desktop License",
+   "bg": "rgb(22, 25, 24)",
+   "color": "rgb(237, 239, 238)",
+   "radius": "10px",
+   "pad": "0px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 40
+  },
+  {
+   "text": "Monthly",
+   "bg": "rgb(28, 32, 30)",
+   "color": "rgb(237, 239, 238)",
+   "radius": "6px",
+   "pad": "0px 10px",
+   "size": "12px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 24
+  },
+  {
+   "text": "Get convt Pro",
+   "bg": "rgb(34, 168, 103)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "10px",
+   "pad": "0px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 40
+  },
+  {
+   "text": "Read the docs",
+   "bg": "rgb(22, 25, 24)",
+   "color": "rgb(237, 239, 238)",
+   "radius": "9px",
+   "pad": "0px 14px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 36
+  },
+  {
+   "text": "Download for macOS",
+   "bg": "rgb(34, 168, 103)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "10px",
+   "pad": "0px 20px",
+   "size": "15px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 44
+  }
+ ],
+ "headings": [
+  "Convert any file with a right-click.",
+  "40 formats, one menu.",
+  "Images",
+  "Video",
+  "Audio",
+  "Documents",
+  "Built on FFmpeg, LibreOffice and PDFium.",
+  "FFmpeg",
+  "LibreOffice",
+  "PDFium",
+  "image + resvg",
+  "Buy it once, or go Pro.",
+  "Desktop",
+  "Pro",
+  "Convert files from your own code.",
+  "Stop uploading your files to convert them.",
+  "PRODUCT",
+  "DEVELOPERS",
+  "COMPANY"
+ ],
+ "paras": [
+  "Images, video, audio and documents, converted on your own computer. Nothing gets uploaded.",
+  "Images, video, audio and documents. Right-click a file, pick what you want, done.",
+  "The same tools video editors and office suites run on. convt drives them from Rust, on your computer, so your files stay there.",
+  "Moves video and audio between containers and codecs.",
+  "MP4 MOV WEBM MKV AVI MP3 WAV FLAC AAC M4A OGG OPUS",
+  "Opens Word, Excel and PowerPoint files and their open formats, and saves any of them as PDF.",
+  "DOCX DOC ODT RTF TXT HTML PPTX PPT ODP XLSX XLS ODS CSV",
+  "The PDF renderer inside Chrome. Turns every page into an image.",
+  "PDF to PNG or JPG, one image per page",
+  "Pure Rust decoders for photos and a Rust SVG renderer."
+ ],
+ "footer": {
+  "h": 401,
+  "text": "convt Local file conversion for macOS, Windows and Linux. Open source under AGPL-3.0. PRODUCT Download Formats Pricing Changelog DEVELOPERS API docs GitHub COMPANY Privacy Terms Contact Brand © 2026 convt Built with Rust and GPUI"
+ },
+ "jsMotion": {
+  "scriptsFetched": 2,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "0",
+    4
+   ]
+  ],
+  "staggers": [],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

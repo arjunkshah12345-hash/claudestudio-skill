@@ -1,0 +1,1008 @@
+{
+ "url": "https://ayocin.com",
+ "slug": "ayocin-com",
+ "analyzedAt": "2026-10-07T05:28:42.611Z",
+ "scrollHeight": 900,
+ "pageLengthInViewports": 1,
+ "title": "AYOCIN - Where design meets your well-being",
+ "metaDescription": "AYOCIN creates smart interior pieces that combine advanced health technology with elegant, timeless design. Each piece brings nature-inspired health benefits into your home, supporting your health, well-being, and longevity.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "Systemia 500 normal",
+   "Systemia 400 normal",
+   "Azeret Mono 500 normal"
+  ],
+  "families": [
+   [
+    "Systemia",
+    194
+   ],
+   [
+    "Azeret Mono",
+    2
+   ]
+  ],
+  "sizes": [
+   [
+    "14px",
+    127
+   ],
+   [
+    "36px",
+    26
+   ],
+   [
+    "12px",
+    21
+   ],
+   [
+    "60px",
+    12
+   ],
+   [
+    "240px",
+    8
+   ],
+   [
+    "170px",
+    2
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    120
+   ],
+   [
+    "500",
+    76
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    194
+   ],
+   [
+    "-0.080em@170",
+    2
+   ]
+  ],
+  "uppercaseShare": 0.14,
+  "largest": [
+   {
+    "tag": "div",
+    "text": "HEALTH STATION",
+    "family": "Systemia",
+    "size": "240px",
+    "weight": "500",
+    "lh": "192px",
+    "ls": "normal",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(46, 37, 33)"
+   },
+   {
+    "tag": "div",
+    "text": "GET THE SUN INSIDE",
+    "family": "Systemia",
+    "size": "240px",
+    "weight": "500",
+    "lh": "192px",
+    "ls": "normal",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(252, 246, 236)"
+   },
+   {
+    "tag": "div",
+    "text": "OUR MISSION",
+    "family": "Systemia",
+    "size": "240px",
+    "weight": "500",
+    "lh": "192px",
+    "ls": "normal",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(252, 246, 236)"
+   },
+   {
+    "tag": "span",
+    "text": "80",
+    "family": "Azeret Mono",
+    "size": "170px",
+    "weight": "500",
+    "lh": "153px",
+    "ls": "-13.6px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(252, 246, 236)"
+   },
+   {
+    "tag": "span",
+    "text": "00",
+    "family": "Azeret Mono",
+    "size": "170px",
+    "weight": "500",
+    "lh": "153px",
+    "ls": "-13.6px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(252, 246, 236)"
+   },
+   {
+    "tag": "div",
+    "text": "Nature is part of who we",
+    "family": "Systemia",
+    "size": "60px",
+    "weight": "500",
+    "lh": "60px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(252, 246, 236)"
+   },
+   {
+    "tag": "div",
+    "text": "are, providing the",
+    "family": "Systemia",
+    "size": "60px",
+    "weight": "500",
+    "lh": "60px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(252, 246, 236)"
+   },
+   {
+    "tag": "div",
+    "text": "essentials for our health",
+    "family": "Systemia",
+    "size": "60px",
+    "weight": "500",
+    "lh": "60px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(252, 246, 236)"
+   },
+   {
+    "tag": "div",
+    "text": "However, we’re becoming",
+    "family": "Systemia",
+    "size": "60px",
+    "weight": "500",
+    "lh": "60px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(252, 246, 236)"
+   },
+   {
+    "tag": "div",
+    "text": "more isolated from nature",
+    "family": "Systemia",
+    "size": "60px",
+    "weight": "500",
+    "lh": "60px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(252, 246, 236)"
+   },
+   {
+    "tag": "div",
+    "text": "than ever before",
+    "family": "Systemia",
+    "size": "60px",
+    "weight": "500",
+    "lh": "60px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(252, 246, 236)"
+   },
+   {
+    "tag": "div",
+    "text": "We spend 90% of our",
+    "family": "Systemia",
+    "size": "60px",
+    "weight": "500",
+    "lh": "60px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(252, 246, 236)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(252, 246, 236)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(252, 246, 236)",
+    116
+   ],
+   [
+    "rgb(46, 37, 33)",
+    80
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(252, 246, 236)",
+    34
+   ],
+   [
+    "rgb(46, 37, 33)",
+    31
+   ],
+   [
+    "rgba(178, 162, 139, 0.1)",
+    5
+   ],
+   [
+    "rgba(255, 231, 143, 0.4)",
+    2
+   ],
+   [
+    "rgb(239, 233, 223)",
+    2
+   ],
+   [
+    "rgb(206, 193, 178)",
+    1
+   ],
+   [
+    "rgb(0, 0, 0)",
+    1
+   ],
+   [
+    "rgba(255, 125, 94, 0.4)",
+    1
+   ],
+   [
+    "rgb(44, 39, 34)",
+    1
+   ],
+   [
+    "rgba(46, 37, 33, 0.15)",
+    1
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(to top, rgb(46, 37, 33), rgba(0, 0, 0, 0))",
+    2
+   ],
+   [
+    "linear-gradient(266.47deg, rgb(196, 179, 163) 41.41%, rgb(159, 142, 122) 97.58%), linear-gradient(rgb(200, 184, 163), rgb(186, 174, 158))",
+    1
+   ],
+   [
+    "linear-gradient(rgba(206, 192, 171, 0), rgb(206, 192, 171) 56.52%, rgb(181, 164, 137))",
+    1
+   ],
+   [
+    "linear-gradient(90deg, rgb(255, 125, 94), rgb(254, 200, 115), rgb(186, 172, 161), rgb(255, 125, 94), rgb(254, 200, 115), rgb(186, 172, 161),",
+    1
+   ],
+   [
+    "linear-gradient(rgb(46, 37, 33), rgba(0, 0, 0, 0))",
+    1
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.77,0,0.18,1)",
+    29
+   ],
+   [
+    "cubic-bezier(0.4,0,0.2,1)",
+    3
+   ],
+   [
+    "cubic-bezier(0.19,1,0.22,1)",
+    3
+   ],
+   [
+    "cubic-bezier(0.215,0.61,0.355,1)",
+    2
+   ],
+   [
+    "cubic-bezier(1,0,0.25,0.995)",
+    1
+   ]
+  ],
+  "durations": [
+   [
+    "0.35s",
+    10
+   ],
+   [
+    "0.3s",
+    7
+   ],
+   [
+    "0.15s",
+    5
+   ],
+   [
+    "0.7s",
+    4
+   ],
+   [
+    "0.6s",
+    4
+   ],
+   [
+    "4s",
+    3
+   ],
+   [
+    "0.5s",
+    3
+   ],
+   [
+    "0.8s",
+    3
+   ],
+   [
+    "10s",
+    2
+   ],
+   [
+    "1.2s",
+    2
+   ]
+  ],
+  "keyframes": [
+   "link",
+   "rotate360",
+   "half-circle-right",
+   "half-circle-left",
+   "path-connection",
+   "shine",
+   "scroll-down"
+  ]
+ },
+ "cssVarSample": {},
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": true,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": false,
+  "swup": true,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": true,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 86,
+  "video": 3,
+  "svg": 54,
+  "picture": 54,
+  "iframes": 1
+ },
+ "effects": {
+  "mixBlend": [
+   [
+    "soft-light",
+    1
+   ]
+  ],
+  "backdropFilter": 6,
+  "clipPath": 11,
+  "sticky": 20,
+  "fixed": [
+   "fixed top-0 left-0 w-full  text-cream"
+  ],
+  "customCursor": true,
+  "boxShadows": [],
+  "filters": [
+   [
+    "blur(70px)",
+    2
+   ],
+   [
+    "blur(80px)",
+    1
+   ],
+   [
+    "blur(64px)",
+    1
+   ]
+  ],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 1
+ },
+ "radii": [
+  [
+   "10px",
+   10
+  ],
+  [
+   "20px",
+   7
+  ],
+  [
+   "9999px",
+   7
+  ],
+  [
+   "100%",
+   3
+  ],
+  [
+   "50%",
+   2
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgba(46, 37, 33, 0.2)",
+   3
+  ],
+  [
+   "bottom:1px solid rgba(46, 37, 33, 0.2)",
+   3
+  ],
+  [
+   "1px solid rgb(46, 37, 33)",
+   3
+  ],
+  [
+   "1px solid rgb(252, 246, 236)",
+   3
+  ],
+  [
+   "bottom:1px solid rgba(252, 246, 236, 0.2)",
+   2
+  ],
+  [
+   "2px solid rgba(252, 246, 236, 0.1)",
+   2
+  ]
+ ],
+ "grids": [
+  [
+   "12cols gap 18px",
+   23
+  ],
+  [
+   "1cols gap normal",
+   20
+  ],
+  [
+   "2cols gap 10px",
+   2
+  ],
+  [
+   "8cols gap 18px",
+   1
+  ],
+  [
+   "4cols gap 18px",
+   1
+  ],
+  [
+   "2cols gap normal",
+   1
+  ],
+  [
+   "12cols gap 20px",
+   1
+  ],
+  [
+   "1cols gap 10px",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "100%",
+   17
+  ],
+  [
+   "930px",
+   2
+  ],
+  [
+   "837px",
+   1
+  ]
+ ],
+ "sideMargins": [
+  [
+   "1107px",
+   12
+  ],
+  [
+   "18px",
+   10
+  ],
+  [
+   "492px",
+   7
+  ],
+  [
+   "1085px",
+   6
+  ],
+  [
+   "380px",
+   4
+  ],
+  [
+   "735px",
+   4
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "h-screen min-h-[60rem] relative z-2 intro-section ",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgb(206, 193, 178)"
+  },
+  {
+   "cls": "absolute left-0 top-0 w-full h-full bg-gradient-in",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "min-h-screen relative grid text-cream is-started",
+   "h": 4500,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "relative text-cream bg-gray-900",
+   "h": 4500,
+   "padTop": "0px",
+   "bg": "rgb(46, 37, 33)"
+  },
+  {
+   "cls": "relative grid -mb-[100vh] !-mb-[100svh] z-1",
+   "h": 4533,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "pb-100 md:pb-160 relative bg-cream text-gray-900 z",
+   "h": 1057,
+   "padTop": "0px",
+   "bg": "rgb(252, 246, 236)"
+  },
+  {
+   "cls": "pb-100 laptop:pb-250 relative bg-cream text-gray-9",
+   "h": 1118,
+   "padTop": "0px",
+   "bg": "rgb(252, 246, 236)"
+  },
+  {
+   "cls": "overflow-hidden relative py-100 md:pt-40 md:pb-120",
+   "h": 1866,
+   "padTop": "40px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "relative grid pt-60 laptop:pt-[7.5rem]",
+   "h": 1938,
+   "padTop": "75px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "bg-gray-900 text-cream overflow-hidden",
+   "h": 2021,
+   "padTop": "0px",
+   "bg": "rgb(46, 37, 33)"
+  },
+  {
+   "cls": "bg-cream text-gray-900 container pt-40 md:pt-0 pb-",
+   "h": 3700,
+   "padTop": "0px",
+   "bg": "rgb(252, 246, 236)"
+  },
+  {
+   "cls": "bg-cream text-gray-900",
+   "h": 1245,
+   "padTop": "0px",
+   "bg": "rgb(252, 246, 236)"
+  },
+  {
+   "cls": "bg-gray-900 text-cream relative z-2 pb-12 laptop:p",
+   "h": 2023,
+   "padTop": "0px",
+   "bg": "rgb(46, 37, 33)"
+  },
+  {
+   "cls": "relative h-[250vh] -mt-[100vh] !h-[250svh] !-mt-[1",
+   "h": 2250,
+   "padTop": "0px",
+   "bg": "rgb(46, 37, 33)"
+  },
+  {
+   "cls": "pb-100 laptop:pb-250 bg-cream text-gray-900 relati",
+   "h": 1180,
+   "padTop": "0px",
+   "bg": "rgb(252, 246, 236)"
+  },
+  {
+   "cls": "pb-100 laptop:pb-250 bg-cream text-gray-900",
+   "h": 670,
+   "padTop": "0px",
+   "bg": "rgb(252, 246, 236)"
+  },
+  {
+   "cls": "relative py-100 md:py-60 laptop:pt-[7.6rem] overfl",
+   "h": 900,
+   "padTop": "76px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "fixed",
+  "height": 76,
+  "links": 10,
+  "linkTexts": [
+   "Features",
+   "Air Purification",
+   "Full spectrum lighting",
+   "Red light therapy",
+   "Company",
+   "Help Center",
+   "Order Now\n                  arrow-right icon",
+   "Order Now",
+   "terms",
+   "privacy policy",
+   "Cookies policy",
+   "Website by Obys"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "Order Now",
+   "bg": "rgb(46, 37, 33)",
+   "color": "rgb(252, 246, 236)",
+   "radius": "20px",
+   "pad": "10px 60px 10px 20px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 40
+  },
+  {
+   "text": "Order Now",
+   "bg": "rgb(46, 37, 33)",
+   "color": "rgb(252, 246, 236)",
+   "radius": "20px",
+   "pad": "10px 60px 10px 20px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 40
+  },
+  {
+   "text": "Order Now",
+   "bg": "rgb(46, 37, 33)",
+   "color": "rgb(252, 246, 236)",
+   "radius": "20px",
+   "pad": "10px 60px 10px 20px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 40
+  },
+  {
+   "text": "Order Now",
+   "bg": "rgb(252, 246, 236)",
+   "color": "rgb(46, 37, 33)",
+   "radius": "20px",
+   "pad": "10px 60px 10px 20px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 40
+  },
+  {
+   "text": "Synchronization",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(252, 246, 236)",
+   "radius": "0px",
+   "pad": "10px 20px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "2px solid rgba(252, 246, 236, 0.1)",
+   "h": 44
+  },
+  {
+   "text": "Suggestion",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(252, 246, 236)",
+   "radius": "0px",
+   "pad": "10px 20px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "2px solid rgba(252, 246, 236, 0.1)",
+   "h": 44
+  },
+  {
+   "text": "Order Now",
+   "bg": "rgb(252, 246, 236)",
+   "color": "rgb(46, 37, 33)",
+   "radius": "20px",
+   "pad": "10px 60px 10px 20px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 40
+  },
+  {
+   "text": "Order Now",
+   "bg": "rgb(46, 37, 33)",
+   "color": "rgb(252, 246, 236)",
+   "radius": "20px",
+   "pad": "10px 60px 10px 20px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 40
+  },
+  {
+   "text": "Become a member",
+   "bg": "rgb(252, 246, 236)",
+   "color": "rgb(46, 37, 33)",
+   "radius": "20px",
+   "pad": "10px 60px 10px 20px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 40
+  }
+ ],
+ "headings": [
+  "Nature is part of who we are, providing the essentials for our health",
+  "However, we’re becoming more isolated from nature than ever before",
+  "We spend 90% of our time indoors, away from nature",
+  "With the ATMOS, you bring the benefits of nature inside your home",
+  "Mood lighting",
+  "Natural daylight",
+  "Red light therapy",
+  "Air purification",
+  "Air purification",
+  "Smart Air Cleaning",
+  "Extremely Quiet",
+  "Safe for you and your family",
+  "Follows the natural (day) sun cycle",
+  "Healing Powers of Red Light",
+  "Enjoy your wellness moment from the comfort of you own home",
+  "Health Benefits",
+  "ATMOS® Designed by AYOCIN",
+  "Personalised Atmosphere",
+  "Never miss your wellness moment",
+  "Monitor your air quality in real-time",
+  "Set the perfect mood",
+  "Sync With Personal Health Devices",
+  "Wonderful Combinations",
+  "Choose from our three carefully crafted editions",
+  "FAQ"
+ ],
+ "paras": [
+  "From clean air to natural light, nature provides what we need to feel our best.",
+  "As our world becomes more digital and urbanized, we’re losing touch with the natural elements that are essential to our well-being.",
+  "Breathing in polluted indoor air and missing sunlight—our indoor environments lack the natural elements essential for good health.",
+  "Creating a healthier indoor space for you and your loved ones to live in.",
+  "Dimmable lighting that adjusts to your personal preference. From candlelight to daylight, whatever fits your mood.",
+  "Resembles natural daylight helping you align your biological clock to feel better, and be more energetic.",
+  "Benefit from red-light therapy in the comfort of your home. Improving skin health, decreasing hair loss, and stimulating positivity.",
+  "Continuously removing airborne particles, allergens, and pollutants, to create a cleaner, healthier atmosphere for you and your loved ones.",
+  "You’re automatically being redirected to finalize your purchase.",
+  "Be among the first to invite the ATMOS into your home"
+ ],
+ "footer": {
+  "h": 508,
+  "text": "INSIDER CIRCLE You’re in! Check your email. Sign up and receive the latest news and offers. Become a member CONTACT hello@ayocin.com INFORMATION Features Air Purification Full spectrum lighting Red light therapy Company Help Center SOCIAL MEDIA Instagram LinkedIn Pinterest X © 2026. AYOCIN. ALL RIGH"
+ },
+ "jsMotion": {
+  "scriptsFetched": 21,
+  "gsapEases": [
+   [
+    "none",
+    15
+   ],
+   [
+    "power2.inOut",
+    11
+   ],
+   [
+    "power2.out",
+    4
+   ],
+   [
+    "power3.out",
+    2
+   ],
+   [
+    "power3.inOut",
+    2
+   ],
+   [
+    "power3.in",
+    1
+   ],
+   [
+    "expo",
+    1
+   ],
+   [
+    "power4",
+    1
+   ],
+   [
+    "power2.in",
+    1
+   ]
+  ],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "1",
+    14
+   ],
+   [
+    "2",
+    6
+   ],
+   [
+    "0",
+    5
+   ],
+   [
+    ".5",
+    4
+   ],
+   [
+    "1.5",
+    4
+   ],
+   [
+    ".8",
+    3
+   ],
+   [
+    "1.2",
+    2
+   ],
+   [
+    "1.4",
+    2
+   ],
+   [
+    ".3",
+    2
+   ],
+   [
+    "1.7",
+    2
+   ],
+   [
+    ".7",
+    1
+   ],
+   [
+    "2.1",
+    1
+   ],
+   [
+    "1.3",
+    1
+   ]
+  ],
+  "staggers": [
+   [
+    ".15",
+    3
+   ],
+   [
+    ".1",
+    3
+   ],
+   [
+    "0",
+    2
+   ],
+   [
+    ".05",
+    1
+   ],
+   [
+    "{each:this.settings.interval,from:0}",
+    1
+   ],
+   [
+    ".5",
+    1
+   ]
+  ],
+  "lenis": [
+   [
+    "smoothWheel:n",
+    2
+   ],
+   [
+    "wheelMultiplier:1",
+    1
+   ],
+   [
+    "smoothWheel:zc",
+    1
+   ]
+  ],
+  "springs": [],
+  "scrollTriggerStarts": [
+   [
+    "top bottom",
+    3
+   ],
+   [
+    "top top",
+    2
+   ],
+   [
+    "bottom center",
+    1
+   ],
+   [
+    "top center-=50",
+    1
+   ],
+   [
+    "top center",
+    1
+   ]
+  ],
+  "splitTypes": [
+   [
+    "lines",
+    4
+   ]
+  ],
+  "bezierArrays": []
+ }
+}

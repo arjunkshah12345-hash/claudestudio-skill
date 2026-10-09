@@ -1,0 +1,621 @@
+{
+ "url": "https://www.eamesinstitute.org/",
+ "slug": "www-eamesinstitute-org",
+ "analyzedAt": "2026-10-07T05:27:02.233Z",
+ "scrollHeight": 5684,
+ "pageLengthInViewports": 6.3,
+ "title": "Home | Eames Institute",
+ "metaDescription": "We advance the legacy of designers Ray and Charles Eames⁠ by sharing their approach to life and work—to inspire creative problem-solving.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "Century Schoolbook 400 normal",
+   "Graphik 400 normal",
+   "Graphik 500 normal",
+   "Graphik 600 normal",
+   "News Gothic 400 normal",
+   "News Gothic 700 normal"
+  ],
+  "families": [
+   [
+    "Graphik",
+    46
+   ],
+   [
+    "Century Schoolbook",
+    7
+   ],
+   [
+    "News Gothic",
+    4
+   ]
+  ],
+  "sizes": [
+   [
+    "18px",
+    22
+   ],
+   [
+    "16px",
+    16
+   ],
+   [
+    "22px",
+    6
+   ],
+   [
+    "52px",
+    4
+   ],
+   [
+    "56px",
+    3
+   ],
+   [
+    "15px",
+    2
+   ],
+   [
+    "77px",
+    2
+   ],
+   [
+    "39px",
+    2
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    24
+   ],
+   [
+    "500",
+    24
+   ],
+   [
+    "600",
+    5
+   ],
+   [
+    "700",
+    4
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    51
+   ],
+   [
+    "-0.010em@52",
+    4
+   ],
+   [
+    "-0.006em@18",
+    1
+   ],
+   [
+    "-0.013em@18",
+    1
+   ]
+  ],
+  "uppercaseShare": 0,
+  "largest": [
+   {
+    "tag": "span",
+    "text": "The Art of the Company Picnic",
+    "family": "Century Schoolbook",
+    "size": "77px",
+    "weight": "400",
+    "lh": "75.922px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "span",
+    "text": "The Collection",
+    "family": "Century Schoolbook",
+    "size": "77px",
+    "weight": "400",
+    "lh": "75.922px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "p",
+    "text": "By sharing their approach to life and work, we advance the legacy of designers Ray and Cha",
+    "family": "Century Schoolbook",
+    "size": "56px",
+    "weight": "400",
+    "lh": "55.216px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "h2",
+    "text": "Help Us Build What’s Next⁠—Become a Member",
+    "family": "Century Schoolbook",
+    "size": "56px",
+    "weight": "400",
+    "lh": "55.216px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "nobr",
+    "text": "Next⁠—",
+    "family": "Century Schoolbook",
+    "size": "56px",
+    "weight": "400",
+    "lh": "55.216px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "h1",
+    "text": "The Eames Institute of Infinite Curiosity⁠—dramatically expands the Eames Archives",
+    "family": "News Gothic",
+    "size": "52px",
+    "weight": "700",
+    "lh": "57.2px",
+    "ls": "-0.52px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "nobr",
+    "text": "Curiosity⁠—",
+    "family": "News Gothic",
+    "size": "52px",
+    "weight": "700",
+    "lh": "57.2px",
+    "ls": "-0.52px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "em",
+    "text": "dramatically expands the Eames Archives",
+    "family": "News Gothic",
+    "size": "52px",
+    "weight": "700",
+    "lh": "57.2px",
+    "ls": "-0.52px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(244, 123, 156)"
+   },
+   {
+    "tag": "h2",
+    "text": "Sign Up for Our Newsletter",
+    "family": "News Gothic",
+    "size": "52px",
+    "weight": "700",
+    "lh": "57.2px",
+    "ls": "-0.52px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "span",
+    "text": "The 2026 Curious 100",
+    "family": "Century Schoolbook",
+    "size": "39px",
+    "weight": "400",
+    "lh": "38.454px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "span",
+    "text": "Impact Report",
+    "family": "Century Schoolbook",
+    "size": "39px",
+    "weight": "400",
+    "lh": "38.454px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "p",
+    "text": "The new Eames Archives offers more opportunities to explore the objects, processes, and id",
+    "family": "Graphik",
+    "size": "22px",
+    "weight": "400",
+    "lh": "34.518px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgba(0, 0, 0, 0)",
+  "htmlBg": "rgb(30, 30, 25)",
+  "text": [
+   [
+    "rgb(0, 0, 0)",
+    23
+   ],
+   [
+    "rgb(255, 255, 255)",
+    16
+   ],
+   [
+    "color(srgb 1 1 1 / 0.5)",
+    14
+   ],
+   [
+    "color(srgb 0 0 0 / 0.5)",
+    2
+   ],
+   [
+    "rgb(244, 123, 156)",
+    1
+   ],
+   [
+    "color(srgb 0 0 0 / 0.4)",
+    1
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(255, 255, 255)",
+    3
+   ],
+   [
+    "rgb(0, 0, 0)",
+    3
+   ],
+   [
+    "rgb(30, 30, 25)",
+    2
+   ],
+   [
+    "color(srgb 0.901961 0.901961 0.901961 / 0.75)",
+    1
+   ],
+   [
+    "rgb(248, 232, 199)",
+    1
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(rgba(0, 0, 0, 0) 16.395px, color(srgb 0 0 0 / 0.5) 16.395px, color(srgb 0 0 0 / 0.5) 17.445px, rgba(0, 0, 0, 0) 17.445px)",
+    1
+   ],
+   [
+    "linear-gradient(rgba(0, 0, 0, 0) 16.9415px, color(srgb 1 1 1 / 0.5) 16.9415px, color(srgb 1 1 1 / 0.5) 18.0265px, rgba(0, 0, 0, 0) 18.0265px",
+    1
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.64,0,0.78,0)",
+    3
+   ],
+   [
+    "cubic-bezier(0.22,1,0.36,1)",
+    3
+   ],
+   [
+    "cubic-bezier(0.83,0,0.17,1)",
+    3
+   ]
+  ],
+  "durations": [
+   [
+    "0s",
+    3
+   ],
+   [
+    "10s",
+    3
+   ],
+   [
+    "1s",
+    2
+   ],
+   [
+    "0.75s",
+    1
+   ],
+   [
+    "0.3s",
+    1
+   ]
+  ],
+  "keyframes": [
+   "fill-color-swing",
+   "astroFadeInOut",
+   "astroFadeIn",
+   "astroFadeOut",
+   "astroSlideFromRight",
+   "astroSlideFromLeft",
+   "astroSlideToRight",
+   "astroSlideToLeft"
+  ]
+ },
+ "cssVarSample": {},
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 11,
+  "video": 0,
+  "svg": 28,
+  "picture": 11,
+  "iframes": 1
+ },
+ "effects": {
+  "mixBlend": [
+   [
+    "multiply",
+    6
+   ]
+  ],
+  "backdropFilter": 1,
+  "clipPath": 6,
+  "sticky": 2,
+  "fixed": [
+   "font__credit layout__grid layout__rhythm--cap",
+   "go2933276541 go2369186930"
+  ],
+  "customCursor": false,
+  "boxShadows": [
+   [
+    "rgba(0, 0, 0, 0.165) 0px 0px 8px 0px",
+    1
+   ]
+  ],
+  "filters": [
+   [
+    "brightness(1.045)",
+    6
+   ]
+  ],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "0.1px",
+   39
+  ],
+  [
+   "6px",
+   4
+  ],
+  [
+   "6.435px",
+   3
+  ]
+ ],
+ "borders": [
+  [
+   "bottom:1px solid rgba(0, 0, 0, 0)",
+   2
+  ],
+  [
+   "2px solid rgb(0, 0, 0)",
+   2
+  ]
+ ],
+ "grids": [
+  [
+   "1cols gap normal",
+   34
+  ],
+  [
+   "22cols gap 48px",
+   9
+  ],
+  [
+   "5cols gap 72px",
+   1
+  ],
+  [
+   "12cols gap 48px",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "100%",
+   3
+  ]
+ ],
+ "sideMargins": [
+  [
+   "858px",
+   2
+  ],
+  [
+   "871px",
+   2
+  ],
+  [
+   "975px",
+   2
+  ],
+  [
+   "973px",
+   2
+  ],
+  [
+   "974px",
+   2
+  ],
+  [
+   "45px",
+   1
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "font__heading--medium layout__grid",
+   "h": 1103,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "layout__grid layout__divider--start",
+   "h": 535,
+   "padTop": "72px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "layout__grid",
+   "h": 994,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "layout__grid layout__divider--start",
+   "h": 768,
+   "padTop": "144px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "font__credit layout__rhythm--line typography__non-",
+   "h": 13,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "sticky",
+  "height": 80,
+  "links": 14,
+  "linkTexts": [
+   "Eames\nInstitute",
+   "Curious “E” Symbol"
+  ],
+  "bg": "rgb(255, 255, 255)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "Learn More",
+   "bg": "rgb(0, 0, 0)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "6.435px",
+   "pad": "12.87px",
+   "size": "18px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 39
+  },
+  {
+   "text": "Become a Member",
+   "bg": "rgb(0, 0, 0)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "6.435px",
+   "pad": "12.87px",
+   "size": "18px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 39
+  },
+  {
+   "text": "Explore the Collection",
+   "bg": "rgb(0, 0, 0)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "6.435px",
+   "pad": "12.87px",
+   "size": "18px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 39
+  }
+ ],
+ "headings": [
+  "Your Privacy",
+  "The Eames Institute of Infinite Curiosity⁠—dramatically expands the Eames Archives",
+  "Help Us Build What’s Next⁠—Become a Member",
+  "The Art of the Company Picnic The Art of the Company Picnic",
+  "The 2026 Curious 100 The 2026 Curious 100",
+  "Impact Report Impact Report",
+  "The Collection The Collection",
+  "Sign Up for Our Newsletter"
+ ],
+ "paras": [
+  "Membership and gifts make our work possible.Join Us",
+  "We use our own and third-party cookies for the basic functionality of this website and to personalize your experience. By visiting our website or transacting with us, you agree to this. To find out more including how to ",
+  "The new Eames Archives offers more opportunities to explore the objects, processes, and ideas within the Eames Collection, inviting visitors to discover unexpected connections and new perspectives.",
+  "By sharing their approach to life and work, we advance the legacy of designers Ray and Charles Eames⁠—and inspire creative problem-solving that positively shapes our world.",
+  "Your membership helps us carry forward the Eameses’ spirit of curiosity and craft as we build a museum for the next generation of designers, thinkers, and makers.",
+  "The Eames Institute continues a time-honored tradition with a poster for our annual Friends & Family Summer Picnic, inspired by Steve Frykholm’s iconic designs for Herman Miller.",
+  "We celebrate a growing community of thinkers, makers, and doers whose work reflects the spirit of curiosity in action. Discover the people and ideas shaping what comes next.",
+  "With the launch of our first annual Impact Report, 2025 marked a year of significant growth, experimentation, and community-building. Discover how curiosity moved us forward.",
+  "Containing tens of thousands of artifacts, the Eames Collection is a one-of-a-kind record of Ray and Charles’s extraordinary partnership that encapsulates their unique methodologies and diverse interests. The Eames Insti",
+  "Stay connected to the latest news, events, and exhibitions from the Eames Institute."
+ ],
+ "footer": {
+  "h": 145,
+  "text": ""
+ },
+ "jsMotion": {
+  "scriptsFetched": 13,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [],
+  "staggers": [],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

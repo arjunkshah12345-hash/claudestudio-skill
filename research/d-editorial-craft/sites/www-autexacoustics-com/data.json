@@ -1,0 +1,6 @@
+{
+ "url": "https://www.autexacoustics.com",
+ "slug": "www-autexacoustics-com",
+ "analyzedAt": "2026-10-07T05:17:50.247Z",
+ "error": "TimeoutError: page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.autexacoustics.com/\", waiting until \"domcontentloaded\"\n"
+}

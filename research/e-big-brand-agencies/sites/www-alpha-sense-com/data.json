@@ -1,0 +1,908 @@
+{
+ "url": "https://www.alpha-sense.com/",
+ "slug": "www-alpha-sense-com",
+ "analyzedAt": "2026-10-07T05:18:49.027Z",
+ "scrollHeight": 11505,
+ "pageLengthInViewports": 12.8,
+ "title": "AlphaSense | Market Intelligence and Search Platform",
+ "metaDescription": "Find company insights, market data and research across 500M+ documents instantly. Make faster, confident decisions with AlphaSense's AI-powered platform.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "Inter 400 700 normal",
+   "Inter Fallback normal normal",
+   "esKlarheit 500 normal",
+   "esKlarheit 600 normal",
+   "esKlarheitMono 500 normal"
+  ],
+  "families": [
+   [
+    "Inter",
+    96
+   ],
+   [
+    "esKlarheit",
+    56
+   ],
+   [
+    "esKlarheitMono",
+    4
+   ]
+  ],
+  "sizes": [
+   [
+    "14px",
+    85
+   ],
+   [
+    "22px",
+    19
+   ],
+   [
+    "12px",
+    12
+   ],
+   [
+    "19px",
+    11
+   ],
+   [
+    "17px",
+    10
+   ],
+   [
+    "36px",
+    8
+   ],
+   [
+    "48px",
+    4
+   ],
+   [
+    "10px",
+    4
+   ],
+   [
+    "30px",
+    2
+   ],
+   [
+    "72px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    85
+   ],
+   [
+    "700",
+    58
+   ],
+   [
+    "600",
+    12
+   ],
+   [
+    "500",
+    1
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    106
+   ],
+   [
+    "-0.018em@22",
+    19
+   ],
+   [
+    "-0.019em@36",
+    8
+   ],
+   [
+    "0.042em@12",
+    7
+   ],
+   [
+    "0.033em@12",
+    5
+   ],
+   [
+    "-0.029em@48",
+    4
+   ],
+   [
+    "0.050em@10",
+    4
+   ],
+   [
+    "-0.020em@30",
+    2
+   ],
+   [
+    "-0.031em@72",
+    1
+   ]
+  ],
+  "uppercaseShare": 0.1,
+  "largest": [
+   {
+    "tag": "h1",
+    "text": "Confidence finds its source",
+    "family": "esKlarheit",
+    "size": "72px",
+    "weight": "500",
+    "lh": "75.6px",
+    "ls": "-2.2px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(29, 29, 29)"
+   },
+   {
+    "tag": "p",
+    "text": "Trusted by 7,000+ of the world’s largest enterprises",
+    "family": "esKlarheit",
+    "size": "48px",
+    "weight": "600",
+    "lh": "52.8px",
+    "ls": "-1.4px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(29, 29, 29)"
+   },
+   {
+    "tag": "h2",
+    "text": "Meet SuperAnalyst",
+    "family": "esKlarheit",
+    "size": "48px",
+    "weight": "600",
+    "lh": "52.8px",
+    "ls": "-1.4px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "p",
+    "text": "Transform intelligence into advantage",
+    "family": "esKlarheit",
+    "size": "48px",
+    "weight": "600",
+    "lh": "52.8px",
+    "ls": "-1.4px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(29, 29, 29)"
+   },
+   {
+    "tag": "span",
+    "text": "advantage",
+    "family": "esKlarheit",
+    "size": "48px",
+    "weight": "600",
+    "lh": "52.8px",
+    "ls": "-1.4px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 64, 255)"
+   },
+   {
+    "tag": "p",
+    "text": "AI workflows that speak your market’s language",
+    "family": "esKlarheit",
+    "size": "36px",
+    "weight": "600",
+    "lh": "40.32px",
+    "ls": "-0.7px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(29, 29, 29)"
+   },
+   {
+    "tag": "p",
+    "text": "The most expansive collection of curated sources, all in one place",
+    "family": "esKlarheit",
+    "size": "36px",
+    "weight": "600",
+    "lh": "40.32px",
+    "ls": "-0.7px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(29, 29, 29)"
+   },
+   {
+    "tag": "h2",
+    "text": "500+ million premium financial and business documents",
+    "family": "esKlarheit",
+    "size": "36px",
+    "weight": "600",
+    "lh": "40.32px",
+    "ls": "-0.7px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(29, 29, 29)"
+   },
+   {
+    "tag": "h2",
+    "text": "Integrated workflows, not isolated insights",
+    "family": "esKlarheit",
+    "size": "36px",
+    "weight": "600",
+    "lh": "40.32px",
+    "ls": "-0.7px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(29, 29, 29)"
+   },
+   {
+    "tag": "h2",
+    "text": "Decisions made with confidence, not hesitance",
+    "family": "esKlarheit",
+    "size": "36px",
+    "weight": "600",
+    "lh": "40.32px",
+    "ls": "-0.7px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(29, 29, 29)"
+   },
+   {
+    "tag": "h2",
+    "text": "Highly synthesized insights for hard-to-answer questions",
+    "family": "esKlarheit",
+    "size": "36px",
+    "weight": "600",
+    "lh": "40.32px",
+    "ls": "-0.7px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(29, 29, 29)"
+   },
+   {
+    "tag": "p",
+    "text": "Our customers instantly gain a competitive edge",
+    "family": "esKlarheit",
+    "size": "36px",
+    "weight": "600",
+    "lh": "40.32px",
+    "ls": "-0.7px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(29, 29, 29)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(255, 255, 255)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(255, 255, 255)",
+    72
+   ],
+   [
+    "rgb(29, 29, 29)",
+    65
+   ],
+   [
+    "rgba(255, 255, 255, 0.698)",
+    7
+   ],
+   [
+    "rgba(29, 29, 29, 0.698)",
+    5
+   ],
+   [
+    "rgb(15, 17, 31)",
+    4
+   ],
+   [
+    "rgb(0, 64, 255)",
+    2
+   ],
+   [
+    "rgb(0, 0, 0)",
+    1
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(255, 255, 255)",
+    8
+   ],
+   [
+    "rgba(29, 29, 29, 0.2)",
+    5
+   ],
+   [
+    "rgb(0, 64, 255)",
+    4
+   ],
+   [
+    "rgb(255, 255, 82)",
+    4
+   ],
+   [
+    "rgb(15, 17, 31)",
+    3
+   ],
+   [
+    "rgb(229, 236, 255)",
+    1
+   ],
+   [
+    "rgb(242, 242, 242)",
+    1
+   ],
+   [
+    "rgb(29, 29, 29)",
+    1
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(rgb(0, 64, 255) 0px, rgb(0, 64, 255) 0px)",
+    1
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.25,0,0,1)",
+    57
+   ],
+   [
+    "cubic-bezier(0.6,0,0.4,1)",
+    39
+   ],
+   [
+    "cubic-bezier(0.7,0,0.6,1)",
+    33
+   ],
+   [
+    "cubic-bezier(0,0,0.5,1)",
+    15
+   ]
+  ],
+  "durations": [
+   [
+    "0.32s",
+    88
+   ],
+   [
+    "0.3s",
+    16
+   ],
+   [
+    "0.2s",
+    13
+   ],
+   [
+    "0.48s",
+    9
+   ],
+   [
+    "0.7s",
+    9
+   ],
+   [
+    "1s",
+    4
+   ],
+   [
+    "1.5s",
+    3
+   ],
+   [
+    "0.52s",
+    2
+   ],
+   [
+    "0s",
+    2
+   ],
+   [
+    "80ms",
+    1
+   ]
+  ],
+  "keyframes": [
+   "hero-float-a",
+   "hero-float-b",
+   "hero-scroll-pulse",
+   "spin",
+   "CalendarModal_fade-in__Sdhzq",
+   "CalendarModal_slide-up__rkDVM",
+   "LargestCompaniesBlock_shimmer__HcgkL",
+   "TrendingTopics_loading__EVWR6",
+   "Overlay_fade-in__WZ2fI",
+   "TabbedGallery_fade-in__HLtcg",
+   "swiper-preloader-spin"
+  ]
+ },
+ "cssVarSample": {
+  "--swiper-theme-color": "#007aff",
+  "--swiper-navigation-size": "44px"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": true,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 76,
+  "video": 6,
+  "svg": 41,
+  "picture": 0,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 1,
+  "clipPath": 0,
+  "sticky": 7,
+  "fixed": [
+   "HeaderNavigation_skip-link__3WTsp"
+  ],
+  "customCursor": false,
+  "boxShadows": [],
+  "filters": [
+   [
+    "grayscale(1)",
+    5
+   ],
+   [
+    "grayscale(0)",
+    1
+   ]
+  ],
+  "transforms3d": 0,
+  "noiseOrGrain": true,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "8px",
+   21
+  ],
+  [
+   "4px",
+   4
+  ],
+  [
+   "6px",
+   1
+  ],
+  [
+   "9999px",
+   1
+  ]
+ ],
+ "borders": [
+  [
+   "bottom:1px solid rgba(29, 29, 29, 0.1)",
+   11
+  ],
+  [
+   "1px solid rgba(0, 0, 0, 0)",
+   5
+  ],
+  [
+   "1px solid rgba(29, 29, 29, 0.1)",
+   3
+  ],
+  [
+   "bottom:1px solid rgba(255, 255, 255, 0.698)",
+   1
+  ]
+ ],
+ "grids": [
+  [
+   "12cols gap 24px",
+   20
+  ],
+  [
+   "6cols gap normal",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "1440px",
+   20
+  ],
+  [
+   "100%",
+   7
+  ]
+ ],
+ "sideMargins": [
+  [
+   "48px",
+   23
+  ],
+  [
+   "162px",
+   8
+  ],
+  [
+   "846px",
+   7
+  ],
+  [
+   "390px",
+   2
+  ],
+  [
+   "504px",
+   1
+  ],
+  [
+   "960px",
+   1
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "HeaderAtoms_sections__VumHI",
+   "h": 68,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "HeaderAtoms_section__Zv25M",
+   "h": 68,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "HeaderAtoms_section-title__NExSO",
+   "h": 32,
+   "padTop": "4px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "HeaderAtoms_section__Zv25M",
+   "h": 68,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "HeaderAtoms_section-title__NExSO",
+   "h": 32,
+   "padTop": "4px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "HeaderAtoms_section__Zv25M",
+   "h": 68,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "HeaderAtoms_section-title__NExSO",
+   "h": 32,
+   "padTop": "4px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "HeaderAtoms_section__Zv25M",
+   "h": 68,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "HeaderAtoms_section-title__NExSO",
+   "h": 32,
+   "padTop": "4px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "HeaderAtoms_section__Zv25M",
+   "h": 68,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "HeaderAtoms_section-title-link__unDnh navigation-l",
+   "h": 27,
+   "padTop": "4px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "header-lockup Header_component__Sr7kH Header_cente",
+   "h": 106,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Grid_grid__SyTcQ LogoGarden_grid-container__NUluy",
+   "h": 96,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "header-lockup Header_component__Sr7kH Header_two-c",
+   "h": 81,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "LinkList_link-list-container__dzG_6",
+   "h": 331,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "MediaHeader_full-width-section__FWnm4 MediaHeader_",
+   "h": 706,
+   "padTop": "0px",
+   "bg": "rgb(15, 17, 31)"
+  },
+  {
+   "cls": "header-lockup Header_component__Sr7kH Header_two-c",
+   "h": 81,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Grid_grid__SyTcQ",
+   "h": 3836,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "MediaHeader_full-width-section__FWnm4 MediaHeader_",
+   "h": 820,
+   "padTop": "0px",
+   "bg": "rgb(15, 17, 31)"
+  },
+  {
+   "cls": "header-lockup Header_component__Sr7kH Header_two-c",
+   "h": 95,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Grid_grid__SyTcQ TabbedGallery_wrapper__GUrUC",
+   "h": 523,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "MediaHeader_full-width-section__FWnm4 MediaHeader_",
+   "h": 820,
+   "padTop": "0px",
+   "bg": "rgb(15, 17, 31)"
+  },
+  {
+   "cls": "Grid_grid__SyTcQ Resources_component__JFSZb",
+   "h": 686,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "sticky",
+  "height": 68,
+  "links": 41,
+  "linkTexts": [
+   "Skip to content",
+   "Platform",
+   "Solutions",
+   "Resources",
+   "About",
+   "Pricing",
+   "Submit",
+   "Log In",
+   "Customer Support",
+   "Get Started for Free"
+  ],
+  "bg": "rgb(255, 255, 255)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "Skip to content",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(29, 29, 29)",
+   "radius": "6px",
+   "pad": "4px",
+   "size": "14px",
+   "weight": "700",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 29
+  },
+  {
+   "text": "Get Started for Free",
+   "bg": "rgb(0, 64, 255)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "8px",
+   "pad": "14px 16px",
+   "size": "14px",
+   "weight": "700",
+   "tt": "none",
+   "border": "none",
+   "h": 47
+  },
+  {
+   "text": "Get Started for Free",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(29, 29, 29)",
+   "radius": "8px",
+   "pad": "14px 16px",
+   "size": "14px",
+   "weight": "700",
+   "tt": "none",
+   "border": "none",
+   "h": 47
+  },
+  {
+   "text": "Explore SuperAnalyst",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(29, 29, 29)",
+   "radius": "8px",
+   "pad": "14px 16px",
+   "size": "14px",
+   "weight": "700",
+   "tt": "none",
+   "border": "none",
+   "h": 47
+  },
+  {
+   "text": "Learn More About Add-Ins",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(29, 29, 29)",
+   "radius": "8px",
+   "pad": "14px 16px",
+   "size": "14px",
+   "weight": "700",
+   "tt": "none",
+   "border": "none",
+   "h": 47
+  },
+  {
+   "text": "Read Full Story",
+   "bg": "rgb(242, 242, 242)",
+   "color": "rgb(29, 29, 29)",
+   "radius": "8px",
+   "pad": "14px 16px",
+   "size": "14px",
+   "weight": "700",
+   "tt": "none",
+   "border": "none",
+   "h": 47
+  },
+  {
+   "text": "Read Full Story",
+   "bg": "rgba(29, 29, 29, 0.2)",
+   "color": "rgba(29, 29, 29, 0.698)",
+   "radius": "8px",
+   "pad": "14px 16px",
+   "size": "14px",
+   "weight": "700",
+   "tt": "none",
+   "border": "none",
+   "h": 47
+  },
+  {
+   "text": "Read Full Story",
+   "bg": "rgba(29, 29, 29, 0.2)",
+   "color": "rgba(29, 29, 29, 0.698)",
+   "radius": "8px",
+   "pad": "14px 16px",
+   "size": "14px",
+   "weight": "700",
+   "tt": "none",
+   "border": "none",
+   "h": 47
+  },
+  {
+   "text": "Read Full Story",
+   "bg": "rgba(29, 29, 29, 0.2)",
+   "color": "rgba(29, 29, 29, 0.698)",
+   "radius": "8px",
+   "pad": "14px 16px",
+   "size": "14px",
+   "weight": "700",
+   "tt": "none",
+   "border": "none",
+   "h": 47
+  },
+  {
+   "text": "Read Full Story",
+   "bg": "rgba(29, 29, 29, 0.2)",
+   "color": "rgba(29, 29, 29, 0.698)",
+   "radius": "8px",
+   "pad": "14px 16px",
+   "size": "14px",
+   "weight": "700",
+   "tt": "none",
+   "border": "none",
+   "h": 47
+  }
+ ],
+ "headings": [
+  "Confidence finds its source",
+  "Trusted by 7,000+ of the world’s largest enterprises",
+  "AI workflows that speak your market’s language",
+  "EXPLORE SOLUTIONS",
+  "Meet SuperAnalyst",
+  "The most expansive collection of curated sources, all in one place",
+  "500+ million premium financial and business documents",
+  "Integrated workflows, not isolated insights",
+  "Decisions made with confidence, not hesitance",
+  "Highly synthesized insights for hard-to-answer questions",
+  "From first signal to final deliverable, without losing the thread",
+  "Our customers instantly gain a competitive edge",
+  "Powering Competitive Intelligence",
+  "Faster Innovation for Smarter Strategy",
+  "Boost Investment Confidence",
+  "Defy the Unknown and Drive Conviction",
+  "Recurve Capital Saves Time Uncovering Insights to Drive Investment Decisions",
+  "Royalty Pharma Uses Expert Insights in AlphaSense as Tool for Due Diligence",
+  "AlphaSense named the only Leader in The Forrester Wave™: Market And Competitive Intelligence Platforms, Q3 2026",
+  "GenAI from AlphaSense redefines what market intelligence can achieve",
+  "AlphaSummit 2026",
+  "Introducing Deep Research in AlphaSense",
+  "A Deep Dive into Deep Research Tools",
+  "Transform intelligence into advantage",
+  "PLATFORM"
+ ],
+ "paras": [
+  "Your biggest decisions deserve the most trusted AI platform for actionable insights. See why the best choose AlphaSense.",
+  "Trusted by 7,000+ of the world’s largest enterprises",
+  "AI workflows that speak your market’s language",
+  "The AI analyst for financial and strategic work. It monitors what matters and delivers cited, decision-ready outputs, 24/7.",
+  "The most expansive collection of curated sources, all in one place",
+  "Derive proprietary insights from an unrivaled content set including Tegus expert transcripts, broker research, company filings, private and public financial data — alongside your firm’s internal content.",
+  "AlphaSense unifies your entire research workflow in one intuitive platform, eliminating fragmented sources and giving you streamlined, connected insights.",
+  "GenAI provides real-time insights that ground your most important decisions in reliable expertise, and position you to consistently outpace your competitors.",
+  "AlphaSense uses the most advanced AI models available, focused on high-quality content that can’t be found anywhere else to generate outputs you can trust, with sentence-level citations and no hallucinations.",
+  "AlphaSense now covers the full arc of how finance and strategy teams work — from initial research to the models and decks that go to clients and committees. Generate slide decks and reports directly in the platform. Buil"
+ ],
+ "footer": {
+  "h": 982,
+  "text": "PLATFORM Connectors Content & Partners Enterprise Intelligence Financial Data How AlphaSense Compares Powerpoint & Excel Add-Ins ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​‌‌‍ ​‌ ​​‌‍‍​‌‍​‌​‍ ‌‌ ​ ‌‍‌‌‌‍"
+ },
+ "jsMotion": {
+  "scriptsFetched": 12,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [],
+  "staggers": [],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

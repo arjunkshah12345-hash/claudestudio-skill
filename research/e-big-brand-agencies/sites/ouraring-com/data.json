@@ -1,0 +1,814 @@
+{
+ "url": "https://ouraring.com/",
+ "slug": "ouraring-com",
+ "analyzedAt": "2026-10-07T05:20:31.089Z",
+ "scrollHeight": 6546,
+ "pageLengthInViewports": 7.3,
+ "title": "Oura Ring. Smart Ring for Fitness, Stress, Sleep & Health.",
+ "metaDescription": "Enhance your health journey with Oura. The Oura Ring provides round-the-clock insights into sleep, fitness, and stress for wellness. Now HSA/FSA eligible.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "AkkuratLL 400 normal",
+   "AkkuratLL 300 normal",
+   "Editorial New 300 normal",
+   "Editorial New 200 normal"
+  ],
+  "families": [
+   [
+    "AkkuratLL",
+    104
+   ],
+   [
+    "Editorial New",
+    8
+   ]
+  ],
+  "sizes": [
+   [
+    "16px",
+    61
+   ],
+   [
+    "12px",
+    20
+   ],
+   [
+    "24px",
+    8
+   ],
+   [
+    "40px",
+    8
+   ],
+   [
+    "14px",
+    5
+   ],
+   [
+    "20px",
+    4
+   ],
+   [
+    "68px",
+    2
+   ],
+   [
+    "110px",
+    1
+   ],
+   [
+    "32px",
+    1
+   ],
+   [
+    "56px",
+    1
+   ],
+   [
+    "18px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    87
+   ],
+   [
+    "700",
+    14
+   ],
+   [
+    "300",
+    8
+   ],
+   [
+    "100",
+    3
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    102
+   ],
+   [
+    "-0.030em@68",
+    2
+   ],
+   [
+    "-0.050em@24",
+    2
+   ],
+   [
+    "-0.050em@110",
+    1
+   ],
+   [
+    "-0.025em@32",
+    1
+   ],
+   [
+    "0.100em@16",
+    1
+   ],
+   [
+    "0.050em@18",
+    1
+   ],
+   [
+    "-0.050em@40",
+    1
+   ],
+   [
+    "-0.025em@40",
+    1
+   ]
+  ],
+  "uppercaseShare": 0.05,
+  "largest": [
+   {
+    "tag": "h1",
+    "text": "Subtle. Power.",
+    "family": "Editorial New",
+    "size": "110px",
+    "weight": "300",
+    "lh": "121px",
+    "ls": "-5.5px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(74, 71, 65)"
+   },
+   {
+    "tag": "h2",
+    "text": "Understand your body. Own your health.",
+    "family": "Editorial New",
+    "size": "68px",
+    "weight": "400",
+    "lh": "74.8px",
+    "ls": "-2.04px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(74, 71, 65)"
+   },
+   {
+    "tag": "h2",
+    "text": "86% of Oura Members see their health improve1",
+    "family": "Editorial New",
+    "size": "68px",
+    "weight": "400",
+    "lh": "74.8px",
+    "ls": "-2.04px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(74, 71, 65)"
+   },
+   {
+    "tag": "h2",
+    "text": "Meet Health Radar",
+    "family": "Editorial New",
+    "size": "56px",
+    "weight": "400",
+    "lh": "61.6px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(74, 71, 65)"
+   },
+   {
+    "tag": "h3",
+    "text": "Get the best sleep of your life",
+    "family": "AkkuratLL",
+    "size": "40px",
+    "weight": "300",
+    "lh": "40px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(247, 241, 232)"
+   },
+   {
+    "tag": "h3",
+    "text": "Don't just live longer, live healthier",
+    "family": "AkkuratLL",
+    "size": "40px",
+    "weight": "300",
+    "lh": "40px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(247, 241, 232)"
+   },
+   {
+    "tag": "h3",
+    "text": "Bring your fitness goals into focus",
+    "family": "AkkuratLL",
+    "size": "40px",
+    "weight": "300",
+    "lh": "40px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(247, 241, 232)"
+   },
+   {
+    "tag": "h3",
+    "text": "Listen to what your heart is telling you",
+    "family": "AkkuratLL",
+    "size": "40px",
+    "weight": "300",
+    "lh": "40px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(247, 241, 232)"
+   },
+   {
+    "tag": "h3",
+    "text": "Understand the ins and outs of women's health",
+    "family": "AkkuratLL",
+    "size": "40px",
+    "weight": "300",
+    "lh": "40px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(247, 241, 232)"
+   },
+   {
+    "tag": "h3",
+    "text": "Put your stress to the test",
+    "family": "AkkuratLL",
+    "size": "40px",
+    "weight": "300",
+    "lh": "40px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(247, 241, 232)"
+   },
+   {
+    "tag": "h2",
+    "text": "How Oura Measures Sleep and Validates Accuracy",
+    "family": "AkkuratLL",
+    "size": "40px",
+    "weight": "400",
+    "lh": "50px",
+    "ls": "-2px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(247, 241, 232)"
+   },
+   {
+    "tag": "h2",
+    "text": "Receive articles, tips, and offers from Oura",
+    "family": "Editorial New",
+    "size": "40px",
+    "weight": "300",
+    "lh": "50px",
+    "ls": "-1px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(168, 165, 160)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgba(0, 0, 0, 0)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(247, 241, 232)",
+    56
+   ],
+   [
+    "rgb(0, 0, 0)",
+    19
+   ],
+   [
+    "rgb(74, 71, 65)",
+    17
+   ],
+   [
+    "rgb(168, 165, 160)",
+    15
+   ],
+   [
+    "rgb(255, 255, 255)",
+    5
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(247, 241, 232)",
+    16
+   ],
+   [
+    "rgb(74, 71, 65)",
+    10
+   ],
+   [
+    "oklab(0.259904 -0.000768863 -0.00799377 / 0.4)",
+    6
+   ],
+   [
+    "rgb(255, 255, 255)",
+    6
+   ],
+   [
+    "rgb(239, 230, 219)",
+    3
+   ],
+   [
+    "oklch(0.371 0 0)",
+    3
+   ],
+   [
+    "rgb(28, 27, 26)",
+    2
+   ],
+   [
+    "oklab(0.398852 0.00102159 0.0106092 / 0.1)",
+    1
+   ],
+   [
+    "rgb(42, 114, 222)",
+    1
+   ],
+   [
+    "rgb(211, 209, 206)",
+    1
+   ],
+   [
+    "rgb(31, 114, 205)",
+    1
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(in oklab, rgb(247, 241, 232) 0px, rgba(0, 0, 0, 0) 100%)",
+    1
+   ],
+   [
+    "linear-gradient(in oklab, rgba(0, 0, 0, 0) 0px, rgb(0, 0, 0) 100%)",
+    1
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(.4,0,.2,1)",
+    4
+   ],
+   [
+    "cubic-bezier(.4,0,1,1)",
+    2
+   ],
+   [
+    "cubic-bezier(0,0,.2,1)",
+    2
+   ],
+   [
+    "cubic-bezier(.4,0,.6,1)",
+    2
+   ]
+  ],
+  "durations": [
+   [
+    "0.2s",
+    6
+   ],
+   [
+    "0.3s",
+    5
+   ],
+   [
+    "0.5s",
+    5
+   ],
+   [
+    ".15s",
+    2
+   ],
+   [
+    "75ms",
+    2
+   ],
+   [
+    "0.1s",
+    2
+   ],
+   [
+    "0.25s",
+    2
+   ],
+   [
+    "0.4s",
+    2
+   ],
+   [
+    "0.7s",
+    2
+   ],
+   [
+    "0.75s",
+    2
+   ]
+  ],
+  "keyframes": [
+   "spin",
+   "pulse"
+  ]
+ },
+ "cssVarSample": {},
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": true,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 13,
+  "video": 1,
+  "svg": 60,
+  "picture": 1,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 7,
+  "clipPath": 37,
+  "sticky": 1,
+  "fixed": [
+   "fixed inset-x-0 bottom-0 top-40 transition-all pointer-event"
+  ],
+  "customCursor": true,
+  "boxShadows": [
+   [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(255, 255, 255, 0.06) 0px 1px 0px 0px inset",
+    1
+   ]
+  ],
+  "filters": [
+   [
+    "blur(0px)",
+    4
+   ]
+  ],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 16,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "3.35544e+07px",
+   27
+  ],
+  [
+   "8px",
+   8
+  ],
+  [
+   "24px",
+   6
+  ],
+  [
+   "4px",
+   6
+  ],
+  [
+   "6px",
+   4
+  ],
+  [
+   "12px",
+   1
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid oklab(0.398852 0.00102159 0.0106092 / 0.25)",
+   1
+  ],
+  [
+   "1px solid oklab(0.606853 0.000332713 0.00321853 / 0.2)",
+   1
+  ],
+  [
+   "2px solid rgb(0, 0, 0)",
+   1
+  ],
+  [
+   "2px solid rgb(52, 56, 59)",
+   1
+  ],
+  [
+   "1px solid rgb(255, 255, 255)",
+   1
+  ]
+ ],
+ "grids": [
+  [
+   "28cols gap normal",
+   9
+  ],
+  [
+   "4cols gap 16px",
+   6
+  ],
+  [
+   "1cols gap 40px",
+   1
+  ],
+  [
+   "4cols gap 24px",
+   1
+  ],
+  [
+   "2cols gap normal",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "100%",
+   4
+  ],
+  [
+   "1312px",
+   1
+  ]
+ ],
+ "sideMargins": [
+  [
+   "64px",
+   4
+  ],
+  [
+   "323px",
+   3
+  ],
+  [
+   "923px",
+   3
+  ],
+  [
+   "467px",
+   1
+  ],
+  [
+   "447px",
+   1
+  ],
+  [
+   "233px",
+   1
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "",
+   "h": 5726,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "relative isolate h-svh bg-sandstone-200 text-sands",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgb(247, 241, 232)"
+  },
+  {
+   "cls": "overflow-hidden pb-16",
+   "h": 1318,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "py-10 lg:px-8 lg:py-20",
+   "h": 1226,
+   "padTop": "80px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "",
+   "h": 586,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "py-10 lg:py-20 bg-sandstone-200 py-10 lg:py-10",
+   "h": 789,
+   "padTop": "80px",
+   "bg": "rgb(247, 241, 232)"
+  },
+  {
+   "cls": "py-8 lg:py-16 bg-gray-600",
+   "h": 906,
+   "padTop": "64px",
+   "bg": "rgb(28, 27, 26)"
+  },
+  {
+   "cls": "",
+   "h": 237,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "sticky",
+  "height": 90,
+  "links": 3,
+  "linkTexts": [
+   "Shop",
+   "Your Health",
+   "Why Oura",
+   "For Organizations",
+   "There are no items in your cart",
+   "Menu"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "There are no items in your cart",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(74, 71, 65)",
+   "radius": "3.35544e+07px",
+   "pad": "0px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid oklab(0.398852 0.00102159 0.0106092 / 0.25)",
+   "h": 48
+  },
+  {
+   "text": "Explore",
+   "bg": "rgb(42, 114, 222)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "3.35544e+07px",
+   "pad": "12px 24px",
+   "size": "16px",
+   "weight": "700",
+   "tt": "none",
+   "border": "none",
+   "h": 48
+  },
+  {
+   "text": "Why Oura",
+   "bg": "rgb(74, 71, 65)",
+   "color": "rgb(247, 241, 232)",
+   "radius": "3.35544e+07px",
+   "pad": "12px 24px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 48
+  },
+  {
+   "text": "How It Works",
+   "bg": "rgb(74, 71, 65)",
+   "color": "rgb(247, 241, 232)",
+   "radius": "3.35544e+07px",
+   "pad": "12px 24px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 48
+  },
+  {
+   "text": "Explore Membership",
+   "bg": "rgb(74, 71, 65)",
+   "color": "rgb(247, 241, 232)",
+   "radius": "3.35544e+07px",
+   "pad": "12px 24px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 48
+  },
+  {
+   "text": "Explore",
+   "bg": "rgb(74, 71, 65)",
+   "color": "rgb(247, 241, 232)",
+   "radius": "3.35544e+07px",
+   "pad": "12px 24px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 48
+  },
+  {
+   "text": "Read More",
+   "bg": "rgb(247, 241, 232)",
+   "color": "rgb(74, 71, 65)",
+   "radius": "3.35544e+07px",
+   "pad": "12px 24px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 48
+  },
+  {
+   "text": "Language Preference: English",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "3.35544e+07px",
+   "pad": "8px 16px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(255, 255, 255)",
+   "h": 42
+  }
+ ],
+ "headings": [
+  "Subtle. Power.",
+  "Understand your body. Own your health.",
+  "Get the best sleep of your life",
+  "Don't just live longer, live healthier",
+  "Bring your fitness goals into focus",
+  "Listen to what your heart is telling you",
+  "Understand the ins and outs of women's health",
+  "Put your stress to the test",
+  "86% of Oura Members see their health improve1",
+  "Real members, real stories of impact",
+  "Meet Health Radar",
+  "How Oura Measures Sleep and Validates Accuracy",
+  "The Guardian: Oura Ring 5 review: a stunning generational leap for smart rings",
+  "Esquire: We Got Our Hands on the New Oura Ring 5, and It's Thinner Than We Could've Imagined",
+  "CNET: 48 Hours With the Oura Ring 5: The New Gold Standard",
+  "The Guardian: Oura Ring 5 review: a stunning generational leap for smart rings",
+  "Esquire: We Got Our Hands on the New Oura Ring 5, and It's Thinner Than We Could've Imagined",
+  "CNET: 48 Hours With the Oura Ring 5: The New Gold Standard",
+  "Payment Options",
+  "Receive articles, tips, and offers from Oura",
+  "Our Company",
+  "Support",
+  "Partner With Us",
+  "Connect"
+ ],
+ "paras": [
+  "The world's smallest smart ring is here.",
+  "Oura gives you insights unique to your body, so every day adds up to a longer, healthier life.",
+  "Track over 50 health metrics and get personalized insights into your sleep, activity, stress, and more — all in the Oura App.",
+  "My cardiologist told me, 'If you hadn't caught this, you might have gone to sleep and never woken up.' Oura didn't just track my health — it saved my life.",
+  "[The Symptom Radar notifications] are my sign to back off and give myself a day of rest. It's good to say that to yourself sometimes.",
+  "The information from Oura made all the difference for us. We're finally starting our family and couldn't be more excited.",
+  "A suite of features designed to continuously monitor your biometrics for patterns worth noting, so you can stay proactive about your health.*",
+  "We care about protecting your data.",
+  "We care about protecting your data. Read more in our Privacy Policy.",
+  "© 2026 Oura Health Oy. All rights reserved. ŌURA, OURA, and Ō are trademarks of Oura Health Oy and may not be used without permission."
+ ],
+ "footer": {
+  "h": 60,
+  "text": "Tim S."
+ },
+ "jsMotion": {
+  "scriptsFetched": 10,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "0",
+    1
+   ]
+  ],
+  "staggers": [],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

@@ -1,0 +1,1140 @@
+{
+ "url": "https://ramp.com",
+ "slug": "ramp-com",
+ "analyzedAt": "2026-10-07T05:13:14.250Z",
+ "scrollHeight": 13914,
+ "pageLengthInViewports": 15.5,
+ "title": "Spend Management, Corporate Cards & Accounts Payable Solutions | Ramp",
+ "metaDescription": "Make expense management easy with Ramp's spend management platform. Combine global corporate cards, travel, expenses and accounts payable to automate finance operations and improve efficiency.",
+ "lang": "en-us",
+ "type": {
+  "loadedFonts": [
+   "Lausanne 400 normal",
+   "Lausanne 400 italic",
+   "Material Icons 400 normal",
+   "Material Icons Outlined 400 normal"
+  ],
+  "families": [
+   [
+    "Lausanne",
+    51
+   ]
+  ],
+  "sizes": [
+   [
+    "14px",
+    10
+   ],
+   [
+    "10px",
+    10
+   ],
+   [
+    "24px",
+    10
+   ],
+   [
+    "16px",
+    9
+   ],
+   [
+    "13px",
+    3
+   ],
+   [
+    "40px",
+    3
+   ],
+   [
+    "64px",
+    2
+   ],
+   [
+    "18px",
+    2
+   ],
+   [
+    "28px",
+    2
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    51
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    36
+   ],
+   [
+    "0.018em@10",
+    10
+   ],
+   [
+    "-0.000em@40",
+    3
+   ],
+   [
+    "-0.000em@64",
+    2
+   ]
+  ],
+  "uppercaseShare": 0.2,
+  "largest": [
+   {
+    "tag": "h1",
+    "text": "Time is money. Save both.",
+    "family": "Lausanne",
+    "size": "64px",
+    "weight": "400",
+    "lh": "64px",
+    "ls": "-0.01px",
+    "tt": "none",
+    "style": "normal",
+    "color": "lab(2.83994 0.367254 0.969091)"
+   },
+   {
+    "tag": "p",
+    "text": "$1M+",
+    "family": "Lausanne",
+    "size": "64px",
+    "weight": "400",
+    "lh": "64px",
+    "ls": "-0.01px",
+    "tt": "none",
+    "style": "normal",
+    "color": "lab(100 0 0)"
+   },
+   {
+    "tag": "h2",
+    "text": "One platform for all of finance. Agents for every workflow, working 24/7.",
+    "family": "Lausanne",
+    "size": "40px",
+    "weight": "400",
+    "lh": "42px",
+    "ls": "-0.005px",
+    "tt": "none",
+    "style": "normal",
+    "color": "lab(2.83994 0.367254 0.969091)"
+   },
+   {
+    "tag": "span",
+    "text": "Agents for every workflow, working 24/7.",
+    "family": "Lausanne",
+    "size": "40px",
+    "weight": "400",
+    "lh": "42px",
+    "ls": "-0.005px",
+    "tt": "none",
+    "style": "normal",
+    "color": "lab(2.83994 0.367254 0.969091 / 0.6)"
+   },
+   {
+    "tag": "h2",
+    "text": "See recommendations for your business",
+    "family": "Lausanne",
+    "size": "40px",
+    "weight": "400",
+    "lh": "42px",
+    "ls": "-0.005px",
+    "tt": "none",
+    "style": "normal",
+    "color": "lab(2.83994 0.367254 0.969091)"
+   },
+   {
+    "tag": "h2",
+    "text": "Join 70,000 of the world’s most ambitious companies growing 3.2x faster than the average A",
+    "family": "Lausanne",
+    "size": "28px",
+    "weight": "400",
+    "lh": "32px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "lab(2.83994 0.367254 0.969091)"
+   },
+   {
+    "tag": "span",
+    "text": "growing 3.2x faster than the average American business.",
+    "family": "Lausanne",
+    "size": "28px",
+    "weight": "400",
+    "lh": "32px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "lab(2.83994 0.367254 0.969091 / 0.6)"
+   },
+   {
+    "tag": "h3",
+    "text": "Cards & Expenses that handle themselves",
+    "family": "Lausanne",
+    "size": "24px",
+    "weight": "400",
+    "lh": "28px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "lab(2.83994 0.367254 0.969091)"
+   },
+   {
+    "tag": "span",
+    "text": "that handle themselves",
+    "family": "Lausanne",
+    "size": "24px",
+    "weight": "400",
+    "lh": "28px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "lab(2.83994 0.367254 0.969091 / 0.6)"
+   },
+   {
+    "tag": "h3",
+    "text": "Procure to pay without chasing approvals",
+    "family": "Lausanne",
+    "size": "24px",
+    "weight": "400",
+    "lh": "28px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "lab(2.83994 0.367254 0.969091)"
+   },
+   {
+    "tag": "span",
+    "text": "without chasing approvals",
+    "family": "Lausanne",
+    "size": "24px",
+    "weight": "400",
+    "lh": "28px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "lab(2.83994 0.367254 0.969091 / 0.6)"
+   },
+   {
+    "tag": "h3",
+    "text": "Accounting automation eliminates month-end madness",
+    "family": "Lausanne",
+    "size": "24px",
+    "weight": "400",
+    "lh": "28px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "lab(2.83994 0.367254 0.969091)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "lab(100 0 0)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "lab(2.83994 0.367254 0.969091 / 0.6)",
+    21
+   ],
+   [
+    "lab(2.83994 0.367254 0.969091)",
+    16
+   ],
+   [
+    "lab(100 0 0)",
+    13
+   ],
+   [
+    "lab(100 0 0 / 0.6)",
+    1
+   ]
+  ],
+  "backgrounds": [
+   [
+    "lab(100 0 0)",
+    21
+   ],
+   [
+    "lab(2.83994 0.367254 0.969091)",
+    10
+   ],
+   [
+    "lab(95.604 0.426412 1.20401)",
+    9
+   ],
+   [
+    "rgba(33, 33, 33, 0.05)",
+    8
+   ],
+   [
+    "oklab(0.2145 0.00152552 0.000480294 / 0.05)",
+    4
+   ],
+   [
+    "lab(92.1406 -20.4979 84.7726)",
+    3
+   ],
+   [
+    "lab(8.86531 0.515342 0.18619)",
+    2
+   ],
+   [
+    "rgba(33, 33, 33, 0.2)",
+    1
+   ],
+   [
+    "rgba(255, 255, 255, 0.05)",
+    1
+   ],
+   [
+    "rgba(33, 33, 33, 0.024)",
+    1
+   ],
+   [
+    "rgb(31, 31, 29)",
+    1
+   ],
+   [
+    "oklab(0.999998 -0.00000980496 0.0000234246 / 0.15)",
+    1
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(in oklab, rgba(0, 0, 0, 0) 0%, rgba(33, 33, 33, 0.7) 100%)",
+    1
+   ],
+   [
+    "linear-gradient(rgba(255, 255, 255, 0) 55%, rgb(255, 255, 255) 89.09%)",
+    1
+   ],
+   [
+    "linear-gradient(90deg, rgb(255, 255, 255) 0%, rgba(0, 0, 0, 0) 71%)",
+    1
+   ],
+   [
+    "linear-gradient(90deg, rgba(0, 0, 0, 0) 0%, rgb(255, 255, 255) 71%)",
+    1
+   ],
+   [
+    "linear-gradient(rgba(23, 18, 14, 0.2) 0%, rgba(23, 18, 14, 0.6) 60%, rgba(23, 18, 14, 0.82) 100%)",
+    1
+   ],
+   [
+    "linear-gradient(to right in oklab, rgba(244, 242, 240, 0) 0%, rgb(244, 242, 240) 100%)",
+    1
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.16,1,0.3,1)",
+    37
+   ],
+   [
+    "cubic-bezier(0.4,0,0.2,1)",
+    10
+   ],
+   [
+    "cubic-bezier(.4,0,.2,1)",
+    5
+   ],
+   [
+    "cubic-bezier(0.22,1,0.36,1)",
+    5
+   ],
+   [
+    "cubic-bezier(0,0,.2,1)",
+    4
+   ],
+   [
+    "cubic-bezier(.4,0,.6,1)",
+    2
+   ],
+   [
+    "cubic-bezier(.22,1,.36,1)",
+    2
+   ],
+   [
+    "cubic-bezier(.87,0,.13,1)",
+    2
+   ],
+   [
+    "cubic-bezier(0.87,0,0.13,1)",
+    2
+   ],
+   [
+    "cubic-bezier(.45,.05,.55,.95)",
+    2
+   ],
+   [
+    "cubic-bezier(0,0.55,0.45,1)",
+    1
+   ],
+   [
+    "cubic-bezier(.6,0,.2,.5)",
+    1
+   ]
+  ],
+  "durations": [
+   [
+    "0.4s",
+    24
+   ],
+   [
+    "0.3s",
+    21
+   ],
+   [
+    "0s",
+    19
+   ],
+   [
+    "0.2s",
+    18
+   ],
+   [
+    "120s",
+    15
+   ],
+   [
+    "0.5s",
+    13
+   ],
+   [
+    "0.15s",
+    9
+   ],
+   [
+    ".15s",
+    8
+   ],
+   [
+    ".2s",
+    8
+   ],
+   [
+    "1s",
+    7
+   ]
+  ],
+  "keyframes": [
+   "skeleton",
+   "arrow-slide",
+   "accordion-down",
+   "accordion-up",
+   "slideDownAndFade",
+   "slideLeftAndFade",
+   "slideUpAndFade",
+   "slideRightAndFade",
+   "spin",
+   "ping",
+   "pulse",
+   "enter",
+   "exit",
+   "nav-out",
+   "nav-in",
+   "NavbarClient-module__0lPMIq__desktopNavContentFadeIn",
+   "NavbarClient-module__0lPMIq__desktopNavContentFadeOut",
+   "NavbarClient-module__0lPMIq__desktopNavContentRiseIn",
+   "NavbarClient-module__0lPMIq__desktopNavContentEnterFromStart",
+   "NavbarClient-module__0lPMIq__desktopNavContentEnterFromEnd"
+  ]
+ },
+ "cssVarSample": {
+  "--page-theme": "var(--white)",
+  "--lausanne-ascent": "1866",
+  "--lausanne-descent": "-410",
+  "--lausanne-units-per-em": "2048",
+  "--white-rgb": "255, 255, 255",
+  "--white-0": "rgba(var(--white-rgb), 0)",
+  "--white-25": "rgba(var(--white-rgb), .025)",
+  "--white-50": "rgba(var(--white-rgb), .05)",
+  "--white-100": "rgba(var(--white-rgb), .1)",
+  "--white-200": "rgba(var(--white-rgb), .2)",
+  "--white-300": "rgba(var(--white-rgb), .3)",
+  "--white-400": "rgba(var(--white-rgb), .4)",
+  "--white-500": "rgba(var(--white-rgb), .5)",
+  "--white-600": "rgba(var(--white-rgb), .6)",
+  "--white-700": "rgba(var(--white-rgb), .7)",
+  "--white-800": "rgba(var(--white-rgb), .8)",
+  "--white-900": "rgba(var(--white-rgb), .9)",
+  "--black-rgb": "33, 33, 33",
+  "--black-0": "rgba(var(--black-rgb), 0)",
+  "--black-25": "rgba(var(--black-rgb), .025)",
+  "--black-50": "rgba(var(--black-rgb), .05)",
+  "--black-100": "rgba(var(--black-rgb), .1)",
+  "--black-200": "rgba(var(--black-rgb), .2)",
+  "--black-300": "rgba(var(--black-rgb), .3)",
+  "--black-400": "rgba(var(--black-rgb), .4)",
+  "--black-500": "rgba(var(--black-rgb), .5)",
+  "--black-600": "rgba(var(--black-rgb), .6)",
+  "--black-700": "rgba(var(--black-rgb), .7)",
+  "--black-800": "rgba(var(--black-rgb), .8)",
+  "--black-900": "rgba(var(--black-rgb), .9)",
+  "--black": "#1a1919",
+  "--dusk": "linear-gradient(in oklab to top, #e4ebf6 8%, #c3d3ef 20%, #5683d2 48%, #001b4a 1",
+  "--midnight": "linear-gradient(in oklab to bottom, #000 0%, #112d5b 100%)",
+  "--daylight": "linear-gradient(in oklab to bottom, #d2dff3 22%, #f2f5f9 93%)",
+  "--solar": "#e4f222",
+  "--solarLight": "#f5ff78",
+  "--smolder": "#17332d",
+  "--grayLight": "#f4f2f0",
+  "--grayMedium": "#d2cecb",
+  "--grayDark": "#6e6a68",
+  "--white": "#fff",
+  "--text-primary": "#0c0a08",
+  "--text-primaryReverse": "#fff",
+  "--text-hushed": "#0c0a0899",
+  "--text-hushedReverse": "#fff9",
+  "--blaze": "#e96516",
+  "--border-primary": "#d2cecb",
+  "--springLight": "#e4ebf6",
+  "--spring": "#5683d2",
+  "--z-header": "300",
+  "--z-overlay": "400",
+  "--z-modal": "500",
+  "--z-popover": "600",
+  "--z-tooltip": "700",
+  "--z-toast": "800",
+  "--z-navmenu": "900",
+  "--spacer-m": "40px",
+  "--spacer-l": "80px",
+  "--nav-banner-height": "40px",
+  "--nav-height": "calc(62px + var(--nav-banner-height))",
+  "--fides-overlay-primary-color": "#2b2e35",
+  "--fides-overlay-background-color": "#f7fafc",
+  "--fides-overlay-embed-background-color": "transparent",
+  "--fides-overlay-font-color": "#4a5568",
+  "--fides-overlay-font-color-dark": "#2d3748",
+  "--fides-overlay-hover-color": "#edf2f7",
+  "--fides-overlay-gpc-applied-background-color": "#38a169",
+  "--fides-overlay-gpc-applied-text-color": "#fff",
+  "--fides-overlay-gpc-overridden-background-color": "#e53e3e",
+  "--fides-overlay-gpc-overridden-text-color": "#fff"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 9,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": true,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": true,
+  "splitText": false,
+  "rive": false,
+  "lottie": true,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 71,
+  "video": 3,
+  "svg": 30,
+  "picture": 0,
+  "iframes": 8
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 8,
+  "clipPath": 30,
+  "sticky": 1,
+  "fixed": [
+   "fixed inset-x-0 top-0 z-header h-(--nav-height)",
+   "fixed top-0 flex h-(--nav-height) w-full flex-col justify-be"
+  ],
+  "customCursor": true,
+  "boxShadows": [
+   [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(255, 255, 255, 0.6) 0px 0px 2px 0px inset",
+    1
+   ]
+  ],
+  "filters": [
+   [
+    "blur(0px)",
+    1
+   ],
+   [
+    "url(\"#__lottie_element_2710\")",
+    1
+   ],
+   [
+    "url(\"#__lottie_element_2707\")",
+    1
+   ],
+   [
+    "url(\"#__lottie_element_2704\")",
+    1
+   ],
+   [
+    "url(\"#__lottie_element_2701\")",
+    1
+   ]
+  ],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "6px",
+   17
+  ],
+  [
+   "12px",
+   15
+  ],
+  [
+   "4px",
+   9
+  ],
+  [
+   "3.35544e+07px",
+   5
+  ],
+  [
+   "8px",
+   1
+  ],
+  [
+   "3px",
+   1
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgba(33, 33, 33, 0.1)",
+   12
+  ],
+  [
+   "bottom:1px solid rgba(33, 33, 33, 0)",
+   1
+  ],
+  [
+   "1px solid lab(83.0178 1.03405 2.01975)",
+   1
+  ]
+ ],
+ "grids": [
+  [
+   "1cols gap normal",
+   3
+  ],
+  [
+   "8cols gap 1px",
+   1
+  ],
+  [
+   "2cols gap 24px",
+   1
+  ],
+  [
+   "3cols gap 24px",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "1440px",
+   7
+  ],
+  [
+   "100%",
+   2
+  ],
+  [
+   "768px",
+   2
+  ],
+  [
+   "1050px",
+   1
+  ],
+  [
+   "1312px",
+   1
+  ],
+  [
+   "755px",
+   1
+  ]
+ ],
+ "sideMargins": [
+  [
+   "64px",
+   13
+  ],
+  [
+   "843px",
+   4
+  ],
+  [
+   "1072px",
+   2
+  ],
+  [
+   "97px",
+   2
+  ],
+  [
+   "450px",
+   2
+  ],
+  [
+   "484px",
+   2
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "relative",
+   "h": 1013,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "",
+   "h": 11297,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "",
+   "h": 635,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "group relative overflow-hidden rounded-[12px] text",
+   "h": 163,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "group relative overflow-hidden rounded-[12px] text",
+   "h": 163,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "group relative overflow-hidden rounded-[12px] text",
+   "h": 163,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "group relative overflow-hidden rounded-[12px] text",
+   "h": 163,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "group relative overflow-hidden rounded-[12px] text",
+   "h": 163,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "group relative overflow-hidden rounded-[12px] text",
+   "h": 163,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "group relative overflow-hidden rounded-[12px] text",
+   "h": 163,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "group relative overflow-hidden rounded-[12px] text",
+   "h": 163,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "group relative overflow-hidden rounded-[12px] text",
+   "h": 163,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "group relative overflow-hidden rounded-[12px] text",
+   "h": 163,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "group relative overflow-hidden rounded-[12px] text",
+   "h": 163,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "group relative overflow-hidden rounded-[12px] text",
+   "h": 163,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "group relative overflow-hidden rounded-[12px] text",
+   "h": 327,
+   "padTop": "0px",
+   "bg": "rgb(31, 31, 29)"
+  },
+  {
+   "cls": "absolute inset-0 CustomerSection-module__6IGf6q__p",
+   "h": 327,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "spacer-t-l",
+   "h": 1256,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "relative isolate grid spacer-p-t-l spacer-t-l spac",
+   "h": 700,
+   "padTop": "128px",
+   "bg": "lab(100 0 0)"
+  },
+  {
+   "cls": "PersonalizeClient-module__bf7S1a__focusExperience ",
+   "h": 444,
+   "padTop": "64px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "spacer-t-l",
+   "h": 2700,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "mt-10 md:spacer-t-l",
+   "h": 2834,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "spacer-t-l",
+   "h": 179,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "spacer-t-l",
+   "h": 871,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "spacer-t-l",
+   "h": 856,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "relative mt-8 md:mt-12 overflow-x-hidden py-4 md:p",
+   "h": 664,
+   "padTop": "20px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "relative flex h-[192px] w-[280px] shrink-0 cursor-",
+   "h": 192,
+   "padTop": "20px",
+   "bg": "lab(100 0 0)"
+  },
+  {
+   "cls": "relative flex h-[192px] w-[280px] shrink-0 cursor-",
+   "h": 192,
+   "padTop": "20px",
+   "bg": "lab(100 0 0)"
+  },
+  {
+   "cls": "relative flex h-[192px] w-[280px] shrink-0 cursor-",
+   "h": 192,
+   "padTop": "20px",
+   "bg": "lab(100 0 0)"
+  },
+  {
+   "cls": "relative flex h-[192px] w-[280px] shrink-0 cursor-",
+   "h": 192,
+   "padTop": "20px",
+   "bg": "lab(100 0 0)"
+  },
+  {
+   "cls": "relative flex h-[192px] w-[280px] shrink-0 cursor-",
+   "h": 192,
+   "padTop": "20px",
+   "bg": "lab(100 0 0)"
+  },
+  {
+   "cls": "relative flex h-[192px] w-[280px] shrink-0 cursor-",
+   "h": 192,
+   "padTop": "20px",
+   "bg": "lab(100 0 0)"
+  },
+  {
+   "cls": "relative flex h-[192px] w-[280px] shrink-0 cursor-",
+   "h": 192,
+   "padTop": "20px",
+   "bg": "lab(100 0 0)"
+  },
+  {
+   "cls": "relative flex h-[192px] w-[280px] shrink-0 cursor-",
+   "h": 192,
+   "padTop": "20px",
+   "bg": "lab(100 0 0)"
+  },
+  {
+   "cls": "relative flex h-[192px] w-[280px] shrink-0 cursor-",
+   "h": 192,
+   "padTop": "20px",
+   "bg": "lab(100 0 0)"
+  },
+  {
+   "cls": "relative flex h-[192px] w-[280px] shrink-0 cursor-",
+   "h": 192,
+   "padTop": "20px",
+   "bg": "lab(100 0 0)"
+  },
+  {
+   "cls": "relative flex h-[192px] w-[280px] shrink-0 cursor-",
+   "h": 192,
+   "padTop": "20px",
+   "bg": "lab(100 0 0)"
+  },
+  {
+   "cls": "relative flex h-[192px] w-[280px] shrink-0 cursor-",
+   "h": 192,
+   "padTop": "20px",
+   "bg": "lab(100 0 0)"
+  },
+  {
+   "cls": "relative flex h-[192px] w-[280px] shrink-0 cursor-",
+   "h": 192,
+   "padTop": "20px",
+   "bg": "lab(100 0 0)"
+  },
+  {
+   "cls": "relative flex h-[192px] w-[280px] shrink-0 cursor-",
+   "h": 192,
+   "padTop": "20px",
+   "bg": "lab(100 0 0)"
+  }
+ ],
+ "nav": {
+  "tag": "NAV",
+  "position": "static",
+  "height": 102,
+  "links": 8,
+  "linkTexts": [
+   "Learn more",
+   "Products",
+   "Partners",
+   "Solutions",
+   "Resources",
+   "Customers",
+   "Pricing",
+   "Sign in",
+   "Sign in",
+   "See a demo",
+   "Get started",
+   "Back"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "Sign in",
+   "bg": "rgba(255, 255, 255, 0.05)",
+   "color": "lab(100 0 0)",
+   "radius": "6px",
+   "pad": "12px 16px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 34
+  },
+  {
+   "text": "See a demo",
+   "bg": "lab(92.1406 -20.4979 84.7726)",
+   "color": "lab(2.83994 0.367254 0.969091)",
+   "radius": "6px",
+   "pad": "12px 16px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 34
+  },
+  {
+   "text": "Get started",
+   "bg": "lab(8.86531 0.515342 0.18619)",
+   "color": "lab(100 0 0)",
+   "radius": "6px",
+   "pad": "12px 16px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 34
+  },
+  {
+   "text": "Get started for free",
+   "bg": "lab(92.1406 -20.4979 84.7726)",
+   "color": "lab(2.83994 0.367254 0.969091)",
+   "radius": "8px",
+   "pad": "0px 20px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 52
+  },
+  {
+   "text": "Switch in days, not months",
+   "bg": "lab(92.1406 -20.4979 84.7726)",
+   "color": "lab(2.83994 0.367254 0.969091)",
+   "radius": "6px",
+   "pad": "16px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 43
+  },
+  {
+   "text": "View Demo",
+   "bg": "lab(95.604 0.426412 1.20401)",
+   "color": "lab(2.83994 0.367254 0.969091)",
+   "radius": "6px",
+   "pad": "16px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 43
+  },
+  {
+   "text": "Cards & Expenses that handle themselves",
+   "bg": "lab(95.604 0.426412 1.20401)",
+   "color": "lab(2.83994 0.367254 0.969091)",
+   "radius": "12px",
+   "pad": "0px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgba(33, 33, 33, 0.1)",
+   "h": 483
+  },
+  {
+   "text": "Explore Ramp Intelligence",
+   "bg": "lab(92.1406 -20.4979 84.7726)",
+   "color": "lab(2.83994 0.367254 0.969091)",
+   "radius": "6px",
+   "pad": "16px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 43
+  },
+  {
+   "text": "Watch Video",
+   "bg": "lab(100 0 0)",
+   "color": "lab(2.83994 0.367254 0.969091)",
+   "radius": "12px",
+   "pad": "0px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid oklab(0.2145 0.00152552 0.000480294 / 0.1)",
+   "h": 755
+  },
+  {
+   "text": "Watch Video",
+   "bg": "lab(100 0 0)",
+   "color": "lab(2.83994 0.367254 0.969091)",
+   "radius": "12px",
+   "pad": "0px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid oklab(0.2145 0.00152552 0.000480294 / 0.1)",
+   "h": 755
+  }
+ ],
+ "headings": [
+  "Time is money. Save both.",
+  "Join 70,000 of the world’s most ambitious companies growing 3.2x faster than the average American business.",
+  "One platform for all of finance. Agents for every workflow, working 24/7.",
+  "Cards & Expenses that handle themselves",
+  "Procure to pay without chasing approvals",
+  "Accounting automation eliminates month-end madness",
+  "Banking that flows money to the highest return",
+  "200+ Integrations to the tools you already use",
+  "See recommendations for your business",
+  "Now sing together",
+  "Built on the intelligence of 70k+ finance teams. One platform for the agentic era.",
+  "Introducing Stack by Ramp. The AI operating system built for today’s top finance teams.",
+  "Keep your finance team focused on strategy. Let agents handle the busywork.",
+  "AI that learns from your team. And gets smarter with every team that joins.",
+  "Scale the team. Shrink the paperwork.",
+  "Set user access on autopilot.",
+  "One platform for all your global spend.",
+  "We've got the receipts.",
+  "Time is money. Save both."
+ ],
+ "paras": [
+  "New: AI Token Spend Management — see, understand, and control your AI bill.",
+  "Start with your company website URL, then add any context about your business or spend challenges.",
+  "By continuing, you understand that Ramp uses AI to suggest content and acknowledge our Privacy Policy.",
+  "Ramp was built to be the single place for all the work. It just works.",
+  "Stack has finally automated what we all knew was coming with AI, but it did it in a reliable and consistent manner.",
+  "President, Specialized Accounting",
+  "Gone are the days of scrambling to chase receipts, manually coding really large data sets. All of that has been automatically addressed throughout the month in real time.",
+  "We have thousands of transactions a month, and the number of manual edits I make has dropped drastically. Ramp's AI just keeps getting smarter every week.",
+  "Get a personalized look at the busy work agents can take off your team's plate.",
+  "You had a bureaucracy. Now you have a business again."
+ ],
+ "footer": {
+  "h": 1493,
+  "text": "About us Careers Emerging talent Customers Help center Product releases Ramp for Agents Ramp Labs API documentation Versus Products Corporate cards Expense management Spend management Budgets Banking Travel Reimbursements Procurement Accounts payable Vendor management Approvals Security Trust Mobile"
+ },
+ "jsMotion": {
+  "scriptsFetched": 10,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [],
+  "staggers": [],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

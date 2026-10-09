@@ -1,0 +1,763 @@
+{
+ "url": "https://www.fondationcartier.com/",
+ "slug": "www-fondationcartier-com",
+ "analyzedAt": "2026-10-07T05:19:49.595Z",
+ "scrollHeight": 8028,
+ "pageLengthInViewports": 8.9,
+ "title": "Page d'accueil — Fondation Cartier pour l’art contemporain",
+ "metaDescription": "Bienvenue dans les nouveaux espaces de la Fondation Cartier pour l’art contemporain au 2, place du Palais-Royal à Paris.",
+ "lang": "fr",
+ "type": {
+  "loadedFonts": [
+   "Fondation normal normal"
+  ],
+  "families": [
+   [
+    "Fondation",
+    83
+   ],
+   [
+    "ui-sans-serif",
+    9
+   ]
+  ],
+  "sizes": [
+   [
+    "16px",
+    48
+   ],
+   [
+    "22px",
+    21
+   ],
+   [
+    "32px",
+    11
+   ],
+   [
+    "48px",
+    6
+   ],
+   [
+    "80px",
+    3
+   ],
+   [
+    "12px",
+    3
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    51
+   ],
+   [
+    "300",
+    41
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    72
+   ],
+   [
+    "-0.010em@32",
+    11
+   ],
+   [
+    "-0.010em@48",
+    6
+   ],
+   [
+    "-0.020em@80",
+    3
+   ]
+  ],
+  "uppercaseShare": 0,
+  "largest": [
+   {
+    "tag": "h3",
+    "text": "Ibrahim Mahama, Le Temps des récoltes",
+    "family": "Fondation",
+    "size": "80px",
+    "weight": "400",
+    "lh": "80px",
+    "ls": "-1.6px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "h3",
+    "text": "Le Temps de la parole, autour de l’exposition",
+    "family": "Fondation",
+    "size": "80px",
+    "weight": "400",
+    "lh": "80px",
+    "ls": "-1.6px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "p",
+    "text": "Week-end d’ouverture",
+    "family": "Fondation",
+    "size": "80px",
+    "weight": "400",
+    "lh": "80px",
+    "ls": "-1.6px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgba(0, 0, 0, 0.5)"
+   },
+   {
+    "tag": "h1",
+    "text": "Durant le montage de la prochaine exposition, seule La Librairie de la Fondation Cartier v",
+    "family": "Fondation",
+    "size": "48px",
+    "weight": "400",
+    "lh": "50.4px",
+    "ls": "-0.48px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "p",
+    "text": "La Fondation Cartier œuvre pour la création contemporaine à travers sa Collection, sa Prog",
+    "family": "Fondation",
+    "size": "48px",
+    "weight": "400",
+    "lh": "50.4px",
+    "ls": "-0.48px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "a",
+    "text": "Collection",
+    "family": "Fondation",
+    "size": "48px",
+    "weight": "400",
+    "lh": "50.4px",
+    "ls": "-0.48px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "a",
+    "text": "Programmation artistique",
+    "family": "Fondation",
+    "size": "48px",
+    "weight": "400",
+    "lh": "50.4px",
+    "ls": "-0.48px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "a",
+    "text": "Médiation et l’éducation",
+    "family": "Fondation",
+    "size": "48px",
+    "weight": "400",
+    "lh": "50.4px",
+    "ls": "-0.48px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "a",
+    "text": "Éditions",
+    "family": "Fondation",
+    "size": "48px",
+    "weight": "400",
+    "lh": "50.4px",
+    "ls": "-0.48px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "h2",
+    "text": "Visiter La Librairie de la Fondation Cartier",
+    "family": "Fondation",
+    "size": "32px",
+    "weight": "400",
+    "lh": "35.2px",
+    "ls": "-0.32px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "h3",
+    "text": "Raymond Hains : l’œuvre en chantier. Du Grand Louvre aux 3 Cartier",
+    "family": "Fondation",
+    "size": "32px",
+    "weight": "400",
+    "lh": "35.2px",
+    "ls": "-0.32px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "p",
+    "text": "Place du Palais-Royal",
+    "family": "Fondation",
+    "size": "32px",
+    "weight": "400",
+    "lh": "35.2px",
+    "ls": "-0.32px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgba(0, 0, 0, 0.5)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(255, 255, 255)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(0, 0, 0)",
+    83
+   ],
+   [
+    "rgba(0, 0, 0, 0.5)",
+    6
+   ],
+   [
+    "rgb(255, 255, 255)",
+    3
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgba(0, 0, 0, 0.05)",
+    15
+   ],
+   [
+    "rgba(0, 0, 0, 0.1)",
+    7
+   ],
+   [
+    "rgb(239, 239, 235)",
+    7
+   ],
+   [
+    "rgb(255, 255, 255)",
+    5
+   ],
+   [
+    "rgb(224, 223, 214)",
+    2
+   ],
+   [
+    "rgb(242, 242, 242)",
+    1
+   ],
+   [
+    "rgba(255, 255, 255, 0.85)",
+    1
+   ],
+   [
+    "rgb(103, 164, 54)",
+    1
+   ]
+  ],
+  "gradients": []
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.4,0,0.2,1)",
+    19
+   ],
+   [
+    "cubic-bezier(0.25,0.1,0.25,1)",
+    8
+   ],
+   [
+    "cubic-bezier(0,0,0.58,1)",
+    6
+   ],
+   [
+    "cubic-bezier(0,0,0.2,1)",
+    3
+   ]
+  ],
+  "durations": [
+   [
+    "0.3s",
+    19
+   ],
+   [
+    "0.15s",
+    7
+   ],
+   [
+    "0.35s",
+    6
+   ],
+   [
+    "0.5s",
+    4
+   ],
+   [
+    "1s",
+    3
+   ],
+   [
+    "0s",
+    2
+   ],
+   [
+    "1ms",
+    2
+   ],
+   [
+    "0.7s",
+    2
+   ],
+   [
+    "10ms",
+    1
+   ],
+   [
+    "0.2s",
+    1
+   ]
+  ],
+  "keyframes": []
+ },
+ "cssVarSample": {
+  "--breakpoint": "\"sm\"",
+  "--2": "unset",
+  "--3": "20px",
+  "--4": "20px",
+  "--5": "8",
+  "--6": "\"dev\"",
+  "--7": "rgba(127, 255, 255, .25)",
+  "--f": "5.625rem",
+  "--g": "3rem",
+  "--h": ".25rem",
+  "--i": ".5rem",
+  "--j": ".75rem",
+  "--k": "1rem",
+  "--l": "1.25rem",
+  "--m": "1.5rem",
+  "--n": "2rem",
+  "--o": "2.5rem",
+  "--p": "2.5rem",
+  "--q": "3.75rem",
+  "--r": "5rem",
+  "--s": "6.25rem",
+  "--t": "7.5rem",
+  "--x": "Fondation, Arial, sans-serif",
+  "--y": "var(--x)",
+  "--z": "400",
+  "--10": "3rem",
+  "--11": "105%",
+  "--12": "-.01em",
+  "--13": "var(--x)",
+  "--14": "400",
+  "--15": "3rem",
+  "--16": "105%",
+  "--17": "-.01em",
+  "--18": "var(--x)",
+  "--19": "400",
+  "--1a": "2rem",
+  "--1b": "105%",
+  "--1c": "-.01em",
+  "--1d": "var(--x)",
+  "--1e": "400",
+  "--1f": "1.75rem",
+  "--1g": "110%",
+  "--1h": "-.01em",
+  "--1i": "var(--x)",
+  "--1j": "400",
+  "--1k": "1.375rem",
+  "--1l": "120%",
+  "--1m": "var(--x)",
+  "--1n": "400",
+  "--1o": "1.25rem",
+  "--1p": "120%",
+  "--1q": "var(--x)",
+  "--1r": "400",
+  "--1s": "1.375rem",
+  "--1t": "120%",
+  "--1u": "var(--x)",
+  "--1v": "400",
+  "--1w": "1.25rem",
+  "--1x": "120%",
+  "--1y": "var(--x)",
+  "--1z": "300",
+  "--20": "1rem",
+  "--21": "137.5%",
+  "--22": "var(--x)",
+  "--23": "400",
+  "--24": "1rem",
+  "--25": "137.5%",
+  "--26": "var(--x)",
+  "--27": "300",
+  "--28": "1rem"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": false,
+  "swup": true,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 18,
+  "video": 1,
+  "svg": 26,
+  "picture": 0,
+  "iframes": 1
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 13,
+  "clipPath": 2,
+  "sticky": 2,
+  "fixed": [],
+  "customCursor": true,
+  "boxShadows": [],
+  "filters": [],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "4px",
+   18
+  ],
+  [
+   "6px",
+   9
+  ],
+  [
+   "8px",
+   3
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgba(0, 0, 0, 0.1)",
+   7
+  ],
+  [
+   "1px solid rgb(0, 0, 0)",
+   4
+  ],
+  [
+   "1px solid rgba(0, 0, 0, 0.2)",
+   1
+  ]
+ ],
+ "grids": [
+  [
+   "12cols gap 40px",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "100%",
+   6
+  ]
+ ],
+ "sideMargins": [
+  [
+   "40px",
+   14
+  ],
+  [
+   "740px",
+   8
+  ],
+  [
+   "273px",
+   4
+  ],
+  [
+   "390px",
+   3
+  ],
+  [
+   "1090px",
+   2
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "relative md:container effect-focus-within group/ca",
+   "h": 850,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "block-el block-el-featured-event",
+   "h": 995,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "block-el block-el-featured-event",
+   "h": 1102,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "block-el block-el-introexpressive block-bordered-i",
+   "h": 327,
+   "padTop": "32px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "relative md:container effect-focus-within group/ca",
+   "h": 885,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "mt-spacing-7 container",
+   "h": 439,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "container mt-48 md:mt-40",
+   "h": 52,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "sticky",
+  "height": 64,
+  "links": 21,
+  "linkTexts": [
+   "_logo\nFondation Cartier\npour l’art contemporain",
+   "Visiter",
+   "Programme",
+   "La Fondation",
+   "E-shop",
+   "Billetterie"
+  ],
+  "bg": "rgba(255, 255, 255, 0.85)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "Passer au contenu principal",
+   "bg": "rgb(242, 242, 242)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "8px",
+   "pad": "12px 24px",
+   "size": "16px",
+   "weight": "300",
+   "tt": "none",
+   "border": "none",
+   "h": 52
+  },
+  {
+   "text": "E-shop",
+   "bg": "rgba(0, 0, 0, 0.05)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "4px",
+   "pad": "5px 12px",
+   "size": "16px",
+   "weight": "300",
+   "tt": "none",
+   "border": "none",
+   "h": 32
+  },
+  {
+   "text": "Billetterie",
+   "bg": "rgba(0, 0, 0, 0.05)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "4px",
+   "pad": "5px 12px",
+   "size": "16px",
+   "weight": "300",
+   "tt": "none",
+   "border": "none",
+   "h": 32
+  },
+  {
+   "text": "Voir les détails",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "6px",
+   "pad": "8px 16px",
+   "size": "16px",
+   "weight": "300",
+   "tt": "none",
+   "border": "1px solid rgb(0, 0, 0)",
+   "h": 40
+  },
+  {
+   "text": "Voir les détails",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "6px",
+   "pad": "8px 16px",
+   "size": "16px",
+   "weight": "300",
+   "tt": "none",
+   "border": "1px solid rgb(0, 0, 0)",
+   "h": 40
+  },
+  {
+   "text": "La Fondation Cartier",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "8px",
+   "pad": "12px 24px",
+   "size": "16px",
+   "weight": "300",
+   "tt": "none",
+   "border": "1px solid rgb(0, 0, 0)",
+   "h": 52
+  },
+  {
+   "text": "Toutes les publications",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "8px",
+   "pad": "12px 24px",
+   "size": "16px",
+   "weight": "300",
+   "tt": "none",
+   "border": "1px solid rgb(0, 0, 0)",
+   "h": 52
+  }
+ ],
+ "headings": [
+  "Pendant le montage de sa prochaine exposition, les espaces sont fermés",
+  "Navigation en-tête",
+  "Durant le montage de la prochaine exposition, seule La Librairie de la Fondation Cartier vous accueille au 2, place du Palais-Royal. L’occasion de découvrir une sélection d’ouvrages, beaux livres et produits dérivés.",
+  "Visiter La Librairie de la Fondation Cartier",
+  "Ibrahim Mahama, Le Temps des récoltes",
+  "Le Temps de la parole, autour de l’exposition",
+  "Raymond Hains : l’œuvre en chantier. Du Grand Louvre aux 3 Cartier",
+  "Le Temps de la parole avec Michael Armitage",
+  "Concert en nocturne : Osei Korankye",
+  "Andrea Branzi par Toyo Ito",
+  "La Manufacture : l’espace de médiation et d’éducation par le geste",
+  "« Voir » la Fondation Cartier pour l’art contemporain",
+  "2, place du Palais-Royal, Paris",
+  "Exposition Générale",
+  "La Fondation Cartier pour l’art contemporain par Jean Nouvel",
+  "Fondation Cartier pour l’art contemporain POP UP",
+  "Fondation Cartier pour l’art contemporain by Yann Kebbi",
+  "Navigation mobile",
+  "Visiter",
+  "Programme",
+  "La Fondation"
+ ],
+ "paras": [
+  "Seule La librairie de la Fondation Cartier vous accueille du mardi au dimanche de 11h à 19h.",
+  "Accessible avec votre billet d’exposition",
+  "La Fondation Cartier œuvre pour la création contemporaine à travers sa Collection, sa Programmation artistique, son engagement pour la Médiation et l’éducation ainsi que ses Éditions.",
+  "2, place du Palais-Royal, Paris",
+  "En vous inscrivant à notre newsletter, vous acceptez notre politique de confidentialité."
+ ],
+ "footer": {
+  "h": 423,
+  "text": "Contacts Membres Presse Privatisations Changer de langue  Inscription à la newsletter → En vous inscrivant à notre newsletter, vous acceptez notre politique de confidentialité. Instagram (s’ouvre dans un nouvel onglet) Facebook (s’ouvre dans un nouvel onglet) Pinterest (s’ouvre dans un nouvel ongle"
+ },
+ "jsMotion": {
+  "scriptsFetched": 5,
+  "gsapEases": [
+   [
+    "linear",
+    1
+   ]
+  ],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    ".4",
+    2
+   ],
+   [
+    "200",
+    1
+   ],
+   [
+    "800",
+    1
+   ],
+   [
+    ".8",
+    1
+   ],
+   [
+    ".3",
+    1
+   ],
+   [
+    ".35",
+    1
+   ]
+  ],
+  "staggers": [],
+  "lenis": [],
+  "springs": [
+   [
+    "stiffness:100,damping:10",
+    1
+   ],
+   [
+    "type:\"spring\",stiffness:500,damping:25,restSpeed:10",
+    1
+   ],
+   [
+    "type:\"spring\",stiffness:550,damping:e===0?2*Math.sqrt(550):30,restSpeed:1",
+    1
+   ]
+  ],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": [
+   [
+    "[.25,.1,.35,1]",
+    1
+   ]
+  ]
+ }
+}

@@ -1,0 +1,829 @@
+{
+ "url": "https://www.rideradian.com",
+ "slug": "www-rideradian-com",
+ "analyzedAt": "2026-10-07T05:31:28.021Z",
+ "scrollHeight": 11295,
+ "pageLengthInViewports": 12.6,
+ "title": "Radian | Electric Enduro Motorcycle | Pre-Order Now",
+ "metaDescription": "We're driven to build an electric future without compromise. Driven by curiosity, shaped by engineering, and made for those who move first.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "Ibmplexmono 500 normal",
+   "Instrumentsans 500 normal",
+   "Instrumentsans 400 normal",
+   "Instrumentsans 700 normal"
+  ],
+  "families": [
+   [
+    "Instrumentsans",
+    61
+   ],
+   [
+    "Ibmplexmono",
+    5
+   ],
+   [
+    "IBM Plex Mono",
+    2
+   ]
+  ],
+  "sizes": [
+   [
+    "14px",
+    32
+   ],
+   [
+    "12px",
+    12
+   ],
+   [
+    "48px",
+    11
+   ],
+   [
+    "18px",
+    4
+   ],
+   [
+    "36px",
+    2
+   ],
+   [
+    "9px",
+    2
+   ],
+   [
+    "11px",
+    2
+   ],
+   [
+    "60px",
+    1
+   ],
+   [
+    "96px",
+    1
+   ],
+   [
+    "24px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    35
+   ],
+   [
+    "500",
+    32
+   ],
+   [
+    "700",
+    1
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "-0.009em@14",
+    27
+   ],
+   [
+    "-0.010em@12",
+    11
+   ],
+   [
+    "-0.025em@48",
+    11
+   ],
+   [
+    "-0.010em@18",
+    4
+   ],
+   [
+    "-0.010em@14",
+    3
+   ],
+   [
+    "-0.020em@14",
+    2
+   ],
+   [
+    "-0.025em@36",
+    2
+   ],
+   [
+    "-0.013em@9",
+    2
+   ],
+   [
+    "-0.011em@11",
+    2
+   ],
+   [
+    "-0.025em@60",
+    1
+   ],
+   [
+    "-0.030em@96",
+    1
+   ],
+   [
+    "normal",
+    1
+   ],
+   [
+    "-0.020em@24",
+    1
+   ]
+  ],
+  "uppercaseShare": 0.07,
+  "largest": [
+   {
+    "tag": "h2",
+    "text": "Be the first on the line",
+    "family": "Instrumentsans",
+    "size": "96px",
+    "weight": "500",
+    "lh": "105.6px",
+    "ls": "-2.88px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(245, 243, 239)"
+   },
+   {
+    "tag": "h1",
+    "text": "A new era of enduro starts here.",
+    "family": "Instrumentsans",
+    "size": "60px",
+    "weight": "500",
+    "lh": "60px",
+    "ls": "-1.5px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(245, 243, 239)"
+   },
+   {
+    "tag": "h1",
+    "text": "Radian EXR",
+    "family": "Instrumentsans",
+    "size": "48px",
+    "weight": "500",
+    "lh": "50.4px",
+    "ls": "-1.2px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(18, 23, 20)"
+   },
+   {
+    "tag": "h2",
+    "text": "Swap in 30 seconds",
+    "family": "Instrumentsans",
+    "size": "48px",
+    "weight": "500",
+    "lh": "52.8px",
+    "ls": "-1.2px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgba(18, 23, 20, 0.2)"
+   },
+   {
+    "tag": "h2",
+    "text": "Power, instantly",
+    "family": "Instrumentsans",
+    "size": "48px",
+    "weight": "500",
+    "lh": "52.8px",
+    "ls": "-1.2px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgba(18, 23, 20, 0.2)"
+   },
+   {
+    "tag": "h2",
+    "text": "Smart storage",
+    "family": "Instrumentsans",
+    "size": "48px",
+    "weight": "500",
+    "lh": "52.8px",
+    "ls": "-1.2px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgba(18, 23, 20, 0.2)"
+   },
+   {
+    "tag": "h2",
+    "text": "Ride in silence",
+    "family": "Instrumentsans",
+    "size": "48px",
+    "weight": "500",
+    "lh": "52.8px",
+    "ls": "-1.2px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgba(18, 23, 20, 0.2)"
+   },
+   {
+    "tag": "h2",
+    "text": "Less maintenance",
+    "family": "Instrumentsans",
+    "size": "48px",
+    "weight": "500",
+    "lh": "52.8px",
+    "ls": "-1.2px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgba(18, 23, 20, 0.2)"
+   },
+   {
+    "tag": "h2",
+    "text": "Tune your ride",
+    "family": "Instrumentsans",
+    "size": "48px",
+    "weight": "500",
+    "lh": "52.8px",
+    "ls": "-1.2px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgba(18, 23, 20, 0.2)"
+   },
+   {
+    "tag": "h2",
+    "text": "Confident by design",
+    "family": "Instrumentsans",
+    "size": "48px",
+    "weight": "500",
+    "lh": "52.8px",
+    "ls": "-1.2px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(18, 23, 20)"
+   },
+   {
+    "tag": "h2",
+    "text": "Some people wait for change. Others create it.",
+    "family": "Instrumentsans",
+    "size": "48px",
+    "weight": "500",
+    "lh": "50.4px",
+    "ls": "-1.2px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(245, 243, 239)"
+   },
+   {
+    "tag": "h2",
+    "text": "Built for enduro.",
+    "family": "Instrumentsans",
+    "size": "48px",
+    "weight": "500",
+    "lh": "50.4px",
+    "ls": "-1.2px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(245, 243, 239)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(245, 243, 239)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(245, 243, 239)",
+    50
+   ],
+   [
+    "rgb(18, 23, 20)",
+    7
+   ],
+   [
+    "rgba(18, 23, 20, 0.2)",
+    6
+   ],
+   [
+    "rgb(255, 255, 255)",
+    3
+   ],
+   [
+    "rgb(253, 235, 7)",
+    2
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(253, 235, 7)",
+    54
+   ],
+   [
+    "rgb(18, 23, 20)",
+    4
+   ],
+   [
+    "rgb(245, 243, 239)",
+    2
+   ],
+   [
+    "rgba(128, 128, 128, 0.15)",
+    2
+   ],
+   [
+    "rgba(0, 0, 0, 0.4)",
+    1
+   ],
+   [
+    "rgba(0, 0, 0, 0.2)",
+    1
+   ],
+   [
+    "rgba(100, 100, 100, 0.2)",
+    1
+   ],
+   [
+    "rgba(255, 255, 255, 0.15)",
+    1
+   ],
+   [
+    "rgb(255, 255, 255)",
+    1
+   ],
+   [
+    "rgb(33, 38, 35)",
+    1
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(rgba(0, 0, 0, 0), rgb(0, 0, 0))",
+    3
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.509,0.188,0.041,0.989)",
+    6
+   ],
+   [
+    "cubic-bezier(0.625,0.05,0,1)",
+    4
+   ],
+   [
+    "cubic-bezier(0.19,1,0.22,1)",
+    2
+   ]
+  ],
+  "durations": [
+   [
+    "0.2s",
+    9
+   ],
+   [
+    "0.1s",
+    7
+   ],
+   [
+    "0.3s",
+    7
+   ],
+   [
+    "0.15s",
+    3
+   ],
+   [
+    "0.4s",
+    2
+   ],
+   [
+    "0.6s",
+    2
+   ],
+   [
+    "0.8s",
+    1
+   ],
+   [
+    "0.45s",
+    1
+   ],
+   [
+    "0.35s",
+    1
+   ],
+   [
+    "0.5s",
+    1
+   ]
+  ],
+  "keyframes": [
+   "spin"
+  ]
+ },
+ "cssVarSample": {
+  "--_theme---background": "var(--_colors---swatch--off-white)",
+  "--_paragraphs---paragraph-regular--font": "var(--_fonts---fonts--paragraph)",
+  "--_theme---body-text": "var(--_colors---swatch--black)",
+  "--_paragraphs---paragraph-regular--line-height": "1.4em",
+  "--_paragraphs---paragraph-regular--font-weight": "var(--_fonts---font-weight--normal)",
+  "--_paragraphs---paragraph-regular--letter-spacing": "-.01em",
+  "--_fonts---fonts--heading": "Instrumentsans,Arial,sans-serif",
+  "--_headings---heading-xxl--font-size": "var(--_sizes---size--128px)",
+  "--_headings---heading-xxl--line-height": "1.1em",
+  "--_headings---heading-xxl--font-weight": "var(--_fonts---font-weight--medium)",
+  "--_headings---heading-xxl--letter-spacing": "-.03em",
+  "--_headings---heading-xl--font": "var(--_fonts---fonts--heading)",
+  "--_headings---heading-xl--font-size": "var(--_sizes---size--80px)",
+  "--_headings---heading-xl--font-weight": "var(--_fonts---font-weight--medium)",
+  "--_headings---heading-xl--letter-spacing": "-.025em",
+  "--_headings---heading-l--font": "var(--_fonts---fonts--heading)",
+  "--_headings---heading-l--font-size": "var(--_sizes---size--64px)",
+  "--_headings---heading-xl--line-height": "1em",
+  "--_headings---heading-l--font-weight": "var(--_fonts---font-weight--medium)",
+  "--_headings---heading-l--letter-spacing": "-.025em",
+  "--_headings---heading-m--font": "var(--_fonts---fonts--heading)",
+  "--_headings---heading-m--font-size": "var(--_sizes---size--48px)",
+  "--_headings---heading-m--line-height": ".95em",
+  "--_headings---heading-m--font-weight": "var(--_fonts---font-weight--medium)",
+  "--_headings---heading-m--letter-spacing": "-.025em",
+  "--_headings---heading-s--font": "var(--_fonts---fonts--heading)",
+  "--_headings---heading-s--font-size": "var(--_sizes---size--32px)",
+  "--_headings---heading-s--line-height": "1em",
+  "--_headings---heading-s--font-weight": "var(--_fonts---font-weight--medium)",
+  "--_headings---heading-s--letter-spacing": "-.02em",
+  "--_headings---heading-xs--font": "var(--_fonts---fonts--heading)",
+  "--_headings---heading-xs--font-size": "var(--_sizes---size--24px)",
+  "--_headings---heading-xs--line-height": "1.5em",
+  "--_headings---heading-xs--font-weight": "var(--_fonts---font-weight--medium)",
+  "--_headings---heading-xs--letter-spacing": "-.02em",
+  "--color-mode-default--body-text<deleted|variable-cb61a870-d154-a6fe-c8a0-f25e0e5af2eb>": "var(--swatch--gunmetal\\<deleted\\|variable-7aae26b0-9412-ed86-55f6-0d55abbd998f\\>",
+  "--_layout---padding-global--page-padding": "4em",
+  "--_layout---padding-global--tablet<deleted|variable-a729b81a-e434-9b17-3dd4-232b48219fba>": "1.5em",
+  "--_layout---padding-global--mobile<deleted|variable-c1796e7f-e37f-9814-266d-d39e03ff04a2>": "1rem",
+  "--_sizes---size--96px": "6em",
+  "--_sizes---size--128px": "8em",
+  "--_sizes---size--160px": "10em",
+  "--_sizes---size--224px": "14em",
+  "--_sizes---size--320px": "20em",
+  "--_sizes---size--256px": "16em",
+  "--spacing--tablet-256px<deleted|variable-916d0a3e-b68a-1e36-5438-38f6239c015c>": "12em",
+  "--spacing--mobile-256px<deleted|variable-f160f7f9-1c91-dbef-028c-2ad57aa45df6>": "6em",
+  "--spacing--tablet-224px<deleted|variable-ead628c9-5f3a-db74-2b37-4fc8c9b0460b>": "10em",
+  "--spacing--mobile-224px<deleted|variable-9855d4de-3551-ba49-c73f-35436feb24aa>": "5.25em",
+  "--_sizes---size--192px": "12em",
+  "--spacing--tablet-192px<deleted|variable-95da8060-f85f-6001-2a25-ed668e55b33d>": "8em",
+  "--spacing--mobile-192px<deleted|variable-1f8ae059-c45a-e7df-4fc9-d2f57d50172d>": "4.5em",
+  "--spacing--tablet-160px<deleted|variable-063ff5bb-51f0-efdd-5dd1-1b258dc08bac>": "7em",
+  "--spacing--mobile-160px<deleted|variable-ccbf86d9-b96d-7f3f-1a39-3ceea7a753d5>": "4.25em",
+  "--spacing--tablet-128px<deleted|variable-692abbe8-7ac6-8dfe-e5ef-0972beaccf77>": "6em",
+  "--spacing--mobile-128px<deleted|variable-deff835c-7805-b241-712d-4f21fbb7d357>": "4em",
+  "--spacing--tablet-96px<deleted|variable-358c04c2-a70a-d048-1059-a1da2e2f5b6b>": "5em",
+  "--spacing--mobile-96px<deleted|variable-fb7ae1bd-8718-b1a9-85a8-432abe81a168>": "3.5em",
+  "--_sizes---size--88px": "5.5em",
+  "--spacing--tablet-88px<deleted|variable-57d919a2-626f-7126-2870-f95a5ef58814>": "4.5em",
+  "--spacing--mobile-88px<deleted|variable-925ca50b-581c-61ff-04c2-8d4436ccc623>": "3.25em",
+  "--_sizes---size--80px": "5em",
+  "--spacing--tablet-80px<deleted|variable-4eeec3e9-fd54-e471-5943-7c004fbd4ee1>": "4em",
+  "--spacing--mobile-80px<deleted|variable-772f0a1e-b3db-6b13-4c2d-65df819a0069>": "3em",
+  "--_sizes---size--72px": "4.5em",
+  "--spacing--tablet-72px<deleted|variable-b30e677a-d534-27d1-fa19-aa0996e20938>": "3.5em",
+  "--spacing--mobile-72px<deleted|variable-cb9dd2a9-55a6-38cd-c697-89578ac94265>": "2.5em",
+  "--_sizes---size--64px": "4em",
+  "--spacing--tablet-64px<deleted|variable-3a2c49ea-a4a7-69e1-4176-c1f0ad9f624a>": "3em",
+  "--spacing--mobile-64px<deleted|variable-ea717513-d22f-2cb5-8b15-13122c8f220f>": "2em"
+ },
+ "libs": {
+  "gsap": true,
+  "scrollTrigger": true,
+  "lenis": true,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 1,
+  "barba": true,
+  "swup": false,
+  "framer": false,
+  "webflow": true,
+  "next": false,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": true,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 34,
+  "video": 8,
+  "svg": 59,
+  "picture": 0,
+  "iframes": 1
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 3,
+  "clipPath": 2,
+  "sticky": 2,
+  "fixed": [
+   "transition",
+   "navigation",
+   "bunny-lightbox",
+   "mini-showreel-lightbox"
+  ],
+  "customCursor": false,
+  "boxShadows": [
+   [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+    1
+   ],
+   [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px inset",
+    1
+   ]
+  ],
+  "filters": [],
+  "transforms3d": 0,
+  "noiseOrGrain": true,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "720px",
+   7
+  ],
+  [
+   "12px",
+   3
+  ],
+  [
+   "3px",
+   1
+  ],
+  [
+   "50%",
+   1
+  ],
+  [
+   "3.9375px",
+   1
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgb(245, 243, 239)",
+   7
+  ],
+  [
+   "1px solid rgb(18, 23, 20)",
+   5
+  ],
+  [
+   "1px solid rgb(253, 235, 7)",
+   2
+  ],
+  [
+   "1px solid rgb(51, 51, 51)",
+   2
+  ],
+  [
+   "1px solid rgba(255, 255, 255, 0.1)",
+   1
+  ]
+ ],
+ "grids": [
+  [
+   "12cols gap normal",
+   4
+  ],
+  [
+   "2cols gap normal",
+   2
+  ],
+  [
+   "3cols gap 12px",
+   1
+  ],
+  [
+   "12cols gap 16px",
+   1
+  ],
+  [
+   "2cols gap 48px",
+   1
+  ],
+  [
+   "4cols gap 12px",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "1440px",
+   9
+  ],
+  [
+   "100%",
+   3
+  ],
+  [
+   "2560px",
+   2
+  ],
+  [
+   "1760px",
+   1
+  ],
+  [
+   "1416px",
+   1
+  ]
+ ],
+ "sideMargins": [
+  [
+   "48px",
+   14
+  ],
+  [
+   "160px",
+   3
+  ],
+  [
+   "832px",
+   2
+  ],
+  [
+   "726px",
+   1
+  ],
+  [
+   "432px",
+   1
+  ],
+  [
+   "480px",
+   1
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "hero theme-dark",
+   "h": 2250,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "usp theme-light",
+   "h": 2154,
+   "padTop": "144px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "about theme-dark",
+   "h": 1125,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section-bg-wrap",
+   "h": 1125,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "enduro theme-dark",
+   "h": 3089,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "parallax__header theme-dark",
+   "h": 2250,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "section-bg-wrap",
+   "h": 2250,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "footer-wrap",
+   "h": 643,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "NAV",
+  "position": "fixed",
+  "height": 900,
+  "links": 21,
+  "linkTexts": [
+   "Discover EXR",
+   "Our story",
+   "Support",
+   "Careers",
+   "Pre-order"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [],
+ "headings": [
+  "A new era of enduro starts here.",
+  "Radian EXR",
+  "Swap in 30 seconds",
+  "Power, instantly",
+  "Smart storage",
+  "Ride in silence",
+  "Less maintenance",
+  "Tune your ride",
+  "Confident by design",
+  "Some people wait for change. Others create it.",
+  "Built for enduro.",
+  "Ready for racing",
+  "Built by engineers. Driven by riders.",
+  "Be the first on the line",
+  "Be the first on the line",
+  "Explore beyond limits.",
+  "Stay up to date with our newsletter"
+ ],
+ "paras": [
+  "Made for those driven to explore beyond limits.",
+  "We're driven to build an electric future without compromise. Driven by curiosity, shaped by engineering, and made for those who move first.",
+  "From tight forest single tracks and steep rocky climbs, to wide open terrains and long-distance races, the Radian EXR is made for the full spectrum of enduro. Electric power gives you the freedom to ride the way you want",
+  "The EXR's rapidly swappable battery removes previous limits from any race strategy. Push the pace without compromise. With premium components and a highly responsive chassis, the Radian EXR inspires confidence to ride be",
+  "This didn’t start with a market opportunity or a category trend. It began with people who love to ride and who have spent their lives building things, breaking them, and improving them. Electric technology was never unfa",
+  "The motorcycle shown is a pre-production model. Specifications and appearance may be subject to change.",
+  "The Radian EXR can now be configured and reserved in Europe. For the rest of the world, including the US, Canada and Australia, configure your EXR now and join the interest list! If you're ready to ride electric without ",
+  "From €14,450 - Reserve now for €99"
+ ],
+ "footer": {
+  "h": 643,
+  "text": "Explore beyond limits. Pre-order now MENU Home EXR Technical specs Our story Support / FAQ Careers Download press kit SOCIALS Instagram Facebook TikTok YouTube 00:00 / 00:00 Play release video 2:56 Stay up to date with our newsletter Subscribe © 2026 | Radian Terms & conditions Privacy policy Privac"
+ },
+ "jsMotion": {
+  "scriptsFetched": 25,
+  "gsapEases": [
+   [
+    "none",
+    1
+   ],
+   [
+    "expo",
+    1
+   ],
+   [
+    "power4",
+    1
+   ]
+  ],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "0",
+    68
+   ],
+   [
+    "500",
+    39
+   ],
+   [
+    "300",
+    25
+   ],
+   [
+    "600",
+    4
+   ],
+   [
+    "400",
+    2
+   ],
+   [
+    ".5",
+    1
+   ]
+  ],
+  "staggers": [
+   [
+    "0",
+    2
+   ]
+  ],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

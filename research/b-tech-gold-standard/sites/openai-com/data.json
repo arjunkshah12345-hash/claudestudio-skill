@@ -1,0 +1,796 @@
+{
+ "url": "https://openai.com",
+ "slug": "openai-com",
+ "analyzedAt": "2026-10-07T05:17:48.729Z",
+ "scrollHeight": 6312,
+ "pageLengthInViewports": 7,
+ "title": "OpenAI | Research & Deployment",
+ "metaDescription": "We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems.",
+ "lang": "en-US",
+ "type": {
+  "loadedFonts": [
+   "OpenAI Sans 400 normal",
+   "OpenAI Sans 500 normal",
+   "OpenAI Sans 600 normal"
+  ],
+  "families": [
+   [
+    "OpenAI Sans",
+    165
+   ]
+  ],
+  "sizes": [
+   [
+    "13px",
+    81
+   ],
+   [
+    "14px",
+    48
+   ],
+   [
+    "18px",
+    18
+   ],
+   [
+    "17px",
+    10
+   ],
+   [
+    "22px",
+    4
+   ],
+   [
+    "48px",
+    2
+   ],
+   [
+    "28px",
+    1
+   ],
+   [
+    "16px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "500",
+    153
+   ],
+   [
+    "400",
+    11
+   ],
+   [
+    "600",
+    1
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    129
+   ],
+   [
+    "-0.010em@18",
+    18
+   ],
+   [
+    "-0.010em@17",
+    10
+   ],
+   [
+    "-0.010em@22",
+    4
+   ],
+   [
+    "-0.030em@48",
+    2
+   ],
+   [
+    "0.011em@28",
+    1
+   ],
+   [
+    "-0.010em@16",
+    1
+   ]
+  ],
+  "uppercaseShare": 0,
+  "largest": [
+   {
+    "tag": "h2",
+    "text": "Introducing Dots",
+    "family": "OpenAI Sans",
+    "size": "48px",
+    "weight": "500",
+    "lh": "55.68px",
+    "ls": "-1.44px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "span",
+    "text": "Get started with ChatGPT",
+    "family": "OpenAI Sans",
+    "size": "48px",
+    "weight": "500",
+    "lh": "55.68px",
+    "ls": "-1.44px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "span",
+    "text": "What can I help with?",
+    "family": "OpenAI Sans",
+    "size": "28px",
+    "weight": "600",
+    "lh": "34px",
+    "ls": "0.3px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "h2",
+    "text": "Recent news",
+    "family": "OpenAI Sans",
+    "size": "22px",
+    "weight": "500",
+    "lh": "27.72px",
+    "ls": "-0.22px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "h2",
+    "text": "Stories",
+    "family": "OpenAI Sans",
+    "size": "22px",
+    "weight": "500",
+    "lh": "27.72px",
+    "ls": "-0.22px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "h2",
+    "text": "Latest research",
+    "family": "OpenAI Sans",
+    "size": "22px",
+    "weight": "500",
+    "lh": "27.72px",
+    "ls": "-0.22px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "h2",
+    "text": "OpenAI for business",
+    "family": "OpenAI Sans",
+    "size": "22px",
+    "weight": "500",
+    "lh": "27.72px",
+    "ls": "-0.22px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "div",
+    "text": "Introducing GPT-6.1 Sol",
+    "family": "OpenAI Sans",
+    "size": "18px",
+    "weight": "500",
+    "lh": "23.76px",
+    "ls": "-0.18px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "div",
+    "text": "DevDay 2026 Recap",
+    "family": "OpenAI Sans",
+    "size": "18px",
+    "weight": "500",
+    "lh": "23.76px",
+    "ls": "-0.18px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "div",
+    "text": "Introducing MentalHealthBench",
+    "family": "OpenAI Sans",
+    "size": "18px",
+    "weight": "500",
+    "lh": "23.76px",
+    "ls": "-0.18px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "div",
+    "text": "Advancing computer use with Ironclad",
+    "family": "OpenAI Sans",
+    "size": "18px",
+    "weight": "500",
+    "lh": "23.76px",
+    "ls": "-0.18px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "div",
+    "text": "Atlassian and OpenAI expand their partnership",
+    "family": "OpenAI Sans",
+    "size": "18px",
+    "weight": "500",
+    "lh": "23.76px",
+    "ls": "-0.18px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(255, 255, 255)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(0, 0, 0)",
+    126
+   ],
+   [
+    "rgba(0, 0, 0, 0.6)",
+    37
+   ],
+   [
+    "rgb(255, 255, 255)",
+    2
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgba(0, 0, 0, 0.12)",
+    19
+   ],
+   [
+    "rgba(0, 0, 0, 0.04)",
+    4
+   ],
+   [
+    "rgb(255, 255, 255)",
+    2
+   ],
+   [
+    "rgb(241, 241, 241)",
+    2
+   ],
+   [
+    "rgb(0, 0, 0)",
+    1
+   ]
+  ],
+  "gradients": []
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(.17,.17,.3,1)",
+    16
+   ],
+   [
+    "cubic-bezier(0.22,1,0.36,1)",
+    11
+   ],
+   [
+    "cubic-bezier(.16,1,.3,1)",
+    9
+   ],
+   [
+    "cubic-bezier(.4,0,.2,1)",
+    9
+   ],
+   [
+    "cubic-bezier(.22,1,.36,1)",
+    9
+   ],
+   [
+    "cubic-bezier(0.33,1,0.68,1)",
+    8
+   ],
+   [
+    "cubic-bezier(0,0,0.2,1)",
+    7
+   ],
+   [
+    "cubic-bezier(0.16,1,0.3,1)",
+    7
+   ],
+   [
+    "cubic-bezier(0.333333,0,0.666667,1)",
+    6
+   ],
+   [
+    "cubic-bezier(0,0,.2,1)",
+    6
+   ],
+   [
+    "cubic-bezier(0.23,1,0.32,1)",
+    6
+   ],
+   [
+    "cubic-bezier(0.4,0,0.2,1)",
+    6
+   ]
+  ],
+  "durations": [
+   [
+    "0s",
+    110
+   ],
+   [
+    "0.3s",
+    45
+   ],
+   [
+    "0.2s",
+    42
+   ],
+   [
+    "0.15s",
+    23
+   ],
+   [
+    "0.01ms",
+    20
+   ],
+   [
+    "1s",
+    15
+   ],
+   [
+    "0.18s",
+    11
+   ],
+   [
+    "0.35s",
+    10
+   ],
+   [
+    "0.36s",
+    10
+   ],
+   [
+    "0.28s",
+    10
+   ]
+  ],
+  "keyframes": [
+   "Popover-module__8VsZRG__enter",
+   "Popover-module__8VsZRG__exit",
+   "ArchitectureToggletip-module__uaZ1Ka__panel-enter",
+   "ArchitectureToggletip-module__uaZ1Ka__panel-exit",
+   "CarouselNavProgressIndicator-module__ZZI3eW__carousel-nav-progress-fill",
+   "CarouselNavProgressIndicator-module__ZZI3eW__carousel-nav-progress-fade",
+   "AnimatedIntroHero-module__vf-vRW__animated-intro-word-reveal",
+   "AnimatedIntroHero-module__vf-vRW__animated-intro-color-flash",
+   "AnimatedIntroHero-module__vf-vRW__animated-intro-fade-rise",
+   "WindowAperture-module__5ARnhq__reveal-complete-response",
+   "WindowAperture-module__5ARnhq__hide-response-half",
+   "WindowAperture-module__5ARnhq__close-bar-left",
+   "WindowAperture-module__5ARnhq__close-bar-right",
+   "WindowAperture-module__5ARnhq__join-response-left",
+   "WindowAperture-module__5ARnhq__join-response-right",
+   "Tab-module__NIBANa__tab-countdown",
+   "SupplyDrawerContentTransition-module__3l0r5q__supply-drawer-loading-sweep",
+   "accordion-progress",
+   "fade-in",
+   "fade-out"
+  ]
+ },
+ "cssVarSample": {
+  "--color-primitive-blue-25": "#f6fafe",
+  "--color-primitive-blue-50": "#e8f3fe",
+  "--color-primitive-blue-75": "#d1e5fd",
+  "--color-primitive-blue-100": "#a4cdfb",
+  "--color-primitive-blue-200": "#63a8f8",
+  "--color-primitive-blue-300": "#539af8",
+  "--color-primitive-blue-400": "#3a83f7",
+  "--color-primitive-blue-500": "#2c67c5",
+  "--color-primitive-blue-600": "#1f4e94",
+  "--color-primitive-blue-700": "#173e76",
+  "--color-primitive-blue-800": "#133463",
+  "--color-primitive-blue-900": "#0c274a",
+  "--color-primitive-blue-1000": "#020d18",
+  "--color-primitive-purple-25": "#f8f5fd",
+  "--color-primitive-purple-50": "#ede5fc",
+  "--color-primitive-purple-75": "#ddcffa",
+  "--color-primitive-purple-100": "#c9b1f6",
+  "--color-primitive-purple-200": "#b897f4",
+  "--color-primitive-purple-300": "#a67df2",
+  "--color-primitive-purple-400": "#8952ee",
+  "--color-primitive-purple-500": "#7849d1",
+  "--color-primitive-purple-600": "#643cae",
+  "--color-primitive-purple-700": "#4e2f88",
+  "--color-primitive-purple-800": "#3b2366",
+  "--color-primitive-purple-900": "#291947",
+  "--color-primitive-purple-1000": "#0f0a18",
+  "--color-primitive-pink-25": "#fef8fb",
+  "--color-primitive-pink-50": "#fdedf4",
+  "--color-primitive-pink-75": "#fcd8e7",
+  "--color-primitive-pink-100": "#fbbfd7",
+  "--color-primitive-pink-200": "#f8a6c8",
+  "--color-primitive-pink-300": "#f68ebc",
+  "--color-primitive-pink-400": "#f077af",
+  "--color-primitive-pink-500": "#cf6194",
+  "--color-primitive-pink-600": "#ab4f7a",
+  "--color-primitive-pink-700": "#873e60",
+  "--color-primitive-pink-800": "#663049",
+  "--color-primitive-pink-900": "#462132",
+  "--color-primitive-pink-1000": "#1d0f15",
+  "--color-primitive-orange-25": "#fdf5f1",
+  "--color-primitive-orange-50": "#fbe8db",
+  "--color-primitive-orange-75": "#f7d1b8",
+  "--color-primitive-orange-100": "#f4ba96",
+  "--color-primitive-orange-200": "#f1a275",
+  "--color-primitive-orange-300": "#ef8b57",
+  "--color-primitive-orange-400": "#ee7c37",
+  "--color-primitive-orange-500": "#d25e28",
+  "--color-primitive-orange-600": "#ac4f23",
+  "--color-primitive-orange-700": "#87401d",
+  "--color-primitive-orange-800": "#653218",
+  "--color-primitive-orange-900": "#45240d",
+  "--color-primitive-orange-1000": "#1f1209",
+  "--color-primitive-yellow-25": "#fefbee",
+  "--color-primitive-yellow-50": "#fdf6dc",
+  "--color-primitive-yellow-75": "#fcefbe",
+  "--color-primitive-yellow-100": "#fae598",
+  "--color-primitive-yellow-200": "#f9dc78",
+  "--color-primitive-yellow-300": "#f8d45d",
+  "--color-primitive-yellow-400": "#f6c543",
+  "--color-primitive-yellow-500": "#d9a337",
+  "--color-primitive-yellow-600": "#b8802b",
+  "--color-primitive-yellow-700": "#95611f",
+  "--color-primitive-yellow-800": "#734615",
+  "--color-primitive-yellow-900": "#51300c",
+  "--color-primitive-yellow-1000": "#221403",
+  "--color-primitive-green-25": "#effaf3",
+  "--color-primitive-green-50": "#def3e5",
+  "--color-primitive-green-75": "#c2eace",
+  "--color-primitive-green-100": "#9fddb1",
+  "--color-primitive-green-200": "#83d197"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": true,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 20,
+  "video": 0,
+  "svg": 38,
+  "picture": 0,
+  "iframes": 1
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 3,
+  "clipPath": 27,
+  "sticky": 2,
+  "fixed": [
+   "group/header-bar inset-x-0 top-0 flex h-header-h items-start",
+   "absolute inset-s-0 top-0 size-full transition-[background-co"
+  ],
+  "customCursor": true,
+  "boxShadows": [
+   [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.02) 0px 4px 6px 0px, rgba(0, 0, 0, 0.05) 0px 0px 2px 0px",
+    5
+   ],
+   [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.04) 0px 3px 6px 0px, rgba(0, 0, 0, 0.04) 0px 4px 80px 8px, rgba(0, 0, 0, 0.62) 0px 0px 1px 0px",
+    1
+   ]
+  ],
+  "filters": [],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "6.08px",
+   20
+  ],
+  [
+   "9999px",
+   10
+  ],
+  [
+   "4px",
+   4
+  ],
+  [
+   "40px",
+   3
+  ],
+  [
+   "24px",
+   1
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgba(0, 0, 0, 0.12)",
+   5
+  ]
+ ],
+ "grids": [
+  [
+   "3cols gap 24px",
+   3
+  ],
+  [
+   "1cols gap normal",
+   2
+  ],
+  [
+   "4cols gap 24px",
+   1
+  ],
+  [
+   "1cols gap 16px",
+   1
+  ],
+  [
+   "2cols gap 24px",
+   1
+  ],
+  [
+   "12cols gap 24px",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "1440px",
+   16
+  ],
+  [
+   "100%",
+   2
+  ],
+  [
+   "768px",
+   1
+  ]
+ ],
+ "sideMargins": [
+  [
+   "32px",
+   9
+  ],
+  [
+   "1082px",
+   3
+  ],
+  [
+   "249px",
+   3
+  ],
+  [
+   "949px",
+   3
+  ],
+  [
+   "499px",
+   3
+  ],
+  [
+   "965px",
+   3
+  ]
+ ],
+ "sections": [],
+ "nav": {
+  "tag": "HEADER",
+  "position": "static",
+  "height": 0,
+  "links": 9,
+  "linkTexts": [
+   "Skip to main content",
+   "Research",
+   "Products",
+   "Business",
+   "Developers",
+   "Company",
+   "Foundation\n(opens in a new window)",
+   "Log in",
+   "Try ChatGPT\n(opens in a new window)",
+   "Research",
+   "Products",
+   "Business",
+   "Developers",
+   "Company"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "Log in",
+   "bg": "rgba(0, 0, 0, 0.04)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "40px",
+   "pad": "0px 20px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 36
+  },
+  {
+   "text": "Try ChatGPT (opens in a new window)",
+   "bg": "rgb(0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "40px",
+   "pad": "0px 20px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 36
+  },
+  {
+   "text": "Learn about ChatGPT Business",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "9999px",
+   "pad": "0px 12px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0.12)",
+   "h": 40
+  },
+  {
+   "text": "Talk with ChatGPT",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "9999px",
+   "pad": "0px 12px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0.12)",
+   "h": 40
+  },
+  {
+   "text": "Research",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "9999px",
+   "pad": "0px 12px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0.12)",
+   "h": 40
+  },
+  {
+   "text": "API Platform",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "9999px",
+   "pad": "0px 12px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0.12)",
+   "h": 40
+  },
+  {
+   "text": "More",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgba(0, 0, 0, 0.6)",
+   "radius": "9999px",
+   "pad": "0px 12px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0.12)",
+   "h": 40
+  },
+  {
+   "text": "Download",
+   "bg": "rgba(0, 0, 0, 0.04)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "40px",
+   "pad": "0px 20px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 40
+  },
+  {
+   "text": "English United States",
+   "bg": "rgb(241, 241, 241)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "9999px",
+   "pad": "0px 20px 0px 18px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 40
+  }
+ ],
+ "headings": [
+  "Introducing Dots",
+  "Introducing Dots",
+  "Recent news",
+  "Stories",
+  "Latest research",
+  "OpenAI for business",
+  "Get started with ChatGPT"
+ ],
+ "paras": [],
+ "footer": {
+  "h": 688,
+  "text": "Research Research Index Research Overview Economic Research Latest Advancements GPT-6.1 Sol GPT-6 Astra GPT-5.6 GPT-5.5 Safety Safety Approach Deployment Safety (opens in a new window) Security & Privacy Trust & Transparency Products ChatGPT (opens in a new window) ChatGPT Business (opens in a new w"
+ },
+ "jsMotion": {
+  "scriptsFetched": 25,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "0",
+    3
+   ]
+  ],
+  "staggers": [],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

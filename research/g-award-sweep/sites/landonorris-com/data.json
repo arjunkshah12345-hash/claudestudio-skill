@@ -1,0 +1,1042 @@
+{
+ "url": "https://landonorris.com",
+ "slug": "landonorris-com",
+ "analyzedAt": "2026-10-07T05:24:34.786Z",
+ "scrollHeight": 11335,
+ "pageLengthInViewports": 12.6,
+ "title": "McLaren Formula 1 Driver — Lando Norris",
+ "metaDescription": "Official hub for British racing star Lando Norris: breaking news, 2025 race wins, exclusive merch, videos and behind-the-scenes access.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "Brier 700 normal",
+   "Mona Sans Variable 200 900 normal"
+  ],
+  "families": [
+   [
+    "Mona Sans Variable",
+    92
+   ],
+   [
+    "Brier",
+    17
+   ]
+  ],
+  "sizes": [
+   [
+    "12px",
+    32
+   ],
+   [
+    "8px",
+    18
+   ],
+   [
+    "17px",
+    10
+   ],
+   [
+    "13px",
+    10
+   ],
+   [
+    "25px",
+    8
+   ],
+   [
+    "20px",
+    4
+   ],
+   [
+    "93px",
+    4
+   ],
+   [
+    "60px",
+    4
+   ],
+   [
+    "110px",
+    3
+   ],
+   [
+    "98px",
+    2
+   ],
+   [
+    "63px",
+    2
+   ],
+   [
+    "27px",
+    2
+   ],
+   [
+    "73px",
+    2
+   ],
+   [
+    "10px",
+    2
+   ],
+   [
+    "14px",
+    1
+   ],
+   [
+    "38px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "700",
+    38
+   ],
+   [
+    "400",
+    32
+   ],
+   [
+    "800",
+    22
+   ],
+   [
+    "600",
+    17
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    76
+   ],
+   [
+    "-0.010em@17",
+    7
+   ],
+   [
+    "0.033em@20",
+    4
+   ],
+   [
+    "-0.036em@93",
+    4
+   ],
+   [
+    "-0.028em@60",
+    4
+   ],
+   [
+    "-0.023em@110",
+    3
+   ],
+   [
+    "-0.030em@98",
+    2
+   ],
+   [
+    "-0.027em@63",
+    2
+   ],
+   [
+    "0.025em@27",
+    2
+   ],
+   [
+    "-0.023em@73",
+    2
+   ],
+   [
+    "-0.008em@106",
+    1
+   ],
+   [
+    "-0.009em@15",
+    1
+   ],
+   [
+    "-0.001em@70",
+    1
+   ]
+  ],
+  "uppercaseShare": 0.56,
+  "largest": [
+   {
+    "tag": "strong",
+    "text": "REDEFINING",
+    "family": "Brier",
+    "size": "110px",
+    "weight": "700",
+    "lh": "91.3px",
+    "ls": "-2.5px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(178, 199, 58)"
+   },
+   {
+    "tag": "strong",
+    "text": "WINS",
+    "family": "Brier",
+    "size": "110px",
+    "weight": "700",
+    "lh": "91.3px",
+    "ls": "-2.5px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(178, 199, 58)"
+   },
+   {
+    "tag": "strong",
+    "text": "LEGACY",
+    "family": "Brier",
+    "size": "110px",
+    "weight": "700",
+    "lh": "91.3px",
+    "ls": "-2.5px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(178, 199, 58)"
+   },
+   {
+    "tag": "div",
+    "text": "REDEFINING LIMITS, FIGHTING FOR WINS, BRINGING IT ALL IN ALL WAYS. DEFINING A LEGACY IN FO",
+    "family": "Mona Sans Variable",
+    "size": "105.833px",
+    "weight": "400",
+    "lh": "95.25px",
+    "ls": "-0.833333px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(221, 225, 210)"
+   },
+   {
+    "tag": "h2",
+    "text": "ON",
+    "family": "Brier",
+    "size": "97.5px",
+    "weight": "700",
+    "lh": "78.975px",
+    "ls": "-2.91667px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(40, 44, 32)"
+   },
+   {
+    "tag": "h2",
+    "text": "OFF",
+    "family": "Brier",
+    "size": "97.5px",
+    "weight": "700",
+    "lh": "78.975px",
+    "ls": "-2.91667px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(40, 44, 32)"
+   },
+   {
+    "tag": "h2",
+    "text": "TRACK",
+    "family": "Mona Sans Variable",
+    "size": "93.3333px",
+    "weight": "700",
+    "lh": "79.3333px",
+    "ls": "-3.33333px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(40, 44, 32)"
+   },
+   {
+    "tag": "h2",
+    "text": "WORLD DRIVERS' CHAMPION",
+    "family": "Mona Sans Variable",
+    "size": "93.3333px",
+    "weight": "700",
+    "lh": "76.16px",
+    "ls": "-3.33333px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(40, 44, 32)"
+   },
+   {
+    "tag": "span",
+    "text": "CHAMPION",
+    "family": "Brier",
+    "size": "93.3333px",
+    "weight": "700",
+    "lh": "75.6px",
+    "ls": "-3.33333px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(40, 44, 32)"
+   },
+   {
+    "tag": "span",
+    "text": "BRINGING",
+    "family": "Brier",
+    "size": "72.5px",
+    "weight": "700",
+    "lh": "62.06px",
+    "ls": "-1.66667px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(178, 199, 58)"
+   },
+   {
+    "tag": "span",
+    "text": "FIGHT",
+    "family": "Brier",
+    "size": "72.5px",
+    "weight": "700",
+    "lh": "62.06px",
+    "ls": "-1.66667px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(178, 199, 58)"
+   },
+   {
+    "tag": "h2",
+    "text": "ALWAYS BRINGING THE FIGHT.",
+    "family": "Mona Sans Variable",
+    "size": "70px",
+    "weight": "700",
+    "lh": "59.92px",
+    "ls": "-0.0625px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(244, 244, 237)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(40, 44, 32)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(244, 244, 237)",
+    29
+   ],
+   [
+    "rgb(40, 44, 32)",
+    24
+   ],
+   [
+    "rgb(210, 255, 0)",
+    18
+   ],
+   [
+    "rgb(83, 84, 80)",
+    10
+   ],
+   [
+    "rgb(17, 17, 18)",
+    9
+   ],
+   [
+    "rgb(180, 184, 165)",
+    8
+   ],
+   [
+    "rgb(178, 199, 58)",
+    6
+   ],
+   [
+    "rgb(221, 225, 210)",
+    4
+   ],
+   [
+    "rgb(185, 187, 173)",
+    1
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(210, 255, 0)",
+    7
+   ],
+   [
+    "rgb(0, 0, 0)",
+    7
+   ],
+   [
+    "rgb(17, 17, 18)",
+    2
+   ],
+   [
+    "rgb(83, 84, 80)",
+    1
+   ],
+   [
+    "rgb(244, 244, 237)",
+    1
+   ],
+   [
+    "rgb(40, 44, 32)",
+    1
+   ]
+  ],
+  "gradients": [
+   [
+    "radial-gradient(circle at 50% -190%, rgba(210, 255, 0, 0) 68%, rgb(210, 255, 0) 83%)",
+    1
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.19,1,0.22,1)",
+    1
+   ],
+   [
+    "cubic-bezier(0.65,0.05,0,1)",
+    1
+   ]
+  ],
+  "durations": [
+   [
+    "0.1s",
+    7
+   ],
+   [
+    "30s",
+    2
+   ],
+   [
+    "0.3s",
+    1
+   ],
+   [
+    "0.8s",
+    1
+   ],
+   [
+    "0.2s",
+    1
+   ],
+   [
+    "0.6s",
+    1
+   ]
+  ],
+  "keyframes": [
+   "spin",
+   "translateXLeft",
+   "translateXRight"
+  ]
+ },
+ "cssVarSample": {
+  "--color--dark-green": "#282c20",
+  "--color--white": "#f4f4ed",
+  "--padding--container": "1.25rem",
+  "--gap": "1.25rem",
+  "--on-t-nav-spacer": "5.375rem",
+  "--color--black": "#111112",
+  "--text--h1": "4rem",
+  "--padding--xlarge": "5rem",
+  "--padding--med": "3rem",
+  "--gap--med<deleted|variable-196f1660-85b7-2eda-5ec8-e43ca0f5032d>": "2rem",
+  "--color--lime-off": "#b2c73a",
+  "--color--lime": "#d2ff00",
+  "--color--green-off-white-1": "#dde1d2",
+  "--color--lime-zero": "#d2ff0000",
+  "--text--btn-primary": "1rem",
+  "--text--btn-nav": "1.25rem",
+  "--text--btn-footer": "1.875rem",
+  "--color--green-off-white-2": "#b4b8a5",
+  "--color--dark-green-tint-2": "#535450",
+  "--color--grey-on-track": "#b9bbad",
+  "--text--impact": "7.9375rem",
+  "--grid-spacer": "31.51vh",
+  "--color--dark-green-tint-1": "#3b3c38",
+  "--padding--small": "2rem",
+  "--color--grey-1": "#ebeee0",
+  "--color--green-light": "#ebeee0",
+  "--text--h2": "4.5rem",
+  "--text--h3": "2rem",
+  "--text--h4": "1.5rem",
+  "--text--h5": "1.2rem",
+  "--text--h6": "1rem",
+  "--padding--mini": "1rem",
+  "--padding--large": "4rem",
+  "--radius--small": "1rem",
+  "--radius--med": "3rem",
+  "--radius--large": "6.25rem",
+  "--vh": "1vh",
+  "--max-vh": "100vh",
+  "--grid-col": "25.4375rem",
+  "--oval-side-offset": "3rem",
+  "--poduim-offset": "-17.5rem",
+  "--text--reg": "1.6rem",
+  "--text--med": "2.76rem",
+  "--text--btn-tertiary": ".875px",
+  "--text--eyebrow": ".578125rem",
+  "--color--cream": "#efefe5",
+  "--color--grey-2": "#c8cbbd",
+  "--color--orange": "#ff6b00",
+  "--cubic-default": "cubic-bezier(0.65, 0.05, 0, 1)",
+  "--duration-default": "0.75s",
+  "--animation-default": "var(--duration-default) var(--cubic-default)",
+  "--section-padding": "calc(3.5rem + (var(--gap) * 2))",
+  "--container-padding": "2rem",
+  "--nav-height": "calc(3.75rem (var(--gap) * 2))",
+  "--min-width": "992px",
+  "--max-width": "1920px",
+  "--design-width": "1728",
+  "--design-unit": "16",
+  "--scale-factor": "1",
+  "--fluid-container": "clamp(var(--min-width), 100vw, var(--max-width))",
+  "--fluid-font": "calc(var(--fluid-container) / var(--design-width) * var(--design-unit) * var(--s"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 20,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": true,
+  "next": false,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": true,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 133,
+  "video": 0,
+  "svg": 85,
+  "picture": 0,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [
+   [
+    "saturation",
+    5
+   ],
+   [
+    "plus-lighter",
+    5
+   ],
+   [
+    "difference",
+    1
+   ]
+  ],
+  "backdropFilter": 0,
+  "clipPath": 49,
+  "sticky": 4,
+  "fixed": [
+   "nav",
+   "transition-w",
+   "gl-wrap w-embed",
+   "gl-background"
+  ],
+  "customCursor": false,
+  "boxShadows": [],
+  "filters": [],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "7.2px",
+   7
+  ],
+  [
+   "9.86667px",
+   1
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgb(210, 255, 0)",
+   7
+  ],
+  [
+   "1px solid rgb(180, 184, 165)",
+   1
+  ]
+ ],
+ "grids": [
+  [
+   "4cols gap 16.6667px",
+   4
+  ]
+ ],
+ "containers": [
+  [
+   "1440px",
+   8
+  ],
+  [
+   "100%",
+   2
+  ],
+  [
+   "800px",
+   1
+  ],
+  [
+   "1068px",
+   1
+  ],
+  [
+   "1066.67px",
+   1
+  ]
+ ],
+ "sideMargins": [
+  [
+   "17px",
+   4
+  ],
+  [
+   "745px",
+   3
+  ],
+  [
+   "0px",
+   2
+  ],
+  [
+   "412px",
+   2
+  ],
+  [
+   "713px",
+   2
+  ],
+  [
+   "147px",
+   2
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "taxi-w",
+   "h": 11335,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "s home-hero",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "s home-marquee",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "s",
+   "h": 1027,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "s is-horizontal-track",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "s is-otot-home",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "s is-otot-end",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "s home-helmets",
+   "h": 1697,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "s",
+   "h": 476,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "s is-lando-exe",
+   "h": 907,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "s is-home-collabs",
+   "h": 796,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "s is-callout-socials",
+   "h": 964,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "s is-footer",
+   "h": 967,
+   "padTop": "0px",
+   "bg": "rgb(244, 244, 237)"
+  }
+ ],
+ "nav": null,
+ "ctas": [
+  {
+   "text": "STORE",
+   "bg": "rgb(210, 255, 0)",
+   "color": "rgb(40, 44, 32)",
+   "radius": "7.2px",
+   "pad": "0px 13.3333px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(210, 255, 0)",
+   "h": 50
+  },
+  {
+   "text": "LOAD NORRIS",
+   "bg": "rgb(210, 255, 0)",
+   "color": "rgb(40, 44, 32)",
+   "radius": "7.2px",
+   "pad": "0px 13.3333px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(210, 255, 0)",
+   "h": 40
+  },
+  {
+   "text": "VIEW ON TRACK",
+   "bg": "rgb(210, 255, 0)",
+   "color": "rgb(40, 44, 32)",
+   "radius": "7.2px",
+   "pad": "0px 13.3333px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(210, 255, 0)",
+   "h": 40
+  },
+  {
+   "text": "VISIT THE STORE",
+   "bg": "rgb(210, 255, 0)",
+   "color": "rgb(40, 44, 32)",
+   "radius": "7.2px",
+   "pad": "0px 13.3333px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(210, 255, 0)",
+   "h": 40
+  },
+  {
+   "text": "BUSINESS ENQUIRIES",
+   "bg": "rgb(210, 255, 0)",
+   "color": "rgb(40, 44, 32)",
+   "radius": "7.2px",
+   "pad": "0px 13.3333px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(210, 255, 0)",
+   "h": 40
+  }
+ ],
+ "headings": [
+  "LANDO NORRIS",
+  "2025 MCLAREN FORMULA 1 DRIVER",
+  "ON",
+  "TRACK",
+  "OFF",
+  "TRACK",
+  "HELMETS",
+  "HALL OF FAME",
+  "Season",
+  "Discoball",
+  "Dark Glitter",
+  "Season",
+  "Porcelain",
+  "Japan",
+  "GIF",
+  "Dark Mode",
+  "Race",
+  "Las Vegas",
+  "Chrome",
+  "Beachball",
+  "Basketball",
+  "Season",
+  "Silverstone",
+  "Season",
+  "WORLD DRIVERS' CHAMPION"
+ ],
+ "paras": [
+  "Most recent results, career stats and photos from trackside.",
+  "Campaigns, shoots and other such promotional materials for fans",
+  "From his iconic blobs to innovative one-off designs, Lando has always been passionate about designing innovative and memorable helmets.",
+  "Celebrate this incredible moment with a collection designed for the fans who never stopped believing. Wear it, frame it, treasure it forever.",
+  "Lando is proud to collaborate with a range of partners, who share his passion for performance across a range of industries."
+ ],
+ "footer": null,
+ "jsMotion": {
+  "scriptsFetched": 5,
+  "gsapEases": [
+   [
+    "power2.out",
+    36
+   ],
+   [
+    "none",
+    17
+   ],
+   [
+    "power2.inOut",
+    15
+   ],
+   [
+    "expo.inOut",
+    12
+   ],
+   [
+    "power1.inOut",
+    11
+   ],
+   [
+    "power3.out",
+    10
+   ],
+   [
+    "expo.in",
+    5
+   ],
+   [
+    "expo.out",
+    5
+   ],
+   [
+    "elastic.out(1, 0.75)",
+    5
+   ],
+   [
+    "power2.in",
+    4
+   ],
+   [
+    "power1.in",
+    3
+   ],
+   [
+    "power4.inOut",
+    2
+   ],
+   [
+    "power1.out",
+    2
+   ],
+   [
+    "back.inOut",
+    2
+   ],
+   [
+    "power4",
+    1
+   ]
+  ],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "0.5",
+    21
+   ],
+   [
+    "2",
+    19
+   ],
+   [
+    "0.6",
+    14
+   ],
+   [
+    "0.3",
+    11
+   ],
+   [
+    "1",
+    6
+   ],
+   [
+    "1.5",
+    6
+   ],
+   [
+    "0.8",
+    6
+   ],
+   [
+    "2.5",
+    4
+   ],
+   [
+    "0.4",
+    4
+   ],
+   [
+    "0.2",
+    4
+   ],
+   [
+    "0",
+    3
+   ],
+   [
+    "0.25",
+    3
+   ],
+   [
+    "1.2",
+    2
+   ],
+   [
+    "1.7",
+    1
+   ],
+   [
+    "0.7",
+    1
+   ]
+  ],
+  "staggers": [
+   [
+    "0.02",
+    7
+   ],
+   [
+    "0.015",
+    5
+   ],
+   [
+    "0.03",
+    3
+   ],
+   [
+    "0",
+    2
+   ],
+   [
+    "0.05",
+    2
+   ],
+   [
+    "{amount:0.015*W.length,from:\"center\"}",
+    1
+   ],
+   [
+    "{amount:0.5,from:\"end\"}",
+    1
+   ],
+   [
+    "{amount:0.2,from:\"center\"}",
+    1
+   ],
+   [
+    "0.06",
+    1
+   ],
+   [
+    "0.08",
+    1
+   ]
+  ],
+  "lenis": [
+   [
+    "smoothWheel:E",
+    2
+   ],
+   [
+    "wheelMultiplier:1",
+    1
+   ],
+   [
+    "lerp:0.1",
+    1
+   ],
+   [
+    "smoothWheel:!0",
+    1
+   ]
+  ],
+  "springs": [],
+  "scrollTriggerStarts": [
+   [
+    "top bottom",
+    13
+   ],
+   [
+    "top 90%",
+    7
+   ],
+   [
+    "top 95%",
+    2
+   ],
+   [
+    "top top",
+    2
+   ],
+   [
+    "top 80%",
+    1
+   ],
+   [
+    "left right",
+    1
+   ],
+   [
+    "left 95%",
+    1
+   ],
+   [
+    "0% 100%",
+    1
+   ],
+   [
+    "1px top",
+    1
+   ]
+  ],
+  "splitTypes": [
+   [
+    "lines, words",
+    1
+   ]
+  ],
+  "bezierArrays": []
+ }
+}

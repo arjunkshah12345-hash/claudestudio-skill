@@ -1,0 +1,330 @@
+{
+ "url": "https://activetheory.net",
+ "slug": "activetheory-net",
+ "analyzedAt": "2026-10-07T09:59:00.412Z",
+ "scrollHeight": 900,
+ "pageLengthInViewports": 1,
+ "title": "Active Theory · Creative Digital Experiences",
+ "metaDescription": "Founded in 2012. We blend story, art & technology as an in-house team of passionate makers. Our industry-leading web toolset consistently delivers award-winning work through quality & performance. ",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "nbarchitekt 400 normal",
+   "nbarchitekt 700 normal"
+  ],
+  "families": [
+   [
+    "nbarchitekt",
+    4
+   ],
+   [
+    "Times",
+    3
+   ]
+  ],
+  "sizes": [
+   [
+    "16px",
+    3
+   ],
+   [
+    "14px",
+    2
+   ],
+   [
+    "10px",
+    2
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    5
+   ],
+   [
+    "700",
+    2
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    7
+   ]
+  ],
+  "uppercaseShare": 0,
+  "largest": [
+   {
+    "tag": "a",
+    "text": "Toggle Audio",
+    "family": "Times",
+    "size": "16px",
+    "weight": "400",
+    "lh": "normal",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 238)"
+   },
+   {
+    "tag": "a",
+    "text": "Work",
+    "family": "Times",
+    "size": "16px",
+    "weight": "400",
+    "lh": "normal",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 238)"
+   },
+   {
+    "tag": "a",
+    "text": "Contact",
+    "family": "Times",
+    "size": "16px",
+    "weight": "400",
+    "lh": "normal",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 238)"
+   },
+   {
+    "tag": "p",
+    "text": "<<",
+    "family": "nbarchitekt",
+    "size": "14px",
+    "weight": "700",
+    "lh": "normal",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "p",
+    "text": ">>",
+    "family": "nbarchitekt",
+    "size": "14px",
+    "weight": "700",
+    "lh": "normal",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "div",
+    "text": "Song--Artist",
+    "family": "nbarchitekt",
+    "size": "10px",
+    "weight": "400",
+    "lh": "30px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(0, 0, 0)",
+  "htmlBg": "rgb(0, 0, 0)",
+  "text": [
+   [
+    "rgb(255, 255, 255)",
+    4
+   ],
+   [
+    "rgb(0, 0, 238)",
+    3
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(0, 0, 0)",
+    2
+   ],
+   [
+    "rgba(255, 255, 255, 0.1)",
+    2
+   ]
+  ],
+  "gradients": []
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.17,0.4,0.02,0.99)",
+    2
+   ]
+  ],
+  "durations": [
+   [
+    "1.5s",
+    3
+   ],
+   [
+    "0.4s",
+    3
+   ],
+   [
+    "0.1s",
+    2
+   ],
+   [
+    "0.8s",
+    1
+   ],
+   [
+    "0.2s",
+    1
+   ],
+   [
+    "9s",
+    1
+   ]
+  ],
+  "keyframes": [
+   "cursor-blink",
+   "dot-flashing",
+   "ticker"
+  ]
+ },
+ "cssVarSample": {
+  "--baropacity": "0.0"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 1,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 0,
+  "video": 2,
+  "svg": 0,
+  "picture": 0,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [
+   [
+    "color-dodge",
+    4
+   ],
+   [
+    "plus-lighter",
+    1
+   ]
+  ],
+  "backdropFilter": 1,
+  "clipPath": 0,
+  "sticky": 0,
+  "fixed": [
+   "FXScroll"
+  ],
+  "customCursor": false,
+  "boxShadows": [],
+  "filters": [],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "5px",
+   2
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgba(255, 255, 255, 0.6)",
+   2
+  ]
+ ],
+ "grids": [],
+ "containers": [],
+ "sideMargins": [
+  [
+   "1211px",
+   1
+  ],
+  [
+   "1335px",
+   1
+  ]
+ ],
+ "sections": [],
+ "nav": null,
+ "ctas": [
+  {
+   "text": "<<",
+   "bg": "rgba(255, 255, 255, 0.1)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "5px",
+   "pad": "1px 6px",
+   "size": "14px",
+   "weight": "700",
+   "tt": "none",
+   "border": "1px solid rgba(255, 255, 255, 0.6)",
+   "h": 32
+  },
+  {
+   "text": ">>",
+   "bg": "rgba(255, 255, 255, 0.1)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "5px",
+   "pad": "1px 6px",
+   "size": "14px",
+   "weight": "700",
+   "tt": "none",
+   "border": "1px solid rgba(255, 255, 255, 0.6)",
+   "h": 32
+  }
+ ],
+ "headings": [],
+ "paras": [
+  "Our site uses essential cookies and, with your consent, analytics cookies. Details in Privacy Notice."
+ ],
+ "footer": null,
+ "jsMotion": {
+  "scriptsFetched": 3,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "0",
+    8
+   ]
+  ],
+  "staggers": [],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

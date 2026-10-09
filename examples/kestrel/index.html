@@ -1,0 +1,531 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kestrel K-1 — Autonomous wind turbine blade inspection</title>
+<meta name="description" content="Kestrel K-1 flies a wind turbine blade in 11 minutes, finds cracks and leading-edge erosion down to 0.2 mm, and files the report the same day. Book a field demo on your own site.">
+<!--
+DESIGN SPINE — Kestrel K-1
+DIRECTION   : 8 Deep-Tech Spec — operations directors buy on evidence, so one hard object (the blade) is dressed in instrument-grade information design; native scroll, because they scan and book rather than dwell.
+MOTIF       : the defect box — a 1px orange inspection box with a mono measurement chip (the thing K-1 actually outputs). Used on the hero blade, the "Find" figure, the report UI crop, the CTA corner brackets (in ink), and the demo-request ticket.
+TYPE        : display Inter Tight 500 · text Inter Tight 400 · mono/label JetBrains Mono 400/500 (2 families)
+SCALE       : display 76/0.96/−0.04em · h2 48/1.05/−0.025em · body 17/1.55 · label 11/1.2/+0.12em mono caps · stat 120/0.9/−0.06em mono · ghost word 336/0.8/−0.05em
+PALETTE     : paper #F2F3F0 · ink #13181A · ink-2 ink@60% · hairline ink@10% · accent #F0541E (aviation orange) → ONLY defect markings and the one live-status dot · dark band #0E1214
+GRID        : 12 col / 24px gap · container 1312px · side margin 64px (20px at 390) · section padding 128px, chapter voids ~240px · crosshair grid 112px at 6%
+HERO        : H7 adapted (headline bottom-left) under a full-width technical drawing — one 68 m blade in plan on a crosshair grid, the flight path dashed around it, the K-1 marker flying it, three defect boxes
+IMAGERY     : domain drawings in SVG (blade planform, rotor elevation, airfoil section with four camera passes, surface crop, drone top view) + the inspection report rebuilt in HTML
+MOTION      : house ease cubic-bezier(.19,1,.22,1) · UI 200ms · reveal 800ms · primitive blur-in (≤10px) + decode on defect chips (400ms) · one ambient loop: the drone along its path (44s ≙ 11 min)
+SIGNATURES  : crosshair grid + callout chips (T4) · CV annotation boxes (T34) · scramble/decode mono labels (T29)
+VOICE       : "Eleven minutes a blade." · "The report lands the same day. Every finding located to the meter and ranked by what to fix first." · "Book a field demo"
+-->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="tokens.css">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<a class="skip btn btn--primary btn--sm" href="#main">Skip to content</a>
+
+<header class="nav" id="top">
+  <div class="nav__in">
+    <a class="wordmark" href="#top" aria-label="Kestrel home">
+      <span class="wordmark__box" aria-hidden="true"></span>Kestrel
+    </a>
+    <nav aria-label="Primary">
+      <ul class="nav__links t-label">
+        <li><a href="#flight">How it flies</a></li>
+        <li><a href="#report">The report</a></li>
+        <li><a href="#k1">K-1</a></li>
+        <li><a href="#planner">Planner</a></li>
+      </ul>
+    </nav>
+    <a class="btn btn--primary btn--sm nav__cta" href="#demo"><span>Book a <span class="nav__cta-long">field </span>demo</span></a>
+  </div>
+</header>
+
+<main id="main">
+
+<!-- ================================================================ HERO -->
+<section class="hero" aria-labelledby="hero-h">
+  <div class="hero__meta container t-label" aria-hidden="true">
+    <span>WTG-07 · Blade B · 68.0 m</span>
+    <span class="hero__elapsed"><span class="hero__pass">Pass 2 / 4</span> · Elapsed <span class="t-num" id="elapsed">04:12</span> / 11:00</span>
+  </div>
+
+  <figure class="blade xgrid" role="img" aria-label="Plan drawing of a 68-meter turbine blade. The K-1 drone flies a dashed path around it, and three defects are boxed: leading-edge erosion at 12.4 meters, a 0.2 millimeter trailing-edge crack at 34.1 meters, and leading-edge erosion at 57.2 meters.">
+    <div class="blade__frame">
+      <svg class="blade__svg" id="blade-svg" viewBox="0 0 1400 340" aria-hidden="true">
+        <defs>
+          <path id="flightpath" d="M66,112 L330,96 L1350,136 C1398,138 1398,202 1350,204 L330,244 L66,228"/>
+        </defs>
+        <!-- pitch axis -->
+        <line class="ln-faint ln-dash" x1="30" y1="170" x2="1395" y2="170"/>
+        <!-- flight path -->
+        <use href="#flightpath" class="ln-path"/>
+        <!-- root flange -->
+        <rect class="ln" x="48" y="136" width="14" height="68"/>
+        <line class="ln-faint" x1="55" y1="140" x2="55" y2="200"/>
+        <!-- blade planform -->
+        <path class="ln blade__shell" d="M62,140 C140,137 220,128 330,124 L1346,163 C1362,164 1372,167 1372,170 C1372,173 1362,176 1346,177 C1000,188 640,203 330,216 C220,220 140,202 62,200 Z"/>
+        <!-- chord stations -->
+        <g class="ln-faint ln-dash">
+          <line x1="254" y1="127" x2="254" y2="214"/><line x1="447" y1="129" x2="447" y2="211"/>
+          <line x1="639" y1="136" x2="639" y2="204"/><line x1="832" y1="143" x2="832" y2="197"/>
+          <line x1="1024" y1="151" x2="1024" y2="189"/><line x1="1216" y1="158" x2="1216" y2="182"/>
+        </g>
+        <!-- max chord dimension -->
+        <g class="ln-faint">
+          <line x1="330" y1="124" x2="330" y2="58"/><line x1="330" y1="216" x2="330" y2="272"/>
+        </g>
+        <!-- ruler -->
+        <line class="ln-faint" x1="62" y1="304" x2="1372" y2="304"/>
+        <line class="ruler-minor" x1="62" y1="301" x2="1372" y2="301"/>
+        <g class="ruler-major">
+          <line x1="62" y1="296" x2="62" y2="312"/><line x1="254" y1="296" x2="254" y2="312"/><line x1="447" y1="296" x2="447" y2="312"/>
+          <line x1="639" y1="296" x2="639" y2="312"/><line x1="832" y1="296" x2="832" y2="312"/><line x1="1024" y1="296" x2="1024" y2="312"/>
+          <line x1="1216" y1="296" x2="1216" y2="312"/><line x1="1372" y1="296" x2="1372" y2="312"/>
+        </g>
+        <g class="svg-label">
+          <text x="62" y="330">0 M · ROOT</text><text x="254" y="330">10</text><text x="447" y="330">20</text><text x="639" y="330">30</text>
+          <text x="832" y="330">40</text><text x="1024" y="330">50</text><text x="1216" y="330">60</text><text x="1372" y="330" text-anchor="end">68 M · TIP</text>
+          <text x="338" y="66">MAX CHORD 4.7 M</text>
+          <text x="1100" y="142" text-anchor="end">LEADING EDGE</text><text x="1290" y="202" text-anchor="end">TRAILING EDGE</text>
+        </g>
+        <!-- defect boxes -->
+        <g class="defect">
+          <rect x="278" y="114" width="34" height="20"/>
+          <rect x="702" y="192" width="30" height="18"/>
+          <rect x="1146" y="147" width="28" height="18"/>
+        </g>
+        <!-- drone -->
+        <g class="drone" id="drone">
+          <g class="drone__body">
+            <circle r="5" cx="-7" cy="-7"/><circle r="5" cx="7" cy="-7"/><circle r="5" cx="-7" cy="7"/><circle r="5" cx="7" cy="7"/>
+            <rect x="-3" y="-3" width="6" height="6"/>
+          </g>
+          <animateMotion dur="44s" repeatCount="indefinite" rotate="0"><mpath href="#flightpath"/></animateMotion>
+        </g>
+      </svg>
+      <span class="chip chip--defect" style="--x:278;--y:114" data-scramble>01 · LE erosion · 0.8 mm</span>
+      <span class="chip chip--defect chip--below" style="--x:702;--y:210" data-scramble>02 · TE crack · 0.2 mm</span>
+      <span class="chip chip--defect" style="--x:1146;--y:147" data-scramble>03 · LE erosion · 0.4 mm</span>
+    </div>
+  </figure>
+
+  <div class="hero__copy container grid">
+    <h1 class="t-display hero__h" id="hero-h" data-split="words">Eleven minutes a blade.</h1>
+    <div class="hero__side">
+      <p class="hero__sub" data-reveal style="--i:3">Kestrel K-1 flies each blade on its own, finds cracks and leading-edge erosion down to 0.2&nbsp;mm, and files the report the same day.</p>
+      <div class="hero__ctas" data-reveal style="--i:4">
+        <a class="btn btn--primary btn--lg brk" href="#demo">Book a field demo <span class="arr" aria-hidden="true">→</span></a>
+        <a class="btn btn--ghost btn--lg" href="#report">See a sample report</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ================================================================ STATEMENT -->
+<section class="statement section" aria-label="Why inspection time matters">
+  <div class="container grid">
+    <p class="t-label dim statement__k">001 · Downtime</p>
+    <p class="sr-only">A parked turbine earns nothing, and a rope team needs most of a day per tower. K-1 flies all three blades in thirty-three minutes, and the rotor is turning again before the crew has packed the van.</p>
+    <p class="statement__p t-h2" aria-hidden="true" data-scroll-fill>A parked turbine earns nothing, and a rope team needs most of a day per tower. K-1 flies all three blades in thirty-three minutes, and the rotor is turning again before the crew has packed the van.</p>
+  </div>
+</section>
+
+<!-- ================================================================ STATS -->
+<section class="stats" aria-label="K-1 in numbers">
+  <div class="container">
+    <dl class="stats__grid cells">
+      <div class="stat" data-reveal>
+        <dt class="t-label dim">Flight per blade<sup>1</sup></dt>
+        <dd class="stat__n t-num">11<span class="stat__u">min</span></dd>
+        <dd class="stat__c dim">Leading edge, trailing edge, and both shells in four passes.</dd>
+      </div>
+      <div class="stat" data-reveal style="--i:1">
+        <dt class="t-label dim">Smallest defect found<sup>2</sup></dt>
+        <dd class="stat__n t-num">0.2<span class="stat__u">mm</span></dd>
+        <dd class="stat__c dim">Crack width, measured at a 6&nbsp;m standoff on a 61&nbsp;MP sensor.</dd>
+      </div>
+      <div class="stat" data-reveal style="--i:2">
+        <dt class="t-label dim">Flight to report<sup>3</sup></dt>
+        <dd class="stat__n stat__n--word">Same day</dd>
+        <dd class="stat__c dim">Every finding located, sized, photographed, and ranked.</dd>
+      </div>
+    </dl>
+    <ol class="notes t-small dim">
+      <li>Median across 412 blades flown in 2026 field trials, 45–79&nbsp;m blades.</li>
+      <li>Verified against rope-access measurements on 38 trailing-edge cracks.</li>
+      <li>Report filed before 18:00 local for flights completed by 15:00.</li>
+    </ol>
+  </div>
+</section>
+
+<!-- ================================================================ HOW IT FLIES -->
+<section class="flight section" id="flight" aria-labelledby="flight-h">
+  <div class="container grid">
+    <div class="flight__rail">
+      <h2 class="t-h2 flight__h" id="flight-h" data-reveal>How a flight works. <span class="dim">Two pilots, one van, no rope team.</span></h2>
+      <ol class="flight__list" id="flight-list" aria-hidden="true">
+        <li data-spy-item="1" class="is-active"><span class="t-label">01</span><span class="flight__item">Park</span></li>
+        <li data-spy-item="2"><span class="t-label">02</span><span class="flight__item">Fly</span></li>
+        <li data-spy-item="3"><span class="t-label">03</span><span class="flight__item">Find</span></li>
+        <li data-spy-item="4"><span class="t-label">04</span><span class="flight__item">File</span></li>
+      </ol>
+    </div>
+
+    <div class="flight__panels" data-spy="#flight-list">
+
+      <article class="panel" data-spy-panel="1">
+        <figure class="panel__fig xgrid" role="img" aria-label="Front elevation of a turbine with the rotor parked and the inspected blade held horizontal at three o'clock. The K-1 hovers beside the blade root.">
+          <svg viewBox="0 0 600 440" aria-hidden="true">
+            <line class="ln-faint" x1="20" y1="420" x2="580" y2="420"/>
+            <path class="ln" d="M232,420 L240,150 L248,150 L256,420 Z"/>
+            <rect class="ln" x="226" y="128" width="36" height="22"/>
+            <circle class="ln" cx="244" cy="139" r="9"/>
+            <g class="ln-faint"><path d="M244,139 L232,80 L240,10 L246,10 L250,80 Z" transform="rotate(-30 244 139)"/><path d="M244,139 L232,80 L240,10 L246,10 L250,80 Z" transform="rotate(210 244 139)"/></g>
+            <path class="ln ln-strong" d="M253,139 L310,128 L560,135 L564,139 L560,143 L310,150 Z"/>
+            <line class="ln-faint ln-dash" x1="244" y1="139" x2="590" y2="139"/>
+            <circle class="ln-faint ln-dash" cx="244" cy="139" r="322"/>
+            <g class="drone drone--static" transform="translate(300 100)"><circle r="5" cx="-7" cy="-7"/><circle r="5" cx="7" cy="-7"/><circle r="5" cx="-7" cy="7"/><circle r="5" cx="7" cy="7"/><rect x="-3" y="-3" width="6" height="6"/></g>
+            <g class="svg-label"><text x="300" y="174">BLADE B · 3 O'CLOCK · LOCKED</text><text x="264" y="330">TOWER 105 M</text><text x="32" y="410">GROUND · VAN + 2 PILOTS</text></g>
+          </svg>
+        </figure>
+        <div class="panel__txt">
+          <p class="t-label dim panel__n">01 · Park</p>
+          <h3 class="t-h3">Lock the rotor with one blade level. <span class="dim">The pilots launch from the van; nobody climbs.</span></h3>
+        </div>
+      </article>
+
+      <article class="panel" data-spy-panel="2">
+        <figure class="panel__fig xgrid" role="img" aria-label="Cross-section of the blade airfoil with four camera positions around it: leading edge, suction side, trailing edge, and pressure side, each six meters from the surface.">
+          <svg viewBox="0 0 600 440" aria-hidden="true">
+            <line class="ln-faint ln-dash" x1="60" y1="220" x2="560" y2="220"/>
+            <path class="ln ln-strong" d="M490,222 C420,200 330,160 220,160 C150,160 110,185 110,215 C110,245 150,260 220,258 C330,254 420,236 490,222 Z"/>
+            <g class="ln-faint ln-dash">
+              <path d="M52,214 L112,196 M52,214 L112,236"/>
+              <path d="M290,72 L230,162 M290,72 L360,170"/>
+              <path d="M556,222 L470,210 M556,222 L470,232"/>
+              <path d="M290,362 L220,258 M290,362 L360,251"/>
+            </g>
+            <g class="drone drone--static"><g transform="translate(40 214)"><circle r="5" cx="-7" cy="-7"/><circle r="5" cx="7" cy="-7"/><circle r="5" cx="-7" cy="7"/><circle r="5" cx="7" cy="7"/></g>
+              <g transform="translate(290 60)"><circle r="5" cx="-7" cy="-7"/><circle r="5" cx="7" cy="-7"/><circle r="5" cx="-7" cy="7"/><circle r="5" cx="7" cy="7"/></g>
+              <g transform="translate(568 222)"><circle r="5" cx="-7" cy="-7"/><circle r="5" cx="7" cy="-7"/><circle r="5" cx="-7" cy="7"/><circle r="5" cx="7" cy="7"/></g>
+              <g transform="translate(290 374)"><circle r="5" cx="-7" cy="-7"/><circle r="5" cx="7" cy="-7"/><circle r="5" cx="-7" cy="7"/><circle r="5" cx="7" cy="7"/></g></g>
+            <g class="svg-label">
+              <text x="22" y="186">PASS 1 · LE</text><text x="312" y="56">PASS 2 · SUCTION</text>
+              <text x="590" y="262" text-anchor="end">PASS 3 · TE</text><text x="312" y="402">PASS 4 · PRESSURE</text>
+              <text x="378" y="130">6 M STANDOFF · LIDAR-HELD</text>
+            </g>
+            <line class="ln-faint" x1="360" y1="110" x2="360" y2="168"/>
+          </svg>
+        </figure>
+        <div class="panel__txt">
+          <p class="t-label dim panel__n">02 · Fly</p>
+          <h3 class="t-h3">Four passes, root to tip. <span class="dim">LiDAR holds K-1 six meters off the surface in gusts up to 12&nbsp;m/s.</span></h3>
+        </div>
+      </article>
+
+      <article class="panel" data-spy-panel="3">
+        <figure class="panel__fig surface" role="img" aria-label="Close crop of a blade surface at 34.1 meters with a 0.2 millimeter trailing-edge crack boxed and measured.">
+          <svg viewBox="0 0 600 440" aria-hidden="true" preserveAspectRatio="xMidYMid slice">
+            <defs>
+              <filter id="grain" x="0" y="0" width="100%" height="100%">
+                <feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="3" seed="7"/>
+                <feColorMatrix values="0 0 0 0 .5  0 0 0 0 .52  0 0 0 0 .5  0 0 0 .22 0"/>
+              </filter>
+              <linearGradient id="shade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E4E6E2"/><stop offset="1" stop-color="#CDD0CB"/></linearGradient>
+            </defs>
+            <rect width="600" height="440" fill="url(#shade)"/>
+            <rect width="600" height="440" filter="url(#grain)"/>
+            <path class="crack" d="M188,250 l14,-6 l9,4 l12,-9 l16,2 l8,-7 l15,3 l11,-6 l17,4 l10,-5 l14,1"/>
+            <path class="te-edge" d="M0,330 C200,322 400,316 600,308"/>
+            <g class="defect"><rect x="176" y="214" width="166" height="56"/></g>
+          </svg>
+          <span class="chip chip--defect chip--abs" style="--x:176;--y:214;--w:600;--h:440" data-scramble>02 · TE crack · 0.2 × 41 mm · Cat 4</span>
+          <span class="chip chip--meta" style="--x:24;--y:404;--w:600;--h:440">Station 34.1 m · Trailing edge · Frame 1184</span>
+        </figure>
+        <div class="panel__txt">
+          <p class="t-label dim panel__n">03 · Find</p>
+          <h3 class="t-h3">Defects are boxed while it flies. <span class="dim">Cracks, erosion, and lightning damage, down to 0.2&nbsp;mm, checked by an engineer before release.</span></h3>
+        </div>
+      </article>
+
+      <article class="panel" data-spy-panel="4">
+        <figure class="panel__fig xgrid" role="img" aria-label="Report cover sheet for turbine 07, blade B, listing five findings by severity.">
+          <svg viewBox="0 0 600 440" aria-hidden="true">
+            <rect class="ln sheet" x="150" y="40" width="300" height="370"/>
+            <rect class="ln-faint sheet-back" x="162" y="30" width="300" height="370"/>
+            <g class="svg-label"><text x="172" y="74">KESTREL REPORT · WTG-07 · B</text><text x="172" y="92">FILED 24 SEP 2026 · 16:02</text></g>
+            <path class="ln" d="M172,128 C200,126 228,121 260,119 L420,129 L420,131 L260,141 C228,140 200,137 172,134 Z"/>
+            <g class="defect defect--dot"><rect x="198" y="118" width="6" height="6"/><rect x="300" y="128" width="6" height="6"/><rect x="384" y="122" width="6" height="6"/></g>
+            <g class="ln-faint">
+              <line x1="172" y1="170" x2="428" y2="170"/><line x1="172" y1="200" x2="428" y2="200"/><line x1="172" y1="230" x2="428" y2="230"/>
+              <line x1="172" y1="260" x2="428" y2="260"/><line x1="172" y1="290" x2="428" y2="290"/><line x1="172" y1="320" x2="428" y2="320"/>
+            </g>
+            <g class="svg-label"><text x="172" y="190">02 · TE CRACK · CAT 4</text><text x="172" y="220">01 · LE EROSION · CAT 3</text><text x="172" y="250">03 · LE EROSION · CAT 2</text><text x="172" y="280">05 · GELCOAT CHIP · CAT 1</text><text x="172" y="310">04 · RECEPTOR · CAT 1</text></g>
+          </svg>
+        </figure>
+        <div class="panel__txt">
+          <p class="t-label dim panel__n">04 · File</p>
+          <h3 class="t-h3">The report is filed by evening. <span class="dim">Ranked by what to fix first, ready for your repair contractor.</span></h3>
+        </div>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- ================================================================ REPORT (dark) -->
+<section class="report section" id="report" data-theme="dark" aria-labelledby="report-h">
+  <div class="container grid">
+    <h2 class="t-h2 report__h" id="report-h" data-reveal>The report lands the same day. <span class="dim">Every finding located to the meter, sized to the tenth of a millimeter, and ranked by what to fix first.</span></h2>
+    <ul class="report__facts t-small" data-reveal-group>
+      <li><span class="t-label dim">Format</span>PDF + CSV, and an API for your CMMS</li>
+      <li><span class="t-label dim">Severity</span>Cat 1–5, the scale your insurer already uses</li>
+      <li><span class="t-label dim">Sign-off</span>Each finding reviewed by a blade engineer</li>
+    </ul>
+  </div>
+
+  <div class="report__stage container">
+    <figure class="app" role="img" aria-label="The Kestrel report for turbine WTG-07, blade B: a blade map with five findings, a table ranked by severity, and a selected 0.2 millimeter trailing-edge crack with its photo crop and an engineer's note." inert>
+      <div class="app__bar">
+        <span class="app__crumbs">Hollandse Noord <i>/</i> WTG-07 <i>/</i> <b>Blade B</b></span>
+        <span class="app__stamp">Flown 24 Sep 09:14 · Filed 16:02</span>
+      </div>
+      <div class="app__body">
+        <aside class="app__side">
+          <p class="app__sh">Campaign · 12 turbines</p>
+          <ul>
+            <li><span>WTG-04</span><em>Filed</em></li>
+            <li><span>WTG-05</span><em>Filed</em></li>
+            <li><span>WTG-06</span><em>Filed</em></li>
+            <li class="on"><span>WTG-07</span><em>Filed</em></li>
+            <li><span>WTG-08</span><em class="live">Flying</em></li>
+            <li><span>WTG-09</span><em>Queued</em></li>
+            <li><span>WTG-10</span><em>Queued</em></li>
+            <li><span>WTG-11</span><em>Queued</em></li>
+          </ul>
+        </aside>
+        <div class="app__main">
+          <div class="app__map">
+            <svg viewBox="0 0 700 80" aria-hidden="true">
+              <path class="ln" d="M20,32 C60,31 100,27 160,25 L680,38 L684,40 L680,42 C500,47 330,52 160,57 C100,58 60,50 20,49 Z"/>
+              <g class="defect"><rect x="135" y="20" width="14" height="12"/><rect x="368" y="44" width="14" height="12"/><rect x="606" y="30" width="14" height="12"/><rect x="230" y="22" width="10" height="10" class="minor"/><rect x="660" y="34" width="10" height="10" class="minor"/></g>
+              <g class="svg-label sm"><text x="20" y="76">0 M</text><text x="684" y="76" text-anchor="end">68 M</text></g>
+            </svg>
+          </div>
+          <table class="app__tbl">
+            <thead><tr><th>ID</th><th>Station</th><th>Side</th><th>Finding</th><th>Size</th><th>Cat</th></tr></thead>
+            <tbody>
+              <tr class="on"><td>K07B-02</td><td>34.1 m</td><td>TE</td><td>Crack, laminate</td><td>0.2 × 41 mm</td><td><span class="sev" style="--n:4"></span></td></tr>
+              <tr><td>K07B-01</td><td>12.4 m</td><td>LE</td><td>Erosion, coating loss</td><td>38 × 6 mm</td><td><span class="sev" style="--n:3"></span></td></tr>
+              <tr><td>K07B-03</td><td>57.2 m</td><td>LE</td><td>Erosion, pitting</td><td>0.4 mm</td><td><span class="sev" style="--n:2"></span></td></tr>
+              <tr><td>K07B-05</td><td>21.7 m</td><td>SS</td><td>Gelcoat chip</td><td>4 mm</td><td><span class="sev" style="--n:1"></span></td></tr>
+              <tr><td>K07B-04</td><td>66.8 m</td><td>Tip</td><td>Lightning receptor</td><td>—</td><td><span class="sev" style="--n:1"></span></td></tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="app__detail">
+          <div class="app__crop">
+            <svg viewBox="0 0 300 180" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+              <rect width="300" height="180" fill="#3A403F"/>
+              <rect width="300" height="180" filter="url(#grain)" opacity=".9"/>
+              <path class="crack crack--light" d="M70,96 l10,-4 l6,3 l8,-6 l11,1 l6,-5 l10,2 l8,-4 l12,3 l7,-3"/>
+              <g class="defect"><rect x="62" y="74" width="114" height="38"/></g>
+            </svg>
+            <span class="app__chip">K07B-02 · 0.2 mm</span>
+          </div>
+          <dl class="app__spec">
+            <div><dt>Station</dt><dd>34.1 m from root</dd></div>
+            <div><dt>Surface</dt><dd>Trailing edge, bond line</dd></div>
+            <div><dt>Width / length</dt><dd>0.2 mm / 41 mm</dd></div>
+            <div><dt>Severity</dt><dd>Cat 4 · repair before winter</dd></div>
+          </dl>
+          <p class="app__note"><span class="app__nl">Engineer note · M. Jensen</span>Bond-line crack, not yet through-laminate. Recommend repair before November<span class="caret"></span></p>
+        </div>
+      </div>
+    </figure>
+  </div>
+</section>
+
+<!-- ================================================================ K-1 OBJECT -->
+<section class="k1 section" id="k1" aria-labelledby="k1-h">
+  <div class="container grid k1__head">
+    <h2 class="t-h2 k1__h" id="k1-h" data-reveal>One airframe, one job. <span class="dim">A 61‑megapixel camera and a LiDAR that holds six meters from the blade, on a frame two people can lift.</span></h2>
+    <p class="status t-label"><span class="eyebrow">Field demos booking · EU + UK</span></p>
+  </div>
+  <div class="k1__stage container">
+    <p class="k1__ghost" aria-hidden="true">K-1</p>
+    <figure class="k1__fig" role="img" aria-label="Top-view line drawing of the K-1 quadcopter with callouts for the inspection camera, LiDAR, RTK antenna, and IP55 airframe.">
+      <svg viewBox="0 0 640 520" aria-hidden="true">
+        <g class="ln-faint ln-dash"><circle cx="160" cy="110" r="92"/><circle cx="480" cy="110" r="92"/><circle cx="160" cy="410" r="92"/><circle cx="480" cy="410" r="92"/></g>
+        <g class="arm"><line x1="320" y1="260" x2="160" y2="110"/><line x1="320" y1="260" x2="480" y2="110"/><line x1="320" y1="260" x2="160" y2="410"/><line x1="320" y1="260" x2="480" y2="410"/></g>
+        <g class="arm arm--in"><line x1="320" y1="260" x2="160" y2="110"/><line x1="320" y1="260" x2="480" y2="110"/><line x1="320" y1="260" x2="160" y2="410"/><line x1="320" y1="260" x2="480" y2="410"/></g>
+        <g class="ln"><circle cx="160" cy="110" r="16"/><circle cx="480" cy="110" r="16"/><circle cx="160" cy="410" r="16"/><circle cx="480" cy="410" r="16"/></g>
+        <g class="ln-faint"><path d="M92,74 L228,146 M480,110 m-76,30 L556,80 M92,446 L228,374 M404,380 L556,440"/></g>
+        <rect class="ln body" x="262" y="180" width="116" height="160" rx="10"/>
+        <circle class="ln" cx="320" cy="162" r="24"/><circle class="ln" cx="320" cy="162" r="11"/>
+        <circle class="ln" cx="320" cy="236" r="16"/><circle class="ln-faint" cx="320" cy="236" r="7"/>
+        <rect class="ln" x="308" y="306" width="24" height="12"/>
+        <line class="ln-faint" x1="262" y1="280" x2="378" y2="280"/>
+        <g class="ln-faint callout"><path d="M320,138 L320,30 L440,30"/><path d="M336,236 L600,236"/><path d="M308,312 L80,312 L80,300"/><path d="M402,350 L560,350 L560,500"/></g>
+      </svg>
+      <span class="chip chip--call chip--abs chip--r" style="--x:620;--y:30;--w:640;--h:520">61 MP inspection camera ⊕</span>
+      <span class="chip chip--call chip--abs chip--r" style="--x:620;--y:236;--w:640;--h:520">LiDAR · 6 m standoff ⊕</span>
+      <span class="chip chip--call chip--abs" style="--x:20;--y:288;--w:640;--h:520">RTK GNSS · 2 cm ⊕</span>
+      <span class="chip chip--call chip--abs chip--r" style="--x:620;--y:500;--w:640;--h:520">IP55 airframe ⊕</span>
+    </figure>
+    <dl class="spec">
+      <div><dt>Mass</dt><dd>7.2 kg</dd></div>
+      <div><dt>Diagonal</dt><dd>1.12 m</dd></div>
+      <div><dt>Endurance</dt><dd>38 min</dd></div>
+      <div><dt>Wind limit</dt><dd>12 m/s</dd></div>
+      <div><dt>Blade length</dt><dd>40–115 m</dd></div>
+      <div><dt>Detection floor</dt><dd>0.2 mm</dd></div>
+      <div><dt>Ingress</dt><dd>IP55</dd></div>
+      <div><dt>Revision</dt><dd>K-1 rev C · 2026</dd></div>
+    </dl>
+  </div>
+</section>
+
+<!-- ================================================================ PLANNER -->
+<section class="planner section" id="planner" aria-labelledby="planner-h">
+  <div class="container grid">
+    <div class="planner__intro">
+      <h2 class="t-h2" id="planner-h" data-reveal>Plan the campaign. <span class="dim">Enter your fleet and how many turbines you can park in a day.</span></h2>
+      <p class="t-small dim planner__fn">Flight time only: three blades × 11 minutes per turbine. Rotor parking and moving between towers are not included; your site lead knows those better than we do.</p>
+    </div>
+    <form class="calc" id="calc" aria-label="Campaign planner">
+      <div class="calc__in">
+        <label class="field">
+          <span class="t-label dim">Turbines in the fleet</span>
+          <input type="number" id="c-turbines" min="1" max="2000" value="84" inputmode="numeric">
+        </label>
+        <label class="field">
+          <span class="t-label dim">Turbines parked per day</span>
+          <input type="number" id="c-perday" min="1" max="20" value="8" inputmode="numeric">
+        </label>
+      </div>
+      <output class="calc__out" for="c-turbines c-perday" aria-live="polite">
+        <span class="t-label">Blade flight time</span>
+        <span class="calc__big t-num" id="c-hours">46 h 12 min</span>
+        <span class="calc__row"><span class="t-label">Field days</span><span class="t-num" id="c-days">11</span></span>
+        <span class="calc__row"><span class="t-label">Reports</span><span class="t-num" id="c-reports">84, each filed the day it flies</span></span>
+      </output>
+    </form>
+  </div>
+</section>
+
+<!-- ================================================================ DEMO / FINALE -->
+<section class="demo section" id="demo" aria-labelledby="demo-h">
+  <div class="container grid">
+    <div class="demo__lead">
+      <h2 class="t-display demo__h" id="demo-h" data-reveal>Pick a turbine. We'll fly it.</h2>
+      <dl class="demo__terms">
+        <div><dt class="t-label dim">Crew</dt><dd>Two pilots and one van. No climbers, no crane.</dd></div>
+        <div><dt class="t-label dim">On site</dt><dd>Half a day, including the safety briefing.</dd></div>
+        <div><dt class="t-label dim">You keep</dt><dd>The full report on that turbine, filed the same evening.</dd></div>
+        <div><dt class="t-label dim">Season</dt><dd>Through November, then from March 2027. Wind under 12&nbsp;m/s.</dd></div>
+      </dl>
+    </div>
+    <div class="demo__formwrap">
+      <form class="form" id="demo-form" novalidate>
+        <label class="field"><span class="t-label dim">Name</span><input name="name" autocomplete="name" required></label>
+        <label class="field"><span class="t-label dim">Work email</span><input name="email" type="email" autocomplete="email" required></label>
+        <label class="field"><span class="t-label dim">Wind farm or site</span><input name="site" required></label>
+        <div class="form__pair">
+          <label class="field"><span class="t-label dim">Turbines on site</span><input name="count" type="number" min="1" inputmode="numeric"></label>
+          <label class="field"><span class="t-label dim">Preferred month</span>
+            <select name="month"><option>October 2026</option><option>November 2026</option><option>March 2027</option><option>April 2027</option><option>Later</option></select>
+          </label>
+        </div>
+        <p class="form__err t-small" id="form-err" role="alert" hidden></p>
+        <button class="btn btn--primary btn--lg brk form__btn" type="submit">Book a field demo <span class="arr" aria-hidden="true">→</span></button>
+        <p class="t-small dim">A pilot lead replies within one working day to pick a date.</p>
+      </form>
+      <div class="ticket" id="ticket" hidden tabindex="-1">
+        <p class="t-label ticket__id">Demo request <span id="t-id">KD-1047</span> · logged <span id="t-time">14:22</span></p>
+        <p class="t-h3 ticket__msg">Request logged. <span class="dim">A pilot lead will call within one working day to pick a turbine and a date.</span></p>
+      </div>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<!-- ================================================================ FOOTER -->
+<footer class="foot" data-theme="dark">
+  <div class="container">
+    <div class="foot__grid">
+      <div class="foot__brand">
+        <a class="wordmark" href="#top"><span class="wordmark__box" aria-hidden="true"></span>Kestrel</a>
+        <p class="t-small dim">Autonomous blade inspection.<br>Kestrel Robotics ApS, Aarhus, Denmark.</p>
+      </div>
+      <nav aria-label="Product"><p class="t-label dim">Product</p><ul><li><a href="#flight">How it flies</a></li><li><a href="#report">The report</a></li><li><a href="#k1">K-1 specifications</a></li><li><a href="#planner">Campaign planner</a></li></ul></nav>
+      <nav aria-label="Field"><p class="t-label dim">Field</p><ul><li><a href="#demo">Book a field demo</a></li><li><a href="#report">Sample report (PDF)</a></li><li><a href="#k1">Safety case</a></li></ul></nav>
+      <nav aria-label="Company"><p class="t-label dim">Company</p><ul><li><a href="#top">About</a></li><li><a href="#top">Careers</a></li><li><a href="#top">Press kit</a></li></ul></nav>
+      <div><p class="t-label dim">Contact</p><ul><li><a href="mailto:demo@kestrel.example">demo@kestrel.example</a></li><li><a href="mailto:press@kestrel.example">press@kestrel.example</a></li></ul></div>
+    </div>
+    <div class="foot__base t-label dim">
+      <span>© 2026 Kestrel Robotics</span>
+      <span>56.1572° N, 10.2107° E</span>
+      <span>Aarhus <span data-clock="Europe/Copenhagen" class="t-num">--:--</span></span>
+      <span>K-1 rev C</span>
+    </div>
+  </div>
+</footer>
+
+<script type="module">
+import { autoInit, reduced } from './motion.js';
+autoInit();
+/* Hero content sits in the bottom 18% of the first viewport, below reveal()'s rootMargin,
+   so it would wait for a scroll. Reveal the hero on load instead (staged by --i). */
+requestAnimationFrame(() => document.querySelectorAll('.hero [data-reveal]').forEach((el) => el.classList.add('is-in')));
+
+/* Hero: the drone loop (44 s) stands for an 11-minute blade flight */
+const svg = document.getElementById('blade-svg');
+const elapsed = document.getElementById('elapsed');
+const pass = document.querySelector('.hero__pass');
+const LOOP = 44, FLIGHT = 660;
+const mmss = (s) => `${String(Math.floor(s / 60)).padStart(2, '0')}:${String(Math.floor(s % 60)).padStart(2, '0')}`;
+const tick = () => {
+  const t = svg.getCurrentTime() % LOOP;
+  elapsed.textContent = mmss((t / LOOP) * FLIGHT);
+  pass.textContent = `Pass ${Math.min(4, 1 + Math.floor((t / LOOP) * 4))} / 4`;
+};
+if (reduced) { svg.pauseAnimations(); svg.setCurrentTime(16.8); }
+tick();
+if (!reduced) setInterval(tick, 250);
+
+/* Campaign planner */
+const $ = (id) => document.getElementById(id);
+const plan = () => {
+  const n = Math.max(1, Math.min(2000, parseInt($('c-turbines').value, 10) || 1));
+  const perDay = Math.max(1, Math.min(20, parseInt($('c-perday').value, 10) || 1));
+  const min = n * 3 * 11;
+  $('c-hours').textContent = `${Math.floor(min / 60)} h ${String(min % 60).padStart(2, '0')} min`;
+  $('c-days').textContent = Math.ceil(n / perDay);
+  $('c-reports').textContent = `${n.toLocaleString('en-US')}, each filed the day it flies`;
+};
+$('calc').addEventListener('input', plan);
+$('calc').addEventListener('submit', (e) => e.preventDefault());
+plan();
+
+/* Demo request: success is a logged ticket, not a toast */
+const form = $('demo-form'), err = $('form-err');
+form.addEventListener('submit', (e) => {
+  e.preventDefault();
+  const missing = [...form.querySelectorAll('[required]')].find((f) => !f.value.trim());
+  const email = form.elements.email.value.trim();
+  if (missing) { err.textContent = `Add your ${missing.closest('label').querySelector('span').textContent.toLowerCase()} so a pilot lead can reach you.`; err.hidden = false; missing.focus(); return; }
+  if (!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)) { err.textContent = 'That email looks off. Check for a typo?'; err.hidden = false; form.elements.email.focus(); return; }
+  err.hidden = true;
+  $('t-id').textContent = `KD-${1000 + Math.floor(Math.random() * 9000)}`;
+  $('t-time').textContent = new Intl.DateTimeFormat('en-GB', { hour: '2-digit', minute: '2-digit' }).format(new Date());
+  form.hidden = true; $('ticket').hidden = false; $('ticket').focus();
+});
+</script>
+</body>
+</html>

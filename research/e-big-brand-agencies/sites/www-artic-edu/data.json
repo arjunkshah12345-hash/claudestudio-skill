@@ -1,0 +1,800 @@
+{
+ "url": "https://www.artic.edu/",
+ "slug": "www-artic-edu",
+ "analyzedAt": "2026-10-07T05:18:11.918Z",
+ "scrollHeight": 6484,
+ "pageLengthInViewports": 7.2,
+ "title": "Home | The Art Institute of Chicago",
+ "metaDescription": "Located downtown by Millennium Park, this top art museum is TripAdvisor's #1 Chicago attraction—a must when visiting the city.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "Sabon 400 normal",
+   "Sabon 400 italic",
+   "Sabon 500 normal",
+   "Ideal Sans A 300 normal",
+   "Ideal Sans B 300 normal",
+   "Ideal Sans A 400 normal",
+   "Ideal Sans B 400 normal",
+   "Ideal Sans A 500 normal",
+   "Ideal Sans B 500 normal"
+  ],
+  "families": [
+   [
+    "Ideal Sans A",
+    141
+   ],
+   [
+    "Sabon",
+    36
+   ],
+   [
+    "Helvetica",
+    6
+   ]
+  ],
+  "sizes": [
+   [
+    "17px",
+    75
+   ],
+   [
+    "16px",
+    43
+   ],
+   [
+    "22px",
+    14
+   ],
+   [
+    "24px",
+    12
+   ],
+   [
+    "38px",
+    12
+   ],
+   [
+    "12px",
+    9
+   ],
+   [
+    "10px",
+    7
+   ],
+   [
+    "19px",
+    5
+   ],
+   [
+    "21px",
+    4
+   ],
+   [
+    "36px",
+    1
+   ],
+   [
+    "28px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "300",
+    119
+   ],
+   [
+    "400",
+    60
+   ],
+   [
+    "500",
+    3
+   ],
+   [
+    "325",
+    1
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "0.010em@17",
+    69
+   ],
+   [
+    "0.018em@16",
+    43
+   ],
+   [
+    "normal",
+    14
+   ],
+   [
+    "-0.005em@22",
+    14
+   ],
+   [
+    "-0.010em@38",
+    11
+   ],
+   [
+    "0.140em@12",
+    7
+   ],
+   [
+    "0.015em@19",
+    4
+   ],
+   [
+    "0.012em@24",
+    4
+   ],
+   [
+    "0.017em@17",
+    4
+   ],
+   [
+    "0.090em@21",
+    4
+   ],
+   [
+    "0.010em@24",
+    4
+   ],
+   [
+    "0.024em@12",
+    1
+   ],
+   [
+    "0.080em@36",
+    1
+   ],
+   [
+    "0.083em@12",
+    1
+   ],
+   [
+    "0.200em@10",
+    1
+   ]
+  ],
+  "uppercaseShare": 0.09,
+  "largest": [
+   {
+    "tag": "p",
+    "text": "Welcome to the Art Institute of Chicago, home to a collection of art that spans centuries ",
+    "family": "Sabon",
+    "size": "38px",
+    "weight": "400",
+    "lh": "44px",
+    "ls": "-0.38px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(148, 148, 148)"
+   },
+   {
+    "tag": "a",
+    "text": "collection of art",
+    "family": "Sabon",
+    "size": "38px",
+    "weight": "400",
+    "lh": "44px",
+    "ls": "-0.38px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(181, 9, 56)"
+   },
+   {
+    "tag": "a",
+    "text": "your visit",
+    "family": "Sabon",
+    "size": "38px",
+    "weight": "400",
+    "lh": "44px",
+    "ls": "-0.38px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(181, 9, 56)"
+   },
+   {
+    "tag": "a",
+    "text": "exhibitions",
+    "family": "Sabon",
+    "size": "38px",
+    "weight": "400",
+    "lh": "44px",
+    "ls": "-0.38px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(181, 9, 56)"
+   },
+   {
+    "tag": "a",
+    "text": "free daily tours",
+    "family": "Sabon",
+    "size": "38px",
+    "weight": "400",
+    "lh": "44px",
+    "ls": "-0.38px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(181, 9, 56)"
+   },
+   {
+    "tag": "a",
+    "text": "your own tour",
+    "family": "Sabon",
+    "size": "38px",
+    "weight": "400",
+    "lh": "44px",
+    "ls": "-0.38px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(181, 9, 56)"
+   },
+   {
+    "tag": "p",
+    "text": "Mary Cassatt: After Impressionism",
+    "family": "Sabon",
+    "size": "38px",
+    "weight": "400",
+    "lh": "44px",
+    "ls": "-0.38px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(26, 26, 26)"
+   },
+   {
+    "tag": "strong",
+    "text": "Your Personal Must-See Tour",
+    "family": "Sabon",
+    "size": "38px",
+    "weight": "400",
+    "lh": "28px",
+    "ls": "-0.38px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "strong",
+    "text": "Join Our Community",
+    "family": "Sabon",
+    "size": "38px",
+    "weight": "400",
+    "lh": "28px",
+    "ls": "-0.38px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "strong",
+    "text": "New on View",
+    "family": "Sabon",
+    "size": "38px",
+    "weight": "400",
+    "lh": "28px",
+    "ls": "-0.38px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "strong",
+    "text": "On a Roll: Conservation Takes on Another Unprecedented Project",
+    "family": "Sabon",
+    "size": "38px",
+    "weight": "400",
+    "lh": "36px",
+    "ls": "-0.19px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(26, 26, 26)"
+   },
+   {
+    "tag": "strong",
+    "text": "Museum Shop",
+    "family": "Sabon",
+    "size": "38px",
+    "weight": "400",
+    "lh": "28px",
+    "ls": "-0.38px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(255, 255, 255)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(255, 255, 255)",
+    66
+   ],
+   [
+    "rgb(179, 179, 179)",
+    31
+   ],
+   [
+    "rgb(118, 118, 118)",
+    27
+   ],
+   [
+    "rgb(26, 26, 26)",
+    23
+   ],
+   [
+    "rgb(181, 9, 56)",
+    12
+   ],
+   [
+    "rgb(126, 116, 109)",
+    12
+   ],
+   [
+    "rgb(51, 51, 51)",
+    8
+   ],
+   [
+    "rgba(255, 255, 255, 0.7)",
+    3
+   ],
+   [
+    "rgb(148, 148, 148)",
+    1
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(243, 243, 243)",
+    5
+   ],
+   [
+    "rgba(255, 255, 255, 0)",
+    4
+   ],
+   [
+    "rgb(255, 255, 255)",
+    3
+   ],
+   [
+    "rgba(0, 0, 0, 0.2)",
+    2
+   ],
+   [
+    "rgb(248, 248, 248)",
+    2
+   ],
+   [
+    "rgb(30, 63, 73)",
+    1
+   ],
+   [
+    "rgb(181, 9, 56)",
+    1
+   ],
+   [
+    "rgb(51, 51, 51)",
+    1
+   ],
+   [
+    "rgba(0, 0, 0, 0.7)",
+    1
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(to right, rgb(243, 243, 243) 50%, rgba(0, 0, 0, 0) 50%)",
+    4
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.59,0.01,0.28,1)",
+    14
+   ],
+   [
+    "cubic-bezier(0.445,0.05,0.55,0.95)",
+    11
+   ],
+   [
+    "cubic-bezier(0.5,-0.6,0.5,1.6)",
+    3
+   ],
+   [
+    "cubic-bezier(0.075,0.82,0.165,1)",
+    3
+   ]
+  ],
+  "durations": [
+   [
+    "0.25s",
+    42
+   ],
+   [
+    "0.3s",
+    34
+   ],
+   [
+    "0.15s",
+    26
+   ],
+   [
+    "0.4s",
+    16
+   ],
+   [
+    "0.2s",
+    15
+   ],
+   [
+    "0.6s",
+    10
+   ],
+   [
+    "0.35s",
+    9
+   ],
+   [
+    "0.5s",
+    5
+   ],
+   [
+    "2s",
+    3
+   ],
+   [
+    "200ms",
+    2
+   ]
+  ],
+  "keyframes": [
+   "reveal",
+   "rotate45deg",
+   "ajax-loader",
+   "loader",
+   "m-rotate-arrows-out-left",
+   "m-rotate-arrows-out-right",
+   "fadeIn",
+   "fade-out",
+   "g-ajax-loader__rotate",
+   "g-ajax-loader__dash",
+   "g-slider-reveal"
+  ]
+ },
+ "cssVarSample": {},
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 45,
+  "video": 1,
+  "svg": 91,
+  "picture": 0,
+  "iframes": 2
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 4,
+  "clipPath": 0,
+  "sticky": 0,
+  "fixed": [
+   "top-link",
+   "g-ajax-loader"
+  ],
+  "customCursor": false,
+  "boxShadows": [],
+  "filters": [
+   [
+    "blur(10px)",
+    20
+   ]
+  ],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "2px",
+   10
+  ],
+  [
+   "50%",
+   1
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgb(230, 230, 230)",
+   10
+  ],
+  [
+   "1px solid rgba(0, 0, 0, 0)",
+   4
+  ],
+  [
+   "1px solid rgb(255, 255, 255)",
+   4
+  ],
+  [
+   "1px solid rgb(64, 64, 64)",
+   4
+  ],
+  [
+   "1px solid rgb(204, 204, 204)",
+   2
+  ],
+  [
+   "bottom:1px solid rgb(204, 204, 204)",
+   2
+  ]
+ ],
+ "grids": [],
+ "containers": [
+  [
+   "1440px",
+   2
+  ],
+  [
+   "1500px",
+   2
+  ]
+ ],
+ "sideMargins": [
+  [
+   "68px",
+   8
+  ],
+  [
+   "124px",
+   4
+  ],
+  [
+   "722px",
+   2
+  ],
+  [
+   "403px",
+   1
+  ],
+  [
+   "1167px",
+   1
+  ],
+  [
+   "1179px",
+   1
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "home",
+   "h": 1081,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "o-landingpage__body o-blocks home ",
+   "h": 4404,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "fixed",
+  "height": 140,
+  "links": 69,
+  "linkTexts": [
+   "Skip to Content",
+   "Visit",
+   "Plan Your Visit",
+   "Who's Visiting?",
+   "Exhibitions",
+   "Art & Artists",
+   "Articles & Videos",
+   "Research Center",
+   "Collection Information",
+   "Events",
+   "Become a Member",
+   "Buy Tickets",
+   "Become a Member",
+   "Shop"
+  ],
+  "bg": "rgba(255, 255, 255, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "Plan Your Visit",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(181, 9, 56)",
+   "radius": "2px",
+   "pad": "11px 27px",
+   "size": "17px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(204, 204, 204)",
+   "h": 48
+  },
+  {
+   "text": "Choose Your Artworks",
+   "bg": "rgba(255, 255, 255, 0)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "2px",
+   "pad": "11px 27px",
+   "size": "17px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(255, 255, 255)",
+   "h": 48
+  },
+  {
+   "text": "Become a Member",
+   "bg": "rgba(255, 255, 255, 0)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "2px",
+   "pad": "11px 27px",
+   "size": "17px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(255, 255, 255)",
+   "h": 48
+  },
+  {
+   "text": "Explore the Collection",
+   "bg": "rgb(181, 9, 56)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "2px",
+   "pad": "11px 27px",
+   "size": "17px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 48
+  },
+  {
+   "text": "Buy Tickets",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(26, 26, 26)",
+   "radius": "2px",
+   "pad": "11px 27px",
+   "size": "17px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(204, 204, 204)",
+   "h": 48
+  },
+  {
+   "text": "See works",
+   "bg": "rgba(255, 255, 255, 0)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "2px",
+   "pad": "11px 27px",
+   "size": "17px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(255, 255, 255)",
+   "h": 48
+  },
+  {
+   "text": "ARTICLEThe Buddha Returns to Ink",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(126, 116, 109)",
+   "radius": "0px",
+   "pad": "0px 0px 16px",
+   "size": "10px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(230, 230, 230)",
+   "h": 313
+  },
+  {
+   "text": "Explore the Shop",
+   "bg": "rgba(255, 255, 255, 0)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "2px",
+   "pad": "11px 27px",
+   "size": "17px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(255, 255, 255)",
+   "h": 48
+  }
+ ],
+ "headings": [
+  "Primary Navigation",
+  "Secondary Navigation",
+  "See all hours",
+  "EXHIBITIONS",
+  "See all current exhibitions",
+  "EVENTS",
+  "See all upcoming events",
+  "Join our Community",
+  "THE COLLECTION",
+  "ARTICLES",
+  "See more",
+  "Museum Shop",
+  "Sign up for our enewsletter to receive updates.",
+  "Footer content",
+  "Primary Navigation",
+  "Locations",
+  "About us",
+  "Support us",
+  "Learn with us",
+  "Follow us",
+  "Footer Links",
+  "Gallery actions",
+  "Image actions",
+  "Secondary Navigation",
+  "Primary Navigation"
+ ],
+ "paras": [
+  "Welcome to the Art Institute of Chicago, home to a collection of art that spans centuries and the globe—and one of Tripadvisor’s “Best of the Best” US attractions of 2025. We look forward to your visit and invite you to ",
+  "Mary Cassatt: After Impressionism",
+  "Through January 3 Discover the bold and innovative work of Mary Cassatt in this gathering of over 70 experimental and ambitious works made at the height of her career. Tickets to this show are $7 in addition to general a",
+  "Before your visit, pick the works you don’t want to miss.",
+  "The best way to lend your support is to become a member.",
+  "Explore thousands of artworks in the museum’s collection—from our renowned icons to lesser-known works from every corner of the globe.",
+  "Discover the latest works to join our galleries.",
+  "Discover the step-by-step process of conserving and installing a very large, very flexible work of art—one that puts our city’s history center stage.",
+  "From books and notecards to jewelry and home decor, we have something for every art lover.",
+  "Find all the information you need—plus helpful tips—to plan your visit"
+ ],
+ "footer": {
+  "h": 649,
+  "text": "BACK TO TOP Footer content Primary Navigation Visit Exhibitions and Events The Collection Locations Michigan Avenue Entrance 111 South Michigan Avenue Chicago, IL 60603 Modern Wing Entrance 159 East Monroe Street Chicago, IL 60603 About us Mission and History Leadership Departments Financial Reporti"
+ },
+ "jsMotion": {
+  "scriptsFetched": 8,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "500",
+    4
+   ],
+   [
+    "250",
+    1
+   ]
+  ],
+  "staggers": [],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

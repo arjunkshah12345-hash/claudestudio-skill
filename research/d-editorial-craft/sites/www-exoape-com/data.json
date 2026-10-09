@@ -1,0 +1,594 @@
+{
+ "url": "https://www.exoape.com",
+ "slug": "www-exoape-com",
+ "analyzedAt": "2026-10-07T05:30:18.277Z",
+ "scrollHeight": 900,
+ "pageLengthInViewports": 1,
+ "title": "Exo Ape - Global Digital Design Studio",
+ "metaDescription": "We partner with brands and businesses that create exceptional experiences where people live, work and unwind.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "Lausanne-300 400 normal",
+   "Lausanne-400 400 normal",
+   "Lausanne-500 400 normal"
+  ],
+  "families": [
+   [
+    "Lausanne-300",
+    35
+   ],
+   [
+    "Lausanne-400",
+    3
+   ],
+   [
+    "Times",
+    1
+   ]
+  ],
+  "sizes": [
+   [
+    "16px",
+    21
+   ],
+   [
+    "24px",
+    7
+   ],
+   [
+    "14px",
+    5
+   ],
+   [
+    "250px",
+    4
+   ],
+   [
+    "144px",
+    2
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    39
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "0.006em@16",
+    16
+   ],
+   [
+    "normal",
+    15
+   ],
+   [
+    "-0.046em@250",
+    4
+   ],
+   [
+    "0.007em@14",
+    2
+   ],
+   [
+    "-0.035em@144",
+    2
+   ]
+  ],
+  "uppercaseShare": 0,
+  "largest": [
+   {
+    "tag": "div",
+    "text": "Digital",
+    "family": "Lausanne-300",
+    "size": "250px",
+    "weight": "400",
+    "lh": "183px",
+    "ls": "-11.5px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "div",
+    "text": "Design",
+    "family": "Lausanne-300",
+    "size": "250px",
+    "weight": "400",
+    "lh": "183px",
+    "ls": "-11.5px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "div",
+    "text": "Experience",
+    "family": "Lausanne-300",
+    "size": "250px",
+    "weight": "400",
+    "lh": "183px",
+    "ls": "-11.5px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "div",
+    "text": "Work",
+    "family": "Lausanne-300",
+    "size": "250px",
+    "weight": "400",
+    "lh": "226px",
+    "ls": "-11.5px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(13, 14, 19)"
+   },
+   {
+    "tag": "div",
+    "text": "Play",
+    "family": "Lausanne-300",
+    "size": "144px",
+    "weight": "400",
+    "lh": "110px",
+    "ls": "-5px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(228, 224, 219)"
+   },
+   {
+    "tag": "div",
+    "text": "Reel",
+    "family": "Lausanne-300",
+    "size": "144px",
+    "weight": "400",
+    "lh": "110px",
+    "ls": "-5px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(228, 224, 219)"
+   },
+   {
+    "tag": "div",
+    "text": "Global digital design studio partnering with",
+    "family": "Lausanne-300",
+    "size": "24px",
+    "weight": "400",
+    "lh": "32px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "div",
+    "text": "brands and businesses that create exceptional",
+    "family": "Lausanne-300",
+    "size": "24px",
+    "weight": "400",
+    "lh": "32px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "div",
+    "text": "experiences where people live, work, and unwind.",
+    "family": "Lausanne-300",
+    "size": "24px",
+    "weight": "400",
+    "lh": "32px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "We help experience-driven companies thrive by making their audience feel the refined intri",
+    "family": "Lausanne-300",
+    "size": "24px",
+    "weight": "400",
+    "lh": "32px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "p",
+    "text": "Highlights of cases that we passionately built with forward-thinking clients and friends o",
+    "family": "Lausanne-300",
+    "size": "24px",
+    "weight": "400",
+    "lh": "32px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(13, 14, 19)"
+   },
+   {
+    "tag": "p",
+    "text": "Find out more about our work on these leading design and technology platforms.",
+    "family": "Lausanne-300",
+    "size": "24px",
+    "weight": "400",
+    "lh": "32px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(13, 14, 19)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(255, 255, 255)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(255, 255, 255)",
+    15
+   ],
+   [
+    "rgba(224, 205, 189, 0.8)",
+    11
+   ],
+   [
+    "rgb(13, 14, 19)",
+    8
+   ],
+   [
+    "rgb(228, 224, 219)",
+    4
+   ],
+   [
+    "rgb(224, 204, 187)",
+    1
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(13, 14, 19)",
+    2
+   ],
+   [
+    "rgba(13, 14, 19, 0.4)",
+    2
+   ],
+   [
+    "rgb(255, 255, 255)",
+    1
+   ],
+   [
+    "rgb(7, 7, 7)",
+    1
+   ],
+   [
+    "rgba(224, 205, 189, 0.6)",
+    1
+   ],
+   [
+    "rgb(224, 204, 187)",
+    1
+   ]
+  ],
+  "gradients": []
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(1,0,0,1)",
+    6
+   ],
+   [
+    "cubic-bezier(0.25,0.25,0.75,0.75)",
+    2
+   ]
+  ],
+  "durations": [
+   [
+    "0.5s",
+    12
+   ],
+   [
+    "0.25s",
+    2
+   ]
+  ],
+  "keyframes": []
+ },
+ "cssVarSample": {
+  "--color-white": "#fff",
+  "--color-white-02": "hsla(0,0%,100%,.2)",
+  "--color-white-04": "hsla(0,0%,100%,.4)",
+  "--color-white-06": "hsla(0,0%,100%,.6)",
+  "--color-white-08": "hsla(0,0%,100%,.8)",
+  "--color-off-white": "#f8f8f8",
+  "--color-off-white-02": "hsla(0,0%,97%,.2)",
+  "--color-off-white-04": "hsla(0,0%,97%,.4)",
+  "--color-off-white-06": "hsla(0,0%,97%,.6)",
+  "--color-off-white-08": "hsla(0,0%,97%,.8)",
+  "--color-story": "#070707",
+  "--color-dark-grey": "#0d0e13",
+  "--color-dark-grey-02": "rgba(13,14,19,.2)",
+  "--color-dark-grey-04": "rgba(13,14,19,.4)",
+  "--color-dark-grey-06": "rgba(13,14,19,.6)",
+  "--color-dark-grey-08": "rgba(13,14,19,.8)",
+  "--color-light-grey": "#e4e0db",
+  "--color-light-grey-02": "hsla(33,14%,88%,.2)",
+  "--color-light-grey-06": "hsla(33,14%,88%,.6)",
+  "--color-light-grey-08": "hsla(33,14%,88%,.8)",
+  "--color-sand": "#e0ccbb",
+  "--color-sand-06": "hsla(28,37%,81%,.6)",
+  "--color-sand-08": "hsla(28,37%,81%,.8)",
+  "--font-f-lausanne-300": "\"Lausanne-300\"",
+  "--font-f-lausanne-400": "\"Lausanne-400\"",
+  "--font-f-lausanne-500": "\"Lausanne-500\"",
+  "--font-s-h0": "25.6vw",
+  "--font-lh-h0": "25.6vw",
+  "--font-ls-h0": "-1.2vw",
+  "--font-s-h1": "16vw",
+  "--font-lh-h1": "16vw",
+  "--font-ls-h1": "-0.4vw",
+  "--font-s-h2": "7.7333333333vw",
+  "--font-lh-h2": "9.0666666667vw",
+  "--font-ls-h2": "-0.2666666667vw",
+  "--font-s-h3": "6.4vw",
+  "--font-lh-h3": "8vw",
+  "--font-ls-h3": "-0.1333333333vw",
+  "--font-s-h4": "4.8vw",
+  "--font-lh-h4": "6.4vw",
+  "--font-ls-h4": "0vw",
+  "--font-s-p": "3.7333333333vw",
+  "--font-lh-p": "5.6vw",
+  "--font-ls-p": "0.0266666667vw",
+  "--font-s-p-small": "3.7333333333vw",
+  "--font-lh-p-small": "5.6vw",
+  "--font-ls-p-small": "0.0266666667vw",
+  "--font-s-subtitle": "3.2vw",
+  "--font-lh-subtitle": "4.2666666667vw",
+  "--font-ls-subtitle": "0.0266666667vw",
+  "--font-s-cta": "4.2666666667vw",
+  "--font-lh-cta": "4.2666666667vw",
+  "--font-ls-cta": "0vw",
+  "--font-s-label": "3.7333333333vw",
+  "--font-lh-label": "3.7333333333vw",
+  "--font-ls-label": "0vw"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": true,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 8,
+  "video": 8,
+  "svg": 18,
+  "picture": 0,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 1,
+  "clipPath": 8,
+  "sticky": 0,
+  "fixed": [
+   "app is-light",
+   "menu-button",
+   "scroll"
+  ],
+  "customCursor": true,
+  "boxShadows": [],
+  "filters": [],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [],
+ "borders": [],
+ "grids": [
+  [
+   "12cols gap 32px",
+   4
+  ]
+ ],
+ "containers": [],
+ "sideMargins": [
+  [
+   "120px",
+   3
+  ],
+  [
+   "941px",
+   2
+  ],
+  [
+   "223px",
+   2
+  ],
+  [
+   "100px",
+   1
+  ],
+  [
+   "209px",
+   1
+  ],
+  [
+   "940px",
+   1
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "featured-projects dark",
+   "h": 2671,
+   "padTop": "206px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "showreel light-grey",
+   "h": 1800,
+   "padTop": "0px",
+   "bg": "rgb(13, 14, 19)"
+  },
+  {
+   "cls": "featured-articles dark",
+   "h": 2040,
+   "padTop": "200px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "NAV",
+  "position": "fixed",
+  "height": 21,
+  "links": 4,
+  "linkTexts": [],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [],
+ "headings": [
+  "Digital Design Experience",
+  "Featured Projects",
+  "Work",
+  "Work in motion",
+  "Play Reel",
+  "In the media"
+ ],
+ "paras": [
+  "Global digital design studio partnering with brands and businesses that create exceptional experiences where people live, work, and unwind.",
+  "We help experience-driven companies thrive by making their audience feel the refined intricacies of their brand and product in the digital space. Unforgettable journeys start with a click.",
+  "Highlights of cases that we passionately built with forward-thinking clients and friends over the years.",
+  "Our work is best experienced in motion. Don’t forget to put on your headphones.",
+  "Find out more about our work on these leading design and technology platforms.",
+  "The story behind Exo Ape is one of exploration, creativity and curiosity."
+ ],
+ "footer": {
+  "h": 901,
+  "text": "The story behind Exo Ape is one of exploration, creativity and curiosity. Willem II Singel 8 6041 HS, Roermond The Netherlands hello@exoape.com Work Studio News Contact Behance Dribbble Linkedin Instagram Our Story"
+ },
+ "jsMotion": {
+  "scriptsFetched": 19,
+  "gsapEases": [
+   [
+    "linear",
+    40
+   ],
+   [
+    "none",
+    1
+   ]
+  ],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "1",
+    79
+   ],
+   [
+    ".5",
+    21
+   ],
+   [
+    ".2",
+    8
+   ],
+   [
+    "2",
+    2
+   ],
+   [
+    ".3",
+    2
+   ],
+   [
+    ".4",
+    2
+   ],
+   [
+    "0",
+    1
+   ],
+   [
+    "5",
+    1
+   ],
+   [
+    "15",
+    1
+   ],
+   [
+    "40",
+    1
+   ],
+   [
+    ".7",
+    1
+   ],
+   [
+    ".1",
+    1
+   ]
+  ],
+  "staggers": [
+   [
+    ".1",
+    18
+   ],
+   [
+    ".05",
+    4
+   ],
+   [
+    "0",
+    2
+   ],
+   [
+    "{from:this.index,amount:.2}",
+    2
+   ],
+   [
+    "1",
+    1
+   ]
+  ],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [
+   [
+    "lines",
+    3
+   ]
+  ],
+  "bezierArrays": []
+ }
+}

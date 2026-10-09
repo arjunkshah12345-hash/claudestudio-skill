@@ -1,0 +1,1167 @@
+{
+ "url": "https://elevenlabs.io/",
+ "slug": "elevenlabs-io",
+ "analyzedAt": "2026-10-07T05:18:11.043Z",
+ "scrollHeight": 10822,
+ "pageLengthInViewports": 12,
+ "title": "Free AI Voice Generator & Voice Agents Platform | ElevenLabs",
+ "metaDescription": "Create lifelike speech with our AI voice generator and voice agents platform. Access 5,000+ voices in 90+ languages with secure APIs and SDKs.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "Waldenburg 300 normal",
+   "Inter 100 900 normal",
+   "Geist Mono 100 900 normal"
+  ],
+  "families": [
+   [
+    "Inter",
+    254
+   ],
+   [
+    "Geist Mono",
+    28
+   ],
+   [
+    "Waldenburg",
+    11
+   ]
+  ],
+  "sizes": [
+   [
+    "14px",
+    87
+   ],
+   [
+    "15px",
+    65
+   ],
+   [
+    "16px",
+    51
+   ],
+   [
+    "13px",
+    40
+   ],
+   [
+    "18px",
+    27
+   ],
+   [
+    "36px",
+    8
+   ],
+   [
+    "12px",
+    7
+   ],
+   [
+    "20px",
+    3
+   ],
+   [
+    "48px",
+    2
+   ],
+   [
+    "10px",
+    2
+   ],
+   [
+    "32px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    193
+   ],
+   [
+    "500",
+    89
+   ],
+   [
+    "300",
+    11
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    124
+   ],
+   [
+    "0.010em@14",
+    73
+   ],
+   [
+    "0.010em@15",
+    58
+   ],
+   [
+    "0.010em@16",
+    33
+   ],
+   [
+    "0.010em@18",
+    3
+   ],
+   [
+    "-0.020em@48",
+    2
+   ]
+  ],
+  "uppercaseShare": 0,
+  "largest": [
+   {
+    "tag": "h1",
+    "text": "Bringing technology to life",
+    "family": "Waldenburg",
+    "size": "48px",
+    "weight": "300",
+    "lh": "52px",
+    "ls": "-0.96px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "span",
+    "text": "technology to life",
+    "family": "Waldenburg",
+    "size": "48px",
+    "weight": "300",
+    "lh": "52px",
+    "ls": "-0.96px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "h2",
+    "text": "Two platforms built on the same research foundation",
+    "family": "Waldenburg",
+    "size": "36px",
+    "weight": "300",
+    "lh": "42px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "h2",
+    "text": "Create, edit, and localize in one AI platform",
+    "family": "Waldenburg",
+    "size": "36px",
+    "weight": "300",
+    "lh": "42px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "h2",
+    "text": "Deploy agents that talk, type, and take action",
+    "family": "Waldenburg",
+    "size": "36px",
+    "weight": "300",
+    "lh": "42px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "h2",
+    "text": "Or build anything with a powerful host of APIs",
+    "family": "Waldenburg",
+    "size": "36px",
+    "weight": "300",
+    "lh": "42px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "h2",
+    "text": "Showcasing the global impact of AI audio research",
+    "family": "Waldenburg",
+    "size": "36px",
+    "weight": "300",
+    "lh": "42px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "h2",
+    "text": "Research that redefines human technology interaction",
+    "family": "Waldenburg",
+    "size": "36px",
+    "weight": "300",
+    "lh": "42px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "h2",
+    "text": "Safety, built in",
+    "family": "Waldenburg",
+    "size": "36px",
+    "weight": "300",
+    "lh": "42px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "h2",
+    "text": "Latest updates",
+    "family": "Waldenburg",
+    "size": "36px",
+    "weight": "300",
+    "lh": "42px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "p",
+    "text": "AI Communication Platform",
+    "family": "Waldenburg",
+    "size": "32px",
+    "weight": "300",
+    "lh": "36px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "a",
+    "text": "Introducing Flows in ElevenCreative",
+    "family": "Inter",
+    "size": "20px",
+    "weight": "400",
+    "lh": "27px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(253, 252, 252)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(0, 0, 0)",
+    177
+   ],
+   [
+    "rgb(119, 113, 105)",
+    52
+   ],
+   [
+    "rgb(255, 255, 255)",
+    18
+   ],
+   [
+    "rgb(244, 26, 47)",
+    9
+   ],
+   [
+    "rgb(10, 89, 210)",
+    9
+   ],
+   [
+    "rgb(68, 64, 59)",
+    8
+   ],
+   [
+    "rgb(165, 159, 151)",
+    8
+   ],
+   [
+    "rgb(5, 47, 112)",
+    8
+   ],
+   [
+    "rgba(255, 255, 255, 0.8)",
+    2
+   ],
+   [
+    "rgb(89, 84, 79)",
+    1
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(0, 0, 0)",
+    52
+   ],
+   [
+    "rgb(255, 255, 255)",
+    42
+   ],
+   [
+    "rgba(0, 0, 0, 0.05)",
+    37
+   ],
+   [
+    "rgb(245, 243, 241)",
+    35
+   ],
+   [
+    "rgb(253, 252, 252)",
+    35
+   ],
+   [
+    "rgba(0, 0, 0, 0.3)",
+    18
+   ],
+   [
+    "rgba(0, 0, 0, 0.075)",
+    4
+   ],
+   [
+    "rgb(235, 232, 228)",
+    2
+   ],
+   [
+    "rgb(255, 71, 4)",
+    2
+   ],
+   [
+    "rgb(4, 71, 255)",
+    2
+   ],
+   [
+    "rgba(0, 0, 0, 0.1)",
+    1
+   ],
+   [
+    "rgba(0, 0, 0, 0.01)",
+    1
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(to top, rgba(0, 0, 0, 0.5) 50%, rgba(0, 0, 0, 0.494) 54.03%, rgba(0, 0, 0, 0.475) 57.77%, rgba(0, 0, 0, 0.447) 61.25%, rgba(",
+    6
+   ],
+   [
+    "linear-gradient(to right, rgb(245, 243, 241), rgba(0, 0, 0, 0))",
+    2
+   ],
+   [
+    "linear-gradient(to left, rgb(245, 243, 241), rgba(0, 0, 0, 0))",
+    2
+   ],
+   [
+    "linear-gradient(to top, rgba(0, 0, 0, 0.35) 0%, rgba(0, 0, 0, 0.345) 8.07%, rgba(0, 0, 0, 0.333) 15.54%, rgba(0, 0, 0, 0.314) 22.5%, rgba(0,",
+    2
+   ],
+   [
+    "linear-gradient(rgb(255, 255, 255) 0%, rgba(255, 255, 255, 0.99) 8.07%, rgba(255, 255, 255, 0.953) 15.54%, rgba(255, 255, 255, 0.894) 22.5%,",
+    2
+   ],
+   [
+    "linear-gradient(to right, rgb(255, 255, 255) 0%, rgba(255, 255, 255, 0.99) 8.07%, rgba(255, 255, 255, 0.953) 15.54%, rgba(255, 255, 255, 0.8",
+    2
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.4,0,0.2,1)",
+    16
+   ],
+   [
+    "cubic-bezier(0,0,0.2,1)",
+    2
+   ]
+  ],
+  "durations": [
+   [
+    "0.15s",
+    10
+   ],
+   [
+    "0.3s",
+    6
+   ],
+   [
+    "0.2s",
+    2
+   ],
+   [
+    "0.5s",
+    2
+   ]
+  ],
+  "keyframes": []
+ },
+ "cssVarSample": {
+  "--breakpoint": "\"xs\"",
+  "--container-width": "min(100%,81.5rem)",
+  "--inner-gutter": "8px",
+  "--outer-gutter": "20px",
+  "--grid-columns": "12",
+  "--env": "\"dev\"",
+  "--grid-column-bg": "rgba(127,255,255,0.25)",
+  "---shadcn-background": "0 0% 100%",
+  "--shadcn-foreground": "0 0% 3.9%",
+  "--shadcn-card": "0 0% 100%",
+  "--shadcn-card-foreground": "0 0% 3.9%",
+  "--shadcn-popover": "0 0% 100%",
+  "--shadcn-popover-foreground": "0 0% 3.9%",
+  "--shadcn-primary": "0 0% 9%",
+  "--shadcn-primary-foreground": "0 0% 98%",
+  "--shadcn-secondary": "0 0% 96.1%",
+  "--shadcn-secondary-foreground": "0 0% 9%",
+  "--shadcn-muted": "0 0% 96.1%",
+  "--shadcn-muted-foreground": "0 0% 45.1%",
+  "--shadcn-accent": "0 0% 96.1%",
+  "--shadcn-accent-foreground": "0 0% 9%",
+  "--shadcn-destructive": "0 84.2% 60.2%",
+  "--shadcn-destructive-foreground": "0 0% 98%",
+  "--shadcn-border": "0 0% 89.8%",
+  "--shadcn-input": "0 0% 89.8%",
+  "--shadcn-ring": "0 0% 3.9%",
+  "--shadcn-radius": "0.5rem",
+  "--spacing-outer-gutter": "1.25rem",
+  "--spacing-inner-gutter": "0.5rem",
+  "--spacing-container-gutter": "1.25rem",
+  "--spacing-outer-content": "3.75rem",
+  "--spacing-content-wide": "7.5rem",
+  "--spacing-content-xwide": "10rem",
+  "--waldenburg": "var(--font-waldenburg)",
+  "--waldenburgFH": "var(--font-waldenburg-fh)",
+  "--jetbrainsMono": "var(--font-jetbrains-mono)",
+  "--inter": "var(--font-inter)",
+  "--f-display-01-font-family": "var(--font-waldenburg-fh)",
+  "--f-display-01-font-weight": "700",
+  "--f-display-01-font-size": "3rem",
+  "--f-display-01-line-height": "100%",
+  "--f-display-02-font-family": "var(--font-waldenburg-fh)",
+  "--f-display-02-font-weight": "700",
+  "--f-display-02-font-size": "2.5rem",
+  "--f-display-02-line-height": "100%",
+  "--f-heading-01-font-family": "var(--font-waldenburg)",
+  "--f-heading-01-font-weight": "300",
+  "--f-heading-01-font-size": "2.25rem",
+  "--f-heading-01-line-height": "105%",
+  "--f-heading-01-letter-spacing": "-0.03em",
+  "--f-heading-02-font-family": "var(--font-waldenburg)",
+  "--f-heading-02-font-weight": "300",
+  "--f-heading-02-font-size": "2rem",
+  "--f-heading-02-line-height": "110%",
+  "--f-heading-02-letter-spacing": "-0.03em",
+  "--f-heading-03-font-family": "var(--font-waldenburg)",
+  "--f-heading-03-font-weight": "300",
+  "--f-heading-03-font-size": "1.75rem",
+  "--f-heading-03-line-height": "120%",
+  "--f-heading-03-letter-spacing": "-0.02em",
+  "--f-heading-04-font-family": "var(--font-waldenburg)",
+  "--f-heading-04-font-weight": "400",
+  "--f-heading-04-font-size": "1.25rem",
+  "--f-heading-04-line-height": "130%",
+  "--f-heading-04-letter-spacing": "-0.01em",
+  "--f-heading-05-font-family": "var(--font-waldenburg)",
+  "--f-heading-05-font-weight": "400",
+  "--f-heading-05-font-size": "1.125rem",
+  "--f-heading-05-line-height": "135%",
+  "--f-heading-05-letter-spacing": "0em"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 2,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": true,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 47,
+  "video": 0,
+  "svg": 94,
+  "picture": 0,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [
+   [
+    "overlay",
+    29
+   ]
+  ],
+  "backdropFilter": 0,
+  "clipPath": 2,
+  "sticky": 9,
+  "fixed": [
+   "tw-inline-flex tw-items-center tw-whitespace-nowrap tw-trans",
+   "DIV",
+   "DIV",
+   "tw-fixed tw-inset-x-4 tw-z-50 tw-flex tw-pointer-events-none"
+  ],
+  "customCursor": true,
+  "boxShadows": [
+   [
+    "rgb(255, 255, 255) 0px 0px 0px 0px, rgba(0, 0, 0, 0.125) 0px 0px 0px 0.5px, rgba(0, 0, 0, 0.04) 0px 1px 1px 0px, rgba(0, 0, 0, 0.04) 0px 2px 4px 0px",
+    29
+   ],
+   [
+    "rgb(255, 255, 255) 0px 0px 0px 0px inset, rgba(0, 0, 0, 0.075) 0px 0px 0px 0.5px inset, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+    21
+   ],
+   [
+    "rgb(255, 255, 255) 0px 0px 0px 0px inset, rgba(0, 0, 0, 0.1) 0px 0px 0px 0.5px inset, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+    13
+   ],
+   [
+    "rgba(0, 0, 0, 0.125) 0px 0px 0px 0.5px, rgba(0, 0, 0, 0.04) 0px 1px 1px 0px, rgba(0, 0, 0, 0.04) 0px 2px 4px 0px",
+    7
+   ],
+   [
+    "rgb(255, 255, 255) 0px 0px 0px 0px inset, rgba(255, 255, 255, 0.6) 0px 0px 0px 1px inset, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+    2
+   ]
+  ],
+  "filters": [
+   [
+    "brightness(0) invert(1)",
+    8
+   ],
+   [
+    "blur(4px)",
+    2
+   ],
+   [
+    "url(\"#_R_2paqjvlnqnq5nkdbsnitmpfivb_\")",
+    1
+   ],
+   [
+    "url(\"#_R_2qaqjvlnqnq5nkdbsnitmpfivb_\")",
+    1
+   ],
+   [
+    "url(\"#_R_2raqjvlnqnq5nkdbsnitmpfivb_\")",
+    1
+   ]
+  ],
+  "transforms3d": 0,
+  "noiseOrGrain": true,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "9999px",
+   112
+  ],
+  [
+   "4px",
+   88
+  ],
+  [
+   "20px",
+   20
+  ],
+  [
+   "24px",
+   18
+  ],
+  [
+   "2px",
+   10
+  ],
+  [
+   "14px",
+   4
+  ],
+  [
+   "8px",
+   3
+  ],
+  [
+   "24px 24px 0px 0px",
+   2
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgba(0, 0, 0, 0.075)",
+   2
+  ],
+  [
+   "1px solid rgb(235, 232, 228)",
+   1
+  ],
+  [
+   "1px solid rgb(229, 229, 229)",
+   1
+  ],
+  [
+   "1px solid rgba(0, 0, 0, 0.05)",
+   1
+  ]
+ ],
+ "grids": [
+  [
+   "1cols gap normal",
+   17
+  ],
+  [
+   "12cols gap 48px",
+   8
+  ],
+  [
+   "3cols gap normal",
+   5
+  ],
+  [
+   "2cols gap 32px",
+   3
+  ],
+  [
+   "12cols gap 16px",
+   2
+  ],
+  [
+   "3cols gap 64px",
+   1
+  ],
+  [
+   "5cols gap normal",
+   1
+  ],
+  [
+   "6cols gap normal",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "1440px",
+   2
+  ],
+  [
+   "768px",
+   1
+  ],
+  [
+   "1144px",
+   1
+  ],
+  [
+   "896px",
+   1
+  ]
+ ],
+ "sideMargins": [
+  [
+   "181px",
+   24
+  ],
+  [
+   "365px",
+   12
+  ],
+  [
+   "177px",
+   10
+  ],
+  [
+   "756px",
+   6
+  ],
+  [
+   "744px",
+   4
+  ],
+  [
+   "563px",
+   4
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "tw-relative tw-z-50 tw-flex tw-justify-center tw-i",
+   "h": 48,
+   "padTop": "8px",
+   "bg": "rgb(245, 243, 241)"
+  },
+  {
+   "cls": "",
+   "h": 9601,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "block-section",
+   "h": 323,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "tw-px-[var(--page-section-px)] tw-pt-[var(--page-s",
+   "h": 323,
+   "padTop": "120px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "block-section",
+   "h": 678,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "tw-px-[var(--page-section-px)] tw-pt-[var(--page-s",
+   "h": 678,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "block-section",
+   "h": 52,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "tw-px-[var(--page-section-px)] tw-pt-[var(--page-s",
+   "h": 52,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "block-section",
+   "h": 256,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "tw-px-[var(--page-section-px)] tw-pt-[var(--page-s",
+   "h": 255,
+   "padTop": "40px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "block-section",
+   "h": 269,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "tw-px-[var(--page-section-px)] tw-pt-[var(--page-s",
+   "h": 268,
+   "padTop": "160px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "block-section",
+   "h": 560,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "tw-px-[var(--page-section-px)] tw-pt-[var(--page-s",
+   "h": 560,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "block-section",
+   "h": 384,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "tw-px-[var(--page-section-px)] tw-pt-[var(--page-s",
+   "h": 383,
+   "padTop": "160px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "block-section",
+   "h": 854,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "tw-px-[var(--page-section-px)] tw-pt-[var(--page-s",
+   "h": 854,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "block-section",
+   "h": 124,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "tw-px-[var(--page-section-px)] tw-pt-[var(--page-s",
+   "h": 124,
+   "padTop": "40px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "block-section",
+   "h": 384,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "tw-px-[var(--page-section-px)] tw-pt-[var(--page-s",
+   "h": 383,
+   "padTop": "160px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "block-section",
+   "h": 832,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "tw-px-[var(--page-section-px)] tw-pt-[var(--page-s",
+   "h": 832,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "block-section",
+   "h": 124,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "tw-px-[var(--page-section-px)] tw-pt-[var(--page-s",
+   "h": 124,
+   "padTop": "40px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "block-section",
+   "h": 308,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "tw-px-[var(--page-section-px)] tw-pt-[var(--page-s",
+   "h": 307,
+   "padTop": "160px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "block-section",
+   "h": 356,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "tw-px-[var(--page-section-px)] tw-pt-[var(--page-s",
+   "h": 355,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "block-section",
+   "h": 273,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "tw-px-[var(--page-section-px)] tw-pt-[var(--page-s",
+   "h": 272,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "block-section",
+   "h": 332,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "tw-px-[var(--page-section-px)] tw-pt-[var(--page-s",
+   "h": 331,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "block-section",
+   "h": 269,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "tw-px-[var(--page-section-px)] tw-pt-[var(--page-s",
+   "h": 268,
+   "padTop": "160px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "block-section",
+   "h": 586,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "tw-px-[var(--page-section-px)] tw-pt-[var(--page-s",
+   "h": 586,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "block-section",
+   "h": 285,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "tw-px-[var(--page-section-px)] tw-pt-[var(--page-s",
+   "h": 284,
+   "padTop": "160px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "NAV",
+  "position": "static",
+  "height": 36,
+  "links": 4,
+  "linkTexts": [
+   "Products",
+   "Solutions",
+   "Customers",
+   "Resources",
+   "Enterprise",
+   "Pricing"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "Discover",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "9999px",
+   "pad": "0px 12px",
+   "size": "13px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 32
+  },
+  {
+   "text": "Skip to content",
+   "bg": "rgb(0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "9999px",
+   "pad": "0px 16px",
+   "size": "15px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 40
+  },
+  {
+   "text": "Log in",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "9999px",
+   "pad": "0px 14px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 36
+  },
+  {
+   "text": "Sign up",
+   "bg": "rgb(0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "9999px",
+   "pad": "0px 14px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 36
+  },
+  {
+   "text": "Sign up",
+   "bg": "rgb(0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "9999px",
+   "pad": "0px 20px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 44
+  },
+  {
+   "text": "Contact sales",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "9999px",
+   "pad": "0px 20px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 44
+  },
+  {
+   "text": "Sign up",
+   "bg": "rgb(0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "9999px",
+   "pad": "0px 16px",
+   "size": "15px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 40
+  },
+  {
+   "text": "Read all stories",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "9999px",
+   "pad": "0px 20px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 44
+  },
+  {
+   "text": "Learn more",
+   "bg": "rgb(0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "9999px",
+   "pad": "0px 20px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 44
+  },
+  {
+   "text": "Play",
+   "bg": "rgb(0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "radius": "9999px",
+   "pad": "0px 14px",
+   "size": "15px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 36
+  }
+ ],
+ "headings": [
+  "Bringing technology to life",
+  "Powering the best enterprises, creators, and developers. From ElevenAgents for customer experience, ElevenCreative for content creation, to the leading AI voice generator.",
+  "Trusted by leading developers and enterprises",
+  "Two platforms built on the same research foundation",
+  "ElevenCreative",
+  "ElevenAgents",
+  "Create, edit, and localize in one AI platform",
+  "Create ultra-realistic speech, turn ideas into videos, compose music in any genre, or design immersive sound effects. Craft your next film, ad, campaign, social content, audiobook, or podcast with our creative platform.",
+  "All-in-one AI editor",
+  "Ultra-realistic speech",
+  "Music",
+  "SFX",
+  "Voices",
+  "Image & Video",
+  "Deploy agents that talk, type, and take action",
+  "Configure, deploy and monitor natural, human-sounding agents in 90+ languages with leading accuracy and ultra-low latency across voice or chat.",
+  "Omnichannel agents",
+  "Analytics",
+  "Testing",
+  "Guardrails",
+  "Workflows",
+  "Or build anything with a powerful host of APIs",
+  "Text to Speech API",
+  "Speech to Text API",
+  "Music API"
+ ],
+ "paras": [
+  "Meet Eleven v4, our most emotive model yet. With 3x credits included on Creator+ until October 12",
+  "Expressive voices that bring audiobooks and podcasts to life.",
+  "Persuasive voices that drive action and brand recall.",
+  "Playful and engaging voices for cartoons or video games.",
+  "Expressive voices that bring audiobooks and podcasts to life.",
+  "Natural voices perfect for informal scenarios.",
+  "Trendy, attention-grabbing voices for short-form content.",
+  "Generate ultra-realistic speech, videos, music, and sound effects.",
+  "Configure, deploy and monitor conversational agents.",
+  "Create podcasts, audiobooks and voiceovers in an editor built on all of ElevenLabs’ audio research."
+ ],
+ "footer": {
+  "h": 855,
+  "text": "English ElevenCreative Text to Speech Speech to Text Voice Changer Text to Sound Effects Voice Cloning Voice Isolator AI Music Generator Studio Voice Design AI Voice Generator AI Image Generator AI Video Generator Ads Engine ElevenAgents Voice Agents Conversational AI Integrations Telecommunications"
+ },
+ "jsMotion": {
+  "scriptsFetched": 7,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "0",
+    4
+   ]
+  ],
+  "staggers": [],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [
+   [
+    "click",
+    1
+   ],
+   [
+    "drag",
+    1
+   ]
+  ],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

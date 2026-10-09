@@ -1,0 +1,775 @@
+{
+ "url": "https://www.norton.org/",
+ "slug": "www-norton-org",
+ "analyzedAt": "2026-10-07T05:28:16.124Z",
+ "scrollHeight": 6257,
+ "pageLengthInViewports": 7,
+ "title": "Home | Norton Museum of Art",
+ "metaDescription": null,
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "Centra No. 2 400 normal",
+   "Centra No. 2 500 normal",
+   "Centra No. 2 500 italic",
+   "norton-icons 400 normal"
+  ],
+  "families": [
+   [
+    "Centra No. 2",
+    205
+   ]
+  ],
+  "sizes": [
+   [
+    "14px",
+    84
+   ],
+   [
+    "18px",
+    71
+   ],
+   [
+    "32px",
+    33
+   ],
+   [
+    "22px",
+    7
+   ],
+   [
+    "16px",
+    6
+   ],
+   [
+    "90px",
+    3
+   ],
+   [
+    "13px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "500",
+    154
+   ],
+   [
+    "400",
+    51
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    87
+   ],
+   [
+    "0.050em@14",
+    81
+   ],
+   [
+    "0.050em@18",
+    30
+   ],
+   [
+    "-0.010em@32",
+    4
+   ],
+   [
+    "-0.050em@90",
+    3
+   ]
+  ],
+  "uppercaseShare": 0.75,
+  "largest": [
+   {
+    "tag": "h2",
+    "text": "WELCOME TO THE NORTON",
+    "family": "Centra No. 2",
+    "size": "90px",
+    "weight": "500",
+    "lh": "81px",
+    "ls": "-4.5px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(243, 243, 243)"
+   },
+   {
+    "tag": "h2",
+    "text": "ART AFTER DARK",
+    "family": "Centra No. 2",
+    "size": "90px",
+    "weight": "500",
+    "lh": "81px",
+    "ls": "-4.5px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(243, 243, 243)"
+   },
+   {
+    "tag": "h2",
+    "text": "GIRL DINNER PARTY",
+    "family": "Centra No. 2",
+    "size": "90px",
+    "weight": "500",
+    "lh": "81px",
+    "ls": "-4.5px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(243, 243, 243)"
+   },
+   {
+    "tag": "p",
+    "text": "FRIDAYS \\ 5 – 10 PM",
+    "family": "Centra No. 2",
+    "size": "32px",
+    "weight": "500",
+    "lh": "32px",
+    "ls": "normal",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(243, 243, 243)"
+   },
+   {
+    "tag": "p",
+    "text": "THURSDAY, OCTOBER 15 \\ 6 – 9 PM",
+    "family": "Centra No. 2",
+    "size": "32px",
+    "weight": "500",
+    "lh": "32px",
+    "ls": "normal",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(243, 243, 243)"
+   },
+   {
+    "tag": "h2",
+    "text": "UPCOMING PROGRAMS AND EVENTS",
+    "family": "Centra No. 2",
+    "size": "32px",
+    "weight": "500",
+    "lh": "32px",
+    "ls": "-0.32px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(24, 54, 138)"
+   },
+   {
+    "tag": "p",
+    "text": "FOUNDATIONS OF DRAWING CLASS",
+    "family": "Centra No. 2",
+    "size": "32px",
+    "weight": "500",
+    "lh": "32px",
+    "ls": "normal",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(37, 30, 24)"
+   },
+   {
+    "tag": "p",
+    "text": "FAMILY STUDIO: FROM THE OCEAN TO THE HORIZON",
+    "family": "Centra No. 2",
+    "size": "32px",
+    "weight": "500",
+    "lh": "32px",
+    "ls": "normal",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(37, 30, 24)"
+   },
+   {
+    "tag": "p",
+    "text": "ADULT SKETCH CLASS WITH SHANNON WALKER",
+    "family": "Centra No. 2",
+    "size": "32px",
+    "weight": "500",
+    "lh": "32px",
+    "ls": "normal",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(37, 30, 24)"
+   },
+   {
+    "tag": "p",
+    "text": "CREATIVE CONNECTIONS: ART FOR WELLBEING",
+    "family": "Centra No. 2",
+    "size": "32px",
+    "weight": "500",
+    "lh": "32px",
+    "ls": "normal",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(37, 30, 24)"
+   },
+   {
+    "tag": "p",
+    "text": "ARTSPEAKS: PETER J. COHEN IN CONVERSATION WITH LAUREN RICHMAN",
+    "family": "Centra No. 2",
+    "size": "32px",
+    "weight": "500",
+    "lh": "32px",
+    "ls": "normal",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(37, 30, 24)"
+   },
+   {
+    "tag": "p",
+    "text": "YOUNG FRIENDS KICKOFF",
+    "family": "Centra No. 2",
+    "size": "32px",
+    "weight": "500",
+    "lh": "32px",
+    "ls": "normal",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(37, 30, 24)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(243, 243, 243)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(37, 30, 24)",
+    190
+   ],
+   [
+    "rgb(24, 54, 138)",
+    9
+   ],
+   [
+    "rgb(243, 243, 243)",
+    6
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(243, 243, 243)",
+    36
+   ],
+   [
+    "rgb(96, 152, 255)",
+    3
+   ],
+   [
+    "rgb(246, 190, 17)",
+    2
+   ],
+   [
+    "rgb(118, 169, 61)",
+    2
+   ],
+   [
+    "rgb(37, 30, 24)",
+    1
+   ],
+   [
+    "rgb(236, 230, 210)",
+    1
+   ],
+   [
+    "rgb(24, 54, 138)",
+    1
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.4)), linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0) 16.51%)",
+    3
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.4,0,0.2,1)",
+    62
+   ]
+  ],
+  "durations": [
+   [
+    "0.2s",
+    45
+   ],
+   [
+    "0.3s",
+    10
+   ],
+   [
+    "0.35s",
+    6
+   ],
+   [
+    "0.1s",
+    4
+   ],
+   [
+    "0.25s",
+    4
+   ],
+   [
+    "0.4s",
+    3
+   ],
+   [
+    "0.15s",
+    3
+   ],
+   [
+    "0s",
+    1
+   ],
+   [
+    "0.5s",
+    1
+   ]
+  ],
+  "keyframes": []
+ },
+ "cssVarSample": {
+  "--container-padding-inline": "clamp(1.5rem,0.566rem + 2.263vw,2.5rem)",
+  "--container-padding-block-start": "clamp(3rem,1.133rem + 4.526vw,5rem)",
+  "--container-padding-block-end": "clamp(3rem,1.133rem + 4.526vw,5rem)",
+  "--section-space-100": "clamp(4.375rem,2.041rem + 5.658vw,6.875rem)",
+  "--section-space-80": "clamp(3rem,1.133rem + 4.526vw,5rem)",
+  "--section-space-70": "clamp(3.125rem,1.958rem + 2.829vw,4.375rem)",
+  "--section-space-60": "clamp(1.5rem,-0.834rem + 5.658vw,4rem)",
+  "--section-space-50": "clamp(1.5rem,0.1rem + 3.395vw,3rem)",
+  "--section-space-40": "clamp(1.5rem,0.566rem + 2.263vw,2.5rem)",
+  "--section-space-30": "30px",
+  "--section-space-20": "clamp(1rem,0.533rem + 1.132vw,1.5rem)",
+  "--color": "#251e18",
+  "--background-color": "#f3f3f3"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 31,
+  "video": 0,
+  "svg": 19,
+  "picture": 4,
+  "iframes": 2
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 0,
+  "clipPath": 1,
+  "sticky": 0,
+  "fixed": [
+   "site-header bg-white"
+  ],
+  "customCursor": false,
+  "boxShadows": [],
+  "filters": [],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "99px",
+   2
+  ]
+ ],
+ "borders": [
+  [
+   "bottom:2px solid rgb(37, 30, 24)",
+   25
+  ],
+  [
+   "1px solid rgb(243, 243, 243)",
+   3
+  ],
+  [
+   "1px solid rgb(37, 30, 24)",
+   3
+  ],
+  [
+   "2px solid rgb(243, 243, 243)",
+   2
+  ],
+  [
+   "1px solid rgba(37, 30, 24, 0.2)",
+   2
+  ],
+  [
+   "1px solid rgb(24, 54, 138)",
+   2
+  ]
+ ],
+ "grids": [
+  [
+   "4cols gap normal",
+   14
+  ],
+  [
+   "1cols gap normal",
+   4
+  ],
+  [
+   "3cols gap normal",
+   3
+  ],
+  [
+   "2cols gap 16px",
+   1
+  ],
+  [
+   "3cols gap 16px",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "1792px",
+   9
+  ],
+  [
+   "848px",
+   2
+  ],
+  [
+   "928px",
+   2
+  ],
+  [
+   "1712px",
+   1
+  ],
+  [
+   "1207px",
+   1
+  ],
+  [
+   "100%",
+   1
+  ]
+ ],
+ "sideMargins": [
+  [
+   "40px",
+   7
+  ],
+  [
+   "958px",
+   4
+  ],
+  [
+   "472px",
+   4
+  ],
+  [
+   "904px",
+   4
+  ],
+  [
+   "1336px",
+   4
+  ],
+  [
+   "1768px",
+   4
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "container content-section bg-white",
+   "h": 676,
+   "padTop": "0px",
+   "bg": "rgb(243, 243, 243)"
+  },
+  {
+   "cls": "container content-section card-slider-block bg-lig",
+   "h": 771,
+   "padTop": "80px",
+   "bg": "rgb(96, 152, 255)"
+  },
+  {
+   "cls": "container content-section card-slider-block bg-yel",
+   "h": 746,
+   "padTop": "80px",
+   "bg": "rgb(246, 190, 17)"
+  },
+  {
+   "cls": "container content-section bg-green",
+   "h": 784,
+   "padTop": "0px",
+   "bg": "rgb(118, 169, 61)"
+  },
+  {
+   "cls": "hero  bg-full-bleed bg-white",
+   "h": 480,
+   "padTop": "0px",
+   "bg": "rgb(243, 243, 243)"
+  },
+  {
+   "cls": "container content-section bg-white",
+   "h": 399,
+   "padTop": "0px",
+   "bg": "rgb(243, 243, 243)"
+  },
+  {
+   "cls": "container content-section-nested bg-",
+   "h": 239,
+   "padTop": "0px",
+   "bg": "rgb(243, 243, 243)"
+  },
+  {
+   "cls": "container content-section-nested bg-",
+   "h": 239,
+   "padTop": "0px",
+   "bg": "rgb(243, 243, 243)"
+  },
+  {
+   "cls": "signup container bg-light-blue",
+   "h": 473,
+   "padTop": "0px",
+   "bg": "rgb(96, 152, 255)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "fixed",
+  "height": 78,
+  "links": 38,
+  "linkTexts": [
+   "Mobile navigation",
+   "VISIT",
+   "EXHIBITIONS",
+   "PROGRAMS",
+   "GET INVOLVED",
+   "ABOUT",
+   "PRIVATE EVENTS",
+   "THE RESTAURANT",
+   "THE STORE",
+   "Search",
+   "Search"
+  ],
+  "bg": "rgb(243, 243, 243)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "PLAN YOUR VISIT",
+   "bg": "rgb(243, 243, 243)",
+   "color": "rgb(37, 30, 24)",
+   "radius": "0px",
+   "pad": "17.5px 23.338px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "uppercase",
+   "border": "1px solid rgb(243, 243, 243)",
+   "h": 51
+  },
+  {
+   "text": "LEARN MORE",
+   "bg": "rgb(243, 243, 243)",
+   "color": "rgb(37, 30, 24)",
+   "radius": "0px",
+   "pad": "17.5px 23.338px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "uppercase",
+   "border": "1px solid rgb(243, 243, 243)",
+   "h": 51
+  },
+  {
+   "text": "LEARN MORE",
+   "bg": "rgb(243, 243, 243)",
+   "color": "rgb(37, 30, 24)",
+   "radius": "0px",
+   "pad": "17.5px 23.338px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "uppercase",
+   "border": "1px solid rgb(243, 243, 243)",
+   "h": 51
+  },
+  {
+   "text": "PLAN YOUR VISIT",
+   "bg": "rgb(243, 243, 243)",
+   "color": "rgb(37, 30, 24)",
+   "radius": "0px",
+   "pad": "23.996px 32.004px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "uppercase",
+   "border": "1px solid rgb(37, 30, 24)",
+   "h": 64
+  },
+  {
+   "text": "EXPLORE FULL CALENDAR",
+   "bg": "rgb(96, 152, 255)",
+   "color": "rgb(24, 54, 138)",
+   "radius": "0px",
+   "pad": "23.996px 32.004px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "uppercase",
+   "border": "1px solid rgb(24, 54, 138)",
+   "h": 64
+  },
+  {
+   "text": "EXPLORE CURRENT EXHIBITIONS",
+   "bg": "rgb(246, 190, 17)",
+   "color": "rgb(37, 30, 24)",
+   "radius": "0px",
+   "pad": "23.996px 32.004px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "uppercase",
+   "border": "1px solid rgb(37, 30, 24)",
+   "h": 64
+  },
+  {
+   "text": "DISCOVER MORE",
+   "bg": "rgb(118, 169, 61)",
+   "color": "rgb(37, 30, 24)",
+   "radius": "0px",
+   "pad": "23.996px 32.004px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "uppercase",
+   "border": "1px solid rgb(37, 30, 24)",
+   "h": 64
+  },
+  {
+   "text": "JOIN OR RENEW TODAY",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(37, 30, 24)",
+   "radius": "0px",
+   "pad": "40px 0px 0px",
+   "size": "18px",
+   "weight": "500",
+   "tt": "uppercase",
+   "border": "1px solid color(srgb 0.145098 0.117647 0.0941176 / 0.2)",
+   "h": 59
+  },
+  {
+   "text": "TICKETS AND HOURS OF OPERATION",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(37, 30, 24)",
+   "radius": "0px",
+   "pad": "40px 0px 0px",
+   "size": "18px",
+   "weight": "500",
+   "tt": "uppercase",
+   "border": "1px solid color(srgb 0.145098 0.117647 0.0941176 / 0.2)",
+   "h": 59
+  },
+  {
+   "text": "SUBSCRIBE",
+   "bg": "rgb(24, 54, 138)",
+   "color": "rgb(243, 243, 243)",
+   "radius": "0px",
+   "pad": "17.5px 23.338px",
+   "size": "14px",
+   "weight": "500",
+   "tt": "uppercase",
+   "border": "1px solid rgb(24, 54, 138)",
+   "h": 63
+  }
+ ],
+ "headings": [
+  "WELCOME TO THE NORTON",
+  "ART AFTER DARK",
+  "GIRL DINNER PARTY",
+  "UPCOMING PROGRAMS AND EVENTS",
+  "ART AFTER DARK",
+  "FOUNDATIONS OF DRAWING CLASS",
+  "FAMILY STUDIO: FROM THE OCEAN TO THE HORIZON",
+  "ADULT SKETCH CLASS WITH SHANNON WALKER",
+  "GIRL DINNER PARTY",
+  "CREATIVE CONNECTIONS: ART FOR WELLBEING",
+  "ART AFTER DARK",
+  "ARTSPEAKS: PETER J. COHEN IN CONVERSATION WITH LAUREN RICHMAN",
+  "YOUNG FRIENDS KICKOFF",
+  "FOUNDATIONS OF DRAWING CLASS",
+  "ART EXPLORERS: LEARNING TO LOOK",
+  "FAMILY STUDIO: FROM THE OCEAN TO THE HORIZON",
+  "FAMILY AUTISM ART WORKSHOP: SHAPES AND PATTERNS",
+  "ART AFTER DARK: TSUKIMI",
+  "ARTSPEAKS: ROXANE ILIAS ON RALPH COBURN AND PARTICIPATORY ART",
+  "FOUNDATIONS OF DRAWING CLASS",
+  "FAMILY STUDIO: FROM THE OCEAN TO THE HORIZON",
+  "MEMBER HAPPY HOUR",
+  "ART AFTER DARK",
+  "ARTIST TALK: A CONVERSATION WITH MIMI PLUMB AND GREGORY J. HARRIS",
+  "CURRENT EXHIBITIONS"
+ ],
+ "paras": [
+  "THURSDAY, OCTOBER 15 \\ 6 – 9 PM",
+  "Highlights of the Collection: 60 min",
+  "Highlights of the Collection: 60 min",
+  "Family Studio: From the Ocean to the Horizon",
+  "Highlights of the Collection: 60 min",
+  "Highlights of the Collection (in Spanish): 50 min",
+  "Highlights of the Collection: 60 min",
+  "FAMILY STUDIO: FROM THE OCEAN TO THE HORIZON",
+  "FAMILY STUDIO: FROM THE OCEAN TO THE HORIZON",
+  "ADULT SKETCH CLASS WITH SHANNON WALKER"
+ ],
+ "footer": {
+  "h": 64,
+  "text": "PLAN YOUR VISIT"
+ },
+ "jsMotion": {
+  "scriptsFetched": 8,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "0",
+    4
+   ],
+   [
+    "200",
+    4
+   ],
+   [
+    "500",
+    2
+   ],
+   [
+    "375",
+    1
+   ]
+  ],
+  "staggers": [],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

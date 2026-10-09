@@ -1,0 +1,944 @@
+{
+ "url": "https://www.aesop.com/us/",
+ "slug": "www-aesop-com-us",
+ "analyzedAt": "2026-10-07T05:19:57.977Z",
+ "scrollHeight": 7894,
+ "pageLengthInViewports": 8.8,
+ "title": "Aesop USA | Formulations for Skin, Hair & Body",
+ "metaDescription": "Aesop offers skin, hair and body care formulations, and personal and home fragrances created with meticulous attention to detail. Browse the range online.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "SuisseIntl 400 normal",
+   "SuisseIntl-Medium 500 normal",
+   "Zapf-Humanist 400 normal"
+  ],
+  "families": [
+   [
+    "SuisseIntl",
+    114
+   ],
+   [
+    "SuisseIntl-Medium",
+    63
+   ],
+   [
+    "Zapf-Humanist",
+    9
+   ]
+  ],
+  "sizes": [
+   [
+    "14px",
+    100
+   ],
+   [
+    "16px",
+    27
+   ],
+   [
+    "12px",
+    21
+   ],
+   [
+    "11px",
+    17
+   ],
+   [
+    "31px",
+    13
+   ],
+   [
+    "24px",
+    4
+   ],
+   [
+    "18px",
+    3
+   ],
+   [
+    "36px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    160
+   ],
+   [
+    "700",
+    26
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    186
+   ]
+  ],
+  "uppercaseShare": 0,
+  "largest": [
+   {
+    "tag": "h1",
+    "text": "Plant-based and laboratory-made ingredients",
+    "family": "SuisseIntl",
+    "size": "36px",
+    "weight": "400",
+    "lh": "50.4px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(51, 51, 51)"
+   },
+   {
+    "tag": "span",
+    "text": "The Fragrant Fables",
+    "family": "SuisseIntl",
+    "size": "31px",
+    "weight": "400",
+    "lh": "41.23px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 254, 242)"
+   },
+   {
+    "tag": "span",
+    "text": "Complimentary samples",
+    "family": "SuisseIntl",
+    "size": "31px",
+    "weight": "400",
+    "lh": "41.23px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 254, 242)"
+   },
+   {
+    "tag": "span",
+    "text": "Filled with anticipation—and gifts",
+    "family": "SuisseIntl",
+    "size": "31px",
+    "weight": "400",
+    "lh": "41.23px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 254, 242)"
+   },
+   {
+    "tag": "h2",
+    "text": "Curated Sets",
+    "family": "Zapf-Humanist",
+    "size": "31px",
+    "weight": "400",
+    "lh": "41.23px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(51, 51, 51)"
+   },
+   {
+    "tag": "span",
+    "text": "Scents for the nose, stories for the mind",
+    "family": "SuisseIntl",
+    "size": "31px",
+    "weight": "400",
+    "lh": "41.23px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 254, 242)"
+   },
+   {
+    "tag": "span",
+    "text": "A scent—and story—for all",
+    "family": "Zapf-Humanist",
+    "size": "31px",
+    "weight": "400",
+    "lh": "41.23px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(51, 51, 51)"
+   },
+   {
+    "tag": "h2",
+    "text": "Browse by category",
+    "family": "Zapf-Humanist",
+    "size": "31px",
+    "weight": "400",
+    "lh": "41.23px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(51, 51, 51)"
+   },
+   {
+    "tag": "h2",
+    "text": "On sight, a sigh of relief",
+    "family": "Zapf-Humanist",
+    "size": "31px",
+    "weight": "400",
+    "lh": "41.23px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(51, 51, 51)"
+   },
+   {
+    "tag": "h2",
+    "text": "Smell before you settle",
+    "family": "Zapf-Humanist",
+    "size": "31px",
+    "weight": "400",
+    "lh": "41.23px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(51, 51, 51)"
+   },
+   {
+    "tag": "h2",
+    "text": "The Hand & Body Care Finder",
+    "family": "Zapf-Humanist",
+    "size": "31px",
+    "weight": "400",
+    "lh": "41.23px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(51, 51, 51)"
+   },
+   {
+    "tag": "span",
+    "text": "A neighbourly presence",
+    "family": "Zapf-Humanist",
+    "size": "31px",
+    "weight": "400",
+    "lh": "41.23px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(51, 51, 51)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(255, 254, 242)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(255, 254, 242)",
+    89
+   ],
+   [
+    "rgb(51, 51, 51)",
+    59
+   ],
+   [
+    "rgb(102, 102, 102)",
+    25
+   ],
+   [
+    "rgb(148, 92, 38)",
+    10
+   ],
+   [
+    "rgb(0, 0, 0)",
+    1
+   ],
+   [
+    "rgb(36, 36, 36)",
+    1
+   ],
+   [
+    "rgb(219, 218, 211)",
+    1
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(51, 51, 51)",
+    10
+   ],
+   [
+    "rgb(255, 254, 242)",
+    4
+   ],
+   [
+    "rgb(246, 245, 232)",
+    2
+   ],
+   [
+    "rgb(37, 37, 37)",
+    2
+   ],
+   [
+    "rgb(255, 255, 255)",
+    1
+   ],
+   [
+    "rgb(206, 212, 218)",
+    1
+   ],
+   [
+    "rgb(119, 119, 119)",
+    1
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(rgba(0, 0, 0, 0), rgb(0, 0, 0))",
+    4
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.55,0.055,0.675,0.19)",
+    1
+   ],
+   [
+    "cubic-bezier(0.215,0.61,0.355,1)",
+    1
+   ],
+   [
+    "cubic-bezier(0,0.2,0,1)",
+    1
+   ]
+  ],
+  "durations": [
+   [
+    "0.3s",
+    45
+   ],
+   [
+    "0.2s",
+    27
+   ],
+   [
+    "0.5s",
+    20
+   ],
+   [
+    "0.1s",
+    12
+   ],
+   [
+    "0.4s",
+    11
+   ],
+   [
+    "0.15s",
+    9
+   ],
+   [
+    "0.25s",
+    8
+   ],
+   [
+    "0ms",
+    6
+   ],
+   [
+    "0s",
+    4
+   ],
+   [
+    "1s",
+    3
+   ]
+  ],
+  "keyframes": [
+   "scrolldown-icon",
+   "hPhAnimation",
+   "fadeIn",
+   "fadeOut",
+   "rightSlideIn",
+   "leftSlideIn",
+   "slideUpIn",
+   "slideUpOut",
+   "slideDownIn",
+   "slideDownOut",
+   "rightSlideOut",
+   "leftSlideOut",
+   "loader-spin",
+   "shake",
+   "countdown-last-lift",
+   "countdown-last-flip",
+   "countdown-new-flip"
+  ]
+ },
+ "cssVarSample": {},
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 84,
+  "video": 0,
+  "svg": 0,
+  "picture": 25,
+  "iframes": 1
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 0,
+  "clipPath": 30,
+  "sticky": 0,
+  "fixed": [
+   "c-snackbar",
+   "c-back-top m-active"
+  ],
+  "customCursor": false,
+  "boxShadows": [
+   [
+    "rgba(51, 51, 51, 0.2) 0px 0px 4px 0px",
+    2
+   ],
+   [
+    "rgba(255, 254, 242, 0.2) 0px 2px 4px 0px",
+    1
+   ]
+  ],
+  "filters": [],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "50%",
+   15
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgba(0, 0, 0, 0)",
+   8
+  ],
+  [
+   "1px solid rgba(51, 51, 51, 0.2)",
+   7
+  ],
+  [
+   "1px solid rgb(255, 254, 242)",
+   6
+  ],
+  [
+   "bottom:1px solid rgb(255, 254, 242)",
+   5
+  ]
+ ],
+ "grids": [],
+ "containers": [
+  [
+   "1200px",
+   17
+  ],
+  [
+   "100%",
+   7
+  ]
+ ],
+ "sideMargins": [
+  [
+   "135px",
+   18
+  ],
+  [
+   "532px",
+   5
+  ],
+  [
+   "928px",
+   5
+  ],
+  [
+   "112px",
+   4
+  ],
+  [
+   "1325px",
+   3
+  ],
+  [
+   "1575px",
+   2
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "experience-region experience-main",
+   "h": 6611,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "experience-component experience-layouts-section",
+   "h": 720,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "l-section  m-full-width",
+   "h": 720,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-carousel m-style-hero m-arrows-small-for-medium-",
+   "h": 720,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-content-hero l-section__row m-unstack",
+   "h": 720,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-content-hero l-section__row m-unstack",
+   "h": 480,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-content-hero l-section__row m-unstack",
+   "h": 720,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "experience-component experience-layouts-section",
+   "h": 872,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "l-section  ",
+   "h": 872,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "l-section__row",
+   "h": 872,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-section__content l-row l-row-padding  m-small-up",
+   "h": 872,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-section__title h-color-primary h-text-align-left",
+   "h": 41,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-section__description h-color-primary h-text-size",
+   "h": 48,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-carousel m-style-product m-arrows-small m-arrows",
+   "h": 673,
+   "padTop": "0px",
+   "bg": "rgb(255, 254, 242)"
+  },
+  {
+   "cls": "c-content-hero l-section__row m-unstack",
+   "h": 814,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-content-hero l-section__row m-no-image",
+   "h": 207,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-section__title",
+   "h": 39,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-carousel m-style-product m-arrows-small m-arrows",
+   "h": 321,
+   "padTop": "0px",
+   "bg": "rgb(255, 254, 242)"
+  },
+  {
+   "cls": "experience-component experience-layouts-section",
+   "h": 356,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "l-section  ",
+   "h": 356,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-section l-section__row ",
+   "h": 356,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-section__headings h-text-align-items-flex-start",
+   "h": 51,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-section__title h-text-align-left",
+   "h": 41,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-section__content l-row l-row-padding  m-small-up",
+   "h": 265,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-carousel m-style-content m-arrows-small m-arrows",
+   "h": 265,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-content-tile__image c-content-tile__section",
+   "h": 218,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-content-tile__content  c-content-tile__section",
+   "h": 47,
+   "padTop": "20px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-content-tile__image c-content-tile__section",
+   "h": 218,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-content-tile__content  c-content-tile__section",
+   "h": 47,
+   "padTop": "20px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-content-tile__image c-content-tile__section",
+   "h": 218,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-content-tile__content  c-content-tile__section",
+   "h": 47,
+   "padTop": "20px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-content-tile__image c-content-tile__section",
+   "h": 218,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-content-tile__content  c-content-tile__section",
+   "h": 47,
+   "padTop": "20px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-content-tile__image c-content-tile__section",
+   "h": 218,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-content-tile__content  c-content-tile__section",
+   "h": 47,
+   "padTop": "20px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-content-tile__image c-content-tile__section",
+   "h": 218,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-content-tile__content  c-content-tile__section",
+   "h": 47,
+   "padTop": "20px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-content-tile__image c-content-tile__section",
+   "h": 218,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-content-tile__content  c-content-tile__section",
+   "h": 47,
+   "padTop": "20px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "experience-component experience-layouts-section",
+   "h": 383,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "relative",
+  "height": 30,
+  "links": 172,
+  "linkTexts": [
+   "Search...",
+   "Stores",
+   "Customer service",
+   "Email sign up",
+   "My cart\n0 product in cart",
+   "Shop all",
+   "New & Notable",
+   "Discover New & Notable",
+   "Discover New additions",
+   "The Aesop Valise",
+   "Unforeseen Aer",
+   "Antithesis Intense Body Cleanser",
+   "Solais Replenishing Hand Serum",
+   "Resolute Facial Concentrate"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "Search...",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(255, 254, 242)",
+   "radius": "0px",
+   "pad": "16px",
+   "size": "14px",
+   "weight": "700",
+   "tt": "none",
+   "border": "1px solid rgb(255, 254, 242)",
+   "h": 52
+  },
+  {
+   "text": "Explore the story",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(255, 254, 242)",
+   "radius": "0px",
+   "pad": "13px 24px 12px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(255, 254, 242)",
+   "h": 48
+  },
+  {
+   "text": "Learn more",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(255, 254, 242)",
+   "radius": "0px",
+   "pad": "13px 24px 12px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(255, 254, 242)",
+   "h": 48
+  },
+  {
+   "text": "Discover",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(255, 254, 242)",
+   "radius": "0px",
+   "pad": "13px 24px 12px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(255, 254, 242)",
+   "h": 48
+  },
+  {
+   "text": "Loading ...",
+   "bg": "rgb(51, 51, 51)",
+   "color": "rgb(255, 254, 242)",
+   "radius": "0px",
+   "pad": "13px 24px 12px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 48
+  },
+  {
+   "text": "Loading ...",
+   "bg": "rgb(51, 51, 51)",
+   "color": "rgb(255, 254, 242)",
+   "radius": "0px",
+   "pad": "13px 24px 12px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 48
+  },
+  {
+   "text": "Loading ...",
+   "bg": "rgb(51, 51, 51)",
+   "color": "rgb(255, 254, 242)",
+   "radius": "0px",
+   "pad": "13px 24px 12px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 48
+  },
+  {
+   "text": "Loading ...",
+   "bg": "rgb(51, 51, 51)",
+   "color": "rgb(255, 254, 242)",
+   "radius": "0px",
+   "pad": "13px 24px 12px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 48
+  },
+  {
+   "text": "Loading ...",
+   "bg": "rgb(51, 51, 51)",
+   "color": "rgb(255, 254, 242)",
+   "radius": "0px",
+   "pad": "13px 24px 12px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 48
+  },
+  {
+   "text": "Loading ...",
+   "bg": "rgb(51, 51, 51)",
+   "color": "rgb(255, 254, 242)",
+   "radius": "0px",
+   "pad": "13px 24px 12px",
+   "size": "14px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 48
+  }
+ ],
+ "headings": [
+  "Plant-based and laboratory-made ingredients",
+  "The Fragrant Fables",
+  "Complimentary samples",
+  "Filled with anticipation—and gifts",
+  "Curated Sets",
+  "Bathroom Dignities",
+  "Unforeseen Aer & Geranium Leaf",
+  "Geranium Leaf Trio",
+  "Resurrection Duo",
+  "Reverence Duo",
+  "Enhanced Hydration for Oily and Combination Skin",
+  "Hair Care Duo",
+  "Scents for the nose, stories for the mind",
+  "A scent—and story—for all",
+  "Unforeseen Aer Eau de Parfum",
+  "Seeking Virēre Eau de Parfum",
+  "Tacit Truths Eau de Parfum",
+  "Boundless Erémia Eau de Parfum",
+  "Eternal Karst Eau de Parfum",
+  "Rōzu Arises Eau de Parfum",
+  "Entirely Aurner Eau de Parfum",
+  "Marrakech Intense Eau de Parfum",
+  "Silently, Hwyl Eau de Parfum",
+  "Journey to Ouranon Eau de Parfum",
+  "Evoking Eidesis Eau de Parfum"
+ ],
+ "paras": [
+  "‘The Soap Service’: a gift-giving spectacle, inspired by cinema",
+  "An Aesop filmography: movies to stir the imagination",
+  "A new chapter for our Eaux de Parfum begins, with aromas rebottled and rewritten.",
+  "We now offer complimentary 2mL samples—allowing you to smell before you settle—with the purchase of selected Eaux de Parfum.",
+  "A limited-release offering, The Aesop Valise holds thirteen aromatic and unexpected presents—to be opened as the festive moment draws closer. closer.",
+  "Exclusive to aesop.com, these thoughtfully composed sets include complementary formulations to enhance your daily regimens—or those of a chosen recipient.",
+  "A bathroom deodoriser and hand wash for your bathroom",
+  "A fresh, enlivening pairing of an Eau de Parfum and Body Balm",
+  "A trio of fresh, green, citrus formulations",
+  "A citrus, woody, herbaceous duo to cleanse and hydrate the hands"
+ ],
+ "footer": {
+  "h": 1027,
+  "text": " Secure checkout Complimentary samples Complimentary gift wrapping Footer navigation Orders and support Contact us FAQs Shipping Returns Track your order Product recalls Terms of use User Content Permission Terms SMS Terms & Conditions E-gift Cards Terms of Use About Our story Foundation Careers Onl"
+ },
+ "jsMotion": {
+  "scriptsFetched": 10,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "0",
+    2
+   ]
+  ],
+  "staggers": [],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

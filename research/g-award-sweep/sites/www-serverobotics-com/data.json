@@ -1,0 +1,591 @@
+{
+ "url": "https://www.serverobotics.com",
+ "slug": "www-serverobotics-com",
+ "analyzedAt": "2026-10-07T05:30:35.335Z",
+ "scrollHeight": 19368,
+ "pageLengthInViewports": 21.5,
+ "title": "Serve Robotics",
+ "metaDescription": "Why move a 2-pound burrito in a 2-ton car? Meet Serve, the future of sustainable, self-driving delivery.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "Roobert 400 normal",
+   "Roobert 500 normal"
+  ],
+  "families": [
+   [
+    "Roobert",
+    66
+   ]
+  ],
+  "sizes": [
+   [
+    "18px",
+    26
+   ],
+   [
+    "16px",
+    10
+   ],
+   [
+    "14px",
+    9
+   ],
+   [
+    "98px",
+    8
+   ],
+   [
+    "60px",
+    7
+   ],
+   [
+    "38px",
+    4
+   ],
+   [
+    "114px",
+    1
+   ],
+   [
+    "23px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    48
+   ],
+   [
+    "500",
+    18
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "-0.010em@18",
+    26
+   ],
+   [
+    "-0.010em@16",
+    10
+   ],
+   [
+    "-0.010em@14",
+    9
+   ],
+   [
+    "-0.020em@98",
+    8
+   ],
+   [
+    "-0.020em@60",
+    7
+   ],
+   [
+    "normal",
+    4
+   ],
+   [
+    "-0.021em@114",
+    1
+   ],
+   [
+    "-0.010em@23",
+    1
+   ]
+  ],
+  "uppercaseShare": 0,
+  "largest": [
+   {
+    "tag": "h1",
+    "text": "The future is here",
+    "family": "Roobert",
+    "size": "113.731px",
+    "weight": "500",
+    "lh": "113.731px",
+    "ls": "-2.4px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "~0 G/KM",
+    "family": "Roobert",
+    "size": "97.7306px",
+    "weight": "400",
+    "lh": "97.7306px",
+    "ls": "-2px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "G/KM",
+    "family": "Roobert",
+    "size": "97.7306px",
+    "weight": "400",
+    "lh": "97.7306px",
+    "ls": "-2px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "~13 GAL",
+    "family": "Roobert",
+    "size": "97.7306px",
+    "weight": "400",
+    "lh": "97.7306px",
+    "ls": "-2px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "13",
+    "family": "Roobert",
+    "size": "97.7306px",
+    "weight": "400",
+    "lh": "97.7306px",
+    "ls": "-2px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "GAL",
+    "family": "Roobert",
+    "size": "97.7306px",
+    "weight": "400",
+    "lh": "97.7306px",
+    "ls": "-2px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "~11 MPH",
+    "family": "Roobert",
+    "size": "97.7306px",
+    "weight": "400",
+    "lh": "97.7306px",
+    "ls": "-2px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "11",
+    "family": "Roobert",
+    "size": "97.7306px",
+    "weight": "400",
+    "lh": "97.7306px",
+    "ls": "-2px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "MPH",
+    "family": "Roobert",
+    "size": "97.7306px",
+    "weight": "400",
+    "lh": "97.7306px",
+    "ls": "-2px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "span",
+    "text": "Meet the cutest low-emissions delivery robot known to humans",
+    "family": "Roobert",
+    "size": "59.8204px",
+    "weight": "400",
+    "lh": "59.8204px",
+    "ls": "-1.2px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(8, 48, 49)"
+   },
+   {
+    "tag": "span",
+    "text": "A low-emissions solution to the last mile problem.",
+    "family": "Roobert",
+    "size": "59.8204px",
+    "weight": "400",
+    "lh": "59.8204px",
+    "ls": "-1.2px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(8, 48, 49)"
+   },
+   {
+    "tag": "span",
+    "text": "We build tech to help humans.",
+    "family": "Roobert",
+    "size": "59.8204px",
+    "weight": "400",
+    "lh": "59.8204px",
+    "ls": "-1.2px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(8, 48, 49)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgb(255, 255, 255)",
+  "htmlBg": "rgb(255, 255, 255)",
+  "text": [
+   [
+    "rgb(255, 255, 255)",
+    30
+   ],
+   [
+    "rgb(8, 48, 49)",
+    27
+   ],
+   [
+    "oklab(0.999994 0.0000455677 0.0000200868 / 0.7)",
+    8
+   ],
+   [
+    "oklab(0.283059 -0.0406996 -0.0128133 / 0.68)",
+    1
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(255, 255, 255)",
+    12
+   ],
+   [
+    "oklab(0.999994 0.0000455678 0.0000200868 / 0.4)",
+    6
+   ],
+   [
+    "rgb(15, 66, 51)",
+    5
+   ],
+   [
+    "rgb(97, 229, 192)",
+    4
+   ],
+   [
+    "rgb(206, 232, 225)",
+    3
+   ],
+   [
+    "rgb(225, 237, 240)",
+    2
+   ],
+   [
+    "rgb(255, 201, 66)",
+    1
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(oklab(0 0 0 / 0.5) 0%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0) 100%)",
+    1
+   ],
+   [
+    "linear-gradient(to top, oklab(0 0 0 / 0.4) 0%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0) 100%)",
+    1
+   ],
+   [
+    "linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0))",
+    1
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(.4,0,.2,1)",
+    4
+   ],
+   [
+    "cubic-bezier(0,0,.2,1)",
+    2
+   ]
+  ],
+  "durations": [
+   [
+    "0.4s",
+    8
+   ],
+   [
+    ".15s",
+    2
+   ],
+   [
+    "0.2s",
+    2
+   ],
+   [
+    "0.3s",
+    2
+   ],
+   [
+    "0.5s",
+    2
+   ],
+   [
+    "1ms",
+    1
+   ]
+  ],
+  "keyframes": [
+   "view-transition-fade-out",
+   "view-transition-fade-in",
+   "radix-accordion-expand",
+   "radix-accordion-collapse",
+   "fadeIn",
+   "fadeOut",
+   "slideInFromRight",
+   "slideOutToRight",
+   "slideInFromBottom",
+   "slideOutToBottom",
+   "slideInFromTop",
+   "slideOutToTop",
+   "scroll"
+  ]
+ },
+ "cssVarSample": {},
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": true,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 2,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 21,
+  "video": 5,
+  "svg": 49,
+  "picture": 19,
+  "iframes": 0
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 6,
+  "clipPath": 18,
+  "sticky": 5,
+  "fixed": [
+   "pointer-events-none fixed inset-x-0 top-0 z-30 flex items-ce"
+  ],
+  "customCursor": true,
+  "boxShadows": [
+   [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.25) 0px 25px 50px -12px",
+    1
+   ]
+  ],
+  "filters": [
+   [
+    "blur(15px)",
+    1
+   ],
+   [
+    "blur(0px)",
+    1
+   ],
+   [
+    "url(\"#_R_aukr5_\")",
+    1
+   ]
+  ],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "4px",
+   20
+  ],
+  [
+   "8px",
+   17
+  ],
+  [
+   "2px",
+   8
+  ]
+ ],
+ "borders": [
+  [
+   "bottom:1px solid oklab(0.999994 0.0000455678 0.0000200868 / 0.2)",
+   2
+  ],
+  [
+   "1px solid oklab(0.283059 -0.0406996 -0.0128133 / 0.1)",
+   1
+  ]
+ ],
+ "grids": [
+  [
+   "13cols gap normal",
+   11
+  ],
+  [
+   "12cols gap 16px",
+   7
+  ],
+  [
+   "3cols gap normal",
+   2
+  ],
+  [
+   "4cols gap 16px",
+   2
+  ],
+  [
+   "5cols gap normal",
+   1
+  ],
+  [
+   "12cols gap normal",
+   1
+  ],
+  [
+   "2cols gap 40px",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "100%",
+   6
+  ]
+ ],
+ "sideMargins": [
+  [
+   "32px",
+   1
+  ],
+  [
+   "299px",
+   1
+  ],
+  [
+   "821px",
+   1
+  ],
+  [
+   "135px",
+   1
+  ],
+  [
+   "872px",
+   1
+  ],
+  [
+   "72px",
+   1
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "h-svh px-8 py-8 lg:p-16",
+   "h": 900,
+   "padTop": "16px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "flex flex-col gap-104 py-80 empty:hidden lg:gap-18",
+   "h": 17863,
+   "padTop": "140px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "fixed",
+  "height": 68,
+  "links": 6,
+  "linkTexts": [
+   "Home",
+   "Our Robot",
+   "Solutions",
+   "About",
+   "Careers",
+   "Our Brands",
+   "Investors",
+   "Let's talk",
+   "Home"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [],
+ "headings": [
+  "The future is here",
+  "Meet the cutest low-emissions delivery robot known to humans Meet the cutest low-emissions delivery robot known to humans",
+  "A low-emissions solution to the last mile problem. A low-emissions solution to the last mile problem.",
+  "We build tech to help humans. We build tech to help humans.",
+  "Reliable delivery, delivered. Reliable delivery, delivered.",
+  "A low-emissions solution to the last-mile problem.A low-emissions solution to the last-mile problem.",
+  "We build tech to help humans.We build tech to help humans.",
+  "Reliable delivery, delivered.Reliable delivery, delivered.",
+  "Dependably, we roll along.",
+  "Partners",
+  "Small team, big visionSmall team, big vision",
+  "Small team, big vision Small team, big vision",
+  "Sustainable",
+  "Serve Robotics is already a pop culture icon! Serve Robotics is already a pop culture icon!",
+  "Delivery robots could reduce global emissions by ~2% annually. Delivery robots could reduce global emissions by ~2% annually.",
+  "Serving people in the real world Serving people in the real world"
+ ],
+ "paras": [
+  "All Rights Reserved. 2026 Serve Robotics. Redwood City, California."
+ ],
+ "footer": {
+  "h": 563,
+  "text": "Feedback is welcome! If something’s not working for you, our team will respond quickly. Share feedback Home Information Our Robot Safety Delivery Solutions Advertising Data Software Company About Us Careers Press FAQs Investors Social LinkedIn Twitter/X Instagram TikTok Legal Privacy Policy Terms of"
+ },
+ "jsMotion": {
+  "scriptsFetched": 0,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [],
+  "staggers": [],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

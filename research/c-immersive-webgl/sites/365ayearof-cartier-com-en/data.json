@@ -1,0 +1,939 @@
+{
+ "url": "https://365ayearof.cartier.com/en/",
+ "slug": "365ayearof-cartier-com-en",
+ "analyzedAt": "2026-10-07T05:27:55.633Z",
+ "scrollHeight": 6097,
+ "pageLengthInViewports": 6.8,
+ "title": "365 - A year of Cartier",
+ "metaDescription": "Welcome to the Cartier Yearbook, celebrating a remarkable 2025.",
+ "lang": "en-us",
+ "type": {
+  "loadedFonts": [
+   "BrilliantCutPro 500 normal",
+   "FancyCutPro 300 normal",
+   "FancyCutPro 300 italic",
+   "FancyCutPro 400 normal"
+  ],
+  "families": [
+   [
+    "Noto Serif SC",
+    90
+   ]
+  ],
+  "sizes": [
+   [
+    "10px",
+    66
+   ],
+   [
+    "48px",
+    22
+   ],
+   [
+    "20px",
+    1
+   ],
+   [
+    "24px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "500",
+    66
+   ],
+   [
+    "300",
+    23
+   ],
+   [
+    "400",
+    1
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "0.010em@10",
+    66
+   ],
+   [
+    "normal",
+    24
+   ]
+  ],
+  "uppercaseShare": 0.98,
+  "largest": [
+   {
+    "tag": "span",
+    "text": "INDEPENDENCEMANIFESTO",
+    "family": "Noto Serif SC",
+    "size": "48px",
+    "weight": "300",
+    "lh": "48px",
+    "ls": "normal",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(13, 13, 13)"
+   },
+   {
+    "tag": "i",
+    "text": "INDEPENDENCE",
+    "family": "Noto Serif SC",
+    "size": "48px",
+    "weight": "300",
+    "lh": "48px",
+    "ls": "normal",
+    "tt": "uppercase",
+    "style": "italic",
+    "color": "rgb(13, 13, 13)"
+   },
+   {
+    "tag": "span",
+    "text": "MAGNETICIMPRINT",
+    "family": "Noto Serif SC",
+    "size": "48px",
+    "weight": "300",
+    "lh": "48px",
+    "ls": "normal",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(13, 13, 13)"
+   },
+   {
+    "tag": "i",
+    "text": "MAGNETIC",
+    "family": "Noto Serif SC",
+    "size": "48px",
+    "weight": "300",
+    "lh": "48px",
+    "ls": "normal",
+    "tt": "uppercase",
+    "style": "italic",
+    "color": "rgb(13, 13, 13)"
+   },
+   {
+    "tag": "span",
+    "text": "WILDLYCREATIVE CREATIVELYWILD",
+    "family": "Noto Serif SC",
+    "size": "48px",
+    "weight": "300",
+    "lh": "48px",
+    "ls": "normal",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(13, 13, 13)"
+   },
+   {
+    "tag": "i",
+    "text": "WILDLY",
+    "family": "Noto Serif SC",
+    "size": "48px",
+    "weight": "300",
+    "lh": "48px",
+    "ls": "normal",
+    "tt": "uppercase",
+    "style": "italic",
+    "color": "rgb(13, 13, 13)"
+   },
+   {
+    "tag": "i",
+    "text": "CREATIVELY",
+    "family": "Noto Serif SC",
+    "size": "48px",
+    "weight": "300",
+    "lh": "48px",
+    "ls": "normal",
+    "tt": "uppercase",
+    "style": "italic",
+    "color": "rgb(13, 13, 13)"
+   },
+   {
+    "tag": "span",
+    "text": "CULTURE &COMMITMENT",
+    "family": "Noto Serif SC",
+    "size": "48px",
+    "weight": "300",
+    "lh": "48px",
+    "ls": "normal",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(13, 13, 13)"
+   },
+   {
+    "tag": "i",
+    "text": "CULTURE &",
+    "family": "Noto Serif SC",
+    "size": "48px",
+    "weight": "300",
+    "lh": "48px",
+    "ls": "normal",
+    "tt": "uppercase",
+    "style": "italic",
+    "color": "rgb(13, 13, 13)"
+   },
+   {
+    "tag": "span",
+    "text": "THE365RENDEZ-VOUS",
+    "family": "Noto Serif SC",
+    "size": "48px",
+    "weight": "300",
+    "lh": "48px",
+    "ls": "normal",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(13, 13, 13)"
+   },
+   {
+    "tag": "i",
+    "text": "365",
+    "family": "Noto Serif SC",
+    "size": "48px",
+    "weight": "300",
+    "lh": "48px",
+    "ls": "normal",
+    "tt": "uppercase",
+    "style": "italic",
+    "color": "rgb(13, 13, 13)"
+   },
+   {
+    "tag": "h2",
+    "text": "A tribute to Cartier’s LOVE bracelet",
+    "family": "Noto Serif SC",
+    "size": "24px",
+    "weight": "300",
+    "lh": "24px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgba(0, 0, 0, 0)",
+  "htmlBg": "rgb(255, 255, 255)",
+  "text": [
+   [
+    "rgb(13, 13, 13)",
+    62
+   ],
+   [
+    "rgba(0, 0, 0, 0)",
+    27
+   ],
+   [
+    "rgb(255, 255, 255)",
+    1
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(250, 248, 246)",
+    3
+   ],
+   [
+    "rgb(186, 155, 83)",
+    1
+   ]
+  ],
+  "gradients": []
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.6,0.2,0,0.8)",
+    1
+   ],
+   [
+    "cubic-bezier(0.66,0,0.34,1)",
+    1
+   ],
+   [
+    "cubic-bezier(0.55,0.055,0.675,0.19)",
+    1
+   ],
+   [
+    "cubic-bezier(0.215,0.61,0.355,1)",
+    1
+   ],
+   [
+    "cubic-bezier(0.645,0.045,0.355,1)",
+    1
+   ],
+   [
+    "cubic-bezier(0.6,0.04,0.98,0.335)",
+    1
+   ],
+   [
+    "cubic-bezier(0.075,0.82,0.165,1)",
+    1
+   ],
+   [
+    "cubic-bezier(0.785,0.135,0.15,0.86)",
+    1
+   ],
+   [
+    "cubic-bezier(0.95,0.05,0.795,0.035)",
+    1
+   ],
+   [
+    "cubic-bezier(0.19,1,0.22,1)",
+    1
+   ],
+   [
+    "cubic-bezier(1,0,0,1)",
+    1
+   ],
+   [
+    "cubic-bezier(0.55,0.085,0.68,0.53)",
+    1
+   ]
+  ],
+  "durations": [
+   [
+    "1s",
+    15
+   ],
+   [
+    ".5s",
+    15
+   ],
+   [
+    ".3s",
+    5
+   ],
+   [
+    "0.4s",
+    4
+   ],
+   [
+    "0.1s",
+    3
+   ],
+   [
+    "0.5s",
+    3
+   ],
+   [
+    ".1s",
+    3
+   ],
+   [
+    ".2s",
+    3
+   ],
+   [
+    "0.3s",
+    3
+   ],
+   [
+    "2s",
+    2
+   ]
+  ],
+  "keyframes": [
+   "video-react-spinner-spin",
+   "video-react-spinner-fade",
+   "video-react-bezel-fadeout",
+   "video-react-bezel-fadeout-alt",
+   "LoadingScreen_fadeIn__A5SaJ",
+   "AboutModal_fadeIn__YZfxa",
+   "Navigation_transitionNavIn__JWivp",
+   "Navigation_transitionNavOut__tw2Ts",
+   "HeroCarousel_progress__TjhoM",
+   "HeroCarousel_toLeft__ZkF03",
+   "HeroCarousel_toRight__fapd6",
+   "HeroCarousel_toLeftFade__L_uId",
+   "HeroCarousel_toRightFade__k8l4S",
+   "Home_fadeOut__1BoMX"
+  ]
+ },
+ "cssVarSample": {
+  "--ease-cubic": "cubic-bezier(0.66,0,0.34,1)",
+  "--ease-cubic-in": "cubic-bezier(0.55,0.055,0.675,0.19)",
+  "--ease-cubic-out": "cubic-bezier(0.215,0.61,0.355,1)",
+  "--ease-cubic-in-out": "cubic-bezier(0.645,0.045,0.355,1)",
+  "--ease-circ-in": "cubic-bezier(0.6,0.04,0.98,0.335)",
+  "--ease-circ-out": "cubic-bezier(0.075,0.82,0.165,1)",
+  "--ease-circ-in-out": "cubic-bezier(0.785,0.135,0.15,0.86)",
+  "--ease-expo-in": "cubic-bezier(0.95,0.05,0.795,0.035)",
+  "--ease-expo-out": "cubic-bezier(0.19,1,0.22,1)",
+  "--ease-expo-in-out": "cubic-bezier(1,0,0,1)",
+  "--ease-quad-in": "cubic-bezier(0.55,0.085,0.68,0.53)",
+  "--ease-quad-out": "cubic-bezier(0.25,0.46,0.45,0.94)",
+  "--ease-quad-in-out": "cubic-bezier(0.455,0.03,0.515,0.955)",
+  "--ease-quart-in": "cubic-bezier(0.895,0.03,0.685,0.22)",
+  "--ease-quart-out": "cubic-bezier(0.165,0.84,0.44,1)",
+  "--ease-quart-in-out": "cubic-bezier(0.77,0,0.175,1)",
+  "--ease-quint-in": "cubic-bezier(0.755,0.05,0.855,0.06)",
+  "--ease-quint-out": "cubic-bezier(0.23,1,0.32,1)",
+  "--ease-quint-in-out": "cubic-bezier(0.86,0,0.07,1)",
+  "--ease-sine-in": "cubic-bezier(0.47,0,0.745,0.715)",
+  "--ease-sine-out": "cubic-bezier(0.39,0.575,0.565,1)",
+  "--ease-sine-in-out": "cubic-bezier(0.445,0.05,0.55,0.95)",
+  "--ease-back-in": "cubic-bezier(0.6,-0.28,0.735,0.045)",
+  "--ease-back-out": "cubic-bezier(0.175,0.885,0.32,1.275)",
+  "--ease-back-in-out": "cubic-bezier(0.68,-0.55,0.265,1.55)",
+  "--ease-back-out-more": "cubic-bezier(0.56,0.91,0.465,1.65)",
+  "--vw": "1vw",
+  "--vh": "1vh",
+  "--indent": "max(0.625rem,0.6944444444vw)",
+  "--cols": "4",
+  "--gutters": "calc(var(--cols) - 1)",
+  "--gutter": "max(0.625rem,0.6944444444vw)",
+  "--col": "calc((100vw - var(--indent) * 2 - var(--gutter) * var(--gutters)) / var(--cols))",
+  "--headerHeight": "max(4.375rem,5vw)",
+  "--breakpoint-medium": "600px",
+  "--breakpoint-desktop": "900px",
+  "--breakpoint-large": "1400px",
+  "--color-light-grey": "#faf8f6",
+  "--color-light-grey--rgb": "250,248,246",
+  "--color-gold": "#ba9b53",
+  "--color-gold--rgb": "186,155,83",
+  "--color-three-golds": "#e8d19b",
+  "--color-three-golds--rgb": "232,209,155",
+  "--color-chocolate": "#1c1715",
+  "--color-chocolate--rgb": "28,23,21",
+  "--color-black": "#0d0d0d",
+  "--color-black--rgb": "13,13,13",
+  "--color-white": "#fff",
+  "--color-white--rgb": "255,255,255",
+  "--color-red": "#c10016",
+  "--color-red--rgb": "193,0,22",
+  "--color-silver": "#dbdbd1",
+  "--color-silver--rgb": "219,219,209",
+  "--color-dark-grey": "#5c5c5c",
+  "--color-dark-grey--rgb": "92,92,92"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": true,
+  "locomotive": false,
+  "three": true,
+  "webglCanvas": 0,
+  "canvases": 1,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": true,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 4,
+  "video": 5,
+  "svg": 7,
+  "picture": 0,
+  "iframes": 2
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 0,
+  "clipPath": 0,
+  "sticky": 0,
+  "fixed": [
+   "LoadingScreen_loadingScreen__v9pBi LoadingScreen_bg__645xs",
+   "LoadingScreen_loadingScreen__v9pBi LoadingScreen_top__YgeAz",
+   "canvas",
+   "hoverHtml",
+   "TransitionOverlay_transitionOverlay__mVIWK"
+  ],
+  "customCursor": false,
+  "boxShadows": [],
+  "filters": [
+   [
+    "blur(4px) brightness(0.85)",
+    25
+   ]
+  ],
+  "transforms3d": 0,
+  "noiseOrGrain": true,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [],
+ "borders": [],
+ "grids": [
+  [
+   "5cols gap 10px",
+   8
+  ],
+  [
+   "1cols gap normal",
+   5
+  ],
+  [
+   "4cols gap 10px",
+   2
+  ]
+ ],
+ "containers": [],
+ "sideMargins": [
+  [
+   "10px",
+   10
+  ],
+  [
+   "368px",
+   10
+  ],
+  [
+   "1202px",
+   8
+  ],
+  [
+   "606px",
+   6
+  ],
+  [
+   "725px",
+   4
+  ],
+  [
+   "963px",
+   4
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "Home_page__MA364",
+   "h": 6097,
+   "padTop": "0px",
+   "bg": "rgb(250, 248, 246)"
+  },
+  {
+   "cls": "HeroCarousel_heroCarousel__BYein HeroCarousel_dir1",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Home_sections__mpPh9",
+   "h": 5370,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "ScrollSection_section__x1bDz",
+   "h": 1045,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "ScrollSection_sectionContent__NfVSD ScrollSection_",
+   "h": 1045,
+   "padTop": "120px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "ScrollSection_sectionGrid__i1G8h ScrollSection_cha",
+   "h": 567,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "ScrollSection_image__128je ScrollSection_image1__c",
+   "h": 384,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Text_captionSmall__WP5UZ ScrollSection_label__ayXU",
+   "h": 149,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "ScrollSection_image__128je ScrollSection_image2__n",
+   "h": 543,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Text_captionSmall__WP5UZ ScrollSection_label__ayXU",
+   "h": 14,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "ScrollSection_image__128je ScrollSection_image3__2",
+   "h": 384,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Text_captionSmall__WP5UZ ScrollSection_label__ayXU",
+   "h": 14,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "ScrollSection_image__128je ScrollSection_image4__w",
+   "h": 543,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Text_captionSmall__WP5UZ ScrollSection_label__ayXU",
+   "h": 14,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "ScrollSection_sectionGrid__i1G8h ScrollSection_cha",
+   "h": 567,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "ScrollSection_image__128je ScrollSection_image1__c",
+   "h": 384,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Text_captionSmall__WP5UZ ScrollSection_label__ayXU",
+   "h": 149,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "ScrollSection_image__128je ScrollSection_image2__n",
+   "h": 543,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Text_captionSmall__WP5UZ ScrollSection_label__ayXU",
+   "h": 14,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "ScrollSection_image__128je ScrollSection_image3__2",
+   "h": 384,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Text_captionSmall__WP5UZ ScrollSection_label__ayXU",
+   "h": 14,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "ScrollSection_image__128je ScrollSection_image4__w",
+   "h": 543,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Text_captionSmall__WP5UZ ScrollSection_label__ayXU",
+   "h": 14,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "ScrollSection_notFirst__CluQ7",
+   "h": 945,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "ScrollSection_section__x1bDz",
+   "h": 945,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "ScrollSection_sectionContent__NfVSD ScrollSection_",
+   "h": 945,
+   "padTop": "20px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "ScrollSection_sectionGrid__i1G8h ScrollSection_cha",
+   "h": 567,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "ScrollSection_image__128je ScrollSection_image1__c",
+   "h": 543,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Text_captionSmall__WP5UZ ScrollSection_label__ayXU",
+   "h": 14,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "ScrollSection_image__128je ScrollSection_image2__n",
+   "h": 384,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Text_captionSmall__WP5UZ ScrollSection_label__ayXU",
+   "h": 149,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "ScrollSection_image__128je ScrollSection_image3__2",
+   "h": 304,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Text_captionSmall__WP5UZ ScrollSection_label__ayXU",
+   "h": 14,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "ScrollSection_image__128je ScrollSection_image4__w",
+   "h": 304,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Text_captionSmall__WP5UZ ScrollSection_label__ayXU",
+   "h": 69,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "ScrollSection_image__128je ScrollSection_image5__S",
+   "h": 304,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Text_captionSmall__WP5UZ ScrollSection_label__ayXU",
+   "h": 14,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "ScrollSection_sectionGrid__i1G8h ScrollSection_cha",
+   "h": 567,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "ScrollSection_image__128je ScrollSection_image1__c",
+   "h": 543,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "Text_captionSmall__WP5UZ ScrollSection_label__ayXU",
+   "h": 14,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "fixed",
+  "height": 72,
+  "links": 1,
+  "linkTexts": [],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [],
+ "headings": [
+  "LOVE that SETS you FREE",
+  "A tribute to Cartier’s LOVE bracelet",
+  "She is the Panther",
+  "Love that setsyou free",
+  "Juste un clouJust an attitude",
+  "Santos deCartier: a sphereof influence",
+  "INDEPENDENCEMANIFESTO",
+  "INDEPENDENCEMANIFESTO",
+  "En Équilibre",
+  "En Équilibrein Stockholm",
+  "What isMagnetism?",
+  "Fur Setting: APanther Secret",
+  "Watches andWonders 2025",
+  "MAGNETICIMPRINT",
+  "MAGNETICIMPRINT",
+  "Turn upthe clash",
+  "Hybridizationof an icon",
+  "Anatomyof a Panther",
+  "The wild worldof cartier fauna",
+  "The Panther: ATimeless Heroine",
+  "What do youshare with thepanther?",
+  "WILDLYCREATIVE CREATIVELYWILD",
+  "WILDLYCREATIVE CREATIVELYWILD",
+  "FondationCartier in theheart of paris",
+  "An OngoingCommitmentto Women"
+ ],
+ "paras": [
+  "Jeanne Toussaint’s story and how she interpreted the Cartier Panther",
+  "The iconic LOVE bracelet reimagines connection as freedom",
+  "Emma Corrin embodies the bold spirit of Juste un Clou",
+  "The watch’s design unites craftsmanship with contemporary style",
+  "SANTOS DE CARTIER: A SPHERE OF INFLUENCE",
+  "SANTOS DE CARTIER: A SPHERE OF INFLUENCE",
+  "High Jewelry finds a balance between precision and emotion",
+  "A celebration of craftsmanship and beauty unfolds in Stockholm’s radiant light",
+  "Meet the international actors mixing iconic collections",
+  "Gold and gemstones crafted to capture the animal's dynamism"
+ ],
+ "footer": {
+  "h": 94,
+  "text": "A YEAR OF CARTIER BACK TO TOP"
+ },
+ "jsMotion": {
+  "scriptsFetched": 12,
+  "gsapEases": [
+   [
+    "linear",
+    1
+   ]
+  ],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    ".5",
+    8
+   ],
+   [
+    "1",
+    7
+   ],
+   [
+    "1.5",
+    7
+   ],
+   [
+    ".3",
+    5
+   ],
+   [
+    ".4",
+    3
+   ],
+   [
+    "2.5",
+    3
+   ],
+   [
+    ".7",
+    2
+   ],
+   [
+    ".75",
+    2
+   ],
+   [
+    "1.2",
+    2
+   ],
+   [
+    ".2",
+    2
+   ],
+   [
+    "2",
+    1
+   ],
+   [
+    "3",
+    1
+   ],
+   [
+    ".8",
+    1
+   ],
+   [
+    ".45",
+    1
+   ]
+  ],
+  "staggers": [],
+  "lenis": [
+   [
+    "smoothWheel:n",
+    2
+   ],
+   [
+    "wheelMultiplier:1",
+    1
+   ],
+   [
+    "smoothWheel:!1",
+    1
+   ]
+  ],
+  "springs": [
+   [
+    "stiffness:100,damping:20",
+    2
+   ],
+   [
+    "stiffness:100,damping:30",
+    2
+   ],
+   [
+    "stiffness:100,damping:10",
+    2
+   ],
+   [
+    "type:\"spring\",stiffness:500,damping:25,restSpeed:10",
+    1
+   ],
+   [
+    "type:\"spring\",stiffness:550,damping:0===e?2*Math.sqrt(550):30,restSpeed:1",
+    1
+   ],
+   [
+    "type:\"spring\",restDelta:.001,restSpeed:.01,...t,onUpdate:f.current",
+    1
+   ]
+  ],
+  "scrollTriggerStarts": [
+   [
+    "down",
+    2
+   ],
+   [
+    "start",
+    2
+   ],
+   [
+    "end",
+    1
+   ]
+  ],
+  "splitTypes": [],
+  "bezierArrays": [
+   [
+    "[.25,.1,.35,1]",
+    1
+   ],
+   [
+    "[.4,0,.1,1]",
+    1
+   ]
+  ]
+ }
+}

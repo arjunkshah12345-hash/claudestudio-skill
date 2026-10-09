@@ -1,0 +1,332 @@
+/* Halden: overrides on top of tokens.css. Spine lives in index.html <head>. */
+
+:root{
+  /* Color: limewash fog paper, spruce-black ink, one boathouse-red accent */
+  --paper:      #EEEDE7;
+  --paper-2:    #E5E4DC;
+  --surface:    #F5F4EF;
+  --ink-rgb:    24 33 31;
+  --ink-2:      rgb(var(--ink-rgb) / .66);
+  --ink-3:      rgb(var(--ink-rgb) / .5);
+  --hairline:   rgb(var(--ink-rgb) / .12);
+  --hairline-2: rgb(var(--ink-rgb) / .22);
+  --chart:      rgb(var(--ink-rgb) / .2);
+  --giant:      rgb(var(--ink-rgb) / .055);
+  --accent:     #A8371F;        /* booking buttons + "open now" dot ONLY */
+  --accent-ink: #FBF7F2;
+  --focus:      #A8371F;
+
+  /* Dark-water field (sauna chapter) */
+  --water:      #11211F;
+  --water-ink:  227 234 228;
+
+  /* Families */
+  --font-display: "Fraunces", "Iowan Old Style", Georgia, serif;
+  --font-serif:   "Fraunces", "Iowan Old Style", Georgia, serif;
+  --font-text:    "Inter Tight", ui-sans-serif, system-ui, sans-serif;
+  --font-mono:    "IBM Plex Mono", ui-monospace, monospace;
+
+  /* Scale */
+  --word:     clamp(4.5rem, 24vw, 21.5rem);
+  --word-wt:  250; --word-lh: .8; --word-ls: -.03em;
+  --display:  clamp(2.375rem, 1.2rem + 2.6vw, 3.75rem);
+  --display-wt: 300; --display-lh: 1.0; --display-ls: -.025em;
+  --h2:       clamp(2rem, 1.2rem + 2vw, 3.25rem);
+  --h2-wt:    300; --h2-lh: 1.06; --h2-ls: -.02em;
+  --quote:    clamp(1.75rem, 1rem + 2.4vw, 3rem);
+  --giant-size: clamp(6rem, 1rem + 21vw, 20rem);
+  --route:    clamp(1.75rem, 1.3rem + 1vw, 2.25rem);
+  --wordmark: 1.5rem;
+  --lead:     clamp(1.125rem, 1rem + .4vw, 1.3125rem);
+  --label-ls: .12em;
+
+  /* Space + layout */
+  --margin:   clamp(1.25rem, .9rem + 1.6vw, 2rem);
+  --container: 1376px;
+  --gap:      16px;
+  --nav-h:    60px;
+  --band-h:   44px;
+  --s-9:      clamp(6rem, 3rem + 7vw, 9.5rem);
+  --s-10:     clamp(7rem, 3rem + 11vw, 14rem);
+  --measure:  34rem;
+
+  /* Shape: square camp */
+  --r-btn: 2px; --r-card: 0; --r-media: 0;
+  --btn-h: 48px; --btn-h-sm: 36px;
+  --cell-h: 64px;
+  --dot: 7px;
+  --bar-max: 120px;
+
+  /* Motion */
+  --t-ui: 200ms; --t-reveal: 900ms; --t-scene: 1600ms;
+  --stagger: 80ms;
+}
+
+body{font-size:var(--body)}
+.t-display,.t-h2,.t-word,.quote,.wordmark{font-optical-sizing:auto}
+.t-label{font-weight:400}
+
+/* ---------------- Sprite ---------------- */
+.sprite{position:absolute;width:0;height:0;overflow:hidden}
+
+/* ---------------- Nav ---------------- */
+.nav{position:sticky;top:0;z-index:50;background:var(--paper);box-shadow:0 1px 0 transparent;transition:box-shadow var(--t-ui) var(--ease-ui)}
+.nav.is-scrolled{box-shadow:0 1px 0 var(--hairline)}
+.nav__in{height:var(--nav-h);padding-inline:var(--margin);display:grid;grid-template-columns:1fr auto 1fr;align-items:center;gap:var(--gap)}
+.wordmark{font:300 var(--wordmark)/1 var(--font-display);letter-spacing:-.01em;text-decoration:none;justify-self:start}
+.nav__links{display:flex;gap:var(--s-6)}
+.nav__links a{font:450 var(--ui)/1 var(--font-text);color:var(--ink-2);text-decoration:none;transition:color var(--t-ui) var(--ease-ui)}
+.nav__links a:hover,.nav__links a:focus-visible{color:var(--ink)}
+.nav__end{justify-self:end;display:flex;align-items:center;gap:var(--s-3)}
+.menu-btn{display:none;height:var(--btn-h-sm);padding:1px 12px 0;background:none;border:0;box-shadow:inset 0 0 0 1px var(--hairline-2);border-radius:var(--r-btn);cursor:pointer;color:var(--ink)}
+
+/* ---------------- Buttons ---------------- */
+.btn{border-radius:var(--r-btn);font-weight:500}
+.btn--accent:hover{background:color-mix(in oklab,var(--accent) 88%,black)}
+.btn--sm{padding-inline:16px}
+.link-arrow{display:inline-flex;align-items:center;min-height:44px;gap:.5em;color:var(--ink);text-decoration:underline;text-decoration-color:var(--hairline-2);text-underline-offset:.3em}
+.link-arrow:hover{text-decoration-color:currentColor}
+
+/* ---------------- Hero ---------------- */
+.hero{position:relative;min-height:calc(100svh - var(--nav-h));display:flex;flex-direction:column;overflow:hidden;isolation:isolate}
+.hero__chart{position:absolute;inset:0;width:100%;height:100%;color:var(--chart);z-index:-1;
+  animation:chart-in var(--t-scene) var(--ease-inout) .5s both}
+@keyframes chart-in{from{clip-path:inset(0 100% 0 0)}to{clip-path:inset(0 0 0 0)}}
+
+.meta-band{height:var(--band-h);padding-inline:var(--margin);display:flex;justify-content:space-between;align-items:center;
+  border-block:1px solid var(--hairline);color:var(--ink-2);background:var(--paper)}
+
+.hero__body{padding:var(--s-7) var(--margin) var(--s-6);flex:1}
+.hero__text{grid-column:1 / span 7}
+.hero h1{max-width:12ch}
+.hero__sub{margin-top:var(--s-5);max-width:40rem}
+
+.book{margin-top:var(--s-6);max-width:44rem}
+.book__cells{display:grid;grid-template-columns:1fr 1fr 1fr auto;gap:1px;background:var(--hairline-2);box-shadow:0 0 0 1px var(--hairline-2)}
+.cell{position:relative;display:block;height:var(--cell-h);background:var(--paper);cursor:pointer}
+.cell>.t-label{position:absolute;left:var(--s-4);top:var(--s-3);pointer-events:none;z-index:1}
+.cell input,.cell select{appearance:none;-webkit-appearance:none;border:0;background:none;margin:0;position:absolute;inset:0;
+  padding:calc(var(--s-3) + 1.3em) var(--s-4) 0;width:100%;height:100%;
+  font:450 var(--ui)/1.2 var(--font-text);color:var(--ink);font-variant-numeric:tabular-nums;cursor:pointer}
+.cell:focus-within{box-shadow:inset 0 0 0 2px var(--focus)}
+.cell input:focus,.cell select:focus{outline:none}
+.book__go{height:var(--cell-h);border-radius:0;padding-inline:var(--s-5)}
+.book__status{margin-top:var(--s-4);display:flex;align-items:center;gap:var(--s-3)}
+.dot{width:var(--dot);height:var(--dot);border-radius:50%;background:var(--accent);flex:none}
+.book__status.is-closed .dot{background:var(--ink-3)}
+
+.monument{position:relative;margin:0 calc(var(--margin) - .04em) 0;color:var(--ink);text-transform:uppercase;
+  font-feature-settings:"case";white-space:nowrap;pointer-events:none;user-select:none}
+
+/* ---------------- Shared section bits ---------------- */
+.grid{padding-inline:var(--margin)}
+.section{padding-block:var(--s-9)}
+
+/* Art-directed placeholders: visibly awaiting a photograph (hatch + shot note), never the motif */
+.ph{position:relative;overflow:hidden;border-radius:var(--r-media);padding:var(--s-5);display:grid;align-items:end;color:var(--ink-2);
+  background:var(--paper-2) repeating-linear-gradient(135deg,transparent 0 11px,var(--hairline) 11px 12px);box-shadow:inset 0 0 0 1px var(--hairline)}
+.ph figcaption{position:relative;max-width:46ch;line-height:1.6;background:var(--paper);padding:var(--s-3) var(--s-4);box-shadow:0 0 0 1px var(--hairline)}
+.ph__n{display:flex;align-items:center;gap:var(--s-2);color:var(--ink);margin-bottom:var(--s-1)}
+.ph__n::before{content:"";width:10px;height:8px;border:1px solid currentColor;border-radius:1px}
+.ph--tall{aspect-ratio:4/5}
+.ph--land{aspect-ratio:16/10}
+
+/* ---------------- The place ---------------- */
+.place .grid{display:grid;grid-template-columns:repeat(var(--cols),minmax(0,1fr));column-gap:var(--gap)}
+.place__label{grid-column:1 / span 3;padding-top:.9em}
+.place__text{grid-column:4 / span 7}
+.place__p{margin-top:var(--s-5);max-width:var(--measure)}
+.place{padding-bottom:var(--s-8)}
+.xsec{margin-top:var(--s-8)}
+.xsec__svg{width:100%;height:auto;color:var(--ink)}
+.xsec__water{fill:rgb(var(--ink-rgb) / .06)}
+.xsec__lab{font:400 11px/1 var(--font-mono);letter-spacing:.08em;text-transform:uppercase}
+.xsec__mark{fill:var(--ink)}
+.xsec__cap{display:flex;justify-content:space-between;align-items:baseline;gap:var(--gap);margin-top:var(--s-4);padding-top:var(--s-4);border-top:1px solid var(--hairline)}
+.xsec__cap .t-small{max-width:30rem;text-align:right}
+
+/* ---------------- Chapters ---------------- */
+.chapter__grid{display:grid;grid-template-columns:repeat(var(--cols),minmax(0,1fr));column-gap:var(--gap);align-items:center}
+.chapter__n{display:flex;gap:var(--s-3);margin-bottom:var(--s-5)}
+.chapter__n .t-num{color:var(--ink)}
+.chapter__p{margin-top:var(--s-5);max-width:var(--measure)}
+
+/* Rooms: image bleeds off the left edge, text on the right */
+.chapter--rooms .chapter__media{grid-column:1 / span 5;margin-left:calc(var(--margin) * -1)}
+.chapter--rooms .chapter__text{grid-column:8 / span 5}
+
+.rooms{width:100%;margin-top:var(--s-6);border-collapse:collapse;font:450 var(--ui)/1.35 var(--font-text)}
+.rooms th,.rooms td{text-align:left;padding:var(--s-4) var(--s-3) var(--s-4) 0;border-top:1px solid var(--hairline);vertical-align:top;font-weight:450}
+.rooms thead th{border-top:0;padding-block:0 var(--s-3);font-weight:400}
+.rooms td:last-child,.rooms thead th:last-child{text-align:right;padding-right:0;white-space:nowrap}
+.rooms tbody tr:last-child>*{border-bottom:1px solid var(--hairline)}
+.rooms__name{display:block;font:400 var(--h3)/1.1 var(--font-display);letter-spacing:-.01em;margin-bottom:var(--s-1)}
+.rooms__note{margin-top:var(--s-4);margin-bottom:var(--s-5)}
+
+/* Sauna: full-bleed dark-water field, image bleeds right */
+.field{--paper:var(--water);--paper-2:#172A27;--ink-rgb:var(--water-ink);--ink:rgb(var(--ink-rgb));
+  --ink-2:rgb(var(--ink-rgb) / .68);--ink-3:rgb(var(--ink-rgb) / .5);--hairline:rgb(var(--ink-rgb) / .14);--hairline-2:rgb(var(--ink-rgb) / .24);--chart:rgb(var(--ink-rgb) / .16);
+  background:var(--paper);color:var(--ink);padding-block:var(--s-10)}
+.chapter--sauna .chapter__text{grid-column:1 / span 5}
+.chapter--sauna .chapter__media{grid-column:7 / span 6;margin-right:calc(var(--margin) * -1)}
+.spec{margin:var(--s-6) 0 0;border-top:1px solid var(--hairline)}
+.spec div{display:flex;justify-content:space-between;gap:var(--s-4);padding:var(--s-3) 0;border-bottom:1px solid var(--hairline)}
+.spec dt{padding-top:.25em}
+.spec dd{margin:0;font:450 var(--ui)/1.4 var(--font-text);text-align:right}
+
+/* Depth readout card over the sauna photo slot */
+.gauge{position:absolute;top:var(--s-5);left:var(--s-5);z-index:1;background:var(--paper);padding:var(--s-4) var(--s-5) var(--s-5);box-shadow:0 0 0 1px var(--hairline-2);color:var(--ink)}
+.gauge__row{display:flex;gap:var(--s-5);align-items:flex-end;margin-top:var(--s-4)}
+.gauge__svg{width:96px;height:auto;color:var(--ink)}
+.gauge__lab{font:400 10px/1 var(--font-mono);letter-spacing:.06em}
+.gauge__read{display:flex;flex-direction:column;gap:var(--s-2);max-width:11rem}
+.gauge__t{font:300 var(--h2)/1 var(--font-display);letter-spacing:-.02em;color:var(--ink)}
+
+/* Kitchen: image left again but inset, text right */
+.chapter--kitchen{padding-top:var(--s-10)}
+.chapter--kitchen .chapter__media{grid-column:2 / span 4}
+.chapter--kitchen .chapter__text{grid-column:7 / span 5}
+.menu{margin-top:var(--s-6);padding-top:var(--s-5);border-top:1px solid var(--hairline)}
+.menu__list{list-style:none;margin:var(--s-4) 0;padding:0;counter-reset:c}
+.menu__list li{counter-increment:c;display:grid;grid-template-columns:2.5rem 1fr;font:300 var(--lead)/1.35 var(--font-serif);padding:var(--s-2) 0}
+.menu__list li::before{content:counter(c,decimal-leading-zero);font:400 var(--label)/2.4 var(--font-mono);letter-spacing:var(--label-ls);color:var(--ink-2)}
+
+/* ---------------- Season ruler ---------------- */
+.season{padding-top:var(--s-10)}
+.season .grid{display:grid;grid-template-columns:repeat(var(--cols),minmax(0,1fr));column-gap:var(--gap)}
+.season__head{grid-column:1 / span 7}
+.season__head p{margin-top:var(--s-5);max-width:var(--measure)}
+.ruler{list-style:none;margin:var(--s-8) var(--margin) 0;padding:0;display:grid;grid-template-columns:repeat(12,minmax(0,1fr));
+  border-top:1px solid var(--hairline-2);border-bottom:1px solid var(--hairline-2)}
+.m{position:relative;display:flex;flex-direction:column;gap:var(--s-3);padding:var(--s-4) var(--s-3) var(--s-5);border-left:1px solid var(--hairline)}
+.m:first-child{border-left:0;padding-left:0}
+.m__name{color:var(--ink)}
+.m__bar{display:block;height:var(--bar-max);position:relative}
+.m__bar::after{content:"";position:absolute;left:0;bottom:0;width:100%;height:calc(var(--d) / 24 * 100%);background:rgb(var(--ink-rgb) / .1);
+  border-top:1px solid var(--ink);transform-origin:bottom;transform:scaleY(.05);transition:transform var(--t-scene) var(--ease) calc(var(--i,0) * var(--stagger))}
+.m.is-in .m__bar::after{transform:none}
+.no-js .m__bar::after{transform:none}
+.m__v{font:450 var(--small)/1.35 var(--font-text)}
+.m__k{color:var(--ink-2)}
+.m.is-closed{background:repeating-linear-gradient(135deg,transparent 0 7px,var(--hairline) 7px 8px)}
+.m.is-closed .m__name,.m.is-closed .m__k{color:var(--ink-2)}
+.m.is-closed .m__bar::after{border-top-color:var(--ink-3);background:none}
+.m.is-now .m__name::after{content:"Now";margin-left:var(--s-2);padding-left:calc(var(--dot) + var(--s-2));color:var(--ink-2);
+  background:radial-gradient(circle at calc(var(--dot) / 2) 50%,var(--accent) calc(var(--dot) / 2 - .5px),transparent calc(var(--dot) / 2))}
+.m.is-now .m__bar::after{background:rgb(var(--ink-rgb) / .2)}
+.ruler__key{margin-top:var(--s-4);padding-inline:0}
+
+/* ---------------- Hosts quote ---------------- */
+.hosts{padding-block:var(--s-10)}
+.hosts .grid{display:grid;grid-template-columns:repeat(var(--cols),minmax(0,1fr));column-gap:var(--gap)}
+.hosts__q{grid-column:3 / span 8;margin:0}
+.quote{font:300 italic var(--quote)/1.18 var(--font-serif);letter-spacing:-.015em;text-wrap:balance;hanging-punctuation:first;text-indent:-.4em}
+.hosts__q footer{margin-top:var(--s-6)}
+
+/* ---------------- Getting here ---------------- */
+.travel{position:relative;overflow:hidden;border-top:1px solid var(--hairline)}
+.travel__giant{position:absolute;left:var(--margin);top:50%;transform:translateY(-50%);margin:0;white-space:nowrap;pointer-events:none;
+  font:200 var(--giant-size)/.8 var(--font-display);letter-spacing:-.04em;color:var(--giant)}
+.travel__grid{position:relative;display:grid;grid-template-columns:repeat(var(--cols),minmax(0,1fr));column-gap:var(--gap);align-items:end}
+.travel__head{grid-column:1 / span 5}
+.travel__head .t-h2{margin-top:var(--s-4)}
+.travel__head p:last-child{margin-top:var(--s-5);max-width:28rem}
+.routes{grid-column:7 / span 6;margin:0;border-top:1px solid var(--hairline-2)}
+.routes div{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.3fr);gap:var(--gap);padding:var(--s-4) 0;border-bottom:1px solid var(--hairline);align-items:baseline}
+.routes dd{margin:0;display:flex;flex-direction:column;gap:var(--s-1)}
+.routes__t{font:300 var(--route)/1 var(--font-display);letter-spacing:-.015em}
+
+/* ---------------- Finale ---------------- */
+.finale{padding-block:var(--s-10) var(--s-9);border-top:1px solid var(--hairline)}
+.finale__in{display:flex;justify-content:space-between;align-items:flex-end;gap:var(--s-7);flex-wrap:wrap}
+.finale__line{max-width:13ch;font-size:clamp(2.5rem, .9rem + 4.6vw, 5.25rem);letter-spacing:-.03em}
+.finale__cta{display:flex;gap:var(--s-3)}
+
+/* ---------------- Footer ---------------- */
+.foot{background:var(--paper-2);padding-top:var(--s-8);border-top:1px solid var(--hairline)}
+.foot__cols{display:grid;grid-template-columns:1.6fr repeat(4,1fr);gap:var(--s-6) var(--gap)}
+.foot__cols>*>.t-label{margin-bottom:var(--s-4)}
+.foot ul{list-style:none;margin:0;padding:0;display:grid;gap:var(--s-2);font:450 var(--ui)/1.4 var(--font-text)}
+.foot a{text-decoration:none}
+.foot ul a:hover{text-decoration:underline}
+.foot address{font-style:normal;margin-top:var(--s-4)}
+.foot .link-arrow{margin-top:var(--s-3)}
+.wordmark--foot{font-size:var(--h3);margin:0}
+.foot__bar{display:flex;justify-content:space-between;gap:var(--s-4);flex-wrap:wrap;margin-top:var(--s-8);padding-block:var(--s-5);border-top:1px solid var(--hairline);color:var(--ink-2)}
+.foot__live time,.foot__live [data-sunset]{color:var(--ink)}
+
+/* ---------------- Tablet ---------------- */
+@media (max-width: 1100px){
+  .nav__links{gap:var(--s-5)}
+  .hero__text{grid-column:1 / span 10}
+  .chapter--rooms .chapter__text,.chapter--kitchen .chapter__text{grid-column:7 / span 6}
+  .chapter--sauna .chapter__text{grid-column:1 / span 6}
+  .ruler{grid-template-columns:repeat(6,minmax(0,1fr));row-gap:var(--s-5)}
+  .m:nth-child(7){border-left:0;padding-left:0}
+  .foot__cols{grid-template-columns:repeat(3,1fr)}
+}
+
+/* ---------------- Mobile (390): its own composition ---------------- */
+@media (max-width: 760px){
+  :root{--nav-h:56px;--cell-h:60px;--bar-max:72px}
+  .nav__in{grid-template-columns:1fr auto}
+  .nav__links{display:none;position:absolute;top:var(--nav-h);left:0;right:0;flex-direction:column;gap:0;background:var(--paper);
+    padding:var(--s-2) var(--margin) var(--s-5);box-shadow:0 1px 0 var(--hairline)}
+  .nav.is-open .nav__links{display:flex}
+  .nav__links a{font-size:var(--h3);font-family:var(--font-display);font-weight:300;color:var(--ink);padding:var(--s-3) 0;border-bottom:1px solid var(--hairline)}
+  .menu-btn{display:inline-flex;align-items:center}
+
+  .meta-band__mid{display:none}
+  .hero{min-height:auto}
+  .hero__body{padding-top:var(--s-6);padding-bottom:var(--s-6)}
+  .hero__text{grid-column:1 / -1}
+  .hero h1{font-size:2.5rem}
+  .book__cells{grid-template-columns:1fr 1fr}
+  .cell--guests{grid-column:1 / -1}
+  .book__go{grid-column:1 / -1;justify-content:center;height:var(--btn-h)}
+  .book__status{align-items:flex-start}
+  .book__status .dot{margin-top:.5em}
+  .monument{font-size:23vw}
+
+  .place__label,.place__text{grid-column:1 / -1}
+  .place__label{padding:0 0 var(--s-4)}
+  .ph{padding:var(--s-3)}
+  .xsec{width:auto;margin-inline:0;margin-top:var(--s-7)}
+  .xsec__frame{padding-inline:var(--margin)}
+  .xsec__lab{font-size:24px}
+  .xsec__lab .far{display:none}
+  .xsec__cap{flex-direction:column;padding-inline:var(--margin)}
+  .xsec__cap .t-small{text-align:left}
+  .gauge{top:var(--s-3);left:var(--s-3);padding:var(--s-3) var(--s-4) var(--s-4)}
+  .gauge__svg{width:64px}
+  .chapter--sauna .ph{align-items:end}
+
+  .chapter__grid{row-gap:var(--s-7)}
+  .chapter--rooms .chapter__media,.chapter--rooms .chapter__text,
+  .chapter--sauna .chapter__media,.chapter--sauna .chapter__text,
+  .chapter--kitchen .chapter__media,.chapter--kitchen .chapter__text{grid-column:1 / -1}
+  .chapter--rooms .chapter__media{margin-inline:calc(var(--margin) * -1)}
+  .chapter--sauna .chapter__media{margin-inline:calc(var(--margin) * -1);aspect-ratio:4/5}
+  .chapter--kitchen .chapter__media{margin-right:var(--s-8)}
+  .rooms thead th:nth-child(3),.rooms td:nth-child(3){display:none}
+
+  .season__head{grid-column:1 / -1}
+  .ruler{grid-template-columns:repeat(3,minmax(0,1fr))}
+  .m:nth-child(7){border-left:1px solid var(--hairline);padding-left:var(--s-3)}
+  .m:nth-child(3n+1){border-left:0;padding-left:0}
+  .m__bar{height:var(--bar-max)}
+  .ruler__key{font:400 var(--small)/1.45 var(--font-text);letter-spacing:0;text-transform:none}
+
+  .hosts__q{grid-column:1 / -1}
+  .travel__giant{top:var(--s-8);transform:none}
+  .travel__head,.routes{grid-column:1 / -1}
+  .routes{margin-top:var(--s-7)}
+  .routes div{grid-template-columns:1fr}
+
+  .finale__in{flex-direction:column;align-items:stretch}
+  .finale__cta{flex-direction:column}
+  .finale__cta .btn{justify-content:center}
+  .foot__cols{grid-template-columns:1fr 1fr}
+  .foot__brand{grid-column:1 / -1}
+  .foot__bar{flex-direction:column;gap:var(--s-2)}
+}

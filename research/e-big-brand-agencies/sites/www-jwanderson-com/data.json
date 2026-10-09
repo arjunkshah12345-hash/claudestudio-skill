@@ -1,0 +1,742 @@
+{
+ "url": "https://www.jwanderson.com/",
+ "slug": "www-jwanderson-com",
+ "analyzedAt": "2026-10-07T05:22:01.810Z",
+ "scrollHeight": 6018,
+ "pageLengthInViewports": 6.7,
+ "title": "JW Anderson Official Site : Luxury Bags, Ready-To-Wear, Shoes",
+ "metaDescription": "Shop at the JW Anderson official website. Discover luxury women&#39;s and men&#39;s collections, shop new arrivals and discover the brand&#39;s history and unique designs.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "grad 400 normal",
+   "grad 400 italic",
+   "acumin-pro 400 normal"
+  ],
+  "families": [
+   [
+    "Grad",
+    257
+   ],
+   [
+    "acumin-pro",
+    56
+   ],
+   [
+    "ui-sans-serif",
+    6
+   ]
+  ],
+  "sizes": [
+   [
+    "11px",
+    213
+   ],
+   [
+    "12px",
+    56
+   ],
+   [
+    "14px",
+    31
+   ],
+   [
+    "16px",
+    16
+   ],
+   [
+    "18px",
+    3
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    319
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "0.007em@11",
+    213
+   ],
+   [
+    "0.015em@12",
+    56
+   ],
+   [
+    "0.009em@14",
+    30
+   ],
+   [
+    "0.010em@16",
+    11
+   ],
+   [
+    "normal",
+    6
+   ],
+   [
+    "0.005em@18",
+    3
+   ]
+  ],
+  "uppercaseShare": 0.18,
+  "largest": [
+   {
+    "tag": "span",
+    "text": "Sign in",
+    "family": "Grad",
+    "size": "18px",
+    "weight": "400",
+    "lh": "24px",
+    "ls": "0.09px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "h2",
+    "text": "Book an Appointment",
+    "family": "Grad",
+    "size": "18px",
+    "weight": "400",
+    "lh": "24px",
+    "ls": "0.09px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "p",
+    "text": "Join JW ANDERSON and subscribe.",
+    "family": "Grad",
+    "size": "18px",
+    "weight": "400",
+    "lh": "24px",
+    "ls": "0.09px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "a",
+    "text": "Skip to content",
+    "family": "ui-sans-serif",
+    "size": "16px",
+    "weight": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "span",
+    "text": "JW Anderson Official Website",
+    "family": "ui-sans-serif",
+    "size": "16px",
+    "weight": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "label",
+    "text": "Your email",
+    "family": "Grad",
+    "size": "16px",
+    "weight": "400",
+    "lh": "18px",
+    "ls": "0.16px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(111, 111, 104)"
+   },
+   {
+    "tag": "label",
+    "text": "Search",
+    "family": "Grad",
+    "size": "16px",
+    "weight": "400",
+    "lh": "18px",
+    "ls": "0.16px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(93, 38, 1)"
+   },
+   {
+    "tag": "label",
+    "text": "Email",
+    "family": "Grad",
+    "size": "16px",
+    "weight": "400",
+    "lh": "18px",
+    "ls": "0.16px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(115, 115, 115)"
+   },
+   {
+    "tag": "label",
+    "text": "Password",
+    "family": "Grad",
+    "size": "16px",
+    "weight": "400",
+    "lh": "18px",
+    "ls": "0.16px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(115, 115, 115)"
+   },
+   {
+    "tag": "span",
+    "text": "Close",
+    "family": "ui-sans-serif",
+    "size": "16px",
+    "weight": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "h3",
+    "text": "Contact Information",
+    "family": "ui-sans-serif",
+    "size": "16px",
+    "weight": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(0, 0, 0)"
+   },
+   {
+    "tag": "label",
+    "text": "First Name*",
+    "family": "Grad",
+    "size": "16px",
+    "weight": "400",
+    "lh": "18px",
+    "ls": "0.16px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(115, 115, 115)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgba(0, 0, 0, 0)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "oklch(0 0 0)",
+    159
+   ],
+   [
+    "rgb(0, 0, 0)",
+    107
+   ],
+   [
+    "oklch(0.373 0.034 259.733)",
+    41
+   ],
+   [
+    "rgb(115, 115, 115)",
+    6
+   ],
+   [
+    "rgb(93, 38, 1)",
+    2
+   ],
+   [
+    "oklch(1 0 0)",
+    2
+   ],
+   [
+    "rgb(111, 111, 104)",
+    1
+   ],
+   [
+    "oklch(0 0 0 / 0.5)",
+    1
+   ]
+  ],
+  "backgrounds": [
+   [
+    "oklch(0.9 0 0)",
+    84
+   ],
+   [
+    "oklch(0 0 0)",
+    7
+   ],
+   [
+    "oklch(1 0 0)",
+    6
+   ],
+   [
+    "rgb(255, 255, 255)",
+    2
+   ],
+   [
+    "rgb(242, 242, 235)",
+    1
+   ],
+   [
+    "oklch(0.96 0.0093 106.57)",
+    1
+   ],
+   [
+    "oklch(0.85 0.0581 148.13)",
+    1
+   ],
+   [
+    "oklch(0 0 0 / 0.1)",
+    1
+   ],
+   [
+    "oklch(0.83 0.061 320.8)",
+    1
+   ]
+  ],
+  "gradients": []
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(.4,0,.2,1)",
+    4
+   ],
+   [
+    "cubic-bezier(.4,0,1,1)",
+    2
+   ],
+   [
+    "cubic-bezier(0,0,.2,1)",
+    2
+   ],
+   [
+    "cubic-bezier(.7,0,.84,0)",
+    2
+   ],
+   [
+    "cubic-bezier(0.7,0,0.84,0)",
+    2
+   ]
+  ],
+  "durations": [
+   [
+    "0.2s",
+    9
+   ],
+   [
+    "0.1s",
+    6
+   ],
+   [
+    "0.3s",
+    6
+   ],
+   [
+    "0.4s",
+    5
+   ],
+   [
+    "300ms",
+    3
+   ],
+   [
+    ".15s",
+    2
+   ],
+   [
+    "0.15s",
+    2
+   ],
+   [
+    "0.5s",
+    2
+   ],
+   [
+    "1.4s",
+    2
+   ],
+   [
+    "0.25s",
+    2
+   ]
+  ],
+  "keyframes": [
+   "pulse",
+   "fade-in",
+   "pulse-fallback",
+   "shopify-rotator",
+   "shopify-dash",
+   "acceleratedCheckoutLoadingSkeleton",
+   "onetrust-fade-in",
+   "swym-loading-spinner"
+  ]
+ },
+ "cssVarSample": {
+  "--font-body-scale": "1.6",
+  "--nav-bar-height": "44px",
+  "--nav-bar-height-mobile": "42px",
+  "--width-panel-logo": "0px",
+  "--panel-right-padding": "12.5rem",
+  "--panel-right-padding-large": "20vw",
+  "--panel-dynamic-right-padding": "calc(1.375rem + var(--width-panel-logo) + var(--spacing-page-margin))",
+  "--base-resolution": "16px",
+  "--screen-breakpoint-md": "31.25em",
+  "--screen-breakpoint-lg": "62.5em",
+  "--screen-breakpoint-2lg": "87.5",
+  "--screen-breakpoint-xl": "105em",
+  "--z-index-primary-panel-overlay": "51",
+  "--z-index-primary-panel": "52",
+  "--z-index-secondary-panel-overlay": "53",
+  "--z-index-sticky-buy-box": "53",
+  "--z-index-secondary-panel": "54",
+  "--z-index-header": "50",
+  "--z-index-announcement-bar": "49",
+  "--z-index-menu": "50",
+  "--z-index-page-header": "50",
+  "--z-index-region-selection": "55",
+  "--z-index-newsletter-notice": "48",
+  "--z-index-accessibility-skip-content": "100",
+  "--z-index-layout-logo": "100",
+  "--z-index-notification": "101",
+  "--z-index-tag-controller": "200",
+  "--swym-remind-cta-bg-color": "#00a65a",
+  "--swym-remind-cta-text-color": "white",
+  "--swym-remind-cta-bg-color-v2": "#000000",
+  "--swym-remind-cta-text-color-v2": "white",
+  "--swym-subscribe-success-bg-color": "#AEE9D1",
+  "--swym-subscribe-success-text-color": "#202223",
+  "--swym-recently-viewed-pointer-pos": "92%"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": false,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": true,
+  "splitText": true,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 222,
+  "video": 4,
+  "svg": 30,
+  "picture": 0,
+  "iframes": 4
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 0,
+  "clipPath": 12,
+  "sticky": 3,
+  "fixed": [
+   "fixed top-0 right-0 left-0 z-(--z-index-announcement-bar) bl",
+   "group/header fixed top-[var(--announcement-bar-offset,0px)] ",
+   "fixed top-[var(--announcement-bar-offset,0px)] right-0 botto",
+   "group/menu has-dark-background pointer-events-none fixed ins",
+   "peer/panel group/panel pointer-events-none fixed inset-0 max",
+   "peer/panel group/panel pointer-events-none fixed inset-0 max",
+   "peer/panel group/panel pointer-events-none fixed inset-0 max",
+   "peer/panel group/panel pointer-events-none fixed inset-0 max",
+   "peer/panel group/panel pointer-events-none fixed inset-0 max",
+   "fixed inset-0 z-50 flex w-full items-end justify-start \n    "
+  ],
+  "customCursor": true,
+  "boxShadows": [
+   [
+    "rgba(0, 0, 0, 0.1) -1px 0px 6px 0px",
+    5
+   ]
+  ],
+  "filters": [],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "2px",
+   50
+  ],
+  [
+   "3.35544e+07px",
+   1
+  ],
+  [
+   "4px",
+   1
+  ]
+ ],
+ "borders": [
+  [
+   "bottom:1px solid oklch(0 0 0)",
+   15
+  ],
+  [
+   "1px solid rgba(0, 0, 0, 0)",
+   3
+  ],
+  [
+   "1px solid oklch(0 0 0 / 0.1)",
+   1
+  ],
+  [
+   "1px solid oklch(0 0 0 / 0.5)",
+   1
+  ],
+  [
+   "1px solid rgb(0, 0, 0)",
+   1
+  ]
+ ],
+ "grids": [
+  [
+   "1cols gap normal",
+   15
+  ],
+  [
+   "12cols gap 6px",
+   4
+  ],
+  [
+   "3cols gap 6px",
+   4
+  ],
+  [
+   "2cols gap 12px",
+   2
+  ],
+  [
+   "4cols gap 6px",
+   1
+  ],
+  [
+   "5cols gap 6px",
+   1
+  ],
+  [
+   "4cols gap normal",
+   1
+  ],
+  [
+   "6cols gap 6px",
+   1
+  ]
+ ],
+ "containers": [],
+ "sideMargins": [
+  [
+   "12px",
+   37
+  ],
+  [
+   "762px",
+   20
+  ],
+  [
+   "318px",
+   16
+  ],
+  [
+   "516px",
+   16
+  ],
+  [
+   "210px",
+   12
+  ],
+  [
+   "714px",
+   10
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "shopify-section",
+   "h": 5874,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "shopify-section",
+   "h": 216,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "shopify-section",
+   "h": 345,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "shopify-section",
+   "h": 900,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "flex flex-col gap-core-m",
+   "h": 297,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "flex flex-col gap-core-m",
+   "h": 364,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "fixed",
+  "height": 44,
+  "links": 0,
+  "linkTexts": [
+   "MENU",
+   "LOGIN",
+   "BAG"
+  ],
+  "bg": "oklch(1 0 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "Skip to content",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "0px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 1
+  },
+  {
+   "text": "SHOW RESULTS",
+   "bg": "oklch(0 0 0)",
+   "color": "oklch(1 0 0)",
+   "radius": "0px",
+   "pad": "16px 12px",
+   "size": "12px",
+   "weight": "400",
+   "tt": "uppercase",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 49
+  },
+  {
+   "text": "SIGN IN",
+   "bg": "oklch(0 0 0 / 0.1)",
+   "color": "oklch(0 0 0)",
+   "radius": "0px",
+   "pad": "16px 12px",
+   "size": "12px",
+   "weight": "400",
+   "tt": "uppercase",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 49
+  },
+  {
+   "text": "BOOK APPOINTMENT",
+   "bg": "oklch(0 0 0)",
+   "color": "oklch(1 0 0)",
+   "radius": "0px",
+   "pad": "16px 12px",
+   "size": "12px",
+   "weight": "400",
+   "tt": "uppercase",
+   "border": "1px solid rgba(0, 0, 0, 0)",
+   "h": 49
+  }
+ ],
+ "headings": [
+  "The Denim Edit",
+  "Men's New In",
+  "Women's New In",
+  "Loafer Bags",
+  "All Home",
+  "[New] Wedgwood Greek Cups In Blue",
+  "Loafer Bag In Khaki Suede",
+  "Mens Denim Overshirt In Mid Blue",
+  "[New] Loafer Bag In Rust Suede",
+  "[New] Murrina Beaded Charm In Green & Multi",
+  "[New] Womens 'In The Shade' T-Shirt In Ecru & Washed Black",
+  "[New] Wedgwood Greek Cups In Green",
+  "[New] Elongated Loafer Cabas Bag In Brown Suede",
+  "Womens Straight Leg Denim Jeans In Mid Blue",
+  "[New] Medium Loafer Bag In Dark Taupe Leather",
+  "Welsh Blanket In Tomato Red",
+  "[New] Wedgwood Greek Cups In Brown",
+  "[New] Womens Heeled Loafer Mule In Brown",
+  "[New] Mens Twisted Workwear Denim Jeans In French Blue",
+  "[New] Elongated Loafer Cabas Bag In Khaki Suede",
+  "Mens Twisted Workwear Denim Jeans In Indigo",
+  "[New] Womens Knitted Striped Rugby Polo Top In Ivory",
+  "[New] Mens Knitted Mohair Cardigan In Brown",
+  "[New] Womens Ruched Jersey Top In Orchid",
+  "[New] Mens Twisted Workwear Denim Jeans In Pale Yellow"
+ ],
+ "paras": [
+  "Newsletters that smell nice. Subscribe.",
+  "You're on the list! Cheers. You will not regret it.",
+  "Newsletters that smell nice. Subscribe.",
+  "You're on the list! Cheers. You will not regret it.",
+  "We've sent a confirmation email with a link to reset your password.",
+  "Schedule a personal appointment with our team",
+  "Join JW ANDERSON and subscribe.",
+  "You're on the list! Cheers. You will not regret it.",
+  "These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your",
+  "These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly per"
+ ],
+ "footer": {
+  "h": 0,
+  "text": " Selecting this option will refresh the site and update currency to and language to [ Loading ] United States [ Loading ] "
+ },
+ "jsMotion": {
+  "scriptsFetched": 22,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "0",
+    3
+   ]
+  ],
+  "staggers": [],
+  "lenis": [],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

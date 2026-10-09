@@ -1,0 +1,829 @@
+{
+ "url": "https://www.thedrake.ca",
+ "slug": "www-thedrake-ca",
+ "analyzedAt": "2026-10-07T05:14:19.645Z",
+ "scrollHeight": 8365,
+ "pageLengthInViewports": 9.3,
+ "title": "The Drake | Boutique Hotels in Toronto + Prince Edward County",
+ "metaDescription": "The Drake Hotel Properties: boutique hotels in Toronto's West Queen West and Prince Edward County's Wellington waterfront. Art, music, and dining at every stay.",
+ "lang": "",
+ "type": {
+  "loadedFonts": [
+   "Sequel Sans Medium Disp 500 normal",
+   "Sequel Sans Medium Body 500 normal",
+   "Sequel Sans Book Body 400 normal",
+   "Maison Mono 400 normal"
+  ],
+  "families": [
+   [
+    "Maison Mono",
+    134
+   ],
+   [
+    "Sequel Sans Medium Disp",
+    105
+   ]
+  ],
+  "sizes": [
+   [
+    "10px",
+    76
+   ],
+   [
+    "14px",
+    40
+   ],
+   [
+    "16px",
+    39
+   ],
+   [
+    "29px",
+    38
+   ],
+   [
+    "64px",
+    15
+   ],
+   [
+    "49px",
+    8
+   ],
+   [
+    "12px",
+    7
+   ],
+   [
+    "37px",
+    6
+   ],
+   [
+    "110px",
+    5
+   ],
+   [
+    "22px",
+    3
+   ],
+   [
+    "17px",
+    2
+   ]
+  ],
+  "weights": [
+   [
+    "400",
+    162
+   ],
+   [
+    "415",
+    77
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "normal",
+    167
+   ],
+   [
+    "-0.010em@29",
+    38
+   ],
+   [
+    "-0.030em@64",
+    15
+   ],
+   [
+    "-0.030em@49",
+    8
+   ],
+   [
+    "-0.020em@37",
+    6
+   ],
+   [
+    "-0.030em@110",
+    5
+   ]
+  ],
+  "uppercaseShare": 0.56,
+  "largest": [
+   {
+    "tag": "h2",
+    "text": "Discover Our Properties",
+    "family": "Sequel Sans Medium Disp",
+    "size": "109.968px",
+    "weight": "415",
+    "lh": "93.4728px",
+    "ls": "-3.29904px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(34, 34, 35)"
+   },
+   {
+    "tag": "em",
+    "text": "Our",
+    "family": "Sequel Sans Medium Disp",
+    "size": "109.968px",
+    "weight": "415",
+    "lh": "93.4728px",
+    "ls": "-3.29904px",
+    "tt": "none",
+    "style": "italic",
+    "color": "rgb(34, 34, 35)"
+   },
+   {
+    "tag": "span",
+    "text": "Discover",
+    "family": "Sequel Sans Medium Disp",
+    "size": "109.968px",
+    "weight": "415",
+    "lh": "93.4728px",
+    "ls": "-3.29904px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(34, 34, 35)"
+   },
+   {
+    "tag": "span",
+    "text": "Properties",
+    "family": "Sequel Sans Medium Disp",
+    "size": "109.968px",
+    "weight": "415",
+    "lh": "93.4728px",
+    "ls": "-3.29904px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(34, 34, 35)"
+   },
+   {
+    "tag": "h1",
+    "text": "Meet The Drake",
+    "family": "Sequel Sans Medium Disp",
+    "size": "64px",
+    "weight": "415",
+    "lh": "64px",
+    "ls": "-1.92px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(34, 34, 35)"
+   },
+   {
+    "tag": "span",
+    "text": "Meet",
+    "family": "Sequel Sans Medium Disp",
+    "size": "64px",
+    "weight": "415",
+    "lh": "64px",
+    "ls": "-1.92px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(34, 34, 35)"
+   },
+   {
+    "tag": "span",
+    "text": "The",
+    "family": "Sequel Sans Medium Disp",
+    "size": "64px",
+    "weight": "415",
+    "lh": "64px",
+    "ls": "-1.92px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(34, 34, 35)"
+   },
+   {
+    "tag": "span",
+    "text": "Drake",
+    "family": "Sequel Sans Medium Disp",
+    "size": "64px",
+    "weight": "415",
+    "lh": "64px",
+    "ls": "-1.92px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(34, 34, 35)"
+   },
+   {
+    "tag": "h2",
+    "text": "Explore Our Locations",
+    "family": "Sequel Sans Medium Disp",
+    "size": "64px",
+    "weight": "415",
+    "lh": "64px",
+    "ls": "-1.92px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(34, 34, 35)"
+   },
+   {
+    "tag": "span",
+    "text": "Explore",
+    "family": "Sequel Sans Medium Disp",
+    "size": "64px",
+    "weight": "415",
+    "lh": "64px",
+    "ls": "-1.92px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(34, 34, 35)"
+   },
+   {
+    "tag": "span",
+    "text": "Locations",
+    "family": "Sequel Sans Medium Disp",
+    "size": "64px",
+    "weight": "415",
+    "lh": "64px",
+    "ls": "-1.92px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(34, 34, 35)"
+   },
+   {
+    "tag": "h2",
+    "text": "Take Your Shot Of Art",
+    "family": "Sequel Sans Medium Disp",
+    "size": "64px",
+    "weight": "415",
+    "lh": "64px",
+    "ls": "-1.92px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(34, 34, 35)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgba(0, 0, 0, 0)",
+  "htmlBg": "rgb(255, 255, 255)",
+  "text": [
+   [
+    "rgb(34, 34, 35)",
+    198
+   ],
+   [
+    "rgb(255, 255, 255)",
+    21
+   ],
+   [
+    "rgb(181, 183, 216)",
+    9
+   ],
+   [
+    "rgb(32, 165, 86)",
+    4
+   ],
+   [
+    "rgba(255, 255, 255, 0.4)",
+    3
+   ],
+   [
+    "lch(100 0 0)",
+    2
+   ],
+   [
+    "lch(0 0 0)",
+    2
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(255, 255, 255)",
+    80
+   ],
+   [
+    "rgb(34, 34, 35)",
+    43
+   ],
+   [
+    "rgb(103, 43, 60)",
+    2
+   ],
+   [
+    "rgb(181, 183, 216)",
+    1
+   ],
+   [
+    "rgb(240, 238, 235)",
+    1
+   ]
+  ],
+  "gradients": []
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.5,0,0,1)",
+    2
+   ],
+   [
+    "cubic-bezier(0.4,0,0.2,1)",
+    1
+   ]
+  ],
+  "durations": [
+   [
+    "0s",
+    17
+   ],
+   [
+    "0.15s",
+    9
+   ],
+   [
+    "0.4s",
+    8
+   ],
+   [
+    "1s",
+    5
+   ],
+   [
+    "0.25s",
+    5
+   ],
+   [
+    ".1s",
+    4
+   ],
+   [
+    "0.2s",
+    3
+   ],
+   [
+    "2s",
+    2
+   ],
+   [
+    "0.36s",
+    2
+   ],
+   [
+    "0.3s",
+    2
+   ]
+  ],
+  "keyframes": [
+   "spin",
+   "slideInUp",
+   "swiper-preloader-spin"
+  ]
+ },
+ "cssVarSample": {
+  "--wp--preset--aspect-ratio--square": "1",
+  "--wp--preset--aspect-ratio--4-3": "4/3",
+  "--wp--preset--aspect-ratio--3-4": "3/4",
+  "--wp--preset--aspect-ratio--3-2": "3/2",
+  "--wp--preset--aspect-ratio--2-3": "2/3",
+  "--wp--preset--aspect-ratio--16-9": "16/9",
+  "--wp--preset--aspect-ratio--9-16": "9/16",
+  "--wp--preset--color--black": "#000000",
+  "--wp--preset--color--cyan-bluish-gray": "#abb8c3",
+  "--wp--preset--color--white": "#ffffff",
+  "--wp--preset--color--pale-pink": "#f78da7",
+  "--wp--preset--color--vivid-red": "#cf2e2e",
+  "--wp--preset--color--luminous-vivid-orange": "#ff6900",
+  "--wp--preset--color--luminous-vivid-amber": "#fcb900",
+  "--wp--preset--color--light-green-cyan": "#7bdcb5",
+  "--wp--preset--color--vivid-green-cyan": "#00d084",
+  "--wp--preset--color--pale-cyan-blue": "#8ed1fc",
+  "--wp--preset--color--vivid-cyan-blue": "#0693e3",
+  "--wp--preset--color--vivid-purple": "#9b51e0",
+  "--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple": "linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%)",
+  "--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan": "linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%)",
+  "--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange": "linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%)",
+  "--wp--preset--gradient--luminous-vivid-orange-to-vivid-red": "linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%)",
+  "--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray": "linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%)",
+  "--wp--preset--gradient--cool-to-warm-spectrum": "linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 4",
+  "--wp--preset--gradient--blush-light-purple": "linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%)",
+  "--wp--preset--gradient--blush-bordeaux": "linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%",
+  "--wp--preset--gradient--luminous-dusk": "linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 10",
+  "--wp--preset--gradient--pale-ocean": "linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) ",
+  "--wp--preset--gradient--electric-grass": "linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%)",
+  "--wp--preset--gradient--midnight": "linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%)",
+  "--wp--preset--font-size--small": "13px",
+  "--wp--preset--font-size--medium": "20px",
+  "--wp--preset--font-size--large": "36px",
+  "--wp--preset--font-size--x-large": "42px",
+  "--wp--preset--spacing--20": "0.44rem",
+  "--wp--preset--spacing--30": "0.67rem",
+  "--wp--preset--spacing--40": "1rem",
+  "--wp--preset--spacing--50": "1.5rem",
+  "--wp--preset--spacing--60": "2.25rem",
+  "--wp--preset--spacing--70": "3.38rem",
+  "--wp--preset--spacing--80": "5.06rem",
+  "--wp--preset--shadow--natural": "6px 6px 9px rgba(0, 0, 0, 0.2)",
+  "--wp--preset--shadow--deep": "12px 12px 50px rgba(0, 0, 0, 0.4)",
+  "--wp--preset--shadow--sharp": "6px 6px 0px rgba(0, 0, 0, 0.2)",
+  "--wp--preset--shadow--outlined": "6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1)",
+  "--wp--preset--shadow--crisp": "6px 6px 0px rgba(0, 0, 0, 1)",
+  "--grid-columns": "4",
+  "--grid-gutter": "16px",
+  "--grid-margin": "16px",
+  "--transition-fast": "0.2s",
+  "--transition": "0.4s",
+  "--transition-slow": "0.6s",
+  "--transition-slower": "0.8s",
+  "--transition-slowest": "1s",
+  "--color-text": "#222223",
+  "--color-background": "#fff",
+  "--color-cream": "#f0eeeb",
+  "--color-jade": "#20a556",
+  "--color-jade-dark": "#13733c",
+  "--color-sapphire": "#3e64cf",
+  "--color-wine": "#672b3c",
+  "--color-lavender": "#b5b7d8",
+  "--color-pistachio": "#d5e7b5",
+  "--color-coral": "#e25856",
+  "--header-height": "calc(var(--_button-nav-height)*2)",
+  "--header-area": "calc(var(--header-height) + var(--grid-margin)*2)",
+  "--min-vertical-head-height": "500px",
+  "--min-hero-height": "calc(var(--svh, 1svh)*100)",
+  "--input-padding-left": "1.14286em"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": true,
+  "locomotive": true,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": false,
+  "swup": true,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": false,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": false,
+  "motionOne": false
+ },
+ "media": {
+  "img": 27,
+  "video": 2,
+  "svg": 73,
+  "picture": 27,
+  "iframes": 1
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 0,
+  "clipPath": 4,
+  "sticky": 7,
+  "fixed": [
+   "c-header"
+  ],
+  "customCursor": false,
+  "boxShadows": [],
+  "filters": [],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "5.436px",
+   6
+  ],
+  [
+   "12px",
+   3
+  ],
+  [
+   "9.177px",
+   2
+  ],
+  [
+   "20.619px",
+   1
+  ],
+  [
+   "4px",
+   1
+  ],
+  [
+   "6.9375px",
+   1
+  ],
+  [
+   "2px",
+   1
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgb(34, 34, 35)",
+   81
+  ],
+  [
+   "1px solid rgb(255, 255, 255)",
+   7
+  ],
+  [
+   "1px solid rgba(240, 238, 235, 0.1)",
+   4
+  ]
+ ],
+ "grids": [
+  [
+   "2cols gap 20px",
+   6
+  ],
+  [
+   "2cols gap 24px",
+   2
+  ],
+  [
+   "3cols gap normal",
+   1
+  ],
+  [
+   "12cols gap 20px",
+   1
+  ],
+  [
+   "2cols gap 60px",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "1920px",
+   7
+  ],
+  [
+   "100%",
+   3
+  ],
+  [
+   "800px",
+   1
+  ]
+ ],
+ "sideMargins": [
+  [
+   "32px",
+   8
+  ],
+  [
+   "31px",
+   6
+  ],
+  [
+   "764px",
+   3
+  ],
+  [
+   "749px",
+   2
+  ],
+  [
+   "750px",
+   2
+  ],
+  [
+   "1089px",
+   2
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "",
+   "h": 7465,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "c-listing-properties",
+   "h": 1746,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "NAV",
+  "position": "static",
+  "height": 0,
+  "links": 12,
+  "linkTexts": [
+   "PICK A LOCATION",
+   "The Drake Hotel",
+   "Drake Devonshire",
+   "Drake Motor Inn"
+  ],
+  "bg": "rgba(0, 0, 0, 0)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "PICK A LOCATION",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(34, 34, 35)",
+   "radius": "0px",
+   "pad": "14px 12px",
+   "size": "12px",
+   "weight": "400",
+   "tt": "uppercase",
+   "border": "1px solid rgb(34, 34, 35)",
+   "h": 44
+  },
+  {
+   "text": "MENU",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(34, 34, 35)",
+   "radius": "0px",
+   "pad": "14px 12px",
+   "size": "12px",
+   "weight": "400",
+   "tt": "uppercase",
+   "border": "1px solid rgb(34, 34, 35)",
+   "h": 44
+  },
+  {
+   "text": "BOOK",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(34, 34, 35)",
+   "radius": "0px",
+   "pad": "14px 12px",
+   "size": "12px",
+   "weight": "400",
+   "tt": "uppercase",
+   "border": "1px solid rgb(34, 34, 35)",
+   "h": 44
+  },
+  {
+   "text": "SUBSCRIBE",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(34, 34, 35)",
+   "radius": "2px",
+   "pad": "4px 16px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "none",
+   "h": 36
+  },
+  {
+   "text": "facebook",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(181, 183, 216)",
+   "radius": "0px",
+   "pad": "0px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(255, 255, 255)",
+   "h": 54
+  },
+  {
+   "text": "instagram",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(181, 183, 216)",
+   "radius": "0px",
+   "pad": "0px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(255, 255, 255)",
+   "h": 54
+  },
+  {
+   "text": "linkedin",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(181, 183, 216)",
+   "radius": "0px",
+   "pad": "0px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(255, 255, 255)",
+   "h": 54
+  },
+  {
+   "text": "tiktok",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(181, 183, 216)",
+   "radius": "0px",
+   "pad": "0px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(255, 255, 255)",
+   "h": 54
+  },
+  {
+   "text": "spotify",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(181, 183, 216)",
+   "radius": "0px",
+   "pad": "0px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(255, 255, 255)",
+   "h": 54
+  },
+  {
+   "text": "tripadvisor",
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(181, 183, 216)",
+   "radius": "0px",
+   "pad": "0px",
+   "size": "16px",
+   "weight": "400",
+   "tt": "none",
+   "border": "1px solid rgb(255, 255, 255)",
+   "h": 54
+  }
+ ],
+ "headings": [
+  "Meet The Drake",
+  "Explore Our Locations",
+  "Toronto",
+  "Prince Edward County",
+  "Discover Our Properties",
+  "The Drake Hotel",
+  "Drake Underground",
+  "Drake Devonshire",
+  "Drake Motor Inn",
+  "Take Your Shot Of Art",
+  "What's On",
+  "Wine Tours In The County",
+  "Happy Hour",
+  "Katie Pruitt",
+  "Night Service: Jazz W/ Jesse Maxwell",
+  "Johann",
+  "Night Service: Deep House W/DJ Mason Reeves",
+  "Latest News From Hotbed",
+  "My Shift In 9 With Steph Barton, Front Desk At Drake Devonshire",
+  "Meet Chef Daniel Hyam: The Drake Hotel’s Executive Chef",
+  "The Drake Loves The Nightlife",
+  "Polaris Music Prize 2026 Afterparty: The Drake Hotel Toronto",
+  "Fall Festivals + Things To Do In Prince Edward County",
+  "Celebration Dining At The Drake Hotel: You Throw The Party, We’ll Handle The House",
+  "In The Green Room With: Carmen Elle Of Army Girls On Toronto Indie Music"
+ ],
+ "paras": [
+  "Please select a valid check-in and check-out date.",
+  "You must check this box to proceed.",
+  "Located in the heart of Toronto and Prince Edward County, Drake Hotel Properties are boutique hotels that blend culture, community, and hospitality for curious travellers who like to keep things interesting. The Drake is",
+  "From Toronto’s vibrant urban core to the scenic charm of Prince Edward County, The Drake’s properties are embedded in storied, character-rich neighbourhoods — offering a one-of-a-kind escape that feels both rooted and re",
+  "IN THE HEARTBEAT OF TORONTO — JUST STEPS FROM MAJOR ATTRACTIONS, VENUES, AND THE ENERGY OF THE DOWNTOWN CORE — THE DRAKE STANDS AS A BEACON OF CREATIVITY AND CULTURE. LOCATED ON DYNAMIC QUEEN STREET WEST, THE HOTEL BRING",
+  "SET ALONG THE PICTURESQUE SHORES OF LAKE ONTARIO IN BUCOLIC PRINCE EDWARD COUNTY, DRAKE DEVONSHIRE IS A REFINED RETREAT WHERE ART, DESIGN, FOOD + WINE, AND HOSPITALITY INTERSECT. WITH SWEEPING WATERFRONT VIEWS, LOCALLY I",
+  "Drake Art is everywhere. From guest rooms to dining spaces, our rotating collection transforms every available corner — wall, nook, or hallway — into a pop-up gallery.",
+  "READY FOR A HANDPICKED ADVENTURE THROUGH PEC'S BEST WINERIES?",
+  "EVERY DAY 4-6PM: $13 COCKTAILS + 30% OFF OUR FAVOURITE DRAKE PLATES",
+  "KATIE PRUITT LIVE AT DRAKE UNDERGROUND."
+ ],
+ "footer": {
+  "h": 66,
+  "text": "VIEW View Wine Tours in The County"
+ },
+ "jsMotion": {
+  "scriptsFetched": 21,
+  "gsapEases": [
+   [
+    "none",
+    1
+   ]
+  ],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "0",
+    3
+   ],
+   [
+    ".5",
+    1
+   ]
+  ],
+  "staggers": [
+   [
+    "0",
+    2
+   ]
+  ],
+  "lenis": [
+   [
+    "smoothWheel:n",
+    2
+   ]
+  ],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

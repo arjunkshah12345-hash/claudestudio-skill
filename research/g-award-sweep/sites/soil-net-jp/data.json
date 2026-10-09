@@ -1,0 +1,789 @@
+{
+ "url": "https://soil-net.jp",
+ "slug": "soil-net-jp",
+ "analyzedAt": "2026-10-07T10:00:47.487Z",
+ "scrollHeight": 12730,
+ "pageLengthInViewports": 14.1,
+ "title": "SOIL",
+ "metaDescription": "SOIL is a JPASN project dedicated to bringing Japanese theater to the world. We serve as the liaison for contracts and communications with international partners and actively promote the participation of Japanese productions in overseas theater festivals.",
+ "lang": "en",
+ "type": {
+  "loadedFonts": [
+   "akzidenz-grotesk-next-pro 500 normal",
+   "akzidenz-grotesk-next-pro 700 normal",
+   "SeasonMix 500 normal",
+   "SeasonMix 600 normal",
+   "heisei-kaku-gothic-std 500 normal",
+   "heisei-kaku-gothic-std 700 normal",
+   "source-han-serif-japanese 700 normal",
+   "dnp-shuei-gothic-gin-std 600 normal",
+   "dnp-shuei-mincho-pr6 600 normal"
+  ],
+  "families": [
+   [
+    "akzidenz-grotesk-next-pro",
+    285
+   ],
+   [
+    "SeasonMix",
+    29
+   ]
+  ],
+  "sizes": [
+   [
+    "18px",
+    137
+   ],
+   [
+    "14px",
+    103
+   ],
+   [
+    "20px",
+    27
+   ],
+   [
+    "84px",
+    16
+   ],
+   [
+    "16px",
+    10
+   ],
+   [
+    "54px",
+    8
+   ],
+   [
+    "50px",
+    8
+   ],
+   [
+    "60px",
+    4
+   ],
+   [
+    "140px",
+    1
+   ]
+  ],
+  "weights": [
+   [
+    "500",
+    153
+   ],
+   [
+    "700",
+    149
+   ],
+   [
+    "600",
+    12
+   ]
+  ],
+  "letterSpacings": [
+   [
+    "-0.030em@18",
+    137
+   ],
+   [
+    "normal",
+    90
+   ],
+   [
+    "-0.030em@20",
+    27
+   ],
+   [
+    "-0.030em@14",
+    26
+   ],
+   [
+    "-0.040em@84",
+    16
+   ],
+   [
+    "-0.040em@50",
+    8
+   ],
+   [
+    "-0.040em@54",
+    4
+   ],
+   [
+    "-0.030em@60",
+    4
+   ],
+   [
+    "-0.030em@16",
+    1
+   ],
+   [
+    "-0.040em@140",
+    1
+   ]
+  ],
+  "uppercaseShare": 0.09,
+  "largest": [
+   {
+    "tag": "p",
+    "text": "CONTACT",
+    "family": "SeasonMix",
+    "size": "139.997px",
+    "weight": "500",
+    "lh": "139.997px",
+    "ls": "-5.59987px",
+    "tt": "none",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "div",
+    "text": "THIS YEAR'S",
+    "family": "SeasonMix",
+    "size": "83.9952px",
+    "weight": "500",
+    "lh": "83.9952px",
+    "ls": "-3.35981px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(28, 29, 30)"
+   },
+   {
+    "tag": "div",
+    "text": "LINEUP : DEAL DESK",
+    "family": "SeasonMix",
+    "size": "83.9952px",
+    "weight": "500",
+    "lh": "83.9952px",
+    "ls": "-3.35981px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(28, 29, 30)"
+   },
+   {
+    "tag": "div",
+    "text": "OPEN",
+    "family": "SeasonMix",
+    "size": "83.9952px",
+    "weight": "500",
+    "lh": "83.9952px",
+    "ls": "-3.35981px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(28, 29, 30)"
+   },
+   {
+    "tag": "div",
+    "text": "RECENT",
+    "family": "SeasonMix",
+    "size": "83.9952px",
+    "weight": "500",
+    "lh": "83.9952px",
+    "ls": "-3.35981px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(28, 29, 30)"
+   },
+   {
+    "tag": "div",
+    "text": "GLOBAL UPDATES",
+    "family": "SeasonMix",
+    "size": "83.9952px",
+    "weight": "500",
+    "lh": "83.9952px",
+    "ls": "-3.35981px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(28, 29, 30)"
+   },
+   {
+    "tag": "div",
+    "text": "BRINGING",
+    "family": "SeasonMix",
+    "size": "83.9952px",
+    "weight": "500",
+    "lh": "83.9952px",
+    "ls": "-3.35981px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(28, 29, 30)"
+   },
+   {
+    "tag": "div",
+    "text": "YOU THE LATEST",
+    "family": "SeasonMix",
+    "size": "83.9952px",
+    "weight": "500",
+    "lh": "83.9952px",
+    "ls": "-3.35981px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(28, 29, 30)"
+   },
+   {
+    "tag": "div",
+    "text": "UPDATES",
+    "family": "SeasonMix",
+    "size": "83.9952px",
+    "weight": "500",
+    "lh": "83.9952px",
+    "ls": "-3.35981px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(28, 29, 30)"
+   },
+   {
+    "tag": "div",
+    "text": "BREAKING",
+    "family": "SeasonMix",
+    "size": "83.9952px",
+    "weight": "500",
+    "lh": "83.9952px",
+    "ls": "-3.35981px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "div",
+    "text": "BARRIERS,",
+    "family": "SeasonMix",
+    "size": "83.9952px",
+    "weight": "500",
+    "lh": "83.9952px",
+    "ls": "-3.35981px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "tag": "div",
+    "text": "JAPANESE",
+    "family": "SeasonMix",
+    "size": "83.9952px",
+    "weight": "500",
+    "lh": "83.9952px",
+    "ls": "-3.35981px",
+    "tt": "uppercase",
+    "style": "normal",
+    "color": "rgb(255, 255, 255)"
+   }
+  ]
+ },
+ "color": {
+  "bodyBg": "rgba(0, 0, 0, 0)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "text": [
+   [
+    "rgb(28, 29, 30)",
+    221
+   ],
+   [
+    "rgb(255, 255, 255)",
+    93
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(28, 29, 30)",
+    191
+   ],
+   [
+    "rgb(255, 255, 255)",
+    38
+   ],
+   [
+    "rgb(180, 183, 187)",
+    3
+   ]
+  ],
+  "gradients": [
+   [
+    "linear-gradient(rgb(28, 29, 30), rgb(28, 29, 30))",
+    10
+   ]
+  ]
+ },
+ "motion": {
+  "cubicBeziers": [
+   [
+    "cubic-bezier(0.16,1,0.3,1)",
+    2
+   ],
+   [
+    "cubic-bezier(0.33,1,0.68,1)",
+    1
+   ],
+   [
+    "cubic-bezier(.16,1,.3,1)",
+    1
+   ],
+   [
+    "cubic-bezier(0.19,1,0.22,1)",
+    1
+   ]
+  ],
+  "durations": [
+   [
+    "1ms",
+    5
+   ],
+   [
+    "0.3s",
+    5
+   ],
+   [
+    "0.8s",
+    2
+   ],
+   [
+    "0.9s",
+    1
+   ],
+   [
+    "4s",
+    1
+   ],
+   [
+    "0.4s",
+    1
+   ],
+   [
+    "1.2s",
+    1
+   ],
+   [
+    "0.6s",
+    1
+   ],
+   [
+    ".01s",
+    1
+   ]
+  ],
+  "keyframes": [
+   "fadeIn",
+   "fadeOut",
+   "fadeInUp",
+   "fadeInSlide",
+   "slideLeft",
+   "lineShow",
+   "lineHide",
+   "clipIn",
+   "clipOut",
+   "blink",
+   "loop",
+   "scaleIn",
+   "arrowR",
+   "arrowRIn",
+   "arrowL",
+   "arrowLIn"
+  ]
+ },
+ "cssVarSample": {
+  "--win-height": "100vh",
+  "--scroll-bar": "0px",
+  "--header-height": "calc(9.7435897436vw + 6px)",
+  "--slide-ease": "cubic-bezier(0.33, 1, 0.68, 1)",
+  "--base-ease": "cubic-bezier(.16,1,.3,1)",
+  "--base-duration": "0.8s",
+  "--color-black": "#1C1D1E",
+  "--color-white": "#fff",
+  "--color-gray": "#B4B7BB",
+  "--color-red": "#FF0000",
+  "--line-gap": "7.1794871795vw",
+  "--icon-check": "url(data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTggMTgiIHhtbG5zPSJodHRwOi",
+  "--icon-agree": "url(data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYgMTYiIHhtbG5zPSJodHRwOi"
+ },
+ "libs": {
+  "gsap": false,
+  "scrollTrigger": false,
+  "lenis": true,
+  "locomotive": false,
+  "three": false,
+  "webglCanvas": 0,
+  "canvases": 0,
+  "barba": false,
+  "swup": false,
+  "framer": false,
+  "webflow": false,
+  "next": false,
+  "nuxt": false,
+  "astro": false,
+  "sveltekit": false,
+  "shopify": false,
+  "splitText": true,
+  "rive": false,
+  "lottie": false,
+  "spline": false,
+  "r3f": false,
+  "ogl": false,
+  "theatre": true,
+  "motionOne": false
+ },
+ "media": {
+  "img": 41,
+  "video": 4,
+  "svg": 31,
+  "picture": 16,
+  "iframes": 2
+ },
+ "effects": {
+  "mixBlend": [],
+  "backdropFilter": 0,
+  "clipPath": 22,
+  "sticky": 8,
+  "fixed": [
+   "js-header top-0 inset-x-0 z-9 px-11ptvw md:px-20ptvw-xl bg-w"
+  ],
+  "customCursor": false,
+  "boxShadows": [],
+  "filters": [],
+  "transforms3d": 0,
+  "noiseOrGrain": false,
+  "textStroke": 0,
+  "backgroundClipText": 0
+ },
+ "radii": [
+  [
+   "2px",
+   6
+  ],
+  [
+   "4px",
+   1
+  ],
+  [
+   "3px",
+   1
+  ]
+ ],
+ "borders": [
+  [
+   "1px solid rgb(255, 255, 255)",
+   12
+  ],
+  [
+   "1px solid rgb(28, 29, 30)",
+   2
+  ],
+  [
+   "10px solid rgb(28, 29, 30)",
+   1
+  ]
+ ],
+ "grids": [
+  [
+   "4cols gap 0.9285%",
+   1
+  ]
+ ],
+ "containers": [
+  [
+   "1164px",
+   2
+  ]
+ ],
+ "sideMargins": [
+  [
+   "20px",
+   38
+  ],
+  [
+   "19px",
+   10
+  ],
+  [
+   "820px",
+   8
+  ],
+  [
+   "199px",
+   8
+  ],
+  [
+   "910px",
+   8
+  ],
+  [
+   "733px",
+   4
+  ]
+ ],
+ "sections": [
+  {
+   "cls": "pt-38ptvw md:pt-38ptvw-xl px-10ptvw md:px-20ptvw-x",
+   "h": 883,
+   "padTop": "37.9872px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "px-10ptvw md:px-20ptvw-xl l-contents",
+   "h": 5544,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "js-sticky-area__itemBody max-md:flex-col flex item",
+   "h": 537,
+   "padTop": "5.9904px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "js-sticky-area__itemBody max-md:flex-col flex item",
+   "h": 537,
+   "padTop": "5.9904px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "js-sticky-area__itemBody max-md:flex-col flex item",
+   "h": 537,
+   "padTop": "5.9904px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "js-sticky-area__itemBody max-md:flex-col flex item",
+   "h": 537,
+   "padTop": "5.9904px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "js-sticky-area__itemBody max-md:flex-col flex item",
+   "h": 537,
+   "padTop": "5.9904px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "js-sticky-area__itemBody max-md:flex-col flex item",
+   "h": 537,
+   "padTop": "5.9904px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "js-sticky-area__itemBody max-md:flex-col flex item",
+   "h": 536,
+   "padTop": "5.9904px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "js-sticky-area__itemBody max-md:flex-col flex item",
+   "h": 537,
+   "padTop": "5.9904px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "px-10ptvw md:px-20ptvw-xl l-contents",
+   "h": 1271,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "px-10ptvw md:px-20ptvw-xl l-contents",
+   "h": 831,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "bg-black text-white pt-10ptvw pb-80ptvw mt-100ptvw",
+   "h": 2661,
+   "padTop": "99.9936px",
+   "bg": "rgb(28, 29, 30)"
+  },
+  {
+   "cls": "px-10ptvw md:px-20ptvw-xl l-contents",
+   "h": 1352,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "cls": "px-10ptvw md:px-20ptvw-xl l-contents",
+   "h": 849,
+   "padTop": "0px",
+   "bg": "rgba(0, 0, 0, 0)"
+  }
+ ],
+ "nav": {
+  "tag": "HEADER",
+  "position": "fixed",
+  "height": 38,
+  "links": 6,
+  "linkTexts": [
+   "HOME:",
+   "WORKS",
+   "JOURNAL",
+   "NEWS",
+   "ABOUT",
+   "CONTACT",
+   "MENU"
+  ],
+  "bg": "rgb(255, 255, 255)",
+  "mixBlend": "normal"
+ },
+ "ctas": [
+  {
+   "text": "1. THE LIFE OF HOKUSAI",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(28, 29, 30)",
+   "radius": "0px",
+   "pad": "0px",
+   "size": "16px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 32
+  },
+  {
+   "text": "2. HAMLET",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(28, 29, 30)",
+   "radius": "0px",
+   "pad": "0px",
+   "size": "16px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 32
+  },
+  {
+   "text": "3. ATTACK ON TITAN : THE MUSICAL",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(28, 29, 30)",
+   "radius": "0px",
+   "pad": "0px",
+   "size": "16px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 32
+  },
+  {
+   "text": "4. ORB: ON THE MOVEMENTS OF THE EARTH",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(28, 29, 30)",
+   "radius": "0px",
+   "pad": "0px",
+   "size": "16px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 32
+  },
+  {
+   "text": "5. SPRING, SUMMER, AUTUMN AND WINTER",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(28, 29, 30)",
+   "radius": "0px",
+   "pad": "0px",
+   "size": "16px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 32
+  },
+  {
+   "text": "6. CAT TOWN",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(28, 29, 30)",
+   "radius": "0px",
+   "pad": "0px",
+   "size": "16px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 32
+  },
+  {
+   "text": "7. THE BOY AND THE BEAST",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(28, 29, 30)",
+   "radius": "0px",
+   "pad": "0px",
+   "size": "16px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 32
+  },
+  {
+   "text": "8. TALES OF THE ELSEWHERE ISLANDS",
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(28, 29, 30)",
+   "radius": "0px",
+   "pad": "0px",
+   "size": "16px",
+   "weight": "500",
+   "tt": "none",
+   "border": "none",
+   "h": 32
+  }
+ ],
+ "headings": [
+  "SOIL",
+  "WORKS:",
+  "This Year's LINEUP : DEAL DESK OPEN",
+  "THE LIFE OF HOKUSAI",
+  "HAMLET",
+  "ATTACK ON TITAN : THE MUSICAL",
+  "ORB: ON THE MOVEMENTS OF THE EARTH",
+  "SPRING, SUMMER, AUTUMN AND WINTER",
+  "CAT TOWN",
+  "THE BOY AND THE BEAST",
+  "TALES OF THE ELSEWHERE ISLANDS",
+  "JOURNAL:",
+  "RECENT GLOBAL UPDATES",
+  "NEWS:",
+  "Bringing You The Latest Updates",
+  "ABOUT:",
+  "Breaking Barriers, Bringing Japanese Theater To The World",
+  "Rooted in Japan, Ready for Your Stage.",
+  "CONTACT:",
+  "Reach Out to Us"
+ ],
+ "paras": [
+  "SOIL has been selected for the Cultural and Artistic Activity Infrastructure Enhancement Fund’s “Creator Development & Cultural Facility Value Enhancement Support Program (Creator Development Project Support).” This init",
+  "ZEROKO MONONOME re-creation version",
+  "Musical “In This Corner of the World”",
+  "ORB: ON THE MOVEMENTS OF THE EARTH",
+  "SPRING, SUMMER, AUTUMN AND WINTER",
+  "Non-verbal stage performance / Physical theater / Dance / Digital projection live performance",
+  "Available for international touring productions, festivals, and domestic and international stagings. Performances are possible provided that a suitable performance period can be scheduled and arrangements for the cast's ",
+  "SPAC-Shizuoka Performing Arts Center",
+  "Possible performance periods: June to August, January to March Production: SPAC – Shizuoka Performing Arts Center",
+  "Open for discussion on production possibilities and licensing"
+ ],
+ "footer": {
+  "h": 900,
+  "text": "1. HOME 2. WORKS 3. JOURNAL 4. NEWS 5. ABOUT 6. CONTACT This initiative, led by Japan Performing Arts Solidarity Network (JPASN), aims to promote Japanese performing arts productions internationally, supported by Japan Creator Support Fund. JPASN Open in new tab note Open in new tab Privacy Policy C"
+ },
+ "jsMotion": {
+  "scriptsFetched": 6,
+  "gsapEases": [],
+  "customEaseDefs": [],
+  "durations": [
+   [
+    "400",
+    1
+   ],
+   [
+    ".4",
+    1
+   ]
+  ],
+  "staggers": [],
+  "lenis": [
+   [
+    "smoothWheel:n",
+    2
+   ],
+   [
+    "wheelMultiplier:1",
+    1
+   ]
+  ],
+  "springs": [],
+  "scrollTriggerStarts": [],
+  "splitTypes": [],
+  "bezierArrays": []
+ }
+}

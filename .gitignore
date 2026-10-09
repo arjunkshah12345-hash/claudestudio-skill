@@ -4,3 +4,10 @@ audit/
 .audit/
 _site/
 *.log
+launch/videos/*/renders/
+launch/videos/*/snapshots/
+launch/videos/*/.hyperframes/
+launch/videos/*/.media/
+launch/videos/*/node_modules/
+launch/videos/*/.thumbnails/
+launch/videos/*/.waveform-cache/

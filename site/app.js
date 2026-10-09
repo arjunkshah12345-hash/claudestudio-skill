@@ -84,8 +84,9 @@ if (film) {
     film.hidden = false;
     const v = film.querySelector('[data-film-video]'); const t = film.querySelector('[data-film-toggle]');
     t.addEventListener('click', () => {
-      if (v.paused) { v.muted = false; v.play(); t.innerHTML = 'Pause <span aria-hidden="true">❚❚</span>'; t.setAttribute('aria-label', 'Pause launch film'); }
-      else { v.pause(); t.innerHTML = 'Play film <span aria-hidden="true">▶</span>'; t.setAttribute('aria-label', 'Play launch film'); }
+      const label = t.querySelector('[data-film-label]');
+      if (v.paused) { v.muted = false; v.play(); label.textContent = 'Pause'; t.classList.add('is-playing'); t.setAttribute('aria-label', 'Pause launch film'); }
+      else { v.pause(); label.textContent = 'Play film'; t.classList.remove('is-playing'); t.setAttribute('aria-label', 'Play launch film'); }
     });
   }).catch(() => {});
 }

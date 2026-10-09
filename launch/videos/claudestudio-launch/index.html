@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1920, height=1080">
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+<style>
+@font-face{font-family:"Bricolage Grotesque";src:url("assets/fonts/bricolage.woff2") format("woff2");font-weight:200 800;font-stretch:75% 100%;font-display:block}
+@font-face{font-family:"JetBrains Mono";src:url("assets/fonts/jbmono.woff2") format("woff2");font-weight:100 800;font-display:block}
+
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{margin:0;width:1920px;height:1080px;overflow:hidden;background:#FCFCFB}
+#root{width:100%;height:100%;position:relative;overflow:hidden;background:#FCFCFB;color:#121211;
+  font-family:"Bricolage Grotesque",sans-serif;font-variation-settings:"opsz" 96;-webkit-font-smoothing:antialiased}
+.scene{position:absolute;inset:0;overflow:hidden;background:#FCFCFB}
+.mono{font-family:"JetBrains Mono",monospace;font-variation-settings:normal}
+.red{color:#C42617}
+.dim{color:rgb(18 18 17 / .55)}
+
+/* ---------- 01 Claude Code */
+#s1{background:#151514;color:#E8E6DF;font-family:"JetBrains Mono",monospace;font-variation-settings:normal}
+#s1 .ccbar{position:absolute;left:0;top:0;right:0;height:52px;background:#1F1F1D;border-bottom:1px solid #2C2C29;display:flex;align-items:center;gap:10px;padding-left:22px}
+#s1 .ccbar i{display:block;width:14px;height:14px;border-radius:50%}
+#s1 .ccbar i:nth-child(1){background:#FF5F57}#s1 .ccbar i:nth-child(2){background:#FEBC2E}#s1 .ccbar i:nth-child(3){background:#28C840}
+#s1 .ccbar span{position:absolute;left:0;right:0;text-align:center;font-size:18px;color:#8C8A83}
+#s1 .o{color:#D97757}
+#s1 .d{color:#8C8A83}
+#s1 .g{color:#5FB97D}
+#s1 .welcome{position:absolute;left:96px;top:110px;width:1010px;padding:26px 34px;border:2px solid #D97757;border-radius:14px;font-size:30px;line-height:1.5}
+#s1 .welcome b{font-weight:500;color:#F3F1EA}
+#s1 .welcome .gap{height:18px}
+#s1 .ln{position:absolute;left:96px;font-size:31px;line-height:1.3;white-space:pre}
+#s1 .star{display:inline-block;width:22px;text-align:center}
+#s1 .cc-wrap{position:absolute;left:0;top:0;width:1477px;height:830px;transform:scale(1.3);transform-origin:0 0}
+#s1 .input{position:absolute;left:96px;top:370px;width:1300px;height:80px;border:2px solid #4A4944;border-radius:12px;display:flex;align-items:center;gap:20px;padding:0 26px;font-size:31px}
+#s1 .typed{display:block;overflow:hidden;width:0;white-space:nowrap;line-height:1.3;color:#F3F1EA}
+#s1 .caret{display:block;width:16px;height:36px;background:#E8E6DF}
+#s1 .hint{position:absolute;left:0;top:96px;font-size:22px;white-space:nowrap}
+/* ---------- 02/03 the default, measured and fixed */
+#s2 .win{position:absolute;left:150px;top:96px;width:1360px;height:860px;border-radius:14px;overflow:hidden;background:#FFFFFF;
+  box-shadow:0 0 0 1px rgb(0 0 0 / .1),0 40px 80px -30px rgb(0 0 0 / .25)}
+#s2 .bar{position:absolute;left:0;top:0;right:0;height:44px;background:#F3F3F1;border-bottom:1px solid rgb(0 0 0 / .08);display:flex;align-items:center;gap:8px;padding-left:18px}
+#s2 .bar i{display:block;width:12px;height:12px;border-radius:50%;background:rgb(0 0 0 / .14)}
+#s2 .bar span{margin-left:auto;margin-right:auto;font:400 15px/1 "JetBrains Mono",monospace;color:rgb(18 18 17 / .66);transform:translateX(-40px)}
+#s2 .page{position:absolute;left:0;top:44px;width:1360px;height:816px;overflow:hidden}
+#s2 .blob{position:absolute;left:280px;top:-120px;width:820px;height:560px;border-radius:50%;
+  background:radial-gradient(closest-side at 35% 45%,#A855F7,transparent),radial-gradient(closest-side at 65% 55%,#3B82F6,transparent),radial-gradient(closest-side at 50% 30%,#EC4899,transparent);filter:blur(50px);opacity:.75}
+#s2 .snav{position:absolute;left:48px;right:48px;top:26px;display:flex;align-items:center;gap:36px;font-size:20px;font-weight:500}
+#s2 .snav b{font-weight:800;font-size:26px;margin-right:auto}
+#s2 .snav em{font-style:normal;background:#7C3AED;color:#fff;padding:10px 20px;border-radius:999px;font-size:18px;font-weight:700}
+#s2 .badge{position:absolute;left:0;right:0;top:122px;display:flex;justify-content:center}
+#s2 .badge span{display:block;padding:8px 18px;border-radius:999px;background:rgb(124 58 237 / .12);color:#6D28D9;font-size:19px;font-weight:600}
+#s2 .h-slop{position:absolute;left:130px;width:1100px;top:184px;text-align:center;font-size:84px;line-height:1.04;color:#0A0A0A;
+  font-variation-settings:"wght" 800,"opsz" 96;letter-spacing:0em}
+#s2 .h-tight{letter-spacing:-.045em;font-variation-settings:"wght" 420,"opsz" 96}
+#s2 .g2{filter:saturate(0) brightness(.25)}
+#s2 .grad{background:linear-gradient(90deg,#7C3AED,#2563EB 60%,#EC4899);-webkit-background-clip:text;background-clip:text;color:transparent}
+#s2 .h-fix{position:absolute;left:96px;top:176px;width:760px;font-size:92px;line-height:.98;letter-spacing:-.045em;color:#121211;font-variation-settings:"wght" 420,"opsz" 96}
+#s2 .s-slop{position:absolute;left:280px;width:800px;top:376px;text-align:center;font-size:24px;line-height:1.4;color:#6B7280;font-weight:400}
+#s2 .s-fix{position:absolute;left:96px;top:392px;width:640px;font-size:25px;line-height:1.4;color:rgb(18 18 17 / .62);font-weight:400}
+#s2 .btns{position:absolute;left:96px;top:486px;display:flex;gap:16px;height:60px}
+#s2 .btn{display:flex;align-items:center;height:60px;padding:0 30px;border-radius:999px;font-size:21px;font-weight:700;white-space:nowrap;overflow:hidden}
+#s2 .b1{background:#7C3AED;color:#fff}
+#s2 .b2{box-shadow:inset 0 0 0 2px #2563EB;color:#2563EB}
+#s2 .b3{background:#E5E7EB;color:#374151}
+#s2 .cards{position:absolute;left:96px;top:600px;width:1168px;display:flex;gap:24px}
+#s2 .card{flex:1;height:180px;padding:26px;border-radius:22px;background:#fff;box-shadow:0 18px 40px -16px rgb(76 29 149 / .35),0 0 0 1px rgb(0 0 0 / .05);position:relative}
+#s2 .ico{display:block;width:54px;height:54px;border-radius:14px}
+#s2 .card:nth-child(1) .ico{background:linear-gradient(135deg,#A855F7,#6366F1)}
+#s2 .card:nth-child(2) .ico{background:linear-gradient(135deg,#EC4899,#F97316)}
+#s2 .card:nth-child(3) .ico{background:linear-gradient(135deg,#14B8A6,#3B82F6)}
+#s2 .num{position:absolute;left:26px;top:26px;font:400 22px/1 "JetBrains Mono",monospace;color:#C42617;opacity:0}
+#s2 .card p{margin-top:18px;font-size:24px;font-weight:700;letter-spacing:-.01em}
+#s2 .card small{display:block;margin-top:8px;font-size:17px;color:#6B7280;font-weight:400}
+
+#s2 .leaders{position:absolute;left:0;top:0;width:1920px;height:1080px;pointer-events:none}
+#s2 .leaders line{stroke:#E8321F;stroke-width:2;stroke-dasharray:var(--len);stroke-dashoffset:var(--len)}
+#s2 .leaders circle{fill:#E8321F}
+#s2 .tags{position:absolute;left:1545px;top:250px;width:345px;display:flex;flex-direction:column;gap:18px}
+#s2 .tag{position:relative;height:58px;display:flex;align-items:center;gap:16px;padding:0 20px;background:#FCFCFB;
+  box-shadow:inset 3px 0 0 #E8321F,0 0 0 1px rgb(232 50 31 / .35);font:400 22px/1 "JetBrains Mono",monospace;overflow:hidden}
+#s2 .tag .k{color:rgb(18 18 17 / .6);width:120px}
+#s2 .tag .roll{position:relative;display:block;height:58px;width:170px}
+#s2 .tag .v{position:absolute;left:0;top:0;height:58px;display:flex;align-items:center;white-space:nowrap}
+#s2 .tag .old{color:#C42617;text-decoration:line-through;text-decoration-thickness:2px}
+#s2 .tag .new{color:#121211}
+#s2 .cap{position:absolute;left:150px;top:990px;font:400 26px/1 "JetBrains Mono",monospace;white-space:nowrap}
+
+/* ---------- 04 title */
+#s4 .title{position:absolute;left:150px;top:200px;font-size:300px;line-height:.86;letter-spacing:-.055em;font-variation-settings:"wght" 400,"opsz" 96}
+#s4 .line{display:block;overflow:hidden;padding-bottom:.16em;margin-bottom:-.16em}
+#s4 .line span{display:block}
+#s4 .rl{position:absolute;background:#E8321F}
+#s4 .rl-w{left:150px;top:150px;height:2px;width:1130px;transform-origin:left}
+#s4 .rl-w::before,#s4 .rl-w::after{content:"";position:absolute;top:-8px;width:2px;height:18px;background:#E8321F}
+#s4 .rl-w::before{left:0}#s4 .rl-w::after{right:0}
+#s4 .guide{position:absolute;left:110px;width:1290px;height:0;border-top:2px dashed rgb(232 50 31 / .6);transform-origin:left}
+#s4 .rl-v{left:1360px;width:2px;transform-origin:top}
+#s4 .rl-v::before,#s4 .rl-v::after{content:"";position:absolute;left:-8px;height:2px;width:18px;background:#E8321F}
+#s4 .rl-v::before{top:0}#s4 .rl-v::after{bottom:0}
+#s4 .t{position:absolute;font:400 24px/1 "JetBrains Mono",monospace;color:#C42617;background:#FCFCFB;padding:4px 8px;white-space:nowrap}
+#s4 .sub{position:absolute;left:156px;top:930px;font:400 30px/1 "JetBrains Mono",monospace;color:rgb(18 18 17 / .6);white-space:nowrap}
+
+/* ---------- 05 evidence */
+#s5 .stats{position:absolute;left:150px;right:150px;top:260px;display:grid;grid-template-columns:1fr 1fr 1.35fr;border-top:2px solid #121211}
+#s5 .stat{padding-top:28px;padding-right:40px}
+#s5 .stat + .stat{padding-left:40px;border-left:1px solid rgb(18 18 17 / .15)}
+#s5 .stat p{font:400 26px/1.25 "JetBrains Mono",monospace;color:rgb(18 18 17 / .6);height:66px}
+#s5 .n{display:block;margin-top:40px;font-size:230px;line-height:.86;letter-spacing:-.05em;font-variation-settings:"wght" 400,"opsz" 96;font-variant-numeric:tabular-nums}
+#s5 .ticker{position:absolute;left:0;top:860px;white-space:nowrap;font:400 34px/1 "JetBrains Mono",monospace;color:rgb(18 18 17 / .45)}
+#s5 .ticker b{font-weight:400;color:#121211}
+
+/* ---------- 06 range */
+#s6 .kick{position:absolute;left:276px;top:62px;font:400 28px/1 "JetBrains Mono",monospace;color:rgb(18 18 17 / .6);white-space:nowrap}
+#s6 .shot{position:absolute;width:440px;height:275px;border-radius:8px;overflow:hidden;box-shadow:0 0 0 1px rgb(0 0 0 / .1),0 30px 60px -30px rgb(0 0 0 / .35);background:#eee}
+#s6 .shot img{display:block;width:100%;height:100%;object-fit:cover;object-position:top}
+#s6 .chip{position:absolute;left:240px;top:1004px;display:flex;gap:18px;align-items:center;font:400 30px/1 "JetBrains Mono",monospace;white-space:nowrap}
+#s6 .chip b{font-weight:500;color:#121211}
+#s6 .chip span{color:#C42617}
+#s6 .chips{position:absolute;left:0;top:0;width:1920px;height:1080px}
+#s6 .chips .chip{opacity:0}
+
+/* ---------- 07 method */
+#s7 .steps{position:absolute;left:150px;top:250px;display:flex;flex-direction:column;gap:6px}
+#s7 .st{display:flex;align-items:baseline;gap:28px;font-size:92px;line-height:1.02;letter-spacing:-.045em;font-variation-settings:"wght" 400,"opsz" 96}
+#s7 .st i{font:400 26px/1 "JetBrains Mono",monospace;font-style:normal;color:#C42617;width:44px}
+#s7 .term{position:absolute;left:1000px;top:270px;width:780px;height:520px;border-radius:14px;background:#161615;color:#EDEDEA;padding:40px 44px;
+  font:400 26px/1.9 "JetBrains Mono",monospace;box-shadow:0 40px 80px -30px rgb(0 0 0 / .35)}
+#s7 .term p{white-space:nowrap}
+#s7 .term .g{color:#8FD694}
+#s7 .term .d{color:rgb(237 237 234 / .5)}
+#s7 .term .sum{margin-top:14px;padding-top:14px;border-top:1px solid rgb(255 255 255 / .12);color:#FFFFFF}
+
+/* ---------- 08 install */
+#s8 .word{position:absolute;left:150px;top:250px;font-size:220px;line-height:.9;letter-spacing:-.055em;font-variation-settings:"wght" 400,"opsz" 96}
+#s8 .word .wl{display:block;overflow:hidden;padding-bottom:.2em}
+#s8 .word .wl span{display:block}
+#s8 .cmd{position:absolute;left:150px;top:600px;width:1620px;height:120px;border-radius:14px;background:#FFFFFF;
+  box-shadow:0 0 0 2px rgb(18 18 17 / .14),0 30px 60px -30px rgb(0 0 0 / .2);display:flex;align-items:center;padding:0 44px;gap:28px;
+  font:400 40px/1 "JetBrains Mono",monospace;white-space:nowrap}
+#s8 .cmd .p{color:#E8321F}
+#s8 .cmd .ty{display:block;overflow:hidden;width:0;white-space:nowrap;line-height:1.3}
+#s8 .cmd .caret{display:block;width:4px;height:56px;background:#121211}
+#s8 .url{position:absolute;left:156px;top:780px;font:400 30px/1 "JetBrains Mono",monospace;color:rgb(18 18 17 / .6);white-space:nowrap}
+#s8 .ruler{position:absolute;left:0;top:1000px;width:1920px;height:30px;border-top:2px solid #E8321F;transform-origin:left;
+  background:linear-gradient(to right,#E8321F 2px,transparent 2px) 0 0/96px 18px repeat-x,linear-gradient(to right,rgb(232 50 31 / .55) 1px,transparent 1px) 0 0/12px 9px repeat-x}
+#s8 .vw{position:absolute;right:150px;top:1044px;font:400 22px/1 "JetBrains Mono",monospace;color:#C42617}
+</style>
+</head>
+<body>
+<div data-hf-id="hf-la9c" id="root" data-composition-id="main" data-start="0" data-duration="39.8" data-width="1920" data-height="1080">
+
+  <!-- 01 PROMPT -->
+  <section data-hf-id="hf-v76r" id="s1" class="scene clip" data-start="0" data-duration="2.6" data-track-index="0">
+    <div class="ccbar"><i></i><i></i><i></i><span>flowai — claude — 160×44</span></div>
+    <div class="cc-wrap">
+    <div class="welcome"><p><span class="o">✻</span> <b>Welcome to Claude Code!</b></p><div class="gap"></div><p class="d">  /help for help, /status for your current setup</p><div class="gap"></div><p class="d">  cwd: /Users/you/flowai</p></div>
+    <p class="ln d" id="cc-you" style="top:380px">&gt; build me a landing page</p>
+    <p class="ln" id="cc-think" style="top:450px"><span class="o star" id="cc-star">✻</span> <span class="o">Crafting…</span> <span class="d">(esc to interrupt)</span></p>
+    <p class="ln" id="cc-l1" style="top:450px"><span class="g">⏺</span> Write(index.html)</p>
+    <p class="ln d" id="cc-l2" style="top:494px">  ⎿  Wrote 214 lines to index.html</p>
+    <p class="ln" id="cc-l3" style="top:560px">⏺ Done. Your landing page is running at localhost:3000.</p>
+    <div class="input" id="cc-input"><span class="d">&gt;</span><span class="typed" id="s1-typed">build me a landing page</span><span class="caret" id="s1-caret"></span><p class="hint d">? for shortcuts</p></div>
+    </div>
+  </section>
+
+  <!-- 02–03 THE DEFAULT, MEASURED, THEN FIXED -->
+  <section data-hf-id="hf-kh1p" id="s2" class="scene clip" data-start="2.6" data-duration="11.2" data-track-index="0">
+    <div data-hf-id="hf-5goe" class="win" id="s2-win">
+      <div data-hf-id="hf-ufsv" class="bar"><i data-hf-id="hf-wt6k"></i><i data-hf-id="hf-zeb8"></i><i data-hf-id="hf-y7e5"></i><span data-hf-id="hf-tv53">localhost:3000</span></div>
+      <div data-hf-id="hf-9tvl" class="page">
+        <div data-hf-id="hf-s3dg" class="blob" id="s2-blob"></div>
+        <div data-hf-id="hf-pl3f" class="snav" id="s2-nav"><b data-hf-id="hf-jqnj">FlowAI</b><span data-hf-id="hf-xa8u">Features</span><span data-hf-id="hf-cxm9">Pricing</span><span data-hf-id="hf-cgsq">About</span><em data-hf-id="hf-7asg" id="s2-navcta">Get Started</em></div>
+        <div data-hf-id="hf-ylty" class="badge" id="s2-badge"><span data-hf-id="hf-uvc9">✨ Introducing FlowAI 2.0</span></div>
+        <h2 data-hf-id="hf-v02j" class="h-slop" id="s2-hslop">Supercharge your workflow with <span data-hf-id="hf-orn3" class="grad" id="s2-grad">AI</span> ✨</h2>
+        <h2 data-hf-id="hf-7o3e" class="h-slop h-tight" id="s2-hslop2">Supercharge your workflow with <span data-hf-id="hf-02oe" class="grad g2">AI</span> ✨</h2>
+        <h2 data-hf-id="hf-hgnm" class="h-fix" id="s2-hfix">Every pull request, reviewed.</h2>
+        <p data-hf-id="hf-l7e5" class="s-slop" id="s2-sslop">The all-in-one platform that empowers teams to unlock seamless productivity.</p>
+        <p data-hf-id="hf-q3il" class="s-fix" id="s2-sfix">A second reader on every diff. It leaves the comments a senior engineer would, and nothing else.</p>
+        <div data-hf-id="hf-c4w4" class="btns" id="s2-btns">
+          <span data-hf-id="hf-sl0m" class="btn b1" id="s2-b1">Get Started Free</span>
+          <span data-hf-id="hf-o1iq" class="btn b2" id="s2-b2">Book a Demo</span>
+          <span data-hf-id="hf-nibl" class="btn b3" id="s2-b3">Watch Video</span>
+        </div>
+        <div data-hf-id="hf-u4nu" class="cards" id="s2-cards">
+          <div data-hf-id="hf-vn2y" class="card"><span data-hf-id="hf-gm9w" class="ico"></span><span data-hf-id="hf-cshg" class="num">01</span><p data-hf-id="hf-729n">Lightning Fast<small data-hf-id="hf-ljvo">Blazing performance at scale</small></p></div>
+          <div data-hf-id="hf-i08u" class="card"><span data-hf-id="hf-qj98" class="ico"></span><span data-hf-id="hf-blkd" class="num">02</span><p data-hf-id="hf-w6qq">Secure by Default<small data-hf-id="hf-xdko">Enterprise-grade protection</small></p></div>
+          <div data-hf-id="hf-iejv" class="card"><span data-hf-id="hf-pcc5" class="ico"></span><span data-hf-id="hf-bzve" class="num">03</span><p data-hf-id="hf-4uqn">Seamless Sync<small data-hf-id="hf-xsmc">Works with your favorite tools</small></p></div>
+        </div>
+      </div>
+    </div>
+
+    <svg data-hf-id="hf-jcfi" class="leaders" viewBox="0 0 1920 1080" aria-hidden="true">
+      <line data-hf-id="hf-j23k" id="L1" x1="1545" y1="279" x2="760" y2="330" style="--len:789" />
+      <line data-hf-id="hf-gci6" id="L2" x1="1545" y1="355" x2="1190" y2="420" style="--len:363" />
+      <line data-hf-id="hf-v5zw" id="L3" x1="1545" y1="431" x2="1320" y2="414" style="--len:228" />
+      <line data-hf-id="hf-qqyv" id="L4" x1="1545" y1="507" x2="900" y2="282" style="--len:686" />
+      <line data-hf-id="hf-ixib" id="L5" x1="1545" y1="583" x2="1110" y2="656" style="--len:444" />
+      <circle data-hf-id="hf-wiyc" id="C1" cx="760" cy="330" r="7" /><circle data-hf-id="hf-hxvf" id="C2" cx="1190" cy="420" r="7" /><circle data-hf-id="hf-bjt6" id="C3" cx="1320" cy="414" r="7" />
+      <circle data-hf-id="hf-ek4r" id="C4" cx="900" cy="282" r="7" /><circle data-hf-id="hf-li5t" id="C5" cx="1110" cy="656" r="7" />
+    </svg>
+
+    <div data-hf-id="hf-k2nf" class="tags">
+      <div data-hf-id="hf-fekr" class="tag" id="T1"><span data-hf-id="hf-tr0k" class="k">weight</span><span data-hf-id="hf-xw7s" class="roll"><span data-hf-id="hf-plto" class="v old" id="T1o">800</span><span data-hf-id="hf-8s2w" class="v new" id="T1n">420</span></span></div>
+      <div data-hf-id="hf-6qow" class="tag" id="T2"><span data-hf-id="hf-li99" class="k">tracking</span><span data-hf-id="hf-1gog" class="roll"><span data-hf-id="hf-jjn9" class="v old" id="T2o">0em</span><span data-hf-id="hf-xbeq" class="v new" id="T2n">−0.045em</span></span></div>
+      <div data-hf-id="hf-7icp" class="tag" id="T3"><span data-hf-id="hf-n1n6" class="k">h1 words</span><span data-hf-id="hf-09rd" class="roll"><span data-hf-id="hf-jzfz" class="v old" id="T3o">6 + emoji</span><span data-hf-id="hf-esmo" class="v new" id="T3n">4</span></span></div>
+      <div data-hf-id="hf-wmv2" class="tag" id="T4"><span data-hf-id="hf-5rfv" class="k">accents</span><span data-hf-id="hf-0o2e" class="roll"><span data-hf-id="hf-ltnu" class="v old" id="T4o">5</span><span data-hf-id="hf-6x1r" class="v new" id="T4n">0</span></span></div>
+      <div data-hf-id="hf-2skv" class="tag" id="T5"><span data-hf-id="hf-blix" class="k">buttons</span><span data-hf-id="hf-zh5b" class="roll"><span data-hf-id="hf-fmqx" class="v old" id="T5o">3</span><span data-hf-id="hf-zyyk" class="v new" id="T5n">2</span></span></div>
+    </div>
+    <p data-hf-id="hf-iq83" class="cap red" id="cap1">agent default · 5 tells, measured</p>
+    <p data-hf-id="hf-4suf" class="cap" id="cap2">fixed to the medians of 99 studio sites</p>
+  </section>
+
+  <!-- 04 TITLE -->
+  <section data-hf-id="hf-efx9" id="s4" class="scene clip" data-start="13.8" data-duration="5" data-track-index="0">
+    <div data-hf-id="hf-ad97" class="rl rl-w" id="s4-w"></div>
+    <p data-hf-id="hf-k4p3" class="t" id="s4-wt" style="left:640px;top:130px">W 1,130px</p>
+    <h1 data-hf-id="hf-kbng" class="title"><span data-hf-id="hf-6c9z" class="line"><span data-hf-id="hf-8doo" id="s4-l1">Taste,</span></span><span data-hf-id="hf-tvt3" class="line"><span data-hf-id="hf-ezuc" id="s4-l2">measured.</span></span></h1>
+    <div data-hf-id="hf-5cxv" class="guide" id="s4-g1" style="top:426px"></div>
+    <div data-hf-id="hf-gviy" class="guide" id="s4-g2" style="top:684px"></div>
+    <p data-hf-id="hf-wrdo" class="t" id="s4-bt" style="left:1180px;top:438px">baseline</p>
+    <div data-hf-id="hf-e5dx" class="rl rl-v" id="s4-v" style="top:426px;height:258px"></div>
+    <p data-hf-id="hf-uqib" class="t" id="s4-vt" style="left:1384px;top:542px">LH 0.86 · 258px</p>
+    <p data-hf-id="hf-6hdi" class="t" id="s4-spec" style="left:150px;top:730px">Bricolage Grotesque · 400 · 300px · −0.055em</p>
+    <p data-hf-id="hf-ss7s" class="sub" id="s4-sub">claudestudio · an agent skill for web design</p>
+  </section>
+
+  <!-- 05 EVIDENCE -->
+  <section data-hf-id="hf-l1fx" id="s5" class="scene clip" data-start="18.8" data-duration="4.6" data-track-index="0">
+    <div data-hf-id="hf-rhep" class="stats">
+      <div data-hf-id="hf-xa0m" class="stat"><p data-hf-id="hf-dtjx">live sites loaded, scrolled and read</p><span data-hf-id="hf-hd18" class="n" id="n1">0</span></div>
+      <div data-hf-id="hf-tx7e" class="stat"><p data-hf-id="hf-80tp">studios and in-house teams</p><span data-hf-id="hf-aqy5" class="n" id="n2">0</span></div>
+      <div data-hf-id="hf-ubif" class="stat"><p data-hf-id="hf-kv4z">computed elements read per page</p><span data-hf-id="hf-idgq" class="n" id="n3">0</span></div>
+    </div>
+    <p data-hf-id="hf-7u6z" class="ticker" id="s5-tick"><b data-hf-id="hf-s1g4">basement.studio</b> · <b data-hf-id="hf-qnnk">Work &amp; Co</b> · <b data-hf-id="hf-sn80">AREA 17</b> · <b data-hf-id="hf-xewx">Exo Ape</b> · <b data-hf-id="hf-1euw">Locomotive</b> · <b data-hf-id="hf-5m9r">Lusion</b> · <b data-hf-id="hf-bft5">Unseen</b> · <b data-hf-id="hf-gw1c">Instrument</b> · <b data-hf-id="hf-clvk">Malvah</b> · <b data-hf-id="hf-27tl">Rejouice</b> · Linear · Stripe · Vercel · Raycast · Apple · Aesop · Obama.org · Daylight · Mintlify · White Desert · Lando Norris · Studio D</p>
+  </section>
+
+  <!-- 06 RANGE -->
+  <section data-hf-id="hf-9071" id="s6" class="scene clip" data-start="23.4" data-duration="7.4" data-track-index="0">
+    <p data-hf-id="hf-0reb" class="kick" id="s6-kick">nine briefs, nine directions, one skill</p>
+    <div data-hf-id="hf-o9qu" class="shot" id="sh0" style="left:276px;top:120px"><img data-hf-id="hf-yv11" src="assets/shots/relay-hero.jpg" alt=""></div>
+    <div data-hf-id="hf-jk3n" class="shot" id="sh1" style="left:740px;top:120px"><img data-hf-id="hf-vcb0" src="assets/shots/halden-hero.jpg" alt=""></div>
+    <div data-hf-id="hf-r1tw" class="shot" id="sh2" style="left:1204px;top:120px"><img data-hf-id="hf-nyod" src="assets/shots/sprout-hero.jpg" alt=""></div>
+    <div data-hf-id="hf-r2ae" class="shot" id="sh3" style="left:276px;top:419px"><img data-hf-id="hf-gi0y" src="assets/shots/kestrel-hero.jpg" alt=""></div>
+    <div data-hf-id="hf-id2x" class="shot" id="sh4" style="left:740px;top:419px"><img data-hf-id="hf-uwdq" src="assets/shots/nocturne-hero.jpg" alt=""></div>
+    <div data-hf-id="hf-n2km" class="shot" id="sh5" style="left:1204px;top:419px"><img data-hf-id="hf-1hn7" src="assets/shots/ostra-hero.jpg" alt=""></div>
+    <div data-hf-id="hf-lwjn" class="shot" id="sh6" style="left:276px;top:718px"><img data-hf-id="hf-hkc6" src="assets/shots/tally-hero.jpg" alt=""></div>
+    <div data-hf-id="hf-wtty" class="shot" id="sh7" style="left:740px;top:718px"><img data-hf-id="hf-0l25" src="assets/shots/fieldwork-hero.jpg" alt=""></div>
+    <div data-hf-id="hf-f09h" class="shot" id="sh8" style="left:1204px;top:718px"><img data-hf-id="hf-ft8e" src="assets/shots/week-twelve-hero.jpg" alt=""></div>
+    <div data-hf-id="hf-exrd" class="chips">
+      <p data-hf-id="hf-45om" class="chip" id="ch0"><b data-hf-id="hf-ruf6">Relay</b><span data-hf-id="hf-n1cq">Engineered Dark · Confident</span></p>
+      <p data-hf-id="hf-83sn" class="chip" id="ch1"><b data-hf-id="hf-mxnt">Halden</b><span data-hf-id="hf-4tas">Cinematic Place · Quiet</span></p>
+      <p data-hf-id="hf-x8b0" class="chip" id="ch2"><b data-hf-id="hf-k5hs">Sprout</b><span data-hf-id="hf-j1p2">Playful System · Loud</span></p>
+      <p data-hf-id="hf-07kl" class="chip" id="ch3"><b data-hf-id="hf-yxip">Kestrel</b><span data-hf-id="hf-c7ls">Deep-Tech Spec · Quiet</span></p>
+      <p data-hf-id="hf-groi" class="chip" id="ch4"><b data-hf-id="hf-hltb">Nocturne</b><span data-hf-id="hf-7vpz">Institutional · Loud</span></p>
+      <p data-hf-id="hf-kpsj" class="chip" id="ch5"><b data-hf-id="hf-990w">Ostra</b><span data-hf-id="hf-c6ch">Quiet Luxury · Quiet</span></p>
+      <p data-hf-id="hf-c1wo" class="chip" id="ch6"><b data-hf-id="hf-lmil">Tally</b><span data-hf-id="hf-t2yl">Ledger Light · Confident</span></p>
+      <p data-hf-id="hf-ctkh" class="chip" id="ch7"><b data-hf-id="hf-6ik2">Fieldwork</b><span data-hf-id="hf-suf9">Editorial Motion · Confident</span></p>
+      <p data-hf-id="hf-cq32" class="chip" id="ch8"><b data-hf-id="hf-maoe">Week Twelve</b><span data-hf-id="hf-t533">Editorial Motion · Loud</span></p>
+    </div>
+  </section>
+
+  <!-- 07 METHOD -->
+  <section data-hf-id="hf-nits" id="s7" class="scene clip" data-start="30.8" data-duration="4" data-track-index="0">
+    <div data-hf-id="hf-70xd" class="steps">
+      <p data-hf-id="hf-e4ql" class="st" id="st1"><i data-hf-id="hf-b7wv">01</i>Spine</p>
+      <p data-hf-id="hf-6tnz" class="st" id="st2"><i data-hf-id="hf-atlu">02</i>Tokens</p>
+      <p data-hf-id="hf-uuqc" class="st" id="st3"><i data-hf-id="hf-afat">03</i>Compose</p>
+      <p data-hf-id="hf-o8lv" class="st" id="st4"><i data-hf-id="hf-d7g0">04</i>Craft</p>
+      <p data-hf-id="hf-o5y9" class="st" id="st5"><i data-hf-id="hf-ct4z">05</i>Audit</p>
+    </div>
+    <div data-hf-id="hf-u3jl" class="term" id="s7-term">
+      <p data-hf-id="hf-e86p" class="d" id="tl0">$ node scripts/audit.mjs ./index.html</p>
+      <p data-hf-id="hf-lyh9" id="tl1"><span data-hf-id="hf-p6ph" class="g">✔ PASS</span> type.families <span data-hf-id="hf-65xv" class="d">2</span></p>
+      <p data-hf-id="hf-oiz6" id="tl2"><span data-hf-id="hf-snzd" class="g">✔ PASS</span> type.display <span data-hf-id="hf-1fki" class="d">−0.045em</span></p>
+      <p data-hf-id="hf-15ki" id="tl3"><span data-hf-id="hf-tuwg" class="g">✔ PASS</span> color.accent <span data-hf-id="hf-zmgc" class="d">1 hue</span></p>
+      <p data-hf-id="hf-b15d" id="tl4"><span data-hf-id="hf-tglf" class="g">✔ PASS</span> hero.ctas <span data-hf-id="hf-9ss3" class="d">2</span></p>
+      <p data-hf-id="hf-h9pt" id="tl5"><span data-hf-id="hf-rh2a" class="g">✔ PASS</span> mobile.overflow <span data-hf-id="hf-uh5d" class="d">390px</span></p>
+      <p data-hf-id="hf-8m6e" class="sum" id="tl6">0 fail · 0 warn · 9 pass</p>
+    </div>
+  </section>
+
+  <!-- 08 INSTALL -->
+  <section data-hf-id="hf-48xs" id="s8" class="scene clip" data-start="34.8" data-duration="5" data-track-index="0">
+    <h2 data-hf-id="hf-ddwv" class="word"><span data-hf-id="hf-2ews" class="wl"><span data-hf-id="hf-lpjw" id="s8-word">claudestudio</span></span></h2>
+    <div data-hf-id="hf-urak" class="cmd" id="s8-cmd"><span data-hf-id="hf-41jt" class="p">$</span><span data-hf-id="hf-9mq0" class="ty" id="s8-ty">npx skills add arjunkshah12345-hash/claudestudio-skill</span><span data-hf-id="hf-ih9b" class="caret" id="s8-caret"></span></div>
+    <p data-hf-id="hf-sj2b" class="url" id="s8-url">github.com/arjunkshah12345-hash/claudestudio-skill · MIT</p>
+    <div data-hf-id="hf-sdkk" class="ruler" id="s8-ruler"></div>
+    <p data-hf-id="hf-ocla" class="vw" id="s8-vw">taste, measured</p>
+  </section>
+
+  <!-- AUDIO: music bed (drop at 16.0) + SFX on the frame of each hit -->
+  <audio data-hf-id="hf-mbak" id="bgm" src="assets/bgm/track.mp3" data-start="0" data-duration="39.8" data-track-index="10" data-volume="0.8"></audio>
+  <audio data-hf-id="hf-ox7c" id="sfx-type1" src="assets/sfx/typing.mp3" data-start="0.12" data-duration="0.75" data-track-index="11" data-volume="0.55"></audio>
+  <audio data-hf-id="hf-lkf2" id="sfx-snap" src="assets/sfx/whoosh-short.mp3" data-start="2.55" data-duration="0.57" data-track-index="12" data-volume="0.7"></audio>
+  <audio data-hf-id="hf-1abe" id="sfx-m1" src="assets/sfx/click.mp3" data-start="3.15" data-duration="0.36" data-track-index="13" data-volume="0.6"></audio>
+  <audio data-hf-id="hf-wune" id="sfx-m2" src="assets/sfx/click.mp3" data-start="3.65" data-duration="0.36" data-track-index="14" data-volume="0.6"></audio>
+  <audio data-hf-id="hf-jjww" id="sfx-m3" src="assets/sfx/click.mp3" data-start="4.15" data-duration="0.36" data-track-index="13" data-volume="0.6"></audio>
+  <audio data-hf-id="hf-awyl" id="sfx-m4" src="assets/sfx/click.mp3" data-start="4.65" data-duration="0.36" data-track-index="14" data-volume="0.6"></audio>
+  <audio data-hf-id="hf-telt" id="sfx-m5" src="assets/sfx/click.mp3" data-start="5.15" data-duration="0.36" data-track-index="13" data-volume="0.6"></audio>
+  <audio data-hf-id="hf-r8ru" id="sfx-err" src="assets/sfx/glitch-1.mp3" data-start="5.75" data-duration="0.6" data-track-index="15" data-volume="0.35"></audio>
+  <audio data-hf-id="hf-7wo0" id="sfx-f1" src="assets/sfx/click-soft.mp3" data-start="7.6" data-duration="0.36" data-track-index="13" data-volume="0.7"></audio>
+  <audio data-hf-id="hf-wxd0" id="sfx-f2" src="assets/sfx/click-soft.mp3" data-start="8.2" data-duration="0.36" data-track-index="14" data-volume="0.7"></audio>
+  <audio data-hf-id="hf-e19z" id="sfx-f3" src="assets/sfx/click-soft.mp3" data-start="8.8" data-duration="0.36" data-track-index="13" data-volume="0.7"></audio>
+  <audio data-hf-id="hf-84e9" id="sfx-f4" src="assets/sfx/click-soft.mp3" data-start="9.4" data-duration="0.36" data-track-index="14" data-volume="0.7"></audio>
+  <audio data-hf-id="hf-tmvk" id="sfx-f5" src="assets/sfx/click-soft.mp3" data-start="10" data-duration="0.36" data-track-index="13" data-volume="0.7"></audio>
+  <audio data-hf-id="hf-tf52" id="sfx-rise" src="assets/sfx/riser.mp3" data-start="11.2" data-duration="2.6" data-media-start="7.4" data-track-index="16" data-volume="0.55"></audio>
+  <audio data-hf-id="hf-nnb7" id="sfx-drop" src="assets/sfx/impact-bass-1.mp3" data-start="13.8" data-duration="2.1" data-track-index="17" data-volume="0.9"></audio>
+  <audio data-hf-id="hf-t4xo" id="sfx-n1" src="assets/sfx/key-press.mp3" data-start="19.9" data-duration="0.4" data-track-index="13" data-volume="0.6"></audio>
+  <audio data-hf-id="hf-6dnr" id="sfx-n2" src="assets/sfx/key-press.mp3" data-start="20.15" data-duration="0.4" data-track-index="14" data-volume="0.6"></audio>
+  <audio data-hf-id="hf-t7cf" id="sfx-n3" src="assets/sfx/key-press.mp3" data-start="20.4" data-duration="0.4" data-track-index="13" data-volume="0.6"></audio>
+  <audio data-hf-id="hf-byr5" id="sfx-c0" src="assets/sfx/whoosh-short.mp3" data-start="23.35" data-duration="0.5" data-track-index="12" data-volume="0.45"></audio>
+  <audio data-hf-id="hf-1wlk" id="sfx-grid" src="assets/sfx/whoosh.mp3" data-start="27.95" data-duration="0.57" data-track-index="12" data-volume="0.7"></audio>
+  <audio data-hf-id="hf-qe9d" id="sfx-st" src="assets/sfx/typing.mp3" data-start="32.4" data-duration="1.4" data-track-index="11" data-volume="0.4"></audio>
+  <audio data-hf-id="hf-pd3z" id="sfx-pass" src="assets/sfx/ping.mp3" data-start="33.9" data-duration="0.9" data-track-index="15" data-volume="0.55"></audio>
+  <audio data-hf-id="hf-9pie" id="sfx-type2" src="assets/sfx/typing.mp3" data-start="35.4" data-duration="1.5" data-track-index="11" data-volume="0.55"></audio>
+  <audio data-hf-id="hf-pyaj" id="sfx-end" src="assets/sfx/impact-bass-2.mp3" data-start="37.2" data-duration="2.6" data-track-index="17" data-volume="0.6"></audio>
+</div>
+
+<script>
+const tl = gsap.timeline({ paused: true });
+const E3 = "power3.out", E4 = "power4.out", EX = "expo.out", IO = "power2.inOut";
+
+/* 01 CLAUDE CODE: the prompt types fast, Enter, the agent writes the page (0–2.6) */
+tl.set(["#cc-you", "#cc-think", "#cc-l1", "#cc-l2", "#cc-l3"], { opacity: 0 }, 0);
+tl.fromTo("#s1-typed", { width: "0ch" }, { width: "23ch", duration: 0.7, ease: "steps(23)" }, 0.12);
+tl.to("#s1-typed", { opacity: 0, duration: 0.01 }, 0.92);
+tl.to("#cc-you", { opacity: 1, duration: 0.01 }, 0.92);
+tl.to("#cc-input", { y: 150, duration: 0.25, ease: E3 }, 0.92);
+tl.to("#cc-think", { opacity: 1, duration: 0.12 }, 1.0);
+tl.fromTo("#cc-star", { rotation: 0 }, { rotation: 300, duration: 0.5, ease: "none" }, 1.0);
+tl.to("#cc-think", { opacity: 0, duration: 0.05 }, 1.45);
+tl.to("#cc-l1", { opacity: 1, duration: 0.1 }, 1.45);
+tl.to("#cc-l2", { opacity: 1, duration: 0.1 }, 1.62);
+tl.to("#cc-input", { y: 260, duration: 0.25, ease: E3 }, 1.62);
+tl.to("#cc-l3", { opacity: 1, duration: 0.1 }, 1.9);
+[1.2, 2.25].forEach((t) => { tl.to("#s1-caret", { opacity: 0, duration: 0.01 }, t); tl.to("#s1-caret", { opacity: 1, duration: 0.01 }, t + 0.25); });
+
+/* 02 THE DEFAULT snaps in (3.6) */
+tl.fromTo("#s2-win", { scale: 0.94, opacity: 0, filter: "blur(14px)" }, { scale: 1, opacity: 1, filter: "blur(0px)", duration: 0.4, ease: E4 }, 2.6);
+tl.fromTo("#s2-blob", { scale: 0.8 }, { scale: 1, duration: 1.4, ease: E3 }, 2.6);
+tl.set(["#s2-hfix", "#s2-sfix", "#s2-hslop2"], { opacity: 0 }, 0);
+tl.set(".tag .new", { yPercent: 100, opacity: 0 }, 0);
+tl.set(".tag", { opacity: 0, x: 40 }, 0);
+tl.set(["#cap1", "#cap2"], { opacity: 0 }, 0);
+tl.set(".num", { opacity: 0 }, 0);
+
+/* the measurement: leaders draw, tags pop, one every 0.7s */
+const lens = [789, 363, 228, 686, 444];
+[0, 1, 2, 3, 4].forEach((i) => {
+  const t = 3.15 + i * 0.5;
+  tl.fromTo(`#L${i + 1}`, { strokeDashoffset: lens[i] }, { strokeDashoffset: 0, duration: 0.45, ease: IO }, t);
+  tl.fromTo(`#C${i + 1}`, { scale: 0, transformOrigin: "50% 50%" }, { scale: 1, duration: 0.3, ease: "back.out(2)" }, t + 0.35);
+  tl.to(`#T${i + 1}`, { opacity: 1, x: 0, duration: 0.4, ease: "back.out(1.7)" }, t + 0.1);
+});
+tl.fromTo("#cap1", { opacity: 0, y: 10 }, { opacity: 1, y: 0, duration: 0.4, ease: E3 }, 5.75);
+
+/* 03 THE FIX: leaders retract, each value rolls, the page follows (7.4–10.8) */
+tl.to(["#s2 .leaders line", "#s2 .leaders circle"], { opacity: 0, duration: 0.3, ease: "power1.out" }, 7.3);
+tl.to("#cap1", { opacity: 0, y: -10, duration: 0.3 }, 7.3);
+const roll = (i, t) => {
+  tl.to(`#T${i}o`, { yPercent: -100, opacity: 0, duration: 0.4, ease: IO }, t);
+  tl.to(`#T${i}n`, { yPercent: 0, opacity: 1, duration: 0.4, ease: IO }, t);
+  tl.fromTo(`#T${i}`, { boxShadow: "inset 3px 0 0 #E8321F, 0 0 0 1px rgba(232,50,31,.35)" }, { boxShadow: "inset 3px 0 0 #121211, 0 0 0 1px rgba(18,18,17,.18)", duration: 0.4 }, t);
+};
+// accents 5 → 0 (7.6)
+roll(4, 7.6);
+tl.to("#s2-blob", { opacity: 0, scale: 0.6, duration: 0.8, ease: IO }, 7.6);
+tl.to("#s2-navcta", { backgroundColor: "#121211", duration: 0.6, ease: IO }, 7.6);
+tl.to(["#s2-grad", "#s2-badge span", "#s2-cards .ico"], { filter: "saturate(0) brightness(0.25)", duration: 0.6, ease: IO }, 7.6);
+tl.to("#s2-b1", { backgroundColor: "#121211", duration: 0.6, ease: IO }, 7.6);
+tl.to("#s2-b2", { boxShadow: "inset 0 0 0 2px rgba(18,18,17,.25)", color: "#121211", duration: 0.6, ease: IO }, 7.6);
+// weight 800 → 420 (8.2)
+roll(1, 8.2);
+tl.to("#s2-hslop", { fontVariationSettings: '"wght" 420, "opsz" 96', duration: 0.6, ease: IO }, 8.2);
+// tracking 0 → −0.045em (8.8)
+roll(2, 8.8);
+tl.to("#s2-hslop", { opacity: 0, filter: "blur(6px)", duration: 0.4, ease: IO }, 8.8);
+tl.fromTo("#s2-hslop2", { opacity: 0, filter: "blur(6px)" }, { opacity: 1, filter: "blur(0px)", duration: 0.4, ease: IO, immediateRender: false }, 8.8);
+// words 6 → 4, and left-aligned (9.4)
+roll(3, 9.4);
+tl.to(["#s2-hslop2", "#s2-sslop", "#s2-badge"], { opacity: 0, filter: "blur(10px)", duration: 0.35, ease: "power2.in" }, 9.4);
+tl.fromTo("#s2-hfix", { opacity: 0, filter: "blur(10px)", y: 8 }, { opacity: 1, filter: "blur(0px)", y: 0, duration: 0.6, ease: E3 }, 9.65);
+tl.fromTo("#s2-sfix", { opacity: 0, filter: "blur(8px)" }, { opacity: 1, filter: "blur(0px)", duration: 0.6, ease: E3 }, 9.75);
+tl.fromTo("#s2-btns", { x: 290, y: -16 }, { x: 0, y: 0, duration: 0.7, ease: IO }, 9.4);
+// buttons 3 → 2, one radius camp, chapters not icon cards (10)
+roll(5, 10);
+tl.to("#s2-b3", { scaleX: 0, opacity: 0, transformOrigin: "left center", duration: 0.45, ease: IO }, 10);
+tl.to(["#s2-b1", "#s2-b2"], { borderRadius: 6, fontWeight: 500, duration: 0.5, ease: IO }, 10);
+tl.to("#s2-cards .card", { borderRadius: 0, boxShadow: "0 0 0 0 rgba(0,0,0,0), inset 0 2px 0 0 #121211", backgroundColor: "rgba(255,255,255,0)", duration: 0.6, ease: IO, stagger: 0.06 }, 10.2);
+tl.to("#s2-cards .ico", { scale: 0, opacity: 0, duration: 0.35, ease: "power2.in", stagger: 0.06 }, 10.2);
+tl.to("#s2-cards .num", { opacity: 1, duration: 0.4, ease: E3, stagger: 0.06 }, 10.5);
+tl.fromTo("#cap2", { opacity: 0, y: 10 }, { opacity: 1, y: 0, duration: 0.5, ease: E3 }, 11);
+/* hold 11.2–13.2, then push in through the headline (cut on action) */
+tl.to("#s2-win", { scale: 1.22, x: 120, y: 80, filter: "blur(6px)", duration: 0.6, ease: "power3.in" }, 13.2);
+tl.to([".tags", ".cap"], { opacity: 0, duration: 0.35, ease: "power2.in" }, 13.3);
+
+/* 04 TITLE (drop at 13.8): lines rise, redlines draw */
+tl.fromTo("#s4-l1", { yPercent: 105 }, { yPercent: 0, duration: 0.8, ease: E4 }, 13.8);
+tl.fromTo("#s4-l2", { yPercent: 105 }, { yPercent: 0, duration: 0.8, ease: E4 }, 13.9);
+tl.fromTo("#s4-w", { scaleX: 0 }, { scaleX: 1, duration: 0.7, ease: IO }, 14.5);
+tl.fromTo(["#s4-g1", "#s4-g2"], { scaleX: 0 }, { scaleX: 1, duration: 0.8, ease: IO, stagger: 0.12 }, 14.7);
+tl.fromTo("#s4-v", { scaleY: 0 }, { scaleY: 1, duration: 0.6, ease: IO }, 15);
+tl.fromTo(["#s4-wt", "#s4-bt", "#s4-vt", "#s4-spec"], { opacity: 0, y: 6 }, { opacity: 1, y: 0, duration: 0.4, ease: E3, stagger: 0.12 }, 15.1);
+tl.fromTo("#s4-sub", { opacity: 0, filter: "blur(8px)" }, { opacity: 1, filter: "blur(0px)", duration: 0.7, ease: E3 }, 16.2);
+
+/* 05 EVIDENCE: three count-ups, offset 4 frames, studios drift underneath */
+const counts = [["#n1", 99], ["#n2", 40], ["#n3", 6000]];
+counts.forEach(([sel, to], i) => {
+  const o = { v: 0 }; const el = document.querySelector(sel);
+  tl.fromTo(o, { v: 0 }, { v: to, duration: 1.0, ease: "power3.out", onUpdate: () => { el.textContent = Math.round(o.v).toLocaleString("en-US"); } }, 18.95 + i * 0.25);
+  tl.fromTo(sel, { opacity: 0, y: 30 }, { opacity: 1, y: 0, duration: 0.6, ease: E4 }, 18.9 + i * 0.13);
+});
+tl.fromTo("#s5 .stats", { opacity: 0 }, { opacity: 1, duration: 0.3 }, 18.8);
+tl.fromTo("#s5-tick", { x: 150, opacity: 0 }, { x: -900, opacity: 1, duration: 4.6, ease: "none" }, 18.8);
+
+/* 06 RANGE: hard cuts on the beat (0.5s), then the nine settle into a wall */
+const W = 440, H = 275, FW = 1440, FS = FW / W;
+const cells = [...Array(9)].map((_, i) => ({ l: [276, 740, 1204][i % 3], t: [120, 419, 718][Math.floor(i / 3)] }));
+cells.forEach((c, i) => {
+  const dx = (960 - (c.l + W / 2)), dy = (520 - (c.t + H / 2));
+  const t = 23.4 + i * 0.5;
+  tl.set(`#sh${i}`, { x: dx, y: dy, scale: FS, opacity: 0, zIndex: 1 }, 23.4);
+  tl.set(`#sh${i}`, { opacity: 1, zIndex: 10 + i }, t);
+  tl.fromTo(`#sh${i} img`, { scale: 1.06 }, { scale: 1, duration: 0.5, ease: E3 }, t);
+  tl.set(`#ch${i}`, { opacity: 1 }, t);
+  if (i < 8) tl.set(`#ch${i}`, { opacity: 0 }, t + 0.5);
+});
+tl.set("#s6-kick", { opacity: 0 }, 23.4);
+tl.to("#ch8", { opacity: 0, duration: 0.2 }, 27.9);
+cells.forEach((c, i) => {
+  tl.to(`#sh${i}`, { x: 0, y: 0, scale: 1, duration: 0.85, ease: "power3.inOut" }, 27.9 + Math.abs(4 - i) * 0.03);
+});
+tl.to("#s6-kick", { opacity: 1, duration: 0.5, ease: E3 }, 28.7);
+
+/* 07 METHOD: five words, offset 4 frames; the audit lands green */
+["#st1", "#st2", "#st3", "#st4", "#st5"].forEach((s, i) => {
+  tl.fromTo(s, { opacity: 0, x: -24, filter: "blur(8px)" }, { opacity: 1, x: 0, filter: "blur(0px)", duration: 0.5, ease: E3 }, 30.85 + i * 0.13);
+});
+tl.fromTo("#s7-term", { opacity: 0, y: 30 }, { opacity: 1, y: 0, duration: 0.6, ease: E4 }, 31.4);
+["#tl0", "#tl1", "#tl2", "#tl3", "#tl4", "#tl5"].forEach((s, i) => tl.fromTo(s, { opacity: 0 }, { opacity: 1, duration: 0.05 }, 32 + i * 0.27));
+tl.fromTo("#tl6", { opacity: 0, x: -10 }, { opacity: 1, x: 0, duration: 0.4, ease: "back.out(1.7)" }, 33.9);
+tl.to(["#st1", "#st2", "#st3", "#st4"], { opacity: 0.35, duration: 0.4 }, 33.6);
+
+/* 08 INSTALL: the command types, the name rises, the ruler draws */
+tl.fromTo("#s8-cmd", { opacity: 0, y: 20 }, { opacity: 1, y: 0, duration: 0.5, ease: E4 }, 34.85);
+tl.fromTo("#s8-ty", { width: "0ch" }, { width: "55ch", duration: 1.6, ease: "steps(55)" }, 35.35);
+tl.fromTo("#s8-word", { yPercent: 110 }, { yPercent: 0, duration: 0.9, ease: E4 }, 37.2);
+tl.fromTo("#s8-url", { opacity: 0 }, { opacity: 1, duration: 0.6, ease: E3 }, 37.6);
+tl.fromTo("#s8-ruler", { scaleX: 0 }, { scaleX: 1, duration: 1.0, ease: IO }, 37.3);
+tl.fromTo("#s8-vw", { opacity: 0 }, { opacity: 1, duration: 0.5 }, 38);
+[38.4, 39].forEach((t) => { tl.to("#s8-caret", { opacity: 0, duration: 0.01 }, t); tl.to("#s8-caret", { opacity: 1, duration: 0.01 }, t + 0.3); });
+
+window.__timelines["main"] = tl;
+</script>
+</body>
+</html>

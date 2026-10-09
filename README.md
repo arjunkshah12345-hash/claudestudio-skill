@@ -10,6 +10,10 @@
 </p>
 
 <p align="center">
+  <a href="site/film/claudestudio-launch.mp4"><b>▶ Watch the 40-second launch film</b></a>
+</p>
+
+<p align="center">
   <a href="https://arjunkshah12345-hash.github.io/claudestudio-skill/">Website</a> ·
   <a href="#install">Install</a> ·
   <a href="#nine-briefs-nine-directions">Examples</a> ·
@@ -125,6 +129,7 @@ skills/claudestudio/          the skill (this is what gets installed)
   scripts/audit.mjs           the 1440/390 audit with screenshots
 examples/                     nine sites built with the skill, each a standalone page
 site/                         the website, built with the skill (deployed to GitHub Pages)
+launch/videos/                the launch film's HyperFrames source (made with the motion-director skill)
 research/                     per-cluster teardown notes, AGGREGATE.md, data.json per site
 tools/                        the research tooling (analyzer, aggregation, capture)
 ```
